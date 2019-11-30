@@ -2504,6 +2504,7 @@
         "Notes": "-",
         "Start up frame": "14~16"
     },
+    {
         "Block frame": "-5",
         "Command": "FC+d/b or d+1",
         "Counter hit frame": "+6",
