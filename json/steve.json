@@ -34,9 +34,9 @@
         "Start up frame": "14"
     },
     {
-        "Alias": ["in rage d/f+2+3,f+3","in rage d/f+2+3~f+3","in rage d/f+2+3,f+4","in rage d/f+2+3~f+4","in rage d/f+2+3,dck"],
+        "Alias": ["in rage d/f+2+3,f+3","in rage d/f+2+3~f+3","in rage d/f+2+3,f+4","in rage d/f+2+3~f+4","in rage d/f+2+3,dck","in rage d/f+2+3~dck"],
         "Block frame": "+15g",
-        "Command": "in rage d/f+2+3~DCK",
+        "Command": "in rage d/f+2+3~f+(3_4)",
         "Counter hit frame": "JG",
         "Damage": "14,21",
         "Gif": "",
@@ -115,7 +115,7 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,1,2,f+3","1,1,2~f+3","1,1,2,f+4","1,1,2~f+4","1,1,2,dck"],
+        "Alias": ["1,1,2,f+3","1,1,2~f+3","1,1,2,f+4","1,1,2~f+4","1,1,2,dck","1,1,2~dck"],
         "Block frame": "-3",
         "Command": "1,1,2~f+(3_4)",
         "Counter hit frame": "+8",
@@ -151,7 +151,7 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,1,2,b+3","1,1,2~b+3","1,1,2,b+4","1,1,2~b+4","1,1,2,swy"],
+        "Alias": ["1,1,2,b+3","1,1,2~b+3","1,1,2,b+4","1,1,2~b+4","1,1,2,swy","1,1,2~swy"],
         "Block frame": "-5",
         "Command": "1,1,2~b+(3_4)",
         "Counter hit frame": "+6",
@@ -1974,12 +1974,12 @@
     },
     {
         "Block frame": "-",
-        "Command": "b+3+4 (to FLIK)",
+        "Command": "b+3+4 (to FLK)",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
         "Hit frame": "-",
-        "Hit level": "(FLIK)",
+        "Hit level": "(FLK)",
         "Notes": "-",
         "Start up frame": "10(20~)"
     },
@@ -1996,7 +1996,7 @@
     },
     {
         "Block frame": "-4",
-        "Command": "FLIK 1",
+        "Command": "FLK 1",
         "Counter hit frame": "+7",
         "Damage": "14",
         "Gif": "",
@@ -2007,7 +2007,7 @@
     },
     {
         "Block frame": "+14",
-        "Command": "FLIK 1, b+3+4 (One to three hits)",
+        "Command": "FLK 1, b+3+4 (One to three hits)",
         "Counter hit frame": "+25g",
         "Damage": "14",
         "Gif": "",
@@ -2018,7 +2018,7 @@
     },
     {
         "Block frame": "-8",
-        "Command": "FLIK 1, 1",
+        "Command": "FLK 1, 1",
         "Counter hit frame": "+1",
         "Damage": "14,8",
         "Gif": "",
@@ -2029,7 +2029,7 @@
     },
     {
         "Block frame": "-9",
-        "Command": "FLIK 1, 1, 1",
+        "Command": "FLK 1, 1, 1",
         "Counter hit frame": "0",
         "Damage": "14,8,8",
         "Gif": "",
@@ -2040,7 +2040,7 @@
     },
     {
         "Block frame": "-7",
-        "Command": "FLIK 1, 1, 1, 2",
+        "Command": "FLK 1, 1, 1, 2",
         "Counter hit frame": "KND",
         "Damage": "14,8,8,22",
         "Gif": "",
@@ -2051,7 +2051,7 @@
     },
     {
         "Block frame": "-1",
-        "Command": "FLIK 1, B",
+        "Command": "FLK 1, B",
         "Counter hit frame": "+10",
         "Damage": "14",
         "Gif": "",
@@ -2062,7 +2062,7 @@
     },
     {
         "Block frame": "-3",
-        "Command": "FLIK 1, B , d/b (Cancel)",
+        "Command": "FLK 1, B , d/b (Cancel)",
         "Counter hit frame": "+8",
         "Damage": "14",
         "Gif": "",
@@ -2073,7 +2073,7 @@
     },
     {
         "Block frame": "-3",
-        "Command": "FLIK 1, 1, B",
+        "Command": "FLK 1, 1, B",
         "Counter hit frame": "+5",
         "Damage": "14,8",
         "Gif": "",
@@ -2084,7 +2084,7 @@
     },
     {
         "Block frame": "-5",
-        "Command": "FLIK 1, 1, B, d/b (Cancel)",
+        "Command": "FLK 1, 1, B, d/b (Cancel)",
         "Counter hit frame": "+3",
         "Damage": "14,8",
         "Gif": "",
@@ -2095,7 +2095,7 @@
     },
     {
         "Block frame": "-4",
-        "Command": "FLIK 1, 1, 1, B",
+        "Command": "FLK 1, 1, 1, B",
         "Counter hit frame": "+4",
         "Damage": "14,8,8",
         "Gif": "",
@@ -2106,7 +2106,7 @@
     },
     {
         "Block frame": "-6",
-        "Command": "FLIK 1, 1, 1, B, d/b (Cancel)",
+        "Command": "FLK 1, 1, 1, B, d/b (Cancel)",
         "Counter hit frame": "+2",
         "Damage": "14,8,8",
         "Gif": "",
@@ -2117,7 +2117,7 @@
     },
     {
         "Block frame": "-5",
-        "Command": "FLIK 1, f+1",
+        "Command": "FLK 1, f+1",
         "Counter hit frame": "KND",
         "Damage": "14,17",
         "Gif": "",
@@ -2128,7 +2128,7 @@
     },
     {
         "Block frame": "0~+2",
-        "Command": "FLIK 1, d+1",
+        "Command": "FLK 1, d+1",
         "Counter hit frame": "Tail spin",
         "Damage": "14,23",
         "Gif": "",
@@ -2139,7 +2139,7 @@
     },
     {
         "Block frame": "-5",
-        "Command": "FLIK 2",
+        "Command": "FLK 2",
         "Counter hit frame": "Launch",
         "Damage": "21",
         "Gif": "",
@@ -2150,7 +2150,7 @@
     },
     {
         "Block frame": "-",
-        "Command": "FLIK 1+2",
+        "Command": "FLK 1+2",
         "Counter hit frame": "-",
         "Damage": "40",
         "Gif": "",
@@ -2161,7 +2161,7 @@
     },
     {
         "Block frame": "-9",
-        "Command": "FLIK b+2",
+        "Command": "FLK b+2",
         "Counter hit frame": "KND",
         "Damage": "27",
         "Gif": "",
