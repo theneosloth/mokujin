@@ -1614,7 +1614,7 @@
 		"Alias": ["FC u/b+3+4","FC u+3+4","FC u/f+3+4"],
         "Counter hit frame": "KND",
         "Damage": "30,20",
-        "Gif": "",
+        "Gif": "https://gfycat.com/ComplexSaneConey.gif",
         "Hit frame": "KND",
         "Hit level": "mm (TJ)",
         "Notes": "-",
@@ -1825,7 +1825,7 @@
         "Alias" : ["f, n", "HMS f"],
         "Counter hit frame": "-",
         "Damage": "-",
-        "Gif": "",
+        "Gif": "https://gfycat.com/ConcreteTeemingBeagle.gif",
         "Hit frame": "-",
         "Hit level": "(Special) (TC)(MS)",
         "Notes": "-",
@@ -2328,18 +2328,6 @@
         "Hit level": "Sm (TC)",
         "Notes": "-",
         "Start up frame": "11s cs1~"
-    },
-    {
-        "Block frame": "-17",
-        "Command": "FC+d/b_d+3",
-        "Alias": ["FC d/b+3", "d+3"],
-        "Counter hit frame": "-3",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "-3",
-        "Hit level": "l (TC)",
-        "Notes": "-",
-        "Start up frame": "13s cs1~"
     },
     {
         "Block frame": "-17",
