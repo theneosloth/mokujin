@@ -804,7 +804,7 @@
     },
     {
         "Block frame": "-2~0",
-        "Command": "u/b or u+3",
+        "Command": "u/b_u+3",
 		"Alias": ["u/b+3","u+3"],
         "Counter hit frame": "+5~+7",
         "Damage": "25",
@@ -816,7 +816,7 @@
     },
     {
         "Block frame": "-15~-14",
-        "Command": "u/b or u+3, 3",
+        "Command": "u/b_u+3, 3",
 		"Alias": ["u/b+3,3","u+3,3"],
         "Counter hit frame": "KND",
         "Damage": "25,20",
@@ -828,7 +828,7 @@
     },
     {
         "Block frame": "+8~+9y",
-        "Command": "u/b or u+3, 4",
+        "Command": "u/b_u+3, 4",
 		"Alias": ["u/b+3, 4","u+3,4"],
         "Counter hit frame": "KND",
         "Damage": "25,37",
@@ -840,7 +840,7 @@
     },
     {
         "Block frame": "-15~-14",
-        "Command": "u/b or u+3, d+3",
+        "Command": "u/b_u+3, d+3",
 		"Alias": ["u/b+3, d+3","u+3,d+3"],
         "Counter hit frame": "KND",
         "Damage": "25,18",
@@ -852,7 +852,7 @@
     },
     {
         "Block frame": "-6~-3",
-        "Command": "u/b or u+3, d+3, 3",
+        "Command": "u/b_u+3, d+3, 3",
 		"Alias": ["u/b+3, d+3, 3","u+3,d+3,3"],
         "Counter hit frame": "KND",
         "Damage": "25,18,22",
@@ -864,7 +864,7 @@
     },
     {
         "Block frame": "-35~-34",
-        "Command": "u/b or u+3, d+3, U",
+        "Command": "u/b_u+3, d+3, U",
 		"Alias": ["u/b+3, d+3, u","u+3,d+3,u"],
         "Counter hit frame": "KND",
         "Damage": "33,24",
@@ -898,7 +898,7 @@
     },
     {
         "Block frame": "-15~-12",
-        "Command": "u/b or u or u/f+4, 4",
+        "Command": "u/b_u_u/f+4, 4",
 		"Alias": ["u/b+4","u+4","u/f+4,4"],
         "Counter hit frame": "KND",
         "Damage": "13or16,20",
@@ -1987,28 +1987,6 @@
         "Start up frame": "15~16"
     },
     {
-        "Block frame": "-5",
-        "Command": "d/b or d+1",
-        "Counter hit frame": "+6",
-        "Damage": "5",
-        "Gif": "",
-        "Hit frame": "+6",
-        "Hit level": "Sm (TC)",
-        "Notes": "-",
-        "Start up frame": "10s cs4~"
-    },
-    {
-        "Block frame": "-4",
-        "Command": "d+2",
-        "Counter hit frame": "+7",
-        "Damage": "8",
-        "Gif": "",
-        "Hit frame": "+7",
-        "Hit level": "Sm (TC)",
-        "Notes": "-",
-        "Start up frame": "11s cs4~"
-    },
-    {
         "Block frame": "-12~-11",
         "Command": "d+3",
         "Counter hit frame": "0~+1",
@@ -2029,17 +2007,6 @@
         "Hit level": "l (TC)",
         "Notes": "-",
         "Start up frame": "21s cs6~"
-    },
-    {
-        "Block frame": "-5",
-        "Command": "d/b or d+1 ",
-        "Counter hit frame": "+6",
-        "Damage": "5",
-        "Gif": "",
-        "Hit frame": "+6",
-        "Hit level": "Sm (TC)",
-        "Notes": "-",
-        "Start up frame": "10s cs4~"
     },
     {
         "Block frame": "-4~-3",
@@ -2131,7 +2098,7 @@
     },
     {
         "Block frame": "-8",
-        "Command": "u or u/f+1",
+        "Command": "u_u/f+1",
 		"Alias": ["u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
@@ -2143,7 +2110,7 @@
     },
     {
         "Block frame": "-12~-11",
-        "Command": "u/b or u or u/f+2",
+        "Command": "u/b_u_u/f+2",
 		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
@@ -2155,7 +2122,7 @@
     },
     {
         "Block frame": "-2~0",
-        "Command": "u/b or u+3",
+        "Command": "u/b_u+3",
 		"Alias": ["u/b+3","u+3"],
         "Counter hit frame": "+5~+7",
         "Damage": "25",
@@ -2178,7 +2145,7 @@
     },
     {
         "Block frame": "-5~-1",
-        "Command": "u/b or u+4",
+        "Command": "u/b_u+4",
 		"Alias": ["u/b+4","u+4"],
         "Counter hit frame": "KND",
         "Damage": "13",
@@ -2374,17 +2341,6 @@
         "Hit level": "h",
         "Notes": "-",
         "Start up frame": "10"
-    },
-    {
-        "Block frame": "-2",
-        "Command": "BT d+1 or 2",
-        "Counter hit frame": "+9",
-        "Damage": "10",
-        "Gif": "",
-        "Hit frame": "+9",
-        "Hit level": "Sm",
-        "Notes": "-",
-        "Start up frame": "10s cs1~"
     },
     {
         "Block frame": "-26",
