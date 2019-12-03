@@ -30,7 +30,7 @@
     "Gif": "",
     "Hit frame": "Launch",
     "Hit level": "h,m,(CD)",
-    "Notes": "Rage drive\n1st hit launches (S!)",
+    "Notes": "Rage drive, 1st hit launches (S!)",
     "Start up frame": "11~12,41~42 (14~)"
   },
   {
@@ -526,7 +526,7 @@
   {
     "Block frame": "-8~-7",
     "Command": "f+4",
-    "Counter hit frame": "KND (JG?)",
+    "Counter hit frame": "CS (JG?)",
     "Damage": "21",
     "Gif": "https://gfycat.com/RashDarkChupacabra.gif",
     "Hit frame": "+4~+5",
@@ -538,7 +538,7 @@
     "Alias": ["f+4,f"],
     "Block frame": "-1~0",
     "Command": "f+4~f",
-    "Counter hit frame": "KND (JG?)",
+    "Counter hit frame": "CS (JG?)",
     "Damage": "21",
     "Gif": "",
     "Hit frame": "+11~+12",
@@ -558,7 +558,7 @@
     "Start up frame": "14,23~24"
   },
   {
-    "Alias": ["f+1+2 whiff","f+1+2 (second hit whiff)"],
+    "Alias": ["f+1+2 whiff","f+1+2 2nd whiff","f+1+2 2nd hit whiff","f+1+2 second hit whiff","f+1+2 second whiff"],
     "Block frame": "-27",
     "Command": "f+1+2 (2nd hit whiff)",
     "Counter hit frame": "-16",
@@ -794,8 +794,7 @@
     "Start up frame": "15,25~27 js16~"
   },
   {
-    "Alias": ["d+3+4 whiff","d+3+4 (second hit whiff)"],
-    "Block frame": "-30",
+    "Alias": ["d+3+4 whiff","d+3+4 2nd whiff","d+3+4 2nd hit whiff","d+3+4 second hit whiff","d+3+4 second whiff"],
     "Command": "d+3+4 (2nd hit whiff)",
     "Counter hit frame": "-19",
     "Damage": "5",
@@ -1098,7 +1097,7 @@
     "Damage": "40(42)",
     "Gif": "",
     "Hit level": "h",
-    "Notes": "Throw, Floor Break",
+    "Notes": "Throw, Floor break",
     "Start up frame": "12",
     "Success frame": "FDFA"
   },
@@ -1436,7 +1435,7 @@
     "Gif": "",
     "Hit frame": "+10~+12kg",
     "Hit level": "m",
-    "Notes": "Homing, Tail spin, doesn't occur if input is f,n,d,d/f:3",
+    "Notes": "Homing, Tail spin\nDoesn't occur if input is f,n,d,d/f:3",
     "Start up frame": "16~18 (20~)"
   },
   {
@@ -1543,9 +1542,9 @@
     "Start up frame": "11~12"
   },
   {
-    "Alias": ["grounded opponent d+2","stomp"],
+    "Alias": ["d+2 grounded opponent","opponent down d+2","grounded opponent d+2,"stomp"],
     "Block frame": "-13~-12",
-    "Command": "d+2 Opponent Down ",
+    "Command": "d+2 opponent down",
     "Counter hit frame": "+3~+4",
     "Damage": "24 (grounded 19)",
     "Gif": "",
