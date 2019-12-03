@@ -353,7 +353,8 @@
     },
     {
         "Block frame": "-18",
-        "Command": "f+1+2 or WS+1+2",
+        "Command": "f+1+2_WS+1+2",
+        "Alias": ["f+1+2","WS+1+2"],
         "Counter hit frame": "KND",
         "Damage": "21",
         "Gif": "",
@@ -452,7 +453,7 @@
     },
     {
         "Block frame": "-12",
-        "Command": "d/f+3, 1, u or d",
+        "Command": "d/f+3, 1, u_d",
 		"Alias": ["d/f+d,1,u","d/f+3,1, d"],
         "Counter hit frame": "0",
         "Damage": "13",
@@ -729,11 +730,11 @@
     },
     {
         "Block frame": "1",
-        "Command": "d/f+1+2 or CJM d/f+1+2",
+        "Command": "d/f+1+2_CJM d/f+1+2",
 		"Alias": ["d/f+1+2","CJM d/f+1+2"],
         "Counter hit frame": "19",
         "Damage": "0",
-        "Gif": "",
+        "Gif": "https://gfycat.com/SpotlessOpulentGoral.gif\n",
         "Hit frame": "5",
         "Hit level": "m",
         "Notes": "-",
@@ -752,7 +753,7 @@
     },
     {
         "Block frame": "-11",
-        "Command": "d+1 or FC+1, 4",
+        "Command": "d+1_FC+1, 4",
 		"Alias": ["d+1,4","FC+1,4"],
         "Counter hit frame": "0",
         "Damage": "5,10",
@@ -786,7 +787,7 @@
     },
     {
         "Block frame": "-13",
-        "Command": "d+3 or FC+3, 2",
+        "Command": "d+3_FC+3, 2",
 		"Alias": ["d+3,2","FC+3,2"],
         "Counter hit frame": "JG",
         "Damage": "12,10",
@@ -798,7 +799,7 @@
     },
     {
         "Block frame": "-6",
-        "Command": "d+3 or FC+3, 4",
+        "Command": "d+3_FC+3, 4",
 		"Alias": ["d+3,4","FC+3,4"],
         "Counter hit frame": "JG",
         "Damage": "12,18",
@@ -810,7 +811,7 @@
     },
     {
         "Block frame": "+2s",
-        "Command": "d+3 or FC+3, 4, 1",
+        "Command": "d+3_FC+3, 4, 1",
 		"Alias": ["d+3,4,1","FC+3,4,1"],
         "Counter hit frame": "KND",
         "Damage": "12,18,20",
@@ -833,7 +834,7 @@
     },
     {
         "Block frame": "0",
-        "Command": "d+4 or FC+4, 1",
+        "Command": "d+4_FC+4, 1",
 		"Alias": ["d+4, 1","FC+4, 1"],
         "Counter hit frame": "11",
         "Damage": "7(10),10",
@@ -845,7 +846,7 @@
     },
     {
         "Block frame": "-15",
-        "Command": "d+4 or FC+4, 1,d",
+        "Command": "d+4_FC+4, 1,d",
 		"Alias": ["d+4, 1, d","FC+4, 1, d"],
         "Counter hit frame": "-4",
         "Damage": "7(10)",
@@ -857,11 +858,11 @@
     },
     {
         "Block frame": "-10",
-        "Command": "d+4 or FC+4, 1, b",
+        "Command": "d+4_FC+4, 1, b",
 		"Alias": ["d+4, 1, b","FC+4, 1, b"],
         "Counter hit frame": "1",
         "Damage": "7(10)",
-        "Gif": "",
+        "Gif": "https://gfycat.com/FlawedAnimatedHoneycreeper.gif\n",
         "Hit frame": "1",
         "Hit level": "l (CJM)",
         "Notes": "-",
@@ -924,7 +925,7 @@
     },
     {
         "Block frame": "-10",
-        "Command": "d/b+2 or FC+d/b+2 or FC+d+2, 4",
+        "Command": "d+1,4",
         "Counter hit frame": "1",
         "Damage": "8,10",
         "Gif": "https://gfycat.com/EagerDenseGiantschnauzer.gif",
@@ -1089,7 +1090,7 @@
     },
     {
         "Block frame": "-12",
-        "Command": "u/b or u+1",
+        "Command": "u/b_u+1",
 		"Alias": ["u/b+1","u+1"],
         "Counter hit frame": "3",
         "Damage": "12",
@@ -1463,17 +1464,6 @@
         "Start up frame": "10 cs1"
     },
     {
-        "Block frame": "-4",
-        "Command": "FC+d/b or d+2",
-        "Counter hit frame": "7",
-        "Damage": "8",
-        "Gif": "",
-        "Hit frame": "7",
-        "Hit level": "sm (TC)",
-        "Notes": "-",
-        "Start up frame": "11 cs1"
-    },
-    {
         "Block frame": "-17",
         "Command": "FC+3",
         "Counter hit frame": "-3",
@@ -1782,50 +1772,6 @@
         "Start up frame": "35"
     },
     {
-        "Block frame": "-8",
-        "Command": "BT+1 or 2",
-        "Counter hit frame": "3",
-        "Damage": "15",
-        "Gif": "",
-        "Hit frame": "3",
-        "Hit level": "h",
-        "Notes": "-",
-        "Start up frame": "8"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "BT+3 or 4",
-        "Counter hit frame": "KND",
-        "Damage": "18",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "-",
-        "Start up frame": "10"
-    },
-    {
-        "Block frame": "-2",
-        "Command": "BT+d+1 or d+2",
-        "Counter hit frame": "9",
-        "Damage": "10",
-        "Gif": "",
-        "Hit frame": "9",
-        "Hit level": "sm",
-        "Notes": "-",
-        "Start up frame": "10"
-    },
-    {
-        "Block frame": "-11",
-        "Command": "BT+d+3 or d+4",
-        "Counter hit frame": "3",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "3",
-        "Hit level": "h",
-        "Notes": "-",
-        "Start up frame": "10"
-    },
-    {
         "Block frame": "-",
         "Command": "b+3 (to CJM)",
         "Counter hit frame": "-",
@@ -1926,7 +1872,7 @@
     },
     {
         "Block frame": "-11",
-        "Command": "CJM d/b or d+3",
+        "Command": "CJM d/b_d+3",
 		"Alias": ["CJM d/b+3","CJM d+3"],
         "Counter hit frame": "0",
         "Damage": "6",
@@ -1938,11 +1884,11 @@
     },
     {
         "Block frame": "-7",
-        "Command": "CJM d/b or d+3, 3",
+        "Command": "CJM d/b_d+3, 3",
 		"Alias": ["CJM d/b+3, 3","CJM d+3, 3"],
         "Counter hit frame": "7",
         "Damage": "6,20",
-        "Gif": "",
+        "Gif": "https://gfycat.com/GrimPoshBunting.gif",
         "Hit frame": "7",
         "Hit level": "l, h",
         "Notes": "-",
@@ -2136,7 +2082,7 @@
         "Start up frame": "18 cs5"
     },
     {
-        "Block frame": "1 or 2",
+        "Block frame": "1_2",
         "Command": "1+3",
         "Counter hit frame": "-",
         "Damage": "35",
@@ -2147,7 +2093,7 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "1 or 2",
+        "Block frame": "1_2",
         "Command": "f+1+3",
         "Counter hit frame": "-",
         "Damage": "35",
@@ -2158,7 +2104,7 @@
         "Start up frame": "15"
     },
     {
-        "Block frame": "1 or 2",
+        "Block frame": "1_2",
         "Command": "2+4",
         "Counter hit frame": "-",
         "Damage": "35",
@@ -2169,7 +2115,7 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "1 or 2",
+        "Block frame": "1_2",
         "Command": "f+2+4",
         "Counter hit frame": "-",
         "Damage": "35",
@@ -2235,8 +2181,9 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "f+1+3 or f+2+4",
-        "Command": "b+1+3 or b+2+4",
+        "Block frame": "f+1+3_f+2+4",
+        "Command": "b+1+3_b+2+4",
+        "Alias" : ["b+1+3","b+2+4"],
         "Counter hit frame": "-",
         "Damage": "25 + opp attack",
         "Gif": "",
