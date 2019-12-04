@@ -1542,7 +1542,7 @@
     "Start up frame": "11~12"
   },
   {
-    "Alias": ["d+2 grounded opponent","opponent down d+2","grounded opponent d+2,"stomp"],
+    "Alias": ["d+2 grounded opponent","opponent down d+2","grounded opponent d+2","stomp"],
     "Block frame": "-13~-12",
     "Command": "d+2 opponent down",
     "Counter hit frame": "+3~+4",
