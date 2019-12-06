@@ -23,7 +23,7 @@ def move_embed(character, move):
     random_value  = randint(0, 10)
     # every 10th time
     if random_value == 0 :
-        embed.add_field(name='Dev Note', value='Also dont forget to check !help to get the newest features :)')
+        embed.add_field(name='Dev Note', value='Also dont forget to check !help to get the newest features :)', inline=False)
 
     return embed
 
