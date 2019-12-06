@@ -1,4 +1,5 @@
 import discord
+from random import randint
 
 
 def move_embed(character, move):
@@ -18,6 +19,11 @@ def move_embed(character, move):
     embed.add_field(name='Notes', value=(move['Notes'] if move['Notes'] else "-"))
     if move['Gif']:
         embed.add_field(name='Gif', value=move['Gif'], inline=False)
+
+    random_value  = randint(0, 10)
+    # every 10th time
+    if random_value == 0 :
+        embed.add_field(name='Dev Note', value='Also dont forget to check !help to get the newest features :)')
 
     return embed
 
