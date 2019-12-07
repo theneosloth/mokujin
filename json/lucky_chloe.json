@@ -1417,7 +1417,7 @@
     },
     {
         "Block frame": "-15~-14",
-        "Command": "u/f+3_u+3_u/b+3)",
+        "Command": "u/b_u_u/f+3",
 		"Alias": ["u/b+3","u+3", "u/f+3"],
         "Counter hit frame": "Launch",
         "Damage": "13(10,7)",
@@ -1543,7 +1543,7 @@
         "Alias" : ["BT 1", "BT 2"],
         "Counter hit frame": "+8~+9",
         "Damage": "12",
-        "Gif": "",
+        "Gif": "https://gfycat.com/NeatIdioticAxolotl.gif",
         "Hit frame": "+8~+9",
         "Hit level": "h",
         "Notes": "-",

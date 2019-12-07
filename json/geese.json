@@ -1248,9 +1248,10 @@
     {
         "Block frame": "-31",
         "Command": "d+4",
+        "Alias": ["FC d+4","d+4"],
         "Counter hit frame": "KND",
         "Damage": "15",
-        "Gif": "",
+        "Gif": "https://gfycat.com/AnchoredUncommonCheetah.gif",
         "Hit frame": "-5",
         "Hit level": "l",
         "Notes": "-",
