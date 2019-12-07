@@ -396,7 +396,9 @@
         "Start up frame": "15"
     },
     {
-        "Alias": ["demoman"],
+        "Alias": [
+            "demoman"
+        ],
         "Block frame": "-17~-16",
         "Command": "d+4:2:1+2",
         "Counter hit frame": "KND",
@@ -584,9 +586,13 @@
         "Start up frame": "15~16 js9~"
     },
     {
+        "Alias": [
+            "u/b+3,4",
+            "u+3,4",
+            "u/f+3,4"
+        ],
         "Block frame": "-13~-12",
         "Command": "u/b or u or u/f+3, 4",
-		"Alias": ["u/b+3,4","u+3,4","u/f+3,4"],
         "Counter hit frame": "Launch (JG?)",
         "Damage": "14,20",
         "Gif": "https://gfycat.com/VacantWaryKakarikis.gif",
@@ -1322,9 +1328,13 @@
         "Start up frame": "20~21"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "u/b or u or u/f+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",

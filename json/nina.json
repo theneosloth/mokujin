@@ -55,9 +55,12 @@
         "Start up frame": "10,20"
     },
     {
+        "Alias": [
+            "1,2,u",
+            "1,2,u"
+        ],
         "Block frame": "0",
         "Command": "1, 2, u or D",
-		"Alias": ["1,2,u","1,2,u"],
         "Counter hit frame": "+6",
         "Damage": "7,10",
         "Gif": "",
@@ -551,9 +554,12 @@
         "Start up frame": " 19~"
     },
     {
+        "Alias": [
+            "f+1+2",
+            "ws+1+2"
+        ],
         "Block frame": "-14",
         "Command": "f+1+2 or WS+1+2",
-		"Alias": ["f+1+2","ws+1+2"],
         "Counter hit frame": "KND",
         "Damage": "24",
         "Gif": "https://gfycat.com/DenseRepentantGemsbok.gif",
@@ -585,9 +591,12 @@
         "Start up frame": "13,30"
     },
     {
+        "Alias": [
+            "d/f+1, 2, f",
+            "d/f+1, 2,d/f"
+        ],
         "Block frame": "-3",
         "Command": "d/f+1, 2, f or d/f",
-		"Alias": ["d/f+1, 2, f","d/f+1, 2,d/f"],
         "Counter hit frame": "+9",
         "Damage": "13,10",
         "Gif": "",
@@ -597,9 +606,12 @@
         "Start up frame": "13,30"
     },
     {
+        "Alias": [
+            "d/f+1, 2, d",
+            "d/f+1, 2, u"
+        ],
         "Block frame": "-1",
         "Command": "d/f+1, 2, u or D",
-		"Alias": ["d/f+1, 2, d","d/f+1, 2, u"],
         "Counter hit frame": "+11",
         "Damage": "13,10",
         "Gif": "",
@@ -642,9 +654,12 @@
         "Start up frame": "14"
     },
     {
+        "Alias": [
+            "d/f+3, 1, d",
+            "d/f+3, 1, u"
+        ],
         "Block frame": "-19",
         "Command": "d/f+3, 1, d or u (Cancel)",
-		"Alias": ["d/f+3, 1, d","d/f+3, 1, u"],
         "Counter hit frame": "-7",
         "Damage": "13",
         "Gif": "",
@@ -687,9 +702,12 @@
         "Start up frame": "14,33"
     },
     {
+        "Alias": [
+            "d/f+3, 2, f",
+            "d/f+3, 2, d/f"
+        ],
         "Block frame": "-1",
         "Command": "d/f+3, 2, f or d/f",
-		"Alias": ["d/f+3, 2, f","d/f+3, 2, d/f"],
         "Counter hit frame": "+10",
         "Damage": "13,12",
         "Gif": "https://gfycat.com/WickedPowerfulKakarikis.gif",
@@ -699,9 +717,12 @@
         "Start up frame": "14,33"
     },
     {
+        "Alias": [
+            "d/f+3, 2, d",
+            "d/f+3, 2, u"
+        ],
         "Block frame": "0",
         "Command": "d/f+3, 2, d or u",
-		"Alias": ["d/f+3, 2, d","d/f+3, 2, u"],
         "Counter hit frame": "+11",
         "Damage": "13,12",
         "Gif": "",
@@ -1030,9 +1051,13 @@
         "Start up frame": "12s cs4~"
     },
     {
+        "Alias": [
+            "FC d+4",
+            "FC d/b+4",
+            "FC d/f+4"
+        ],
         "Block frame": "-15",
         "Command": "FC+d/b or d+4 FC+D/F+4",
-		"Alias": ["FC d+4","FC d/b+4", "FC d/f+4"],
         "Counter hit frame": "-4",
         "Damage": "10",
         "Gif": "",
@@ -1053,9 +1078,12 @@
         "Start up frame": "12 1~"
     },
     {
+        "Alias": [
+            "d+4,1,d",
+            "d+4,1,u"
+        ],
         "Block frame": "-13(-15)",
         "Command": "d+4, 1, d or u (Cancel)",
-		"Alias": ["d+4,1,d","d+4,1,u"],
         "Counter hit frame": "-2(-4)",
         "Damage": "7(10)",
         "Gif": "",
@@ -1175,9 +1203,12 @@
         "Start up frame": "12"
     },
     {
+        "Alias": [
+            "b+2,2,2,d",
+            "b+2,2,2,u"
+        ],
         "Block frame": "-10~-9",
         "Command": "b+2, 2, 2, u or D (Cancel)",
-		"Alias": ["b+2,2,2,d","b+2,2,2,u"],
         "Counter hit frame": "+1~+2",
         "Damage": "12,14",
         "Gif": "",
@@ -1341,9 +1372,12 @@
         "Start up frame": "9~34 35~36"
     },
     {
+        "Alias": [
+            "u/f+4,3,4,d",
+            "u/f+4,3,4,u"
+        ],
         "Block frame": "-5",
         "Command": "u/f+4, 3, 4, d or u (Cancel)",
-		"Alias": ["u/f+4,3,4,d","u/f+4,3,4,u"],
         "Counter hit frame": "+6",
         "Damage": "23,10",
         "Gif": "",

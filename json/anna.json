@@ -352,9 +352,12 @@
         "Start up frame": "19 js14"
     },
     {
+        "Alias": [
+            "f+1+2",
+            "WS+1+2"
+        ],
         "Block frame": "-18",
         "Command": "f+1+2_WS+1+2",
-        "Alias": ["f+1+2","WS+1+2"],
         "Counter hit frame": "KND",
         "Damage": "21",
         "Gif": "https://gfycat.com/ScrawnyAcrobaticAcaciarat.gif",
@@ -452,9 +455,12 @@
         "Start up frame": "14"
     },
     {
+        "Alias": [
+            "d/f+d,1,u",
+            "d/f+3,1, d"
+        ],
         "Block frame": "-12",
         "Command": "d/f+3, 1, u_d",
-		"Alias": ["d/f+d,1,u","d/f+3,1, d"],
         "Counter hit frame": "0",
         "Damage": "13",
         "Gif": "",
@@ -521,7 +527,6 @@
     {
         "Block frame": "-5",
         "Command": "d/f+3, 1, 4, 2,b",
-
         "Counter hit frame": "6",
         "Damage": "13,10,20,12",
         "Gif": "",
@@ -729,9 +734,12 @@
         "Start up frame": "16"
     },
     {
+        "Alias": [
+            "d/f+1+2",
+            "CJM d/f+1+2"
+        ],
         "Block frame": "1",
         "Command": "d/f+1+2_CJM d/f+1+2",
-		"Alias": ["d/f+1+2","CJM d/f+1+2"],
         "Counter hit frame": "19",
         "Damage": "0",
         "Gif": "https://gfycat.com/SpotlessOpulentGoral.gif\n",
@@ -752,9 +760,12 @@
         "Start up frame": "10 cs4"
     },
     {
+        "Alias": [
+            "d+1,4",
+            "FC+1,4"
+        ],
         "Block frame": "-11",
         "Command": "d+1_FC+1, 4",
-		"Alias": ["d+1,4","FC+1,4"],
         "Counter hit frame": "0",
         "Damage": "5,10",
         "Gif": "https://gfycat.com/EagerDenseGiantschnauzer.gif",
@@ -786,9 +797,12 @@
         "Start up frame": "16"
     },
     {
+        "Alias": [
+            "d+3,2",
+            "FC+3,2"
+        ],
         "Block frame": "-13",
         "Command": "d+3_FC+3, 2",
-		"Alias": ["d+3,2","FC+3,2"],
         "Counter hit frame": "JG",
         "Damage": "12,10",
         "Gif": "https://gfycat.com/ForcefulAgileIaerismetalmark.gif",
@@ -798,9 +812,12 @@
         "Start up frame": "-"
     },
     {
+        "Alias": [
+            "d+3,4",
+            "FC+3,4"
+        ],
         "Block frame": "-6",
         "Command": "d+3_FC+3, 4",
-		"Alias": ["d+3,4","FC+3,4"],
         "Counter hit frame": "JG",
         "Damage": "12,18",
         "Gif": "",
@@ -810,9 +827,12 @@
         "Start up frame": "-"
     },
     {
+        "Alias": [
+            "d+3,4,1",
+            "FC+3,4,1"
+        ],
         "Block frame": "+2s",
         "Command": "d+3_FC+3, 4, 1",
-		"Alias": ["d+3,4,1","FC+3,4,1"],
         "Counter hit frame": "KND",
         "Damage": "12,18,20",
         "Gif": "https://gfycat.com/ThisDimJenny.gif",
@@ -833,9 +853,12 @@
         "Start up frame": "12"
     },
     {
+        "Alias": [
+            "d+4, 1",
+            "FC+4, 1"
+        ],
         "Block frame": "0",
         "Command": "d+4_FC+4, 1",
-		"Alias": ["d+4, 1","FC+4, 1"],
         "Counter hit frame": "11",
         "Damage": "7(10),10",
         "Gif": "https://gfycat.com/GiftedGentleCaiman.gif",
@@ -845,9 +868,12 @@
         "Start up frame": "-"
     },
     {
+        "Alias": [
+            "d+4, 1, d",
+            "FC+4, 1, d"
+        ],
         "Block frame": "-15",
         "Command": "d+4_FC+4, 1,d",
-		"Alias": ["d+4, 1, d","FC+4, 1, d"],
         "Counter hit frame": "-4",
         "Damage": "7(10)",
         "Gif": "",
@@ -857,9 +883,12 @@
         "Start up frame": "-"
     },
     {
+        "Alias": [
+            "d+4, 1, b",
+            "FC+4, 1, b"
+        ],
         "Block frame": "-10",
         "Command": "d+4_FC+4, 1, b",
-		"Alias": ["d+4, 1, b","FC+4, 1, b"],
         "Counter hit frame": "1",
         "Damage": "7(10)",
         "Gif": "https://gfycat.com/FlawedAnimatedHoneycreeper.gif\n",
@@ -1089,9 +1118,12 @@
         "Start up frame": "20"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1"
+        ],
         "Block frame": "-12",
         "Command": "u/b_u+1",
-		"Alias": ["u/b+1","u+1"],
         "Counter hit frame": "3",
         "Damage": "12",
         "Gif": "",
@@ -1871,9 +1903,12 @@
         "Start up frame": "13"
     },
     {
+        "Alias": [
+            "CJM d/b+3",
+            "CJM d+3"
+        ],
         "Block frame": "-11",
         "Command": "CJM d/b_d+3",
-		"Alias": ["CJM d/b+3","CJM d+3"],
         "Counter hit frame": "0",
         "Damage": "6",
         "Gif": "",
@@ -1883,9 +1918,12 @@
         "Start up frame": "15"
     },
     {
+        "Alias": [
+            "CJM d/b+3, 3",
+            "CJM d+3, 3"
+        ],
         "Block frame": "-7",
         "Command": "CJM d/b_d+3, 3",
-		"Alias": ["CJM d/b+3, 3","CJM d+3, 3"],
         "Counter hit frame": "7",
         "Damage": "6,20",
         "Gif": "https://gfycat.com/GrimPoshBunting.gif",
@@ -2181,9 +2219,12 @@
         "Start up frame": "12"
     },
     {
+        "Alias": [
+            "b+1+3",
+            "b+2+4"
+        ],
         "Block frame": "f+1+3_f+2+4",
         "Command": "b+1+3_b+2+4",
-        "Alias" : ["b+1+3","b+2+4"],
         "Counter hit frame": "-",
         "Damage": "25 + opp attack",
         "Gif": "",

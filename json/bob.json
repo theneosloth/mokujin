@@ -22,7 +22,9 @@
         "Start up frame": "26~33a 86~87s (29~) 1js15~ 2js14~"
     },
     {
-        "Alias": ["in rage f+2+3,f"],
+        "Alias": [
+            "in rage f+2+3,f"
+        ],
         "Block frame": "+12~+13s",
         "Command": "in rage f+2+3~f",
         "Counter hit frame": "KND (KND)",
@@ -243,7 +245,9 @@
         "Start up frame": "19~20"
     },
     {
-        "Alias": ["1+2,f"],
+        "Alias": [
+            "1+2,f"
+        ],
         "Block frame": "+4~+5s",
         "Command": "1+2~f",
         "Counter hit frame": "+17~+18s",
@@ -255,7 +259,10 @@
         "Start up frame": "19~20s"
     },
     {
-        "Alias": ["1+2,f end","1+2~f end"],
+        "Alias": [
+            "1+2,f end",
+            "1+2~f end"
+        ],
         "Block frame": "-19~-18s",
         "Command": "1+2~f (after stance ends)",
         "Counter hit frame": "-6~-5s",
@@ -267,7 +274,9 @@
         "Start up frame": "19~20s"
     },
     {
-        "Alias": ["1+2,b"],
+        "Alias": [
+            "1+2,b"
+        ],
         "Block frame": "-36~-35s",
         "Command": "1+2~b",
         "Counter hit frame": "-23~-22s",
@@ -752,7 +761,9 @@
         "Start up frame": "cs11~"
     },
     {
-        "Alias": ["d/b+4,4,4,d"],
+        "Alias": [
+            "d/b+4,4,4,d"
+        ],
         "Block frame": "-12~-10",
         "Command": "d/b+4,4,4~d",
         "Counter hit frame": "-1~+1",
@@ -1006,7 +1017,9 @@
         "Start up frame": "a"
     },
     {
-        "Alias": ["u+1+2,f"],
+        "Alias": [
+            "u+1+2,f"
+        ],
         "Block frame": "-",
         "Command": "u+1+2~f",
         "Counter hit frame": "-",
@@ -1018,7 +1031,9 @@
         "Start up frame": "as"
     },
     {
-        "Alias": ["u+1+2,b"],
+        "Alias": [
+            "u+1+2,b"
+        ],
         "Block frame": "-",
         "Command": "u+1+2~b",
         "Counter hit frame": "-",
@@ -1074,9 +1089,12 @@
         "Start up frame": "20 js9~"
     },
     {
+        "Alias": [
+            "u+4,4",
+            "u/f+4,4"
+        ],
         "Block frame": "0~+1",
         "Command": "(u_u/f)+4,4",
-		"Alias": ["u+4,4","u/f+4,4"],
         "Counter hit frame": "KND",
         "Damage": "14,18",
         "Gif": "https://gfycat.com/RightYellowIbadanmalimbe.gif",
@@ -1097,7 +1115,9 @@
         "Start up frame": "16~18 js13~"
     },
     {
-        "Alias": ["u/f+1+2,f"],
+        "Alias": [
+            "u/f+1+2,f"
+        ],
         "Block frame": "?",
         "Command": "u/f+1+2~f",
         "Counter hit frame": "?",
@@ -1109,7 +1129,9 @@
         "Start up frame": "16~18 js13~"
     },
     {
-        "Alias": ["u/f+1+2,b"],
+        "Alias": [
+            "u/f+1+2,b"
+        ],
         "Block frame": "?",
         "Command": "u/f+1+2~b",
         "Counter hit frame": "?",
@@ -1605,7 +1627,9 @@
         "Start up frame": "29~33s (54~) js1~"
     },
     {
-        "Alias": ["bal 3+4,b"],
+        "Alias": [
+            "bal 3+4,b"
+        ],
         "Block frame": "-18~-14s",
         "Command": "BAL 3+4~b",
         "Counter hit frame": "KND",
@@ -1991,9 +2015,13 @@
         "Start up frame": "15"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "u/b or u or u/f+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -2003,10 +2031,13 @@
         "Start up frame": "18 js9~"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2"
+        ],
         "Block frame": "-12~-11",
         "Command": "u/b or u+2",
         "Counter hit frame": "+9~+10g",
-		"Alias": ["u/b+2","u+2"],
         "Damage": "17",
         "Gif": "",
         "Hit frame": "+9~+10g",
@@ -2114,6 +2145,10 @@
         "Start up frame": "15~17"
     },
     {
+        "Alias": [
+            "u+3",
+            "u/f+4"
+        ],
         "Block frame": "-9~-7",
         "Command": "u or u/f+4",
         "Counter hit frame": "0~+2",
@@ -2121,7 +2156,6 @@
         "Gif": "",
         "Hit frame": "0~+2",
         "Hit level": "m(TJ)",
-		"Alias": ["u+3","u/f+4"],
         "Notes": "-",
         "Start up frame": "25~27 js15~"
     },

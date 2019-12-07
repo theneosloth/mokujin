@@ -99,9 +99,12 @@
         "Start up frame": "10"
     },
     {
+        "Alias": [
+            "1, 2, 2~1+2, u",
+            "1, 2, 2~1+2,d"
+        ],
         "Block frame": "-16",
         "Command": "1, 2, 2~1+2 u or d",
-		"Alias": ["1, 2, 2~1+2, u","1, 2, 2~1+2,d"],
         "Counter hit frame": "-9",
         "Damage": "7,8",
         "Gif": "",
@@ -188,9 +191,12 @@
         "Start up frame": "10"
     },
     {
+        "Alias": [
+            "2, 2~1+2,u",
+            "2, 2~1+2,d"
+        ],
         "Block frame": "-14",
         "Command": "2, 2~1+2 u or d",
-		"Alias": ["2, 2~1+2,u","2, 2~1+2,d"],
         "Counter hit frame": "-5",
         "Damage": "10",
         "Gif": "",
@@ -288,9 +294,12 @@
         "Start up frame": "16(17~)"
     },
     {
+        "Alias": [
+            "f+2~1+2 u",
+            "f+2~1+2 d"
+        ],
         "Block frame": "-",
         "Command": "f+2~1+2 u or d",
-		"Alias": ["f+2~1+2 u","f+2~1+2 d"],
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
@@ -520,9 +529,12 @@
         "Start up frame": "15~16"
     },
     {
+        "Alias": [
+            "b+1, 2~1+2 u",
+            "b+1, 2~1+2 d"
+        ],
         "Block frame": "-19~-18",
         "Command": "b+1, 2~1+2 u or d",
-		"Alias": ["b+1, 2~1+2 u","b+1, 2~1+2 d"],
         "Counter hit frame": "-13~-12",
         "Damage": "14",
         "Gif": "",
@@ -994,7 +1006,10 @@
         "Start up frame": "11~12 (15~)"
     },
     {
-        "Alias": ["electric", "ewgf"],
+        "Alias": [
+            "electric",
+            "ewgf"
+        ],
         "Block frame": "+5~+6",
         "Command": "f, n, d, d/f+2",
         "Counter hit frame": "Launch (JG?)",
@@ -1347,9 +1362,13 @@
         "Start up frame": "18~20"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "u/b or u or u/f+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -1359,9 +1378,13 @@
         "Start up frame": "18 js9~"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-12~-11",
         "Command": "u/b or u or u/f+2",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",
@@ -1371,9 +1394,12 @@
         "Start up frame": "15~16"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3"
+        ],
         "Block frame": "-17",
         "Command": "u/b or u+3",
-		"Alias": ["u/b+3","u+3"],
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "",

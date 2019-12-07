@@ -22,7 +22,9 @@
         "Start up frame": "? js16~40"
     },
     {
-        "Alias": ["f+1"],
+        "Alias": [
+            "f+1"
+        ],
         "Block frame": "+1",
         "Command": "1",
         "Counter hit frame": "+8",
@@ -188,7 +190,9 @@
         "Start up frame": "16"
     },
     {
-        "Alias": ["ws+4~3"],
+        "Alias": [
+            "ws+4~3"
+        ],
         "Block frame": "-7~-4s",
         "Command": "4~3",
         "Counter hit frame": "KND",
@@ -541,7 +545,9 @@
         "Start up frame": "13~15 (39~)"
     },
     {
-        "Alias": ["d/b+1+2*"],
+        "Alias": [
+            "d/b+1+2*"
+        ],
         "Block frame": "-6~-4",
         "Command": "d/b+1+2* (short)",
         "Counter hit frame": "+7~+9",
@@ -663,9 +669,14 @@
         "Start up frame": "17~18"
     },
     {
+        "Alias": [
+            "b+1+3",
+            "b+2+4",
+            "parry",
+            "reversal"
+        ],
         "Block frame": "-13",
         "Command": "b+(1+3_2+4)",
-        "Alias": ["b+1+3","b+2+4","parry","reversal"],
         "Counter hit frame": "KND",
         "Damage": "30",
         "Gif": "",
@@ -730,9 +741,13 @@
         "Start up frame": "20~21 js9~"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-4~-1",
         "Command": "(u/b_u_u/f)+2",
-        "Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/SpottedScarceDiamondbackrattlesnake.gif",
@@ -764,9 +779,12 @@
         "Start up frame": "18 js8~"
     },
     {
+        "Alias": [
+            "u+1+2",
+            "u/f+1+2"
+        ],
         "Block frame": "KND",
         "Command": "(u_u/f)+1+2",
-        "Alias": ["u+1+2","u/f+1+2"],
         "Counter hit frame": "KND",
         "Damage": "26",
         "Gif": "https://gfycat.com/HideousInsecureAmurratsnake.gif",
@@ -952,10 +970,14 @@
         "Start up frame": "15~17 (15~)"
     },
     {
+        "Alias": [
+            "b,f+2,1,d/b+2",
+            "b,f+2,1,d+2",
+            "b,f+2,1,d/f+2"
+        ],
         "Block frame": "-14~-13",
         "Command": "b,f+2,1,d+2",
         "Counter hit frame": "Launch (JG?)",
-        "Alias": ["b,f+2,1,d/b+2","b,f+2,1,d+2","b,f+2,1,d/f+2"],
         "Damage": "12,12,20",
         "Gif": "https://gfycat.com/AltruisticCourteousGraysquirrel.gif\n",
         "Hit frame": "Launch (JG?)",
@@ -1074,7 +1096,9 @@
         "Start up frame": "22~30"
     },
     {
-        "Alias": ["grounded u+3+4"],
+        "Alias": [
+            "grounded u+3+4"
+        ],
         "Block frame": "-",
         "Command": "FUFT u+3+4",
         "Counter hit frame": "-",
@@ -1240,7 +1264,6 @@
         "Start up frame": "22~23 (25~) js22~45"
     },
     {
-        
         "Block frame": "-10~-9",
         "Command": "f,n,d,d/f+2",
         "Counter hit frame": "Launch (JG?)",
@@ -1252,7 +1275,10 @@
         "Start up frame": "11~12 (15~)"
     },
     {
-        "Alias": ["electric","ewgf"],
+        "Alias": [
+            "electric",
+            "ewgf"
+        ],
         "Block frame": "+5~+6",
         "Command": "f,n,d,d/f:2",
         "Counter hit frame": "Launch (JG?)",
@@ -1264,7 +1290,9 @@
         "Start up frame": "11~15 (14~)"
     },
     {
-        "Alias": ["CD(hold)+2"],
+        "Alias": [
+            "CD(hold)+2"
+        ],
         "Block frame": "-4~-3",
         "Command": "f,n,d,D/F(hold as long as possible)+2",
         "Counter hit frame": "+12~+13",
@@ -1287,7 +1315,10 @@
         "Start up frame": "26~28 (29~) js5~"
     },
     {
-        "Alias": ["cd+3*","cd+3 hold"],
+        "Alias": [
+            "cd+3*",
+            "cd+3 hold"
+        ],
         "Block frame": "-23~-22",
         "Command": "f,n,d,D/F+3",
         "Counter hit frame": "KND",
@@ -1299,7 +1330,10 @@
         "Start up frame": "33~34 (37~) js5~28"
     },
     {
-        "Alias": ["hs","hellsweep"],
+        "Alias": [
+            "hs",
+            "hellsweep"
+        ],
         "Block frame": "-23",
         "Command": "f,n,d,d/f+4",
         "Counter hit frame": "KND",
@@ -1311,7 +1345,9 @@
         "Start up frame": "16(19~)"
     },
     {
-        "Alias": ["hs,4"],
+        "Alias": [
+            "hs,4"
+        ],
         "Block frame": "-16~-15",
         "Command": "f,n,d,d/f+4,4",
         "Counter hit frame": "KND",
@@ -1334,7 +1370,10 @@
         "Start up frame": "11s cs4~"
     },
     {
-        "Alias": ["d/b+4","d+4"],
+        "Alias": [
+            "d/b+4",
+            "d+4"
+        ],
         "Block frame": "-13",
         "Command": "(d/b_d)+4",
         "Counter hit frame": "-2",
@@ -1368,9 +1407,13 @@
         "Start up frame": "16s cs4~"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "(u/b_u_u/f)+1",
-        "Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -1380,9 +1423,13 @@
         "Start up frame": "18 js9~"
     },
     {
+        "Alias": [
+            "u/b+3+4",
+            "u+3+4",
+            "u/f+3+4"
+        ],
         "Block frame": "-17",
         "Command": "(u/b_u_u/f)+3+4",
-        "Alias": ["u/b+3+4","u+3+4","u/f+3+4"],
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "",
@@ -1458,7 +1505,10 @@
         "Start up frame": "12s cs1~"
     },
     {
-        "Alias": ["bt 1","bt 2"],
+        "Alias": [
+            "bt 1",
+            "bt 2"
+        ],
         "Block frame": "-8",
         "Command": "BT (1_2)",
         "Counter hit frame": "+3",
@@ -1470,7 +1520,10 @@
         "Start up frame": "8"
     },
     {
-        "Alias": ["bt 3","bt 4"],
+        "Alias": [
+            "bt 3",
+            "bt 4"
+        ],
         "Block frame": "-8",
         "Command": "BT (3_4)",
         "Counter hit frame": "KND",
@@ -1482,7 +1535,10 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["bt d+1","bt d+2"],
+        "Alias": [
+            "bt d+1",
+            "bt d+2"
+        ],
         "Block frame": "-2",
         "Command": "BT d+(1_2)",
         "Counter hit frame": "+9",
@@ -1494,7 +1550,10 @@
         "Start up frame": "10s cs1~"
     },
     {
-        "Alias": ["bt d+3","bt d+4"],
+        "Alias": [
+            "bt d+3",
+            "bt d+4"
+        ],
         "Block frame": "-11",
         "Command": "BT d+(3_4)",
         "Counter hit frame": "+3",

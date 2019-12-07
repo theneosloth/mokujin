@@ -1243,9 +1243,13 @@
         "Start up frame": "17~18"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "u/b or u or u/f+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -1255,9 +1259,13 @@
         "Start up frame": "18 js9~"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-12~-11",
         "Command": "u/b or u or u/f+2",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",
@@ -1267,9 +1275,13 @@
         "Start up frame": "15~16"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "-13~-11",
         "Command": "u/b or u or u/f+3",
-		"Alias": ["u/b+3","u+3","u/f+3"],
         "Counter hit frame": "Launch (JG?)",
         "Damage": "22",
         "Gif": "https://gfycat.com/JoyousWhoppingCommongonolek.gif",
@@ -1290,9 +1302,12 @@
         "Start up frame": "16~18"
     },
     {
+        "Alias": [
+            "u+4",
+            "u/f+4"
+        ],
         "Block frame": "-15~-14",
         "Command": "u or u/f+4",
-		"Alias": ["u+4","u/f+4"],
         "Counter hit frame": "-4~-3",
         "Damage": "10",
         "Gif": "",

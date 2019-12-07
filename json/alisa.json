@@ -825,9 +825,12 @@
         "Start up frame": "37~39b js5~"
     },
     {
+        "Alias": [
+            "u/b+3+4, 1+2",
+            "BT 3+4, 1+2"
+        ],
         "Block frame": "-14~-13",
         "Command": "u/b+3+4, 1+2",
-        "Alias": ["u/b+3+4, 1+2","BT 3+4, 1+2"],
         "Counter hit frame": "Launch",
         "Damage": "25,20",
         "Gif": "https://gfycat.com/DependentPortlyAmazontreeboa.gif",
@@ -892,9 +895,11 @@
         "Start up frame": "js1~"
     },
     {
+        "Alias": [
+            "u+3+4, u/f+3+4"
+        ],
         "Block frame": "0~+3",
         "Command": "u_u/f+3+4",
-        "Alias" : ["u+3+4, u/f+3+4"],
         "Counter hit frame": "KND",
         "Damage": "28",
         "Gif": "",
@@ -1575,9 +1580,12 @@
         "Start up frame": "18~19 (43~) js1~"
     },
     {
+        "Alias": [
+            "DES b",
+            "DES F"
+        ],
         "Block frame": "-",
         "Command": "DES b_DES F",
-        "Alias" : ["DES b", "DES F"],
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
@@ -1587,9 +1595,12 @@
         "Start up frame": "18~19 (43~) 1~"
     },
     {
+        "Alias": [
+            "DES d+1+2",
+            "DES D/B"
+        ],
         "Block frame": "-",
         "Command": "DES d+1+2_DES D/B (Cancel)",
-        "Alias" : ["DES d+1+2", "DES D/B"],
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
@@ -1632,9 +1643,12 @@
         "Start up frame": "20,,"
     },
     {
+        "Alias": [
+            "DES 3",
+            "DES 4"
+        ],
         "Block frame": "-",
         "Command": "DES 3_DES 4",
-        "Alias": ["DES 3", "DES 4"],
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "https://gfycat.com/RealisticDamagedDogfish.gif",
@@ -1754,9 +1768,13 @@
         "Start up frame": "18~20"
     },
     {
+        "Alias": [
+            "DES b+3+4",
+            "DES bb",
+            "DES u/b, b"
+        ],
         "Block frame": "-",
         "Command": "DES b+3+4",
-        "Alias": ["DES b+3+4", "DES bb", "DES u/b, b"],
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "https://gfycat.com/ConfusedDirtyHaddock.gif",
@@ -1766,9 +1784,12 @@
         "Start up frame": "a"
     },
     {
+        "Alias": [
+            "DES u+3+4, 1",
+            "DES d+3+4,1"
+        ],
         "Block frame": "-",
         "Command": "DES u_d+3+4",
-        "Alias": ["DES u+3+4, 1","DES d+3+4,1"],
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "https://gfycat.com/AggressiveBoringLeopardseal.gif",
@@ -1778,9 +1799,12 @@
         "Start up frame": "-"
     },
     {
+        "Alias": [
+            "DES u+3+4, 1",
+            "DES d+3+4,1"
+        ],
         "Block frame": "-13",
         "Command": "DES u_d+3+4, 1",
-		"Alias": ["DES u+3+4, 1","DES d+3+4,1"],
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/AgedCriminalBluefintuna.gif",
@@ -1801,9 +1825,13 @@
         "Start up frame": "18"
     },
     {
+        "Alias": [
+            "DES u/b+1+2",
+            "DES u+1+2",
+            "DES u/f+1+2"
+        ],
         "Block frame": "-9s",
         "Command": "DES u/b_u-u/f+1+2",
-		"Alias": ["DES u/b+1+2","DES u+1+2","DES u/f+1+2"],
         "Counter hit frame": "CS",
         "Damage": "9*3",
         "Gif": "https://gfycat.com/EasyUnlinedBubblefish.gif",
@@ -1824,9 +1852,12 @@
         "Start up frame": "29,,, js5~28"
     },
     {
+        "Alias": [
+            "DES BT 1",
+            "DES BT 22"
+        ],
         "Block frame": "-9",
         "Command": "DES BT 1_2",
-        "Alias": ["DES BT 1","DES BT 22"],
         "Counter hit frame": "CS",
         "Damage": "4*6",
         "Gif": "",
@@ -1836,9 +1867,12 @@
         "Start up frame": "19,,,"
     },
     {
+        "Alias": [
+            "DES F+3+4",
+            "DES ff"
+        ],
         "Block frame": "-",
         "Command": "DES f+3+4_DES f,f ",
-        "Alias": ["DES F+3+4","DES ff"],
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "https://gfycat.com/FalseSatisfiedChrysalis.gif",
@@ -1859,9 +1893,12 @@
         "Start up frame": "19,,,"
     },
     {
+        "Alias": [
+            "DBT f+3+4, u",
+            "DBT f+3+4, d"
+        ],
         "Block frame": "-",
         "Command": "DBT f+3+4, u_D",
-		"Alias": ["DBT f+3+4, u","DBT f+3+4, d"],
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
@@ -2201,9 +2238,13 @@
         "Start up frame": "15~16"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "u/b_u_u/f+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -2213,9 +2254,13 @@
         "Start up frame": "18 js9~"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-12~-11",
         "Command": "u/b_u_u/f+2",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",
@@ -2225,9 +2270,13 @@
         "Start up frame": "15~16"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "-57~-56",
         "Command": "u/b_u_u/f+3",
-		"Alias": ["u/b+3","u+3","u/f+3"],
         "Counter hit frame": "-29~-28 (SH)",
         "Damage": "15",
         "Gif": "",

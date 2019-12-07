@@ -660,9 +660,12 @@
         "Start up frame": "13"
     },
     {
+        "Alias": [
+            "b+3",
+            "BT b+3"
+        ],
         "Block frame": "-",
         "Command": "b+3 or BT b+3",
-		"Alias": ["b+3","BT b+3"],
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
@@ -672,9 +675,12 @@
         "Start up frame": "13"
     },
     {
+        "Alias": [
+            "b+4",
+            "BT b+4"
+        ],
         "Block frame": "-",
         "Command": "b+4 or BT b+4",
-		"Alias": ["b+4","BT b+4"],
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
@@ -684,9 +690,12 @@
         "Start up frame": "13"
     },
     {
+        "Alias": [
+            "b+3",
+            "BT 4,f"
+        ],
         "Block frame": "-",
         "Command": "b+3 or 4, f",
-		"Alias": ["b+3","BT 4,f"],
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
@@ -696,9 +705,12 @@
         "Start up frame": " RC"
     },
     {
+        "Alias": [
+            "b+3,3",
+            "BT b+4,3"
+        ],
         "Block frame": "-15~-14",
         "Command": "b+3, 3 or b+4, 3",
-		"Alias": ["b+3,3","BT b+4,3"],
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "",
@@ -708,9 +720,12 @@
         "Start up frame": "24~25s (49~)"
     },
     {
+        "Alias": [
+            "b+3,4",
+            "BT b+4,4"
+        ],
         "Block frame": "-6~0",
         "Command": "b+3, 4 or b+4, 4",
-		"Alias": ["b+3,4","BT b+4,4"],
         "Counter hit frame": "KND",
         "Damage": "27",
         "Gif": "",
@@ -753,9 +768,12 @@
         "Start up frame": "22~23 js16~"
     },
     {
+        "Alias": [
+            "u/b+3,f",
+            "u+3,f"
+        ],
         "Block frame": "-13~-12",
         "Command": "u/b or u+3, f",
-		"Alias": ["u/b+3,f","u+3,f"],
         "Counter hit frame": "Launch (JG?)",
         "Damage": "26",
         "Gif": "https://gfycat.com/GiantGrossBlacklab.gif",
@@ -765,9 +783,12 @@
         "Start up frame": "22~23 js16~"
     },
     {
+        "Alias": [
+            "u/b+3,3",
+            "u+3,3"
+        ],
         "Block frame": "-12",
         "Command": "u/b or u+3, 3",
-		"Alias": ["u/b+3,3","u+3,3"],
         "Counter hit frame": "0",
         "Damage": "26,15",
         "Gif": "",
@@ -777,9 +798,12 @@
         "Start up frame": "js9~"
     },
     {
+        "Alias": [
+            "u/b+3,3,f",
+            "u+3,3,f"
+        ],
         "Block frame": "-3",
         "Command": "u/b or u+3, 3, F",
-		"Alias": ["u/b+3,3,f","u+3,3,f"],
         "Counter hit frame": "+9",
         "Damage": "26,15",
         "Gif": "https://gfycat.com/IncompatibleCourageousDiplodocus.gif",
@@ -789,9 +813,12 @@
         "Start up frame": "js9~"
     },
     {
+        "Alias": [
+            "u/b+3,3,3+4",
+            "u+3,3,3+4"
+        ],
         "Block frame": "-8",
         "Command": "u/b or u+3, 3, 3+4",
-		"Alias": ["u/b+3,3,3+4","u+3,3,3+4"],
         "Counter hit frame": "KND",
         "Damage": "26,15,5,2",
         "Gif": "https://gfycat.com/HonestCoolBaiji.gif",
@@ -1109,9 +1136,12 @@
         "Start up frame": "14~15"
     },
     {
+        "Alias": [
+            "FC d/f+3",
+            "d,d/f+3"
+        ],
         "Block frame": "-18~-9",
         "Command": "FC+d/f+3 or d, D/F+3",
-		"Alias": ["FC d/f+3","d,d/f+3"],
         "Counter hit frame": "KND",
         "Damage": "19",
         "Gif": "https://gfycat.com/SpryEarnestAddax.gif",
@@ -1704,9 +1734,12 @@
         "Start up frame": "16"
     },
     {
+        "Alias": [
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "u or u/f+1",
-		"Alias": ["u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -1716,9 +1749,13 @@
         "Start up frame": "18 js9~"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-12~-11",
         "Command": "u/b or u or u/f+2",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "KND",
         "Damage": "21",
         "Gif": "https://gfycat.com/YawningWeirdAngelfish.gif",

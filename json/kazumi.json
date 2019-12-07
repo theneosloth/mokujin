@@ -462,9 +462,13 @@
         "Start up frame": "a"
     },
     {
+        "Alias": [
+            "u/b+2,f",
+            "u+2,f",
+            "u/f+2,f"
+        ],
         "Block frame": "-14",
         "Command": "u/b_u_u/f+2f",
-		"Alias": ["u/b+2,f","u+2,f","u/f+2,f"],
         "Counter hit frame": "+9",
         "Damage": "12(,20)",
         "Gif": "https://gfycat.com/DefinitePointedCrustacean.gif",
@@ -705,9 +709,12 @@
         "Start up frame": "11~12"
     },
     {
+        "Alias": [
+            "FC d/b+4",
+            "FC d+4"
+        ],
         "Block frame": "-15~-14",
         "Command": "FC+d/b_d+4",
-        "Alias" : ["FC d/b+4", "FC d+4"],
         "Counter hit frame": "-4~-3",
         "Damage": "10",
         "Gif": "",
@@ -805,7 +812,10 @@
         "Start up frame": "18(34~) js1~10"
     },
     {
-        "Alias": ["hs", "hellsweep"],
+        "Alias": [
+            "hs",
+            "hellsweep"
+        ],
         "Block frame": "-16~-15",
         "Command": "RSS 4, 2",
         "Counter hit frame": "KND",
@@ -1136,9 +1146,13 @@
         "Start up frame": "19"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "u/b_u_u/f+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",

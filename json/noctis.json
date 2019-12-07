@@ -66,9 +66,12 @@
         "Start up frame": "10"
     },
     {
+        "Alias": [
+            "1,2,4",
+            "1,2,3"
+        ],
         "Block frame": "-26",
         "Command": "1, 2, 3 or 4",
-		"Alias": ["1,2,4","1,2,3"],
         "Counter hit frame": "-18",
         "Damage": "7,8",
         "Gif": "https://gfycat.com/FeistyImpossibleBasil.gif",
@@ -430,9 +433,12 @@
         "Start up frame": "20"
     },
     {
+        "Alias": [
+            "d/b+3",
+            "d+3"
+        ],
         "Block frame": "-13",
         "Command": "d or d/b+3",
-		"Alias": ["d/b+3","d+3"],
         "Counter hit frame": "-2",
         "Damage": "13 cs",
         "Gif": "https://gfycat.com/ScarceFluffyKodiakbear.gif",
@@ -464,7 +470,9 @@
         "Start up frame": "19"
     },
     {
-        "Alias": ["demoman"],
+        "Alias": [
+            "demoman"
+        ],
         "Block frame": "-18s",
         "Command": "d+4, 1, 1+2",
         "Counter hit frame": "KND",
@@ -674,9 +682,13 @@
         "Start up frame": "69"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-4",
         "Command": "u/b or u or u/f+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": "https://gfycat.com/ImaginaryConventionalFlatcoatretriever.gif",
@@ -686,9 +698,13 @@
         "Start up frame": "14"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-8",
         "Command": "u/b or u or u/f+2",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "JG",
         "Damage": "21",
         "Gif": "https://gfycat.com/AdorableMilkyDiamondbackrattlesnake.gif",
@@ -698,9 +714,13 @@
         "Start up frame": "30 js9~"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "-13",
         "Command": "u/b or u or u/f+3",
-		"Alias": ["u/b+3","u+3","u/f+3"],
         "Counter hit frame": "JG",
         "Damage": "11(,23)",
         "Gif": "https://gfycat.com/HarmoniousElderlyIrishredandwhitesetter.gif",
@@ -710,9 +730,13 @@
         "Start up frame": "17 js9~"
     },
     {
+        "Alias": [
+            "u/b+3,u",
+            "u+3,u",
+            "u/f+3,u"
+        ],
         "Block frame": "-13",
         "Command": "u/b or u or u/f+3, u",
-		"Alias": ["u/b+3,u","u+3,u","u/f+3,u"],
         "Counter hit frame": "JG",
         "Damage": "11(,23)",
         "Gif": "",
@@ -722,9 +746,13 @@
         "Start up frame": "17 js9~"
     },
     {
+        "Alias": [
+            "u/b+4",
+            "u+4",
+            "u/f+4"
+        ],
         "Block frame": "-3",
         "Command": "u/b or u or u/f+4",
-		"Alias": ["u/b+4","u+4","u/f+4"],
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/TenderFavoriteAustraliancurlew.gif",

@@ -781,9 +781,13 @@
         "Start up frame": "60~62 js50~"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "-9~-8",
         "Command": "u/b or u or u/f+3",
-		"Alias": ["u/b+3","u+3","u/f+3"],
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/ReadyLimpIbizanhound.gif",
@@ -1420,9 +1424,13 @@
         "Start up frame": "16"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-8",
         "Command": "u/b or u or u/f+1",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -1432,9 +1440,13 @@
         "Start up frame": "18 js9~"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-12~-11",
         "Command": "u/b or u or u/f+2",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",

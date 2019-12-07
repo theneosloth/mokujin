@@ -1,6 +1,8 @@
 [
     {
-        "Alias": ["in rage ws+1+2"],
+        "Alias": [
+            "in rage ws+1+2"
+        ],
         "Block frame": "-3",
         "Command": "in rage 1+2",
         "Counter hit frame": "KND",
@@ -34,7 +36,14 @@
         "Start up frame": "14"
     },
     {
-        "Alias": ["in rage d/f+2+3,f+3","in rage d/f+2+3~f+3","in rage d/f+2+3,f+4","in rage d/f+2+3~f+4","in rage d/f+2+3,dck","in rage d/f+2+3~dck"],
+        "Alias": [
+            "in rage d/f+2+3,f+3",
+            "in rage d/f+2+3~f+3",
+            "in rage d/f+2+3,f+4",
+            "in rage d/f+2+3~f+4",
+            "in rage d/f+2+3,dck",
+            "in rage d/f+2+3~dck"
+        ],
         "Block frame": "+15g",
         "Command": "in rage d/f+2+3~f+(3_4)",
         "Counter hit frame": "JG",
@@ -57,7 +66,9 @@
         "Start up frame": "15 (35~) cs1~"
     },
     {
-        "Alias": ["f+1"],
+        "Alias": [
+            "f+1"
+        ],
         "Block frame": "+1",
         "Command": "1",
         "Counter hit frame": "+8",
@@ -80,7 +91,10 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,1,lwv","1,1~lwv"],
+        "Alias": [
+            "1,1,lwv",
+            "1,1~lwv"
+        ],
         "Block frame": "-6",
         "Command": "1,1,3",
         "Counter hit frame": "0",
@@ -92,7 +106,10 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,1,rwv","1,1~rwv"],
+        "Alias": [
+            "1,1,rwv",
+            "1,1~rwv"
+        ],
         "Block frame": "-6",
         "Command": "1,1,4",
         "Counter hit frame": "0",
@@ -104,7 +121,14 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,1,f+3","1,1~f+3","1,1,f+4","1,1~f+4","1,1,dck","1,1~dck"],
+        "Alias": [
+            "1,1,f+3",
+            "1,1~f+3",
+            "1,1,f+4",
+            "1,1~f+4",
+            "1,1,dck",
+            "1,1~dck"
+        ],
         "Block frame": "-4",
         "Command": "1,1,f+(3_4)",
         "Counter hit frame": "+2",
@@ -116,7 +140,14 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,1,b+3","1,1~b+3","1,1,b+4","1,1~b+4","1,1,swy","1,1~swy"],
+        "Alias": [
+            "1,1,b+3",
+            "1,1~b+3",
+            "1,1,b+4",
+            "1,1~b+4",
+            "1,1,swy",
+            "1,1~swy"
+        ],
         "Block frame": "-6",
         "Command": "1,1,b+(3_4)",
         "Counter hit frame": "0",
@@ -139,7 +170,10 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,1,2,lwv","1,1,2~lwv"],
+        "Alias": [
+            "1,1,2,lwv",
+            "1,1,2~lwv"
+        ],
         "Block frame": "-5",
         "Command": "1,1,2,3",
         "Counter hit frame": "+6",
@@ -151,7 +185,10 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,1,2,rwv","1,1,2~rwv"],
+        "Alias": [
+            "1,1,2,rwv",
+            "1,1,2~rwv"
+        ],
         "Block frame": "-5",
         "Command": "1,1,2,4",
         "Counter hit frame": "+6",
@@ -163,7 +200,14 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,1,2,f+3","1,1,2~f+3","1,1,2,f+4","1,1,2~f+4","1,1,2,dck","1,1,2~dck"],
+        "Alias": [
+            "1,1,2,f+3",
+            "1,1,2~f+3",
+            "1,1,2,f+4",
+            "1,1,2~f+4",
+            "1,1,2,dck",
+            "1,1,2~dck"
+        ],
         "Block frame": "-3",
         "Command": "1,1,2~f+(3_4)",
         "Counter hit frame": "+8",
@@ -175,7 +219,14 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,1,2,b+3","1,1,2~b+3","1,1,2,b+4","1,1,2~b+4","1,1,2,swy","1,1,2~swy"],
+        "Alias": [
+            "1,1,2,b+3",
+            "1,1,2~b+3",
+            "1,1,2,b+4",
+            "1,1,2~b+4",
+            "1,1,2,swy",
+            "1,1,2~swy"
+        ],
         "Block frame": "-5",
         "Command": "1,1,2~b+(3_4)",
         "Counter hit frame": "+6",
@@ -198,7 +249,11 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,1,d+1,b","1,1,d+1,flk","1,1,d+1~flk"],
+        "Alias": [
+            "1,1,d+1,b",
+            "1,1,d+1,flk",
+            "1,1,d+1~flk"
+        ],
         "Block frame": "0",
         "Command": "1,1,d+1~b",
         "Counter hit frame": "+11",
@@ -221,7 +276,10 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,lwv","1,2~lwv"],
+        "Alias": [
+            "1,2,lwv",
+            "1,2~lwv"
+        ],
         "Block frame": "-4",
         "Command": "1,2,3",
         "Counter hit frame": "+4",
@@ -233,7 +291,10 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,rwv","1,2~rwv"],
+        "Alias": [
+            "1,2,rwv",
+            "1,2~rwv"
+        ],
         "Block frame": "-4",
         "Command": "1,2,4",
         "Counter hit frame": "+4",
@@ -245,7 +306,14 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,f+3","1,2~f+3","1,2,f+4","1,2~f+4","1,2,dck","1,2~dck"],
+        "Alias": [
+            "1,2,f+3",
+            "1,2~f+3",
+            "1,2,f+4",
+            "1,2~f+4",
+            "1,2,dck",
+            "1,2~dck"
+        ],
         "Block frame": "-2",
         "Command": "1,2~f+(3_4)",
         "Counter hit frame": "+6",
@@ -257,7 +325,14 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,b+3","1,2~b+3","1,2,b+4","1,2~b+4","1,2,swy","1,2~swy"],
+        "Alias": [
+            "1,2,b+3",
+            "1,2~b+3",
+            "1,2,b+4",
+            "1,2~b+4",
+            "1,2,swy",
+            "1,2~swy"
+        ],
         "Block frame": "-4",
         "Command": "1,2~b+(3_4)",
         "Counter hit frame": "+4",
@@ -280,7 +355,10 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,1,lwv","1,2,1~lwv"],
+        "Alias": [
+            "1,2,1,lwv",
+            "1,2,1~lwv"
+        ],
         "Block frame": "-6",
         "Command": "1,2,1,3",
         "Counter hit frame": "0",
@@ -292,7 +370,10 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,1,rwv","1,2,1~rwv"],
+        "Alias": [
+            "1,2,1,rwv",
+            "1,2,1~rwv"
+        ],
         "Block frame": "-6",
         "Command": "1,2,1,4",
         "Counter hit frame": "0",
@@ -304,7 +385,11 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,1,f","1,2,1,pab","1,2,1~pab"],
+        "Alias": [
+            "1,2,1,f",
+            "1,2,1,pab",
+            "1,2,1~pab"
+        ],
         "Block frame": "-2",
         "Command": "1,2,1~f",
         "Counter hit frame": "+4",
@@ -316,7 +401,14 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,1,f+3","1,2,1~f+3","1,2,1,f+4","1,2,1~f+4","1,2,1,dck","1,2,1~dck"],
+        "Alias": [
+            "1,2,1,f+3",
+            "1,2,1~f+3",
+            "1,2,1,f+4",
+            "1,2,1~f+4",
+            "1,2,1,dck",
+            "1,2,1~dck"
+        ],
         "Block frame": "-4",
         "Command": "1,2,1,f+(3_4)",
         "Counter hit frame": "+2",
@@ -328,7 +420,11 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,1,b","1,2,1,flk","1,2,1~flk"],
+        "Alias": [
+            "1,2,1,b",
+            "1,2,1,flk",
+            "1,2,1~flk"
+        ],
         "Block frame": "-1",
         "Command": "1,2,1~b",
         "Counter hit frame": "+5",
@@ -340,7 +436,14 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,1,b+3","1,2,1~b+3","1,2,1,b+4","1,2,1~b+4","1,2,1,swy","1,2,1~swy"],
+        "Alias": [
+            "1,2,1,b+3",
+            "1,2,1~b+3",
+            "1,2,1,b+4",
+            "1,2,1~b+4",
+            "1,2,1,swy",
+            "1,2,1~swy"
+        ],
         "Block frame": "-6",
         "Command": "1,2,1~b+(3_4)",
         "Counter hit frame": "0",
@@ -363,7 +466,10 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,1,2,lwv","1,2,1,2~lwv"],
+        "Alias": [
+            "1,2,1,2,lwv",
+            "1,2,1,2~lwv"
+        ],
         "Block frame": "-6~-5",
         "Command": "1,2,1,2,3",
         "Counter hit frame": "KND",
@@ -375,7 +481,10 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,1,2,rwv","1,2,1,2~rwv"],
+        "Alias": [
+            "1,2,1,2,rwv",
+            "1,2,1,2~rwv"
+        ],
         "Block frame": "-6~-5",
         "Command": "1,2,1,2,4",
         "Counter hit frame": "KND",
@@ -387,7 +496,14 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,1,2,f+3","1,2,1,2~f+3","1,2,1,2,f+4","1,2,1,2~f+4","1,2,1,2,dck","1,2,1,2~dck"],
+        "Alias": [
+            "1,2,1,2,f+3",
+            "1,2,1,2~f+3",
+            "1,2,1,2,f+4",
+            "1,2,1,2~f+4",
+            "1,2,1,2,dck",
+            "1,2,1,2~dck"
+        ],
         "Block frame": "-6~-5",
         "Command": "1,2,1,2~f+(3_4)",
         "Counter hit frame": "KND",
@@ -399,7 +515,14 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["1,2,1,2,b+3","1,2,1,2~b+3","1,2,1,2,b+4","1,2,1,2~b+4","1,2,1,2,swy","1,2,1,2~swy"],
+        "Alias": [
+            "1,2,1,2,b+3",
+            "1,2,1,2~b+3",
+            "1,2,1,2,b+4",
+            "1,2,1,2~b+4",
+            "1,2,1,2,swy",
+            "1,2,1,2~swy"
+        ],
         "Block frame": "-6~-5",
         "Command": "1,2,1,2~b+(3_4)",
         "Counter hit frame": "KND",
@@ -422,7 +545,9 @@
         "Start up frame": "cs10~"
     },
     {
-        "Alias": ["1,2,1,d+2,d"],
+        "Alias": [
+            "1,2,1,d+2,d"
+        ],
         "Block frame": "-12~-11",
         "Command": "1,2,1,d+2~d",
         "Counter hit frame": "KND",
@@ -445,7 +570,11 @@
         "Start up frame": " 10~"
     },
     {
-        "Alias": ["1,d+1,b","1,d+1,flk","1,d+1~flk"],
+        "Alias": [
+            "1,d+1,b",
+            "1,d+1,flk",
+            "1,d+1~flk"
+        ],
         "Block frame": "0",
         "Command": "1,d+1~b",
         "Counter hit frame": "+11",
@@ -479,7 +608,11 @@
         "Start up frame": "12"
     },
     {
-        "Alias": ["2,1,f","2,1,pab","2,1~pab"],
+        "Alias": [
+            "2,1,f",
+            "2,1,pab",
+            "2,1~pab"
+        ],
         "Block frame": "+2",
         "Command": "2,1~f",
         "Counter hit frame": "+13",
@@ -491,7 +624,11 @@
         "Start up frame": "12"
     },
     {
-        "Alias": ["2,1,b","2,1,flk","2,1~flk"],
+        "Alias": [
+            "2,1,b",
+            "2,1,flk",
+            "2,1~flk"
+        ],
         "Block frame": "+3",
         "Command": "2,1~b",
         "Counter hit frame": "+14",
@@ -536,7 +673,11 @@
         "Start up frame": "21~22"
     },
     {
-        "Alias": ["f+2,1,f","f+2,1,pab","f+2,1~pab"],
+        "Alias": [
+            "f+2,1,f",
+            "f+2,1,pab",
+            "f+2,1~pab"
+        ],
         "Block frame": "0",
         "Command": "f+2,1~f",
         "Counter hit frame": "+4",
@@ -548,7 +689,11 @@
         "Start up frame": "21~22"
     },
     {
-        "Alias": ["f+2,1,b","f+2,1,flk","f+2,1~flk"],
+        "Alias": [
+            "f+2,1,b",
+            "f+2,1,flk",
+            "f+2,1~flk"
+        ],
         "Block frame": "+1",
         "Command": "f+2,1~b",
         "Counter hit frame": "+5",
@@ -604,7 +749,10 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/f+1,lwv","d/f+1~lwv"],
+        "Alias": [
+            "d/f+1,lwv",
+            "d/f+1~lwv"
+        ],
         "Block frame": "-7~-6",
         "Command": "d/f+1,3",
         "Counter hit frame": "0~+1",
@@ -616,7 +764,10 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/f+1,rwv","d/f+1~rwv"],
+        "Alias": [
+            "d/f+1,rwv",
+            "d/f+1~rwv"
+        ],
         "Block frame": "-7~-6",
         "Command": "d/f+1,4",
         "Counter hit frame": "0~+1",
@@ -628,7 +779,14 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/f+1,f+3","d/f+1~f+3","d/f+1,f+4","d/f+1~f+4","d/f+1,dck","d/f+1~dck"],
+        "Alias": [
+            "d/f+1,f+3",
+            "d/f+1~f+3",
+            "d/f+1,f+4",
+            "d/f+1~f+4",
+            "d/f+1,dck",
+            "d/f+1~dck"
+        ],
         "Block frame": "-5~-4",
         "Command": "d/f+1~f+(3_4)",
         "Counter hit frame": "+2~+3",
@@ -640,7 +798,14 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/f+1,b+3","d/f+1~b+3","d/f+1,b+4","d/f+1~b+4","d/f+1,swy","d/f+1~swy"],
+        "Alias": [
+            "d/f+1,b+3",
+            "d/f+1~b+3",
+            "d/f+1,b+4",
+            "d/f+1~b+4",
+            "d/f+1,swy",
+            "d/f+1~swy"
+        ],
         "Block frame": "-7~-6",
         "Command": "d/f+1~b+(3_4)",
         "Counter hit frame": "0~+1",
@@ -663,7 +828,11 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/f+1,2,3","d/f+1,2,lwv","d/f+1,2~lwv"],
+        "Alias": [
+            "d/f+1,2,3",
+            "d/f+1,2,lwv",
+            "d/f+1,2~lwv"
+        ],
         "Block frame": "-16~-15",
         "Command": "d/f+1,2~3",
         "Counter hit frame": "-9~-8",
@@ -675,7 +844,11 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/f+1,2,4","d/f+1,2,rwv","d/f+1,2~rwv"],
+        "Alias": [
+            "d/f+1,2,4",
+            "d/f+1,2,rwv",
+            "d/f+1,2~rwv"
+        ],
         "Block frame": "-16~-15",
         "Command": "d/f+1,2~4",
         "Counter hit frame": "-9~-8",
@@ -687,7 +860,14 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/f+1,2,f+3","d/f+1,2~f+3","d/f+1,2,f+4","d/f+1,2~f+4","d/f+1,2,dck","d/f+1,2~dck"],
+        "Alias": [
+            "d/f+1,2,f+3",
+            "d/f+1,2~f+3",
+            "d/f+1,2,f+4",
+            "d/f+1,2~f+4",
+            "d/f+1,2,dck",
+            "d/f+1,2~dck"
+        ],
         "Block frame": "-14~-13",
         "Command": "d/f+1,2~f+(3_4)",
         "Counter hit frame": "-7~-6",
@@ -699,7 +879,14 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/f+1,2,b+3","d/f+1,2~b+3","d/f+1,2,b+4","d/f+1,2~b+4","d/f+1,2,swy","d/f+1,2~swy"],
+        "Alias": [
+            "d/f+1,2,b+3",
+            "d/f+1,2~b+3",
+            "d/f+1,2,b+4",
+            "d/f+1,2~b+4",
+            "d/f+1,2,swy",
+            "d/f+1,2~swy"
+        ],
         "Block frame": "-16~-15",
         "Command": "d/f+1,2~b+(3_4)",
         "Counter hit frame": "-9~-8",
@@ -722,7 +909,11 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/f+1,2~1,b","d/f+1,2~1,flk","d/f+1,2~1~flk"],
+        "Alias": [
+            "d/f+1,2~1,b",
+            "d/f+1,2~1,flk",
+            "d/f+1,2~1~flk"
+        ],
         "Block frame": "0~+1",
         "Command": "d/f+1,2~1~b",
         "Counter hit frame": "CS",
@@ -756,7 +947,10 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/f+1,2~f+1+2,lwv","d/f+1,2~f+1+2~lwv"],
+        "Alias": [
+            "d/f+1,2~f+1+2,lwv",
+            "d/f+1,2~f+1+2~lwv"
+        ],
         "Block frame": "-4",
         "Command": "d/f+1,2~f+1+2,3",
         "Counter hit frame": "-1 (3rd hit +2)",
@@ -768,7 +962,10 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/f+1,2~f+1+2,rwv","d/f+1,2~f+1+2~rwv"],
+        "Alias": [
+            "d/f+1,2~f+1+2,rwv",
+            "d/f+1,2~f+1+2~rwv"
+        ],
         "Block frame": "-4",
         "Command": "d/f+1,2~f+1+2,4",
         "Counter hit frame": "-1 (3rd hit +2)",
@@ -780,7 +977,14 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/f+1,2~f+1+2,f+3","d/f+1,2~f+1+2~f+3","d/f+1,2~f+1+2,f+4","d/f+1,2~f+1+2~f+4","d/f+1,2~f+1+2,dck","d/f+1,2~f+1+2~dck"],
+        "Alias": [
+            "d/f+1,2~f+1+2,f+3",
+            "d/f+1,2~f+1+2~f+3",
+            "d/f+1,2~f+1+2,f+4",
+            "d/f+1,2~f+1+2~f+4",
+            "d/f+1,2~f+1+2,dck",
+            "d/f+1,2~f+1+2~dck"
+        ],
         "Block frame": "-2",
         "Command": "d/f+1,2~f+1+2~f+(3_4)",
         "Counter hit frame": "+1 (3rd hit +4)",
@@ -792,7 +996,14 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/f+1,2~f+1+2,b+3","d/f+1,2~f+1+2~b+3","d/f+1,2~f+1+2,b+4","d/f+1,2~f+1+2~b+4","d/f+1,2~f+1+2,swy","d/f+1,2~f+1+2~swy"],
+        "Alias": [
+            "d/f+1,2~f+1+2,b+3",
+            "d/f+1,2~f+1+2~b+3",
+            "d/f+1,2~f+1+2,b+4",
+            "d/f+1,2~f+1+2~b+4",
+            "d/f+1,2~f+1+2,swy",
+            "d/f+1,2~f+1+2~swy"
+        ],
         "Block frame": "-4",
         "Command": "d/f+1,2~f+1+2~b+(3_4)",
         "Counter hit frame": "-1 (3rd hit +2)",
@@ -815,7 +1026,10 @@
         "Start up frame": "16~17"
     },
     {
-        "Alias": ["d/f+2,lwv","d/f+2~lwv"],
+        "Alias": [
+            "d/f+2,lwv",
+            "d/f+2~lwv"
+        ],
         "Block frame": "-7~-6",
         "Command": "d/f+2,3",
         "Counter hit frame": "ATG",
@@ -827,7 +1041,10 @@
         "Start up frame": "16~17"
     },
     {
-        "Alias": ["d/f+2,rwv","d/f+2~rwv"],
+        "Alias": [
+            "d/f+2,rwv",
+            "d/f+2~rwv"
+        ],
         "Block frame": "-7~-6",
         "Command": "d/f+2,4",
         "Counter hit frame": "ATG",
@@ -839,7 +1056,14 @@
         "Start up frame": "16~17"
     },
     {
-        "Alias": ["d/f+2,f+3","d/f+2~f+3","d/f+2,f+4","d/f+2~f+4","d/f+2,dck","d/f+2~dck"],
+        "Alias": [
+            "d/f+2,f+3",
+            "d/f+2~f+3",
+            "d/f+2,f+4",
+            "d/f+2~f+4",
+            "d/f+2,dck",
+            "d/f+2~dck"
+        ],
         "Block frame": "-2~-1",
         "Command": "d/f+2~f+(3_4)",
         "Counter hit frame": "ATG",
@@ -851,7 +1075,22 @@
         "Start up frame": "16~17"
     },
     {
-        "Alias": ["d/f+2,f+3,d/b","d/f+2~f+3,d/b","d/f+2,f+4,d/b","d/f+2~f+4,d/b","d/f+2,dck,d/b","d/f+2~dck,d/b","d/f+2,f+3~d/b","d/f+2~f+3~d/b","d/f+2,f+4~d/b","d/f+2~f+4~d/b","d/f+2,dck~d/b","d/f+2~dck~d/b","d/f+2,dckc","d/f+2~dckc"],
+        "Alias": [
+            "d/f+2,f+3,d/b",
+            "d/f+2~f+3,d/b",
+            "d/f+2,f+4,d/b",
+            "d/f+2~f+4,d/b",
+            "d/f+2,dck,d/b",
+            "d/f+2~dck,d/b",
+            "d/f+2,f+3~d/b",
+            "d/f+2~f+3~d/b",
+            "d/f+2,f+4~d/b",
+            "d/f+2~f+4~d/b",
+            "d/f+2,dck~d/b",
+            "d/f+2~dck~d/b",
+            "d/f+2,dckc",
+            "d/f+2~dckc"
+        ],
         "Block frame": "-6~-5",
         "Command": "d/f+2~f+(3_4)~d/b",
         "Counter hit frame": "ATG",
@@ -863,7 +1102,14 @@
         "Start up frame": "16~17s"
     },
     {
-        "Alias": ["d/f+2,b+3","d/f+2~b+3","d/f+2,b+4","d/f+2~b+4","d/f+2,swy","d/f+2~swy"],
+        "Alias": [
+            "d/f+2,b+3",
+            "d/f+2~b+3",
+            "d/f+2,b+4",
+            "d/f+2~b+4",
+            "d/f+2,swy",
+            "d/f+2~swy"
+        ],
         "Block frame": "-7~-6",
         "Command": "d/f+2~b+(3_4)",
         "Counter hit frame": "ATG",
@@ -886,7 +1132,13 @@
         "Start up frame": "14,24~25"
     },
     {
-        "Alias": ["d/f+1+2 whiff","d/f+1+2 2nd whiff","d/f+1+2 2nd hit whiff","d/f+1+2 second hit whiff","d/f+1+2 second whiff"],
+        "Alias": [
+            "d/f+1+2 whiff",
+            "d/f+1+2 2nd whiff",
+            "d/f+1+2 2nd hit whiff",
+            "d/f+1+2 second hit whiff",
+            "d/f+1+2 second whiff"
+        ],
         "Block frame": "-23",
         "Command": "d/f+1+2 (2nd hit whiff)",
         "Counter hit frame": "-12s",
@@ -931,7 +1183,10 @@
         "Start up frame": "17 cs6~?"
     },
     {
-        "Alias": ["d+2,1,lwv","d+2,1~lwv"],
+        "Alias": [
+            "d+2,1,lwv",
+            "d+2,1~lwv"
+        ],
         "Block frame": "-6~-5",
         "Command": "D+2,1,3",
         "Counter hit frame": "+5~+6",
@@ -943,7 +1198,10 @@
         "Start up frame": "17 cs6~?"
     },
     {
-        "Alias": ["d+2,1,rwv","d+2,1~rwv"],
+        "Alias": [
+            "d+2,1,rwv",
+            "d+2,1~rwv"
+        ],
         "Block frame": "-6~-5",
         "Command": "D+2,1,4",
         "Counter hit frame": "+5~+6",
@@ -955,7 +1213,14 @@
         "Start up frame": "17 cs6~?"
     },
     {
-        "Alias": ["d+2,1,f+3","d+2,1~f+3","d+2,1,f+4","d+2,1~f+4","d+2,1,dck","d+2,1~dck"],
+        "Alias": [
+            "d+2,1,f+3",
+            "d+2,1~f+3",
+            "d+2,1,f+4",
+            "d+2,1~f+4",
+            "d+2,1,dck",
+            "d+2,1~dck"
+        ],
         "Block frame": "-4~-3",
         "Command": "D+2,1~f+(3_4)",
         "Counter hit frame": "+7~+8",
@@ -967,7 +1232,14 @@
         "Start up frame": "17 cs6~?"
     },
     {
-        "Alias": ["d+2,1,b+3","d+2,1~b+3","d+2,1,b+4","d+2,1~b+4","d+2,1,swy","d+2,1~swy"],
+        "Alias": [
+            "d+2,1,b+3",
+            "d+2,1~b+3",
+            "d+2,1,b+4",
+            "d+2,1~b+4",
+            "d+2,1,swy",
+            "d+2,1~swy"
+        ],
         "Block frame": "-6~-5",
         "Command": "D+2,1,b+(3_4)",
         "Counter hit frame": "+5~+6",
@@ -1001,7 +1273,10 @@
         "Start up frame": "29~30"
     },
     {
-        "Alias": ["d+2~n+1,lwv","d+2~n+1~lwv"],
+        "Alias": [
+            "d+2~n+1,lwv",
+            "d+2~n+1~lwv"
+        ],
         "Block frame": "-6~-5",
         "Command": "d+2~n+1,3",
         "Counter hit frame": "+5~+6",
@@ -1013,7 +1288,10 @@
         "Start up frame": "29~30"
     },
     {
-        "Alias": ["d+2~n+1,rwv","d+2~n+1~rwv"],
+        "Alias": [
+            "d+2~n+1,rwv",
+            "d+2~n+1~rwv"
+        ],
         "Block frame": "-6~-5",
         "Command": "d+2~n+1,4",
         "Counter hit frame": "+5~+6",
@@ -1025,7 +1303,14 @@
         "Start up frame": "29~30"
     },
     {
-        "Alias": ["d+2~n+1,f+3","d+2~n+1~f+3","d+2~n+1,f+4","d+2~n+1~f+4","d+2~n+1,dck","d+2~n+1~dck"],
+        "Alias": [
+            "d+2~n+1,f+3",
+            "d+2~n+1~f+3",
+            "d+2~n+1,f+4",
+            "d+2~n+1~f+4",
+            "d+2~n+1,dck",
+            "d+2~n+1~dck"
+        ],
         "Block frame": "-4~-3",
         "Command": "d+2~n+1~f+(3_4)",
         "Counter hit frame": "+7~+8",
@@ -1037,7 +1322,14 @@
         "Start up frame": "29~30"
     },
     {
-        "Alias": ["d+2~n+1,b+3","d+2~n+1~b+3","d+2~n+1,b+4","d+2~n+1~b+4","d+2~n+1,swy","d+2~n+1~swy"],
+        "Alias": [
+            "d+2~n+1,b+3",
+            "d+2~n+1~b+3",
+            "d+2~n+1,b+4",
+            "d+2~n+1~b+4",
+            "d+2~n+1,swy",
+            "d+2~n+1~swy"
+        ],
         "Block frame": "-6~-5",
         "Command": "d+2~n+1~b+(3_4)",
         "Counter hit frame": "+5~+6",
@@ -1126,7 +1418,11 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["b+1,b","b+1,flk","b+1~flk"],
+        "Alias": [
+            "b+1,b",
+            "b+1,flk",
+            "b+1~flk"
+        ],
         "Block frame": "-1~0",
         "Command": "b+1~b",
         "Counter hit frame": "CS",
@@ -1138,7 +1434,16 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["b+1,b,d/b","b+1,flk,d/b","b+1~flk,d/b","b+1,b~d/b","b+1,flk~d/b","b+1~flk~d/b","b+1,flkc","b+1~flkc"],
+        "Alias": [
+            "b+1,b,d/b",
+            "b+1,flk,d/b",
+            "b+1~flk,d/b",
+            "b+1,b~d/b",
+            "b+1,flk~d/b",
+            "b+1~flk~d/b",
+            "b+1,flkc",
+            "b+1~flkc"
+        ],
         "Block frame": "-3~-2",
         "Command": "b+1~b~d/b",
         "Counter hit frame": "CS",
@@ -1161,7 +1466,11 @@
         "Start up frame": "13"
     },
     {
-        "Alias": ["b+1,2,f","b+1,2,pab","b+1,2~pab"],
+        "Alias": [
+            "b+1,2,f",
+            "b+1,2,pab",
+            "b+1,2~pab"
+        ],
         "Block frame": "-6~-5",
         "Command": "b+1,2~f",
         "Counter hit frame": "+5~+6",
@@ -1184,7 +1493,11 @@
         "Start up frame": "cs12~"
     },
     {
-        "Alias": ["b+1,d+2,f","b+1,d+2,pab","b+1,d+2~pab"],
+        "Alias": [
+            "b+1,d+2,f",
+            "b+1,d+2,pab",
+            "b+1,d+2~pab"
+        ],
         "Block frame": "-10~-8",
         "Command": "b+1,d+2~f",
         "Counter hit frame": "+1~+3",
@@ -1218,7 +1531,10 @@
         "Start up frame": "17~18"
     },
     {
-        "Alias": ["parry","punch parry"],
+        "Alias": [
+            "parry",
+            "punch parry"
+        ],
         "Block frame": "-",
         "Command": "b+1+2",
         "Counter hit frame": "-",
@@ -1230,7 +1546,9 @@
         "Start up frame": "2~"
     },
     {
-        "Alias": ["b+1+2,1"],
+        "Alias": [
+            "b+1+2,1"
+        ],
         "Block frame": "-12~-10",
         "Command": "Parry 1",
         "Counter hit frame": "Launch",
@@ -1253,9 +1571,12 @@
         "Start up frame": "19~21 js9~"
     },
     {
+        "Alias": [
+            "u+3,2",
+            "u/f+3,2"
+        ],
         "Block frame": "-7~-6",
         "Command": "(u_u/f)+3,2",
-		"Alias": ["u+3,2","u/f+3,2"],
         "Counter hit frame": "KND",
         "Damage": "20,16",
         "Gif": "https://gfycat.com/FatDistantElephant.gif",
@@ -1287,7 +1608,11 @@
         "Start up frame": "16(16~)"
     },
     {
-        "Alias": ["qcf+1,b","qcf+1,flk","qcf+1~flk"],
+        "Alias": [
+            "qcf+1,b",
+            "qcf+1,flk",
+            "qcf+1~flk"
+        ],
         "Block frame": "-3",
         "Command": "QCF+1~b",
         "Counter hit frame": "KND",
@@ -1299,7 +1624,16 @@
         "Start up frame": "16(16~)"
     },
     {
-        "Alias":  ["qcf+1,b,d/b","qcf+1,flk,d/b","qcf+1~flk,d/b","qcf+1,b~d/b"," qcf+1,flk~d/b","qcf+1~flk~d/b","qcf+1,flkc","qcf+1~flkc"],
+        "Alias": [
+            "qcf+1,b,d/b",
+            "qcf+1,flk,d/b",
+            "qcf+1~flk,d/b",
+            "qcf+1,b~d/b",
+            " qcf+1,flk~d/b",
+            "qcf+1~flk~d/b",
+            "qcf+1,flkc",
+            "qcf+1~flkc"
+        ],
         "Block frame": "-5",
         "Command": "QCF+1~b~d/b",
         "Counter hit frame": "KND",
@@ -1322,7 +1656,11 @@
         "Start up frame": "19"
     },
     {
-        "Alias": ["qcf+2,f","qcf+2,pab","qcf+2~pab"],
+        "Alias": [
+            "qcf+2,f",
+            "qcf+2,pab",
+            "qcf+2~pab"
+        ],
         "Block frame": "-19",
         "Command": "QCF+2~f",
         "Counter hit frame": "+2",
@@ -1334,7 +1672,9 @@
         "Start up frame": "19"
     },
     {
-        "Alias": ["unblockable"],
+        "Alias": [
+            "unblockable"
+        ],
         "Block frame": "KND",
         "Command": "QCB,f+2+3",
         "Counter hit frame": "KND",
@@ -1357,7 +1697,9 @@
         "Start up frame": "20~24 (23~) js9~"
     },
     {
-        "Alias": ["running 1"],
+        "Alias": [
+            "running 1"
+        ],
         "Block frame": "-12",
         "Command": "WR+1",
         "Counter hit frame": "KND",
@@ -1391,7 +1733,10 @@
         "Start up frame": "11~12"
     },
     {
-        "Alias": ["ws+1,1,lwv","ws+1,1~lwv"],
+        "Alias": [
+            "ws+1,1,lwv",
+            "ws+1,1~lwv"
+        ],
         "Block frame": "-6",
         "Command": "WS+1,1,3",
         "Counter hit frame": "0",
@@ -1403,7 +1748,10 @@
         "Start up frame": "11~12"
     },
     {
-        "Alias": ["ws+1,1,rwv","ws+1,1~rwv"],
+        "Alias": [
+            "ws+1,1,rwv",
+            "ws+1,1~rwv"
+        ],
         "Block frame": "-6",
         "Command": "WS+1,1,4",
         "Counter hit frame": "0",
@@ -1415,7 +1763,14 @@
         "Start up frame": "11~12"
     },
     {
-        "Alias": ["ws+1,1,f+3","ws+1,1~f+3","ws+1,1,f +4","ws+1,1~f+4","ws+1,1,dck","ws+1,1~dck"],
+        "Alias": [
+            "ws+1,1,f+3",
+            "ws+1,1~f+3",
+            "ws+1,1,f +4",
+            "ws+1,1~f+4",
+            "ws+1,1,dck",
+            "ws+1,1~dck"
+        ],
         "Block frame": "-4",
         "Command": "WS+1,1,f+(3_4)",
         "Counter hit frame": "+2",
@@ -1427,7 +1782,14 @@
         "Start up frame": "11~12"
     },
     {
-        "Alias": ["ws+1,1,b+3","ws+1,1~b+3","ws+1,1,b +4","ws+1,1~b+4","ws+1,1,swy","ws+1,1~swy"],
+        "Alias": [
+            "ws+1,1,b+3",
+            "ws+1,1~b+3",
+            "ws+1,1,b +4",
+            "ws+1,1~b+4",
+            "ws+1,1,swy",
+            "ws+1,1~swy"
+        ],
         "Block frame": "-6",
         "Command": "WS+1,1,b+(3_4)",
         "Counter hit frame": "0",
@@ -1461,7 +1823,10 @@
         "Start up frame": "14~16"
     },
     {
-        "Alias": ["ws+2,lwv","ws+2~lwv"],
+        "Alias": [
+            "ws+2,lwv",
+            "ws+2~lwv"
+        ],
         "Block frame": "-7~-5",
         "Command": "WS+2,3",
         "Counter hit frame": "Launch (JG?)",
@@ -1473,7 +1838,10 @@
         "Start up frame": "14~16"
     },
     {
-        "Alias": ["ws+2,rwv","ws+2~rwv"],
+        "Alias": [
+            "ws+2,rwv",
+            "ws+2~rwv"
+        ],
         "Block frame": "-7~-5",
         "Command": "WS+2,4",
         "Counter hit frame": "Launch (JG?)",
@@ -1485,7 +1853,14 @@
         "Start up frame": "14~16"
     },
     {
-        "Alias": ["ws+2,f+3","ws+2~f+3","ws+2,f +4","ws+2~f+4","ws+2,dck","ws+2~dck"],
+        "Alias": [
+            "ws+2,f+3",
+            "ws+2~f+3",
+            "ws+2,f +4",
+            "ws+2~f+4",
+            "ws+2,dck",
+            "ws+2~dck"
+        ],
         "Block frame": "-5~-3",
         "Command": "WS+2~f+(3_4)",
         "Counter hit frame": "Launch (JG?)",
@@ -1497,7 +1872,14 @@
         "Start up frame": "14~16"
     },
     {
-        "Alias": ["ws+2,b+3","ws+2~b+3","ws+2,b +4","ws+2~b+4","ws+2,swy","ws+2~swy"],
+        "Alias": [
+            "ws+2,b+3",
+            "ws+2~b+3",
+            "ws+2,b +4",
+            "ws+2~b+4",
+            "ws+2,swy",
+            "ws+2~swy"
+        ],
         "Block frame": "-7~-5",
         "Command": "WS+2~b+(3_4)",
         "Counter hit frame": "Launch (JG?)",
@@ -1531,7 +1913,11 @@
         "Start up frame": "18~19"
     },
     {
-        "Alias": ["d+1+2 grounded opponent","opponent down d+1+2","grounded opponent d+1+2"],
+        "Alias": [
+            "d+1+2 grounded opponent",
+            "opponent down d+1+2",
+            "grounded opponent d+1+2"
+        ],
         "Block frame": "-11",
         "Command": "d+1+2 opponent down",
         "Counter hit frame": "+2",
@@ -1554,7 +1940,15 @@
         "Start up frame": "17"
     },
     {
-        "Alias": ["lwv","d+3","ws+3","fc 3","fc d+3","fc d/b+3","ss+3"],
+        "Alias": [
+            "lwv",
+            "d+3",
+            "ws+3",
+            "fc 3",
+            "fc d+3",
+            "fc d/b+3",
+            "ss+3"
+        ],
         "Block frame": "-",
         "Command": "3",
         "Counter hit frame": "-",
@@ -1588,7 +1982,11 @@
         "Start up frame": "15(23~)"
     },
     {
-        "Alias": ["lwv 1,b","lwv 1,flk","lwv 1~flk"],
+        "Alias": [
+            "lwv 1,b",
+            "lwv 1,flk",
+            "lwv 1~flk"
+        ],
         "Block frame": "-3",
         "Command": "LWV 1~b",
         "Counter hit frame": "+8",
@@ -1622,7 +2020,11 @@
         "Start up frame": "15(23~)"
     },
     {
-        "Alias": ["lwv 1,f+1,1,b","lwv 1,f+1,1,flk","lwv 1,f+1,1~flk"],
+        "Alias": [
+            "lwv 1,f+1,1,b",
+            "lwv 1,f+1,1,flk",
+            "lwv 1,f+1,1~flk"
+        ],
         "Block frame": "+4",
         "Command": "LWV 1,f+1,1~b",
         "Counter hit frame": "CS",
@@ -1645,7 +2047,11 @@
         "Start up frame": "14~16 (22~)"
     },
     {
-        "Alias": ["lwv 2,f","lwv 2,pab","lwv 2~pab"],
+        "Alias": [
+            "lwv 2,f",
+            "lwv 2,pab",
+            "lwv 2~pab"
+        ],
         "Block frame": "-1~+1",
         "Command": "LWV 2~f",
         "Counter hit frame": "+8~+10",
@@ -1668,7 +2074,15 @@
         "Start up frame": "14~16 (22~)"
     },
     {
-        "Alias": ["rwv","d+4","ws+4","fc 4","fc d+4","fc d/b+4","ss+4"],
+        "Alias": [
+            "rwv",
+            "d+4",
+            "ws+4",
+            "fc 4",
+            "fc d+4",
+            "fc d/b+4",
+            "ss+4"
+        ],
         "Block frame": "-",
         "Command": "4",
         "Counter hit frame": "-",
@@ -1691,7 +2105,11 @@
         "Start up frame": "14~16 (22~)"
     },
     {
-        "Alias": ["rwv 1,f","rwv 1,pab","rwv 1~pab"],
+        "Alias": [
+            "rwv 1,f",
+            "rwv 1,pab",
+            "rwv 1~pab"
+        ],
         "Block frame": "-1~+1",
         "Command": "RWV 1~f",
         "Counter hit frame": "+8~+10",
@@ -1725,7 +2143,9 @@
         "Start up frame": "15~16 (23~)"
     },
     {
-        "Alias": ["alb"],
+        "Alias": [
+            "alb"
+        ],
         "Block frame": "-",
         "Command": "3+4",
         "Counter hit frame": "-",
@@ -1737,7 +2157,14 @@
         "Start up frame": "15~16 (23~)"
     },
     {
-        "Alias": ["3+4,f","3+4,pab","3+4~pab","alb,f","alb,pab","alb~pab"],
+        "Alias": [
+            "3+4,f",
+            "3+4,pab",
+            "3+4~pab",
+            "alb,f",
+            "alb,pab",
+            "alb~pab"
+        ],
         "Block frame": "-",
         "Command": "3+4~f",
         "Counter hit frame": "-",
@@ -1793,7 +2220,14 @@
         "Start up frame": "21(34) 6~"
     },
     {
-        "Alias": ["alb d,f","alb d,pab","alb d~pab","alb u,f","alb u,pab","alb u~pab"],
+        "Alias": [
+            "alb d,f",
+            "alb d,pab",
+            "alb d~pab",
+            "alb u,f",
+            "alb u,pab",
+            "alb u~pab"
+        ],
         "Block frame": "-",
         "Command": "ALB (d_u)~f",
         "Counter hit frame": "-",
@@ -1805,7 +2239,10 @@
         "Start up frame": "21(34) 6~"
     },
     {
-        "Alias": ["alb d 1","alb u 1"],
+        "Alias": [
+            "alb d 1",
+            "alb u 1"
+        ],
         "Block frame": "-8~-7",
         "Command": "ALB (d_u) 1",
         "Counter hit frame": "KND",
@@ -1817,7 +2254,10 @@
         "Start up frame": "12~13 (49~50)"
     },
     {
-        "Alias": ["alb d d+1","alb u d+1"],
+        "Alias": [
+            "alb d d+1",
+            "alb u d+1"
+        ],
         "Block frame": "-12~-11",
         "Command": "ALB (d_u) d+1",
         "Counter hit frame": "KND",
@@ -1829,7 +2269,13 @@
         "Start up frame": "22~23 (58~59) cs6~"
     },
     {
-        "Alias": ["dck","f+3","f+4","d/f+3","d/f+4"],
+        "Alias": [
+            "dck",
+            "f+3",
+            "f+4",
+            "d/f+3",
+            "d/f+4"
+        ],
         "Block frame": "-",
         "Command": "f+(3_4)",
         "Counter hit frame": "-",
@@ -1841,7 +2287,9 @@
         "Start up frame": "6~35"
     },
     {
-        "Alias": ["dckc"],
+        "Alias": [
+            "dckc"
+        ],
         "Block frame": "-",
         "Command": "f+(3_4)~d/b",
         "Counter hit frame": "-",
@@ -1974,7 +2422,9 @@
         "Start up frame": "16 (22~)"
     },
     {
-        "Alias": ["gatling"],
+        "Alias": [
+            "gatling"
+        ],
         "Block frame": "-12",
         "Command": "DCK 1+2,1,2,1,2,1,2,1,2,1",
         "Counter hit frame": "Launch",
@@ -1997,7 +2447,10 @@
         "Start up frame": "15~16 (21~)"
     },
     {
-        "Alias": ["dck f+2,lwv","dck f+2~lwv"],
+        "Alias": [
+            "dck f+2,lwv",
+            "dck f+2~lwv"
+        ],
         "Block frame": "+1~+2",
         "Command": "DCK f+2,3",
         "Counter hit frame": "CS",
@@ -2009,7 +2462,10 @@
         "Start up frame": "15~16 (21~)"
     },
     {
-        "Alias": ["dck f+2,rwv","dck f+2~rwv"],
+        "Alias": [
+            "dck f+2,rwv",
+            "dck f+2~rwv"
+        ],
         "Block frame": "+1~+2",
         "Command": "DCK f+2,4",
         "Counter hit frame": "CS",
@@ -2021,7 +2477,14 @@
         "Start up frame": "15~16 (21~)"
     },
     {
-        "Alias": ["dck f+2,f+3","dck f+2~f+3","dck f+2,f +4","dck f+2~f+4","dck f+2,dck","dck f+2~dck"],
+        "Alias": [
+            "dck f+2,f+3",
+            "dck f+2~f+3",
+            "dck f+2,f +4",
+            "dck f+2~f+4",
+            "dck f+2,dck",
+            "dck f+2~dck"
+        ],
         "Block frame": "+3~+4",
         "Command": "DCK f+2~f+(3_4)",
         "Counter hit frame": "CS",
@@ -2033,7 +2496,22 @@
         "Start up frame": "15~16 (21~)"
     },
     {
-        "Alias": ["dck f+2,f+3,d/b","dck f+2~f+3,d/b","dck f+2,f+4,d/b","dck f+2~f+4,d/b","dck f+2,dck,d/b","dck f+2~dck,d/b","dck f+2,f+3~d/b","dck f+2~f+3~d/b","dck f+2,f+4~d/b","dck f+2~f+4~d/b","dck f+2,dck~d/b","dck f+2~dck~d/b","dck f+2,dckc","dck f+2~dckc"],
+        "Alias": [
+            "dck f+2,f+3,d/b",
+            "dck f+2~f+3,d/b",
+            "dck f+2,f+4,d/b",
+            "dck f+2~f+4,d/b",
+            "dck f+2,dck,d/b",
+            "dck f+2~dck,d/b",
+            "dck f+2,f+3~d/b",
+            "dck f+2~f+3~d/b",
+            "dck f+2,f+4~d/b",
+            "dck f+2~f+4~d/b",
+            "dck f+2,dck~d/b",
+            "dck f+2~dck~d/b",
+            "dck f+2,dckc",
+            "dck f+2~dckc"
+        ],
         "Block frame": "+0~+1",
         "Command": "DCK f+2~f+(3_4)~d/b",
         "Counter hit frame": "CS",
@@ -2045,7 +2523,14 @@
         "Start up frame": "15~16s (21~)"
     },
     {
-        "Alias": ["dck f+2,b+3","dck f+2~b+3","dck f+2,b +4","dck f+2~b+4","dck f+2,swy","dck f+2~swy"],
+        "Alias": [
+            "dck f+2,b+3",
+            "dck f+2~b+3",
+            "dck f+2,b +4",
+            "dck f+2~b+4",
+            "dck f+2,swy",
+            "dck f+2~swy"
+        ],
         "Block frame": "+1~+2",
         "Command": "DCK f+2~b+(3_4)",
         "Counter hit frame": "CS",
@@ -2057,7 +2542,13 @@
         "Start up frame": "15~16 (21~)"
     },
     {
-        "Alias": ["ext dck","f+3*","f+4*","d/f+3*","d/f+4*"],
+        "Alias": [
+            "ext dck",
+            "f+3*",
+            "f+4*",
+            "d/f+3*",
+            "d/f+4*"
+        ],
         "Block frame": "-",
         "Command": "F+(3_4)*",
         "Counter hit frame": "-",
@@ -2102,7 +2593,10 @@
         "Start up frame": "15~16 (46~)"
     },
     {
-        "Alias": ["ext dck f+2,lwv","ext dck f+2~lwv"],
+        "Alias": [
+            "ext dck f+2,lwv",
+            "ext dck f+2~lwv"
+        ],
         "Block frame": "+9~+10 (+13~+14)",
         "Command": "EXT DCK f+2,3",
         "Counter hit frame": "CS",
@@ -2114,7 +2608,10 @@
         "Start up frame": "15~16 (46~)"
     },
     {
-        "Alias": ["ext dck f+2,rwv","ext dck f+2~rwv"],
+        "Alias": [
+            "ext dck f+2,rwv",
+            "ext dck f+2~rwv"
+        ],
         "Block frame": "+9~+10 (+13~+14)",
         "Command": "EXT DCK f+2,4",
         "Counter hit frame": "CS",
@@ -2126,7 +2623,14 @@
         "Start up frame": "15~16 (46~)"
     },
     {
-        "Alias": ["ext dck f+2,f+3","ext dck f+2~f+3","ext dck f+2,f+4","ext dck f+2~f+4","ext dck f+2,dck","ext dck f+2~dck"],
+        "Alias": [
+            "ext dck f+2,f+3",
+            "ext dck f+2~f+3",
+            "ext dck f+2,f+4",
+            "ext dck f+2~f+4",
+            "ext dck f+2,dck",
+            "ext dck f+2~dck"
+        ],
         "Block frame": "+9~+10 (+15~+16)",
         "Command": "EXT DCK f+2~f+(3_4)",
         "Counter hit frame": "CS",
@@ -2138,7 +2642,22 @@
         "Start up frame": "15~16 (46~)"
     },
     {
-        "Alias": ["ext dck f+2,f+3,d/b","ext dck f+2~f+3,d/b","ext dck f+2,f+4,d/b","ext dck f+2~f+4,d/b","ext dck f+2,dck,d/b","ext dck f+2~dck,d/b","ext dck f+2,f+3~d/b","ext dck f+2~f+3~d/b","ext dck f+2,f+4~d/b","ext dck f+2~f+4~d/b","ext dck f+2,dck~d/b","ext dck f+2~dck~d/b","ext dck f+2,dckc","ext dck f+2~dckc"],
+        "Alias": [
+            "ext dck f+2,f+3,d/b",
+            "ext dck f+2~f+3,d/b",
+            "ext dck f+2,f+4,d/b",
+            "ext dck f+2~f+4,d/b",
+            "ext dck f+2,dck,d/b",
+            "ext dck f+2~dck,d/b",
+            "ext dck f+2,f+3~d/b",
+            "ext dck f+2~f+3~d/b",
+            "ext dck f+2,f+4~d/b",
+            "ext dck f+2~f+4~d/b",
+            "ext dck f+2,dck~d/b",
+            "ext dck f+2~dck~d/b",
+            "ext dck f+2,dckc",
+            "ext dck f+2~dckc"
+        ],
         "Block frame": "+9~+10 (+12~+13)",
         "Command": "EXT DCK f+2~f+(3_4)~d/b",
         "Counter hit frame": "CS",
@@ -2150,7 +2669,14 @@
         "Start up frame": "15~16s (46~)"
     },
     {
-        "Alias": ["ext dck f+2,b+3","ext dck f+2~b+3","ext dck f+2,b+4","ext dck f+2~b+4","ext dck f+2,swy","ext dck f+2~swy"],
+        "Alias": [
+            "ext dck f+2,b+3",
+            "ext dck f+2~b+3",
+            "ext dck f+2,b+4",
+            "ext dck f+2~b+4",
+            "ext dck f+2,swy",
+            "ext dck f+2~swy"
+        ],
         "Block frame": "+9~+10 (+13~+14)",
         "Command": "EXT DCK f+2,b+(3_4)",
         "Counter hit frame": "CS",
@@ -2173,7 +2699,9 @@
         "Start up frame": "16 (47~)"
     },
     {
-        "Alias": ["pab"],
+        "Alias": [
+            "pab"
+        ],
         "Block frame": "-",
         "Command": "f+3+4",
         "Counter hit frame": "-",
@@ -2185,7 +2713,9 @@
         "Start up frame": "1~"
     },
     {
-        "Alias": ["pabc"],
+        "Alias": [
+            "pabc"
+        ],
         "Block frame": "-",
         "Command": "f+3+4~d/b",
         "Counter hit frame": "-",
@@ -2230,9 +2760,12 @@
         "Start up frame": "12~13 (13~)"
     },
     {
+        "Alias": [
+            "PAB u/b+2",
+            "PAB u+2"
+        ],
         "Block frame": "-3",
         "Command": "PAB (2_u/b+2)",
-		"Alias": ["PAB u/b+2","PAB u+2"],
         "Counter hit frame": "CS",
         "Damage": "19(31)",
         "Gif": "",
@@ -2418,7 +2951,11 @@
         "Start up frame": "17~18 (18~)"
     },
     {
-        "Alias": ["pab b+1,1,2,1,b","pab b+1,1,2,1,flk","pab b+1,1,2,1~flk"],
+        "Alias": [
+            "pab b+1,1,2,1,b",
+            "pab b+1,1,2,1,flk",
+            "pab b+1,1,2,1~flk"
+        ],
         "Block frame": "-3",
         "Command": "PAB b+1,1,2,1~b",
         "Counter hit frame": "KND",
@@ -2441,9 +2978,12 @@
         "Start up frame": "28~29 (29~)"
     },
     {
+        "Alias": [
+            "PAB u+2",
+            "PAB u/f+2"
+        ],
         "Block frame": "-15~-13",
         "Command": "PAB (u_u/f)+2",
-		"Alias": ["PAB u+2","PAB u/f+2"],
         "Counter hit frame": "Launch",
         "Damage": "23",
         "Gif": "https://gfycat.com/LittleDelayedAcornwoodpecker.gif",
@@ -2453,7 +2993,13 @@
         "Start up frame": "17~19a (18~) js9~"
     },
     {
-        "Alias": ["swy","sway","d/b+4","b+3","b+4"],
+        "Alias": [
+            "swy",
+            "sway",
+            "d/b+4",
+            "b+3",
+            "b+4"
+        ],
         "Block frame": "-",
         "Command": "b+(3_4)",
         "Counter hit frame": "-",
@@ -2498,7 +3044,9 @@
         "Start up frame": "10 (20~)"
     },
     {
-        "Alias": ["flk"],
+        "Alias": [
+            "flk"
+        ],
         "Block frame": "-",
         "Command": "b+3+4",
         "Counter hit frame": "-",
@@ -2521,7 +3069,11 @@
         "Start up frame": "12 (17~)"
     },
     {
-        "Alias": ["flk 1,b+3+4","flk 1~flk","flk 1,flk"],
+        "Alias": [
+            "flk 1,b+3+4",
+            "flk 1~flk",
+            "flk 1,flk"
+        ],
         "Block frame": "+16g",
         "Command": "FLK 1~b+3+4",
         "Counter hit frame": "+27",
@@ -2533,7 +3085,11 @@
         "Start up frame": "12"
     },
     {
-        "Alias": ["flk 1,1,b+3+4","flk 1,1~flk","flk 1,1,flk"],
+        "Alias": [
+            "flk 1,1,b+3+4",
+            "flk 1,1~flk",
+            "flk 1,1,flk"
+        ],
         "Block frame": "+16g",
         "Command": "FLK 1,1~b+3+4",
         "Counter hit frame": "+27",
@@ -2545,7 +3101,11 @@
         "Start up frame": "12"
     },
     {
-        "Alias": ["flk 1,1,1,b+3+4","flk 1,1,1~flk","flk 1,1,1,flk"],
+        "Alias": [
+            "flk 1,1,1,b+3+4",
+            "flk 1,1,1~flk",
+            "flk 1,1,1,flk"
+        ],
         "Block frame": "+16g",
         "Command": "FLK 1,1,1~b+3+4",
         "Counter hit frame": "+27",
@@ -2590,7 +3150,11 @@
         "Start up frame": "12"
     },
     {
-        "Alias": ["flk 1,b","flk 1,flk","flk 1~flk"],
+        "Alias": [
+            "flk 1,b",
+            "flk 1,flk",
+            "flk 1~flk"
+        ],
         "Block frame": "-1",
         "Command": "FLK 1~b",
         "Counter hit frame": "+10",
@@ -2602,7 +3166,16 @@
         "Start up frame": "12"
     },
     {
-        "Alias": ["flk 1,b,d/b","flk 1,flk,d/b","flk 1~flk,d/b","flk 1,b~d/b","flk 1,flk~d/b","flk 1~flk~d/b","flk 1,flkc","flk 1~flkc"],
+        "Alias": [
+            "flk 1,b,d/b",
+            "flk 1,flk,d/b",
+            "flk 1~flk,d/b",
+            "flk 1,b~d/b",
+            "flk 1,flk~d/b",
+            "flk 1~flk~d/b",
+            "flk 1,flkc",
+            "flk 1~flkc"
+        ],
         "Block frame": "-3",
         "Command": "FLK 1~b~d/b",
         "Counter hit frame": "+8",
@@ -2614,7 +3187,11 @@
         "Start up frame": "12s"
     },
     {
-        "Alias": ["flk 1,1,b","flk 1,1,flk","flk 1,1~flk"],
+        "Alias": [
+            "flk 1,1,b",
+            "flk 1,1,flk",
+            "flk 1,1~flk"
+        ],
         "Block frame": "-3",
         "Command": "FLK 1,1~b",
         "Counter hit frame": "+5",
@@ -2626,7 +3203,16 @@
         "Start up frame": "12"
     },
     {
-        "Alias": ["flk 1,1,b,d/b","flk 1,1,flk,d/b","flk 1,1~flk,d/b","flk 1,1,b~d/b","flk 1,1,flk~d/b","flk 1,1~flk~d/b","flk 1,1,flkc","flk 1,1~flkc"],
+        "Alias": [
+            "flk 1,1,b,d/b",
+            "flk 1,1,flk,d/b",
+            "flk 1,1~flk,d/b",
+            "flk 1,1,b~d/b",
+            "flk 1,1,flk~d/b",
+            "flk 1,1~flk~d/b",
+            "flk 1,1,flkc",
+            "flk 1,1~flkc"
+        ],
         "Block frame": "-5",
         "Command": "FLK 1,1~b~d/b",
         "Counter hit frame": "+3",
@@ -2638,7 +3224,11 @@
         "Start up frame": "12s"
     },
     {
-        "Alias": ["flk 1,1,1,b","flk 1,1,1,flk","flk 1,1,1~flk"],
+        "Alias": [
+            "flk 1,1,1,b",
+            "flk 1,1,1,flk",
+            "flk 1,1,1~flk"
+        ],
         "Block frame": "-4",
         "Command": "FLK 1,1,1~b",
         "Counter hit frame": "+4",
@@ -2650,7 +3240,16 @@
         "Start up frame": "12"
     },
     {
-        "Alias": ["flk 1,1,1,b,d/b","flk 1,1,1,flk,d/b","flk 1,1,1~flk,d/b","flk 1,1,1,b~d/b","flk 1,1,1,flk~d/b","flk 1,1,1~flk~d/b","flk 1,1,1,flkc","flk 1,1,1~flkc"],
+        "Alias": [
+            "flk 1,1,1,b,d/b",
+            "flk 1,1,1,flk,d/b",
+            "flk 1,1,1~flk,d/b",
+            "flk 1,1,1,b~d/b",
+            "flk 1,1,1,flk~d/b",
+            "flk 1,1,1~flk~d/b",
+            "flk 1,1,1,flkc",
+            "flk 1,1,1~flkc"
+        ],
         "Block frame": "-6",
         "Command": "FLK 1,1,1~b~d/b",
         "Counter hit frame": "+2",
@@ -2673,7 +3272,10 @@
         "Start up frame": "12"
     },
     {
-        "Alias": ["flk 1,d+1","flk 1,u+1"],
+        "Alias": [
+            "flk 1,d+1",
+            "flk 1,u+1"
+        ],
         "Block frame": "0~+2",
         "Command": "FLK 1,(d_u)+1",
         "Counter hit frame": "Tail spin",
@@ -2740,7 +3342,10 @@
         "Start up frame": "15~16"
     },
     {
-        "Alias": ["u+4","u/f+4"],
+        "Alias": [
+            "u+4",
+            "u/f+4"
+        ],
         "Block frame": "-14~-11",
         "Command": "(u_u/f)+2",
         "Counter hit frame": "KND",
@@ -2752,7 +3357,10 @@
         "Start up frame": "22~25 js9~"
     },
     {
-        "Alias": ["u+3","u/f+3"],
+        "Alias": [
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "-12~-11",
         "Command": "(u_u/f)+3",
         "Counter hit frame": "+9~+10",
@@ -2764,7 +3372,10 @@
         "Start up frame": "36~37 js9~35"
     },
     {
-        "Alias": ["u+4","u/f+4"],
+        "Alias": [
+            "u+4",
+            "u/f+4"
+        ],
         "Block frame": "-14~-13",
         "Command": "(u_u/f)+4",
         "Counter hit frame": "Launch (JG?)",
@@ -2776,7 +3387,11 @@
         "Start up frame": "23~24 js9"
     },
     {
-        "Alias": ["fc 1","fc d+1","fc d/b+1"],
+        "Alias": [
+            "fc 1",
+            "fc d+1",
+            "fc d/b+1"
+        ],
         "Block frame": "-5",
         "Command": "FC (1_d/b+1)",
         "Counter hit frame": "+6",
@@ -2810,7 +3425,10 @@
         "Start up frame": "11s cs1~"
     },
     {
-        "Alias": ["bt 1","bt 2"],
+        "Alias": [
+            "bt 1",
+            "bt 2"
+        ],
         "Block frame": "-8",
         "Command": "BT (1_2)",
         "Counter hit frame": "+3",
@@ -2822,7 +3440,10 @@
         "Start up frame": "8"
     },
     {
-        "Alias": ["bt 3","bt 4"],
+        "Alias": [
+            "bt 3",
+            "bt 4"
+        ],
         "Block frame": "-",
         "Command": "BT (3_4)",
         "Counter hit frame": "-",
@@ -2834,7 +3455,10 @@
         "Start up frame": "8"
     },
     {
-        "Alias": ["bt d+1","bt d+2"],
+        "Alias": [
+            "bt d+1",
+            "bt d+2"
+        ],
         "Block frame": "-2",
         "Command": "BT d+(1_2)",
         "Counter hit frame": "+9",
@@ -2846,7 +3470,10 @@
         "Start up frame": "10s cs1~"
     },
     {
-        "Alias": ["bt d+3","bt d+4"],
+        "Alias": [
+            "bt d+3",
+            "bt d+4"
+        ],
         "Block frame": "-",
         "Command": "BT d+(3_4)",
         "Counter hit frame": "-",

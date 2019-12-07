@@ -121,11 +121,14 @@
         "Start up frame": "10"
     },
     {
+        "Alias": [
+            "1,4,2,1,u",
+            "1,4,2,1,d"
+        ],
         "Block frame": "-10",
         "Command": "1,4,2,1,u or d (Cancel)",
         "Counter hit frame": "CS",
         "Damage": "7,14,18",
-		"Alias": ["1,4,2,1,u","1,4,2,1,d"],
         "Gif": "",
         "Hit frame": "+1",
         "Hit level": "h,h,h",
@@ -507,7 +510,11 @@
         "Start up frame": "15"
     },
     {
-		"Alias": ["d/f+1,1,2", "d/f+1,1,1,2", "d/f+1,1,1,1,2"],
+        "Alias": [
+            "d/f+1,1,2",
+            "d/f+1,1,1,2",
+            "d/f+1,1,1,1,2"
+        ],
         "Block frame": "-15",
         "Command": "d/f+1,2",
         "Counter hit frame": "KND",
@@ -552,7 +559,9 @@
         "Start up frame": "13"
     },
     {
-		"Alias": [ "Snake Edge" ],
+        "Alias": [
+            "Snake Edge"
+        ],
         "Block frame": "-26",
         "Command": "d/f+3",
         "Counter hit frame": "KND",
@@ -806,9 +815,12 @@
         "Start up frame": "17"
     },
     {
+        "Alias": [
+            "b+2,1,u",
+            "b+2,1,d"
+        ],
         "Block frame": "-10",
         "Command": "b+2,1,u or d (Cancel)",
-		"Alias": ["b+2,1,u","b+2,1,d"],
         "Counter hit frame": "CS",
         "Damage": "18",
         "Gif": "",
@@ -851,13 +863,16 @@
         "Start up frame": "19"
     },
     {
+        "Alias": [
+            "b+3,df",
+            "b+3,f"
+        ],
         "Block frame": "+1",
         "Command": "b+3, F or d/F",
         "Counter hit frame": "+12",
         "Damage": "12",
         "Gif": "https://gfycat.com/FearlessSparklingDowitcher.gif\n",
         "Hit frame": "+12g",
-		"Alias": ["b+3,df","b+3,f"],
         "Hit level": "m,(Special) (TC)(CD)",
         "Notes": "-",
         "Start up frame": "19"
@@ -951,6 +966,10 @@
         "Start up frame": "16"
     },
     {
+        "Alias": [
+            "b+2+4",
+            "b+1+3"
+        ],
         "Block frame": "-",
         "Command": "b+1+3 or b+2+4",
         "Counter hit frame": "-",
@@ -958,9 +977,7 @@
         "Gif": "",
         "Hit frame": "+3",
         "Hit level": "Absorbs 1 h/m hit",
-		"Alias": ["b+2+4","b+1+3"],
         "Notes": "-",
-		
         "Start up frame": "2~10"
     },
     {
@@ -1129,7 +1146,9 @@
         "Start up frame": "15"
     },
     {
-		"Alias": [ "Orbital" ],
+        "Alias": [
+            "Orbital"
+        ],
         "Block frame": "-5~-3",
         "Command": "u+4",
         "Counter hit frame": "KND",
@@ -1141,7 +1160,9 @@
         "Start up frame": "24~26 js9~"
     },
     {
-		"Alias": [ "Orbital" ],
+        "Alias": [
+            "Orbital"
+        ],
         "Block frame": "-5~-3",
         "Command": "u/f+4",
         "Counter hit frame": "KND",
@@ -1197,7 +1218,10 @@
         "Start up frame": "16~19 (17~)"
     },
     {
-		"Alias": [ "Jet Upper", "JU" ],
+        "Alias": [
+            "Jet Upper",
+            "JU"
+        ],
         "Block frame": "-7~-6",
         "Command": "f,b+2",
         "Counter hit frame": "Launch",
@@ -1264,7 +1288,12 @@
         "Start up frame": "19"
     },
     {
-		"Alias": ["WS+2,f+2", "WS+2,b+2", "WS+2~f+2", "WS+2~b+2"],
+        "Alias": [
+            "WS+2,f+2",
+            "WS+2,b+2",
+            "WS+2~f+2",
+            "WS+2~b+2"
+        ],
         "Block frame": "-10",
         "Command": "WS+2,(f_b)+2",
         "Counter hit frame": "Throw(KND)",
@@ -1342,12 +1371,14 @@
         "Start up frame": "13"
     },
     {
-		"Alias": ["Northern cross"],
+        "Alias": [
+            "Northern cross"
+        ],
         "Block frame": "-10~-9",
         "Command": "FC+d/f+4",
         "Counter hit frame": "KND",
         "Damage": "21",
-        "Gif": "",
+        "Gif": "https://gfycat.com/YawningEnlightenedKestrel.gif",
         "Hit frame": "+13~+14kg",
         "Hit level": "m",
         "Notes": "Tail spin",
@@ -1816,7 +1847,10 @@
         "Start up frame": "22~24"
     },
     {
-		"Alias": ["d+1", "d/b+1"],
+        "Alias": [
+            "d+1",
+            "d/b+1"
+        ],
         "Block frame": "-5",
         "Command": "d/b or d+1",
         "Counter hit frame": "+6",
@@ -1949,9 +1983,13 @@
         "Start up frame": "16"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "u/b or u or u/f+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -1961,9 +1999,13 @@
         "Start up frame": "18 js9~"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-12~-11",
         "Command": "u/b or u or u/f+2",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",
@@ -1984,11 +2026,14 @@
         "Start up frame": "18"
     },
     {
+        "Alias": [
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "0~+1",
         "Command": "u or u/f+3",
         "Counter hit frame": "KND",
         "Damage": "15",
-		"Alias": ["u+3","u/f+3"],
         "Gif": "https://gfycat.com/EachAccomplishedHornedviper.gif\n",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
@@ -2029,11 +2074,14 @@
         "Start up frame": "24~26 js9~"
     },
     {
+        "Alias": [
+            "u+3+4",
+            "u/f+3+4"
+        ],
         "Block frame": "-17",
         "Command": "u or u/f+3+4",
         "Counter hit frame": "KND",
         "Damage": "25",
-		"Alias": ["u+3+4","u/f+3+4"],
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",

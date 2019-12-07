@@ -1309,9 +1309,9 @@
         "Start up frame": "8~21 (20~)"
     },
     {
+        "Alias": "",
         "Block frame": "-9~-8",
         "Command": "f, f, f+3",
-        "Alias": "",
         "Counter hit frame": "KND",
         "Damage": "14",
         "Gif": "",
@@ -1574,9 +1574,13 @@
         "Start up frame": "18~28s (18~) js9~"
     },
     {
+        "Alias": [
+            "FC u/b+4,3",
+            "FC u+4,3",
+            "FC u/f+4,3"
+        ],
         "Block frame": "-17~-7",
         "Command": "FC+u/b_u_u/f+4, 3",
-		"Alias": ["FC u/b+4,3","FC u+4,3","FC u/f+4,3"],
         "Counter hit frame": "Launch (JG?) (-6~+4)",
         "Damage": "(15or22or)25",
         "Gif": "",
@@ -1597,9 +1601,13 @@
         "Start up frame": "14~17 js9~"
     },
     {
+        "Alias": [
+            "FC u/b+4,d",
+            "FC u+4,d",
+            "FC u/f+4,d"
+        ],
         "Block frame": "-31~-28",
         "Command": "FC+u/b_u_U/F+4, d",
-		"Alias": ["FC u/b+4,d","FC u+4,d","FC u/f+4,d"],
         "Counter hit frame": "KND",
         "Damage": "33or37or40",
         "Gif": "",
@@ -1609,9 +1617,13 @@
         "Start up frame": "14~16s js9~"
     },
     {
+        "Alias": [
+            "FC u/b+3+4",
+            "FC u+3+4",
+            "FC u/f+3+4"
+        ],
         "Block frame": "-4~-2",
         "Command": "FC+u/b_u_U/F+3+4",
-		"Alias": ["FC u/b+3+4","FC u+3+4","FC u/f+3+4"],
         "Counter hit frame": "KND",
         "Damage": "30,20",
         "Gif": "https://gfycat.com/ComplexSaneConey.gif",
@@ -1621,12 +1633,14 @@
         "Start up frame": "46~49, 56~58d js9~"
     },
     {
-        "Alias": ["slide"],
+        "Alias": [
+            "slide"
+        ],
         "Block frame": "-23~-19",
         "Command": "FC+d/f, d, D/F+3",
         "Counter hit frame": "KND",
         "Damage": "22",
-        "Gif": "",
+        "Gif": "https://gfycat.com/GraySmallJumpingbean.gif",
         "Hit frame": "KND",
         "Hit level": "l (TC)",
         "Notes": "-",
@@ -1820,9 +1834,12 @@
         "Start up frame": "25~29 js16~"
     },
     {
+        "Alias": [
+            "f, n",
+            "HMS f"
+        ],
         "Block frame": "-",
         "Command": "f, n_HMS f (to MS)",
-        "Alias" : ["f, n", "HMS f"],
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "https://gfycat.com/ConcreteTeemingBeagle.gif",
@@ -2151,9 +2168,13 @@
         "Start up frame": "20~22"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "u/b_u_u/f+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -2163,9 +2184,13 @@
         "Start up frame": "18 js9~"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-12~-11",
         "Command": "u/b_u_u/f+2",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",
@@ -2241,9 +2266,12 @@
         "Start up frame": "15~16 js9~"
     },
     {
+        "Alias": [
+            "u/b+3+4",
+            "u+3+4"
+        ],
         "Block frame": "-17",
         "Command": "u/b_u+3+4",
-		"Alias": ["u/b+3+4","u+3+4"],
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "",

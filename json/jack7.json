@@ -297,9 +297,12 @@
         "Start up frame": "15~16"
     },
     {
+        "Alias": [
+            "f+3+4",
+            "FC d/f+3+4"
+        ],
         "Block frame": "-12~-7",
         "Command": "f+3+4_FC+d/f+3+4",
-        "Alias": ["f+3+4","FC d/f+3+4"],
         "Counter hit frame": "KND",
         "Damage": "28",
         "Gif": "https://gfycat.com/shortvastbuckeyebutterfly",
@@ -848,9 +851,13 @@
         "Start up frame": "32~34"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "+4~+6s",
         "Command": "u/b_u_u/f+2",
-        "Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/smugancientfirecrest.gif",
@@ -1509,9 +1516,12 @@
         "Start up frame": "17~19 (26~)"
     },
     {
+        "Alias": [
+            "d/b+3+4",
+            "d+3+4"
+        ],
         "Block frame": "-",
         "Command": "d/b+3+4_d+3+4 (to SIT)",
-        "Alias": ["d/b+3+4", "d+3+4"],
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "https://gfycat.com/finishedrepentantgyrfalcon.gif",
@@ -1961,9 +1971,12 @@
         "Start up frame": "17"
     },
     {
+        "Alias": [
+            "u+3",
+            "u/b+3"
+        ],
         "Block frame": "-21",
         "Command": "u/b_u+3",
-		"Alias": ["u+3","u/b+3"],
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "",
@@ -1995,9 +2008,12 @@
         "Start up frame": "15~17 js9~"
     },
     {
+        "Alias": [
+            "u+4",
+            "u/f+4"
+        ],
         "Block frame": "-16",
         "Command": "u_u/f+4",
-		"Alias": ["u+4","u/f+4"],
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "",
@@ -2007,9 +2023,13 @@
         "Start up frame": "25 js9~"
     },
     {
+        "Alias": [
+            "u/b,n,2",
+            "u,n,2",
+            "u/f,n,2"
+        ],
         "Block frame": "-1~+1s",
         "Command": "u/b_u_u/f, n+2",
-		"Alias": ["u/b,n,2","u,n,2","u/f,n,2"],
         "Counter hit frame": "+10~+12s",
         "Damage": "28",
         "Gif": "",
@@ -2085,9 +2105,12 @@
         "Start up frame": "19~21s cs1~"
     },
     {
+        "Alias": [
+            "FC d/b+2",
+            "FC d+2"
+        ],
         "Block frame": "-4",
         "Command": "FC+d/b_d+2",
-        "Alias" : ["FC d/b+2","FC d+2"],
         "Counter hit frame": "+7",
         "Damage": "8",
         "Gif": "",

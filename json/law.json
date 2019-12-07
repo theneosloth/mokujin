@@ -1056,9 +1056,13 @@
         "Start up frame": "12"
     },
     {
+        "Alias": [
+            "u/b+3,4",
+            "u+3,4",
+            "u/f+3,4"
+        ],
         "Block frame": "-17~-16",
         "Command": "u/b or u or u/f+3, 4",
-		"Alias": ["u/b+3,4","u+3,4","u/f+3,4"],
         "Counter hit frame": "Launch (JG?)",
         "Damage": "25,23",
         "Gif": "https://gfycat.com/EveryFantasticJavalina.gif",
@@ -1090,9 +1094,13 @@
         "Start up frame": "29~30 js8~"
     },
     {
+        "Alias": [
+            "u/b+4,3",
+            "u+4,3",
+            "u/f+4,3"
+        ],
         "Block frame": "-18~-15",
         "Command": "u/b or u or U/F+4, 3",
-		"Alias": ["u/b+4,3","u+4,3","u/f+4,3"],
         "Counter hit frame": "Launch (JG?)",
         "Damage": "22,22",
         "Gif": "https://gfycat.com/AgilePassionateHorse.gif",
@@ -1454,9 +1462,13 @@
         "Start up frame": "14~17s js9~"
     },
     {
+        "Alias": [
+            "FC u/b+3,4",
+            "FC u+3,4",
+            "FC u/f+3,4"
+        ],
         "Block frame": "-4~-2",
         "Command": "FC+u/b or u or U/F+3+4",
-		"Alias": ["FC u/b+3,4","FC u+3,4","FC u/f+3,4"],
         "Counter hit frame": "KND",
         "Damage": "30,20",
         "Gif": "",
@@ -1466,12 +1478,14 @@
         "Start up frame": "46~49a, 56~58d js9~"
     },
     {
-        "Alias": ["slide"],
+        "Alias": [
+            "slide"
+        ],
         "Block frame": "-23~-19",
         "Command": "FC+d/f, d, D/F+3",
         "Counter hit frame": "KND",
         "Damage": "22",
-        "Gif": "",
+        "Gif": "https://gfycat.com/ShockedUnkemptBluetonguelizard.gif",
         "Hit frame": "KND",
         "Hit level": "l (TC)",
         "Notes": "-",
@@ -2006,9 +2020,13 @@
         "Start up frame": "15"
     },
     {
+        "Alias": [
+            "BT u/b+3,4",
+            "BT u+3,4",
+            "BT u/f+3,4"
+        ],
         "Block frame": "-18~-16",
         "Command": "BT u/b or u or u/f+3, 4",
-		"Alias": ["BT u/b+3,4","BT u+3,4","BT u/f+3,4"],
         "Counter hit frame": "Launch (JG?)",
         "Damage": "25,23",
         "Gif": "",
@@ -2326,9 +2344,13 @@
         "Start up frame": "12"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-12~-11",
         "Command": "u/b or u or u/f+2",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",
@@ -2349,9 +2371,13 @@
         "Start up frame": "42~44 js9~"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "-17",
         "Command": "u/b or u or u/f+3",
-		"Alias": ["u/b+3","u+3","u/f+3"],
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/HonoredPoliticalKillifish.gif",

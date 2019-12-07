@@ -803,9 +803,13 @@
         "Start up frame": "100"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-12",
         "Command": "(u/b_u_u/f)+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "-1",
         "Damage": "12",
         "Gif": "",
@@ -815,8 +819,12 @@
         "Start up frame": "18"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-12",
-        "Alias": ["u/b+2","u+2","u/f+2"],
         "Command": "(u/b_u_u/f)+2",
         "Counter hit frame": "+9",
         "Damage": "17",
@@ -827,9 +835,13 @@
         "Start up frame": "15"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "-2",
         "Command": "(u/b_u_u/f)+3",
-        "Alias": ["u/b+3","u+3","u/f+3"],
         "Counter hit frame": "JG",
         "Damage": "25",
         "Gif": "",
@@ -850,9 +862,12 @@
         "Start up frame": "23 js9"
     },
     {
+        "Alias": [
+            "u+4",
+            "u/f+4"
+        ],
         "Block frame": "-9",
         "Command": "(u_u/f)+4",
-		"Alias": ["u+4","u/f+4"],
         "Counter hit frame": "KND",
         "Damage": "18",
         "Gif": "https://gfycat.com/BigImpishEyas.gif",
@@ -906,9 +921,13 @@
         "Start up frame": "17"
     },
     {
+        "Alias": [
+            "u/b+3+4",
+            "u+3+4",
+            "u/f+3+4"
+        ],
         "Block frame": "-3s",
         "Command": "(u/b_u_u/f)+3+4",
-		"Alias": ["u/b+3+4","u+3+4","u/f+3+4"],
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/IncompatibleGloomyAtlanticspadefish.gif",
@@ -1404,7 +1423,10 @@
         "Start up frame": "17 pc8"
     },
     {
-        "Alias": ["hs","hellsweep"],
+        "Alias": [
+            "hs",
+            "hellsweep"
+        ],
         "Block frame": "-39",
         "Command": "VTS d+1+2",
         "Counter hit frame": "KND",

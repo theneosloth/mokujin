@@ -506,9 +506,12 @@
         "Start up frame": "14"
     },
     {
+        "Alias": [
+            "d/b+1,1+2",
+            "d+1,1+2"
+        ],
         "Block frame": "-1",
         "Command": "d/b or d+1, 1+2",
-		"Alias" : ["d/b+1,1+2","d+1,1+2"],
         "Counter hit frame": "+10",
         "Damage": "5",
         "Gif": "",
@@ -914,9 +917,12 @@
         "Start up frame": "22~30, 40,58 pc8~"
     },
     {
+        "Alias": [
+            "Jump qcb+1",
+            "Jump qcb+2"
+        ],
         "Block frame": "-34~",
         "Command": "Jump qcb+1 or 2",
-		"Alias": ["Jump qcb+1","Jump qcb+2"],
         "Counter hit frame": "-23~",
         "Damage": "14",
         "Gif": "https://gfycat.com/MisguidedEachAtlanticsharpnosepuffer.gif",
@@ -926,9 +932,12 @@
         "Start up frame": "17~(~) js1~"
     },
     {
+        "Alias": [
+            "f+1+2, qcb+1",
+            "f+1+2, qcb+2"
+        ],
         "Block frame": "-27~",
         "Command": "f+1+2, qcb+1 or 2",
-		"Alias": ["f+1+2, qcb+1","f+1+2, qcb+2"],
         "Counter hit frame": "KND",
         "Damage": "15,14",
         "Gif": "https://gfycat.com/MistyShorttermAmmonite.gif",
@@ -1246,9 +1255,12 @@
         "Start up frame": "15s"
     },
     {
+        "Alias": [
+            "FC d+4",
+            "d+4"
+        ],
         "Block frame": "-31",
         "Command": "d+4",
-        "Alias": ["FC d+4","d+4"],
         "Counter hit frame": "KND",
         "Damage": "15",
         "Gif": "https://gfycat.com/AnchoredUncommonCheetah.gif",
@@ -1262,7 +1274,7 @@
         "Command": "b+1",
         "Counter hit frame": "+4",
         "Damage": "10",
-        "Gif": null,
+        "Gif": "",
         "Hit frame": "+4",
         "Hit level": "h",
         "Notes": "-",
@@ -1284,7 +1296,7 @@
         "Command": "b+3",
         "Counter hit frame": "+2",
         "Damage": "11",
-        "Gif": null,
+        "Gif": "",
         "Hit frame": "+2",
         "Hit level": "m",
         "Notes": "-",
@@ -1295,7 +1307,7 @@
         "Command": "b+4",
         "Counter hit frame": "-2",
         "Damage": "10",
-        "Gif": null,
+        "Gif": "",
         "Hit frame": "-4",
         "Hit level": "l",
         "Notes": "-",

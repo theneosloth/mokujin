@@ -682,9 +682,13 @@
         "Start up frame": "22"
     },
     {
+        "Alias": [
+            "u/b+1+2",
+            "u+1+2",
+            "u/f+1+2"
+        ],
         "Block frame": "-12",
         "Command": "u/b_u_u/f+1+2",
-		"Alias": ["u/b+1+2","u+1+2","u/f+1+2"],
         "Counter hit frame": "-1",
         "Damage": "12 js9",
         "Gif": "",
@@ -705,9 +709,12 @@
         "Start up frame": "25"
     },
     {
+        "Alias": [
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-9",
         "Command": "u_u/f+2",
-		"Alias": ["u+2","u/f+2"],
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/ExemplarySpeedyChuckwalla.gif",
@@ -717,9 +724,13 @@
         "Start up frame": "24"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "-9",
         "Command": "u/b_u_u/f+3",
-		"Alias": ["u/b+3","u+3","u/f+3"],
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/OrangeGiddyFlycatcher.gif",
@@ -729,9 +740,13 @@
         "Start up frame": "29 js9"
     },
     {
+        "Alias": [
+            "u/b+4",
+            "u+4",
+            "u/f+4"
+        ],
         "Block frame": "-7",
         "Command": "u/b_u_u/f+4",
-		"Alias": ["u/b+4","u+4","u/f+4"],
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/AptPleasantBullmastiff.gif",

@@ -649,9 +649,12 @@
         "Start up frame": "11~12"
     },
     {
+        "Alias": [
+            "Jump 1 BT u+1",
+            "Jump 1 BT u/f+1"
+        ],
         "Block frame": "-25~0",
         "Command": "Jump 1 BT u or u/f+1",
-		"Alias": ["Jump 1 BT u+1","Jump 1 BT u/f+1"],
         "Counter hit frame": "-15~+10",
         "Damage": "10",
         "Gif": "",
@@ -661,9 +664,12 @@
         "Start up frame": "7a(12~) js1~"
     },
     {
+        "Alias": [
+            "Jump 2 BT u+2",
+            "Jump 2 BT u/f+2"
+        ],
         "Block frame": "-17~+8",
         "Command": "Jump 2 BT u or u/f+2",
-		"Alias": ["Jump 2 BT u+2","Jump 2 BT u/f+2"],
         "Counter hit frame": "-7~+18",
         "Damage": "15",
         "Gif": "",
@@ -673,9 +679,12 @@
         "Start up frame": "9a(12~) js1~"
     },
     {
+        "Alias": [
+            "Jump 3 BT u+3",
+            "Jump 3 BT u/f+3"
+        ],
         "Block frame": "-25~0",
         "Command": "Jump 3 BT u or u/f+3",
-		"Alias": ["Jump 3 BT u+3","Jump 3 BT u/f+3"],
         "Counter hit frame": "-15~+10",
         "Damage": "10",
         "Gif": "",
@@ -685,9 +694,12 @@
         "Start up frame": "7a(12~) js1~"
     },
     {
+        "Alias": [
+            "Jump 4 BT u+4",
+            "Jump 4 BT u/f+4"
+        ],
         "Block frame": "-18~+7",
         "Command": "Jump 4 BT u or u/f+4",
-		"Alias": ["Jump 4 BT u+4","Jump 4 BT u/f+4"],
         "Counter hit frame": "-8~+17",
         "Damage": "15",
         "Gif": "",

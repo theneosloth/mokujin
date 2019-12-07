@@ -253,9 +253,13 @@
         "Start up frame": "23,30~32 js5~"
     },
     {
+        "Alias": [
+            "3+4, d/b",
+            "3+4,d",
+            "3+4, d/f"
+        ],
         "Block frame": "-6~-4",
         "Command": "3+4, d/b_d_d/f",
-        "Alias": ["3+4, d/b","3+4,d", "3+4, d/f"],
         "Counter hit frame": "KND",
         "Damage": "10,21",
         "Gif": "",
@@ -507,6 +511,11 @@
         "Start up frame": "18"
     },
     {
+        "Alias": [
+            "d+1+2",
+            "FC d/b+1+2",
+            "FC d+1+2"
+        ],
         "Block frame": "-18",
         "Command": "d+1+2_FC+d/b_FC d+1+2",
         "Counter hit frame": "KND",
@@ -515,7 +524,6 @@
         "Hit frame": "KND",
         "Hit level": "l (TC)",
         "Notes": "-",
-		"Alias": ["d+1+2","FC d/b+1+2","FC d+1+2"],
         "Start up frame": "20 cs15~"
     },
     {
@@ -673,9 +681,13 @@
         "Start up frame": "16~17 10~"
     },
     {
+        "Alias": [
+            "b+3,2,b",
+            "b+3,2,d",
+            "b+3,2,d/f"
+        ],
         "Block frame": "-33~-32",
         "Command": "b+3, 2, (d/b_d_d/f) (Cancel)",
-        "Alias" : ["b+3,2,b","b+3,2,d","b+3,2,d/f"],
         "Counter hit frame": "Launch (JG?)",
         "Damage": "15",
         "Gif": "",
@@ -1499,9 +1511,13 @@
         "Start up frame": "15~16"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "u/b_u_u/f+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -1511,9 +1527,12 @@
         "Start up frame": "18 js9~"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2"
+        ],
         "Block frame": "-12~-11",
         "Command": "u/b_u+2",
-		"Alias": ["u/b+2","u+2"],
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",
@@ -1545,9 +1564,13 @@
         "Start up frame": "14"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "-3~-2",
         "Command": "u/b_u_u/f+3",
-		"Alias": ["u/b+3","u+3","u/f+3"],
         "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": "https://gfycat.com/ImportantMealyBluebreastedkookaburra.gif\n",
@@ -1568,12 +1591,15 @@
         "Start up frame": "20~21 js9~"
     },
     {
+        "Alias": [
+            "u+4",
+            "u/f+4"
+        ],
         "Block frame": "-13~-12",
         "Command": "u_u/f+4",
         "Counter hit frame": "Launch (JG?)",
-		"Alias": ["u+4","u/f+4"],
         "Damage": "25",
-        "Gif": "https://gfycat.com/UnripeNippyIndianhare.gif\n",
+        "Gif": "https://gfycat.com/UnripeNippyIndianhare.gif",
         "Hit frame": "Launch (JG?)",
         "Hit level": "m (TJ)",
         "Notes": "-",

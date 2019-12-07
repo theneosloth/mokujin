@@ -374,6 +374,10 @@
         "Start up frame": "28 cs13"
     },
     {
+        "Alias": [
+            "d+1,4",
+            "FC d+1,4"
+        ],
         "Block frame": "-10",
         "Command": "d+1, 4 _ FCd+1, 4",
         "Counter hit frame": "+6",
@@ -381,7 +385,6 @@
         "Gif": "https://gfycat.com/shortreflectingfeline.gif",
         "Hit frame": "+6",
         "Hit level": "sm, m",
-		"Alias": ["d+1,4", "FC d+1,4"],
         "Notes": "-",
         "Start up frame": "-"
     },
@@ -485,6 +488,10 @@
         "Start up frame": "-"
     },
     {
+        "Alias": [
+            "d+1+4",
+            "d+2+3"
+        ],
         "Block frame": "-",
         "Command": "d+1+4_d+2+3",
         "Counter hit frame": "-",
@@ -493,10 +500,13 @@
         "Hit frame": "-",
         "Hit level": "Special (SHS)",
         "Notes": "-",
-		"Alias": ["d+1+4","d+2+3"],
         "Start up frame": "total 27"
     },
     {
+        "Alias": [
+            "d+1+4,1+2",
+            "d+2+3,1+2"
+        ],
         "Block frame": "-19s",
         "Command": "d+1+4_d+2+3, 1+2",
         "Counter hit frame": "Throw",
@@ -505,14 +515,16 @@
         "Hit frame": "Throw",
         "Hit level": "m (TC) (throw)",
         "Notes": "-",
-		"Alias": ["d+1+4,1+2","d+2+3,1+2"],
         "Start up frame": "14"
     },
     {
+        "Alias": [
+            "d+1+4, 2",
+            "d+2+3, 2"
+        ],
         "Block frame": "-13",
         "Command": "d+1+4_d+2+3, 2",
         "Counter hit frame": "KND",
-		"Alias": ["d+1+4, 2","d+2+3, 2"],
         "Damage": "20",
         "Gif": "",
         "Hit frame": "+5",
@@ -730,6 +742,11 @@
         "Start up frame": "20"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-18s",
         "Command": "u/b_u_u/f+2",
         "Counter hit frame": "KND",
@@ -738,7 +755,6 @@
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "-",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Start up frame": "48 js9"
     },
     {
@@ -753,6 +769,10 @@
         "Start up frame": "23"
     },
     {
+        "Alias": [
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "-8",
         "Command": "u_u/f+3",
         "Counter hit frame": "Launch",
@@ -761,7 +781,6 @@
         "Hit frame": "+5",
         "Hit level": "m (TJ)",
         "Notes": "-",
-		"Alias": ["u+3","u/f+3"],
         "Start up frame": "21 js17"
     },
     {
@@ -1260,7 +1279,9 @@
         "Start up frame": "15"
     },
     {
-        "Alias": ["du"],
+        "Alias": [
+            "du"
+        ],
         "Block frame": "-10",
         "Command": "f, N, d, d/f+2",
         "Counter hit frame": "JG",

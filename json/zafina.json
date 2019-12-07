@@ -781,9 +781,12 @@
         "Start up frame": "64"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1"
+        ],
         "Block frame": "-12",
         "Command": "u/b_u+1",
-		"Alias": ["u/b+1","u+1"],
         "Counter hit frame": "-1",
         "Damage": "12",
         "Gif": "",
@@ -804,9 +807,13 @@
         "Start up frame": "19"
     },
     {
+        "Alias": [
+            "u/b+2,2",
+            "u+2,2",
+            "u/f+2,2"
+        ],
         "Block frame": "-12",
         "Command": "u/b_u_u/f+22",
-		"Alias": ["u/b+2,2","u+2,2","u/f+2,2"],
         "Counter hit frame": "+9g",
         "Damage": "17",
         "Gif": "",

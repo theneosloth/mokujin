@@ -143,9 +143,12 @@
         "Start up frame": "17"
     },
     {
+        "Alias": [
+            "1+2,1+2,f+2",
+            "1+2,1+2,b+2"
+        ],
         "Block frame": "-",
         "Command": "1+2,1+2,fb+2",
-        "Alias" : ["1+2,1+2,f+2","1+2,1+2,b+2"],
         "Counter hit frame": "Throw(KND)",
         "Damage": "20,20,18",
         "Gif": "https://gfycat.com/rawdarlinghornet.gif",
@@ -364,9 +367,12 @@
         "Start up frame": "20s cs7~"
     },
     {
+        "Alias": [
+            "d+1+2",
+            "BT 1+2"
+        ],
         "Block frame": "-18~-17",
         "Command": "d+1+2BT 1+2",
-		"Alias": ["d+1+2","BT 1+2"],
         "Counter hit frame": "KND",
         "Damage": "28",
         "Gif": "https://gfycat.com/anguishedcoordinatedflicker.gif",
@@ -552,9 +558,13 @@
         "Start up frame": "72"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-9",
         "Command": "u/buu/f+2",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/FamousWavyCrownofthornsstarfish.gif",
@@ -597,9 +607,13 @@
         "Start up frame": "23~24 js9~"
     },
     {
+        "Alias": [
+            "u/b+4",
+            "u+4",
+            "u/f+4"
+        ],
         "Block frame": "-13~-11",
         "Command": "u/buu/f+4",
-		"Alias": ["u/b+4","u+4","u/f+4"],
         "Counter hit frame": "Launch (JG?)",
         "Damage": "13",
         "Gif": "https://gfycat.com/DirtyApprehensiveDuckbillcat.gif",
@@ -620,9 +634,12 @@
         "Start up frame": "20,33~34 2js21~"
     },
     {
+        "Alias": [
+            "f,f+2",
+            "fc d/f+2"
+        ],
         "Block frame": "-18~-16",
         "Command": "f, F+2FC+d/f+2",
-		"Alias": ["f,f+2","fc d/f+2"],
         "Counter hit frame": "-7~-5",
         "Damage": "14",
         "Gif": "",
@@ -632,11 +649,14 @@
         "Start up frame": "14~16 (15~)"
     },
     {
+        "Alias": [
+            "f,f+2,2",
+            "fc d/f+2,2"
+        ],
         "Block frame": "-2~-1",
         "Command": "f, F+2, 2FC+d/f+2, 2",
         "Counter hit frame": "KND",
         "Damage": "14,20",
-		"Alias": ["f,f+2,2","fc d/f+2,2"],
         "Gif": "https://gfycat.com/amusedinexperiencedcusimanse.gif",
         "Hit frame": "KND",
         "Hit level": "m, h (STB)",
@@ -644,9 +664,12 @@
         "Start up frame": "14~16 (15~)"
     },
     {
+        "Alias": [
+            "f,f+2,1+2",
+            "fc d/f+2,1+2"
+        ],
         "Block frame": "-13~-12",
         "Command": "f, F+2, 1+2FC+d/f+2, 1+2",
-		"Alias": ["f,f+2,1+2","fc d/f+2,1+2"],
         "Counter hit frame": "KND",
         "Damage": "14,20",
         "Gif": "https://gfycat.com/dearestwhoppingcrayfish.gif",
@@ -1206,9 +1229,13 @@
         "Start up frame": "14"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "u/buu/f+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "16",
         "Gif": "",

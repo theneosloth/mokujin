@@ -1925,9 +1925,13 @@
         "Start up frame": "12"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-7~-6",
         "Command": "u/b or u or u/f+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "+4~+5 (+12~+13)",
         "Damage": "12",
         "Gif": "https://gfycat.com/IdioticHeartfeltGrizzlybear.gif",
@@ -1970,9 +1974,13 @@
         "Start up frame": "18"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "-2~0",
         "Command": "u/b or u or u/f+3",
-		"Alias": ["u/b+3","u+3","u/f+3"],
         "Counter hit frame": "KND",
         "Damage": "22",
         "Gif": "https://gfycat.com/HappygoluckyParallelBobolink.gif",

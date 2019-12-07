@@ -627,9 +627,12 @@
         "Start up frame": "17a(18~) js13~"
     },
     {
+        "Alias": [
+            "f,f+3",
+            "f,f,f+3"
+        ],
         "Block frame": "-12",
         "Command": "f, F+3 or f, f, f+3",
-		"Alias": ["f,f+3","f,f,f+3"],
         "Counter hit frame": "KND",
         "Damage": "13",
         "Gif": "",
@@ -716,12 +719,14 @@
         "Start up frame": "11~12"
     },
     {
-        "Alias": ["slide"],
+        "Alias": [
+            "slide"
+        ],
         "Block frame": "-23~-19",
         "Command": "FC+d/f, d, D/F+3",
         "Counter hit frame": "KND",
         "Damage": "21",
-        "Gif": "",
+        "Gif": "https://gfycat.com/LinedAbandonedArctichare.gif",
         "Hit frame": "KND",
         "Hit level": "l (SNK)",
         "Notes": "-",
@@ -1102,9 +1107,13 @@
         "Start up frame": "17"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "u/b or u or u/f+1",
-		"Alias": ["u/b+1","u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -1114,9 +1123,13 @@
         "Start up frame": "18 js9~"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-12~-11",
         "Command": "u/b or u or u/f+2",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",
@@ -1159,9 +1172,13 @@
         "Start up frame": "25~26 js9~"
     },
     {
+        "Alias": [
+            "u/b+4",
+            "u+4",
+            "u/f+4"
+        ],
         "Block frame": "-13~-11",
         "Command": "u/b or u or u/f+4",
-		"Alias": ["u/b+4","u+4","u/f+4"],
         "Counter hit frame": "Launch (JG?)",
         "Damage": "13",
         "Gif": "https://gfycat.com/ExaltedRightHousefly.gif",

@@ -33,7 +33,9 @@
         "Start up frame": "15~16 (18~)"
     },
     {
-        "Alias": ["f+1"],
+        "Alias": [
+            "f+1"
+        ],
         "Block frame": "+1",
         "Command": "1",
         "Counter hit frame": "+8",
@@ -199,7 +201,9 @@
         "Start up frame": "15~16"
     },
     {
-        "Alias": ["3,1,d/f"],
+        "Alias": [
+            "3,1,d/f"
+        ],
         "Block frame": "0",
         "Command": "3,1~d/f",
         "Counter hit frame": "+8",
@@ -299,7 +303,15 @@
         "Start up frame": "25~26d js13~"
     },
     {
-        "Alias": ["3+4,1","3+4,2","3+4,3","3+4,4","3+4,tech","3+4,techroll","3+4, tech roll"],
+        "Alias": [
+            "3+4,1",
+            "3+4,2",
+            "3+4,3",
+            "3+4,4",
+            "3+4,tech",
+            "3+4,techroll",
+            "3+4, tech roll"
+        ],
         "Block frame": "-24~-23g",
         "Command": "3+4,any",
         "Counter hit frame": "CS",
@@ -344,7 +356,9 @@
         "Start up frame": "20"
     },
     {
-        "Alias": ["f+3,d/f"],
+        "Alias": [
+            "f+3,d/f"
+        ],
         "Block frame": "-1",
         "Command": "f+3~d/f",
         "Counter hit frame": "+7",
@@ -466,7 +480,9 @@
         "Start up frame": "15~16"
     },
     {
-        "Alias": ["d/f+3 close"],
+        "Alias": [
+            "d/f+3 close"
+        ],
         "Block frame": "-6",
         "Command": "d/f+3 (close)",
         "Counter hit frame": "Throw(KND)",
@@ -500,7 +516,10 @@
         "Start up frame": "12"
     },
     {
-        "Alias": ["d/f+1+2","FC d/f+1+2"],
+        "Alias": [
+            "d/f+1+2",
+            "FC d/f+1+2"
+        ],
         "Block frame": "-",
         "Command": "d/f+1+2",
         "Counter hit frame": "-",
@@ -732,7 +751,9 @@
         "Start up frame": "15~"
     },
     {
-        "Alias": ["b+2,1,3~1+2,d"],
+        "Alias": [
+            "b+2,1,3~1+2,d"
+        ],
         "Block frame": "-36~-34",
         "Command": "b+2,1,3~1+2~d",
         "Counter hit frame": "-25~-23",
@@ -766,7 +787,9 @@
         "Start up frame": "15"
     },
     {
-        "Alias": ["b+4,2,d"],
+        "Alias": [
+            "b+4,2,d"
+        ],
         "Block frame": "-7",
         "Command": "b+4,2~d",
         "Counter hit frame": "+5s",
@@ -800,7 +823,12 @@
         "Start up frame": "15"
     },
     {
-        "Alias": ["b+4,2,1+2,1","b+4,2,1+2,2","b+4,2,1+2,3","b+4,2,1+2,4"],
+        "Alias": [
+            "b+4,2,1+2,1",
+            "b+4,2,1+2,2",
+            "b+4,2,1+2,3",
+            "b+4,2,1+2,4"
+        ],
         "Block frame": "-50",
         "Command": "b+4,2,1+2,any",
         "Counter hit frame": "-38s",
@@ -999,7 +1027,9 @@
         "Start up frame": "20~21 (23~)"
     },
     {
-        "Alias": ["running 3"],
+        "Alias": [
+            "running 3"
+        ],
         "Block frame": "-15",
         "Command": "WR+3",
         "Counter hit frame": "Throw(KND)",
@@ -1132,7 +1162,12 @@
         "Start up frame": "20~21 (29~)"
     },
     {
-        "Alias": ["SS+2,1+2,1+2,1","SS+2,1+2,1+2,2","SS+2,1+2,1+2,3","SS+2,1+2,1+2,4"],
+        "Alias": [
+            "SS+2,1+2,1+2,1",
+            "SS+2,1+2,1+2,2",
+            "SS+2,1+2,1+2,3",
+            "SS+2,1+2,1+2,4"
+        ],
         "Block frame": "-51~-50",
         "Command": "SS+2,1+2,1+2,any",
         "Counter hit frame": "-45~-44s (3rd hit -39~-38s)",
@@ -1166,7 +1201,9 @@
         "Start up frame": "16"
     },
     {
-        "Alias": ["FDFT 1+2"],
+        "Alias": [
+            "FDFT 1+2"
+        ],
         "Block frame": "-",
         "Command": "FDFA 1+2",
         "Counter hit frame": "-",
@@ -1178,7 +1215,9 @@
         "Start up frame": "s(b)"
     },
     {
-        "Alias": ["FDFT 1+2,1+2"],
+        "Alias": [
+            "FDFT 1+2,1+2"
+        ],
         "Block frame": "-",
         "Command": "FDFA 1+2,1+2",
         "Counter hit frame": "-",
@@ -1190,7 +1229,12 @@
         "Start up frame": "30"
     },
     {
-    "Alias": ["d+3+4 grounded opponent","opponent down d+3+4","grounded opponent d+3+4","stomp"],
+        "Alias": [
+            "d+3+4 grounded opponent",
+            "opponent down d+3+4",
+            "grounded opponent d+3+4",
+            "stomp"
+        ],
         "Block frame": "-11",
         "Command": "d+3+4 opponent down",
         "Counter hit frame": "0",
@@ -1345,7 +1389,11 @@
         "Start up frame": "14~15"
     },
     {
-        "Alias": ["u/b+1+2","u+1+2","u/f+1+2"],
+        "Alias": [
+            "u/b+1+2",
+            "u+1+2",
+            "u/f+1+2"
+        ],
         "Block frame": "-8",
         "Command": "(u/b_u_u/f)+1+2",
         "Counter hit frame": "+3",
@@ -1368,7 +1416,10 @@
         "Start up frame": "15"
     },
     {
-        "Alias": ["u+2","u/f+2"],
+        "Alias": [
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-5~-4",
         "Command": "(u_u/f)+2",
         "Counter hit frame": "KND",
@@ -1479,7 +1530,10 @@
         "Start up frame": "12s cs1~"
     },
     {
-        "Alias": ["bt 1","bt 2"],
+        "Alias": [
+            "bt 1",
+            "bt 2"
+        ],
         "Block frame": "-8",
         "Command": "BT (1_2)",
         "Counter hit frame": "+3",
@@ -1491,7 +1545,10 @@
         "Start up frame": "8"
     },
     {
-        "Alias": ["bt 3","bt 4"],
+        "Alias": [
+            "bt 3",
+            "bt 4"
+        ],
         "Block frame": "-8",
         "Command": "BT (3_4)",
         "Counter hit frame": "KND",
@@ -1503,7 +1560,10 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["bt d+1","bt d+2"],
+        "Alias": [
+            "bt d+1",
+            "bt d+2"
+        ],
         "Block frame": "-2",
         "Command": "BT d+(1_2)",
         "Counter hit frame": "+9",
