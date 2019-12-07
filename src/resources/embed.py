@@ -67,14 +67,14 @@ def help_embed():
            "?feedback message   - send message including sender name to the devs  \n\n " \
             "The bot automatically deletes it's own messages after 20 seconds except in channel with the 'tekken' or 'frame' in it"
     embed = discord.Embed(title='Commands', description=text, colour=0x37ba25)
-    embed.set_author(name='Author: Tib')
+    embed.set_author(name='Author: Tib#1303')
 
     return embed
 
 
 def thank_embed():
     text = "\n\n" \
-           "Much thanks and love to T7Chicken Team, Ruxx, BKNR, Vesper, Maxwell, Dramen, Dreamotion, Jacket and Cangu. \n\n" \
+           "Much thanks and love especially to T7Chicken Team, Ruxx, BKNR, Vesper, Maxwell and Evil. \n\n" \
            "This project won't be possible without you guys <3"
     embed = discord.Embed(title='Commands', description=text, colour=0x37ba25)
     embed.set_author(name='Author: Tib')

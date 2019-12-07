@@ -541,7 +541,7 @@
     },
     {
         "Block frame": "-",
-        "Command": "d/b or d+4, 1+2",
+        "Command": "d+4, 1+2",
         "Counter hit frame": "KND",
         "Damage": "15",
         "Gif": "",
@@ -1247,7 +1247,7 @@
     },
     {
         "Block frame": "-31",
-        "Command": "d+4 or FC+4",
+        "Command": "d+4",
         "Counter hit frame": "KND",
         "Damage": "15",
         "Gif": "",
