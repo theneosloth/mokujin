@@ -443,7 +443,7 @@
             "FC+3"
         ],
         "Block frame": "-11",
-        "Command": "d3",
+        "Command": "d+3",
         "Counter hit frame": "-2",
         "Damage": "7",
         "Gif": "",

@@ -1,6 +1,5 @@
 import json, os, sys
 
-debug = True
 # import gifs from the source folder into json folders by comparing the moves notation and alias
 sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
 import tkfinder
@@ -12,6 +11,8 @@ source_path = os.path.abspath(os.path.join(base_path, "..", "..", "tc")) + "\\"
 to_path = os.path.abspath(os.path.join(base_path, "..", "..", "json")) + "\\"
 in_entries = os.listdir(source_path)
 out_entries = os.listdir(to_path)
+
+debug = True
 
 for entry in in_entries:
     with open(source_path + entry, 'r') as chicken_app_json:
@@ -40,7 +41,6 @@ for entry in in_entries:
 
                         msg = '{};{};{}'.format(from_data['displayName'], from_move['notation'].strip(), gif_url)
                         print(msg)
-
 
         chicken_app_json.close()
         mokujin_json.close()
