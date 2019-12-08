@@ -616,28 +616,17 @@
         "Start up frame": "25~26 js9~"
     },
     {
-        "Block frame": "-12",
-        "Command": "f, F+3 or f, f, f+3 (Close)",
-        "Counter hit frame": "Throw(Launch)",
-        "Damage": "13(,5,5)",
-        "Gif": "https://gfycat.com/VigorousFairGallinule.gif",
-        "Hit frame": "Throw(Launch)",
-        "Hit level": "m (TJ)(, (throw))",
-        "Notes": "-",
-        "Start up frame": "17a(18~) js13~"
-    },
-    {
         "Alias": [
             "f,f+3",
             "f,f,f+3"
         ],
         "Block frame": "-12",
-        "Command": "f, F+3 or f, f, f+3",
-        "Counter hit frame": "KND",
-        "Damage": "13",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "m (TJ)",
+        "Command": "f, F+3",
+        "Counter hit frame": "Throw(Launch)",
+        "Damage": "13(,5,5)",
+        "Gif": "https://gfycat.com/VigorousFairGallinule.gif",
+        "Hit frame": "Throw(Launch)",
+        "Hit level": "m (TJ)(, (throw))",
         "Notes": "-",
         "Start up frame": "17a(18~) js13~"
     },
@@ -665,7 +654,7 @@
     },
     {
         "Block frame": "+6",
-        "Command": "f, f, f+2 or WR+2",
+        "Command": "f, f, f+2",
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/CommonGlisteningBaboon.gif",
@@ -1113,7 +1102,7 @@
             "u/f+1"
         ],
         "Block frame": "-8",
-        "Command": "u/b or u or u/f+1",
+        "Command": "u/b_u_u/f+1",
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -1129,7 +1118,7 @@
             "u/f+2"
         ],
         "Block frame": "-12~-11",
-        "Command": "u/b or u or u/f+2",
+        "Command": "u/b_u_u/f+2",
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",
@@ -1178,7 +1167,7 @@
             "u/f+4"
         ],
         "Block frame": "-13~-11",
-        "Command": "u/b or u or u/f+4",
+        "Command": "u/b_u_u/f+4",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "13",
         "Gif": "https://gfycat.com/ExaltedRightHousefly.gif",
@@ -1340,38 +1329,5 @@
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "14"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "BT 3 or 4",
-        "Counter hit frame": "KND",
-        "Damage": "25",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "-",
-        "Start up frame": "10"
-    },
-    {
-        "Block frame": "-2",
-        "Command": "BT d+1 or 2",
-        "Counter hit frame": "+9",
-        "Damage": "10",
-        "Gif": "",
-        "Hit frame": "+9",
-        "Hit level": "Sm",
-        "Notes": "-",
-        "Start up frame": "10s cs1~"
-    },
-    {
-        "Block frame": "-11",
-        "Command": "BT d+3 or 4",
-        "Counter hit frame": "+3",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "+3",
-        "Hit level": "l",
-        "Notes": "-",
-        "Start up frame": "10s cs1~"
     }
 ]

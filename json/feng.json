@@ -1639,8 +1639,12 @@
         "Start up frame": "18~20s cs6~"
     },
     {
+        "Alias": [
+            "BT 1+4",
+            "BT 2+3"
+        ],
         "Block frame": "Throw(KND)",
-        "Command": "BT 1+4 or BT 2+3",
+        "Command": "BT 1+4_BT 2+3",
         "Counter hit frame": "Throw(KND)",
         "Damage": "50",
         "Gif": "",
@@ -1931,7 +1935,7 @@
             "u/f+1"
         ],
         "Block frame": "-7~-6",
-        "Command": "u/b or u or u/f+1",
+        "Command": "u/b_u_u/f+1",
         "Counter hit frame": "+4~+5 (+12~+13)",
         "Damage": "12",
         "Gif": "https://gfycat.com/IdioticHeartfeltGrizzlybear.gif",
@@ -1980,7 +1984,7 @@
             "u/f+3"
         ],
         "Block frame": "-2~0",
-        "Command": "u/b or u or u/f+3",
+        "Command": "u/b_u_u/f+3",
         "Counter hit frame": "KND",
         "Damage": "22",
         "Gif": "https://gfycat.com/HappygoluckyParallelBobolink.gif",
@@ -2067,50 +2071,6 @@
         "Start up frame": "11~12"
     },
     {
-        "Block frame": "-5",
-        "Command": "FC+d/b or d+1",
-        "Counter hit frame": "+6",
-        "Damage": "5",
-        "Gif": "",
-        "Hit frame": "+6",
-        "Hit level": "Sm (TC)",
-        "Notes": "-",
-        "Start up frame": "10s cs1~"
-    },
-    {
-        "Block frame": "-4",
-        "Command": "FC+d/b or d+2",
-        "Counter hit frame": "+7",
-        "Damage": "8",
-        "Gif": "",
-        "Hit frame": "+7",
-        "Hit level": "Sm (TC)",
-        "Notes": "-",
-        "Start up frame": "11s cs1~"
-    },
-    {
-        "Block frame": "-17",
-        "Command": "FC+3",
-        "Counter hit frame": "-3",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "-3",
-        "Hit level": "l (TC)",
-        "Notes": "-",
-        "Start up frame": "16s cs1~"
-    },
-    {
-        "Block frame": "-15",
-        "Command": "FC+4",
-        "Counter hit frame": "-4",
-        "Damage": "10",
-        "Gif": "",
-        "Hit frame": "-4",
-        "Hit level": "l (TC)",
-        "Notes": "-",
-        "Start up frame": "12s cs1~"
-    },
-    {
         "Block frame": "+1",
         "Command": "SS+1",
         "Counter hit frame": "+8",
@@ -2186,17 +2146,6 @@
         "Hit level": "h",
         "Notes": "-",
         "Start up frame": "10"
-    },
-    {
-        "Block frame": "-2",
-        "Command": "BT d+1 or 2",
-        "Counter hit frame": "+9",
-        "Damage": "10",
-        "Gif": "",
-        "Hit frame": "+9",
-        "Hit level": "Sm",
-        "Notes": "-",
-        "Start up frame": "10s cs1~"
     },
     {
         "Block frame": "-26",

@@ -1,13 +1,11 @@
 import json, os, sys
 
-sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
-
+debug = True
 # import gifs from the source folder into json folders by comparing the moves notation and alias
+sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
 import tkfinder
 
 base_path = os.path.dirname(__file__)
-
-debug = True
 
 # the source path = gifs folder from T7 chicken app on your local machine
 source_path = os.path.abspath(os.path.join(base_path, "..", "..", "tc")) + "\\"

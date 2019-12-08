@@ -71,7 +71,7 @@
             "1,2,3"
         ],
         "Block frame": "-26",
-        "Command": "1, 2, 3 or 4",
+        "Command": "1, 2, 3_4",
         "Counter hit frame": "-18",
         "Damage": "7,8",
         "Gif": "https://gfycat.com/FeistyImpossibleBasil.gif",
@@ -438,7 +438,7 @@
             "d+3"
         ],
         "Block frame": "-13",
-        "Command": "d or d/b+3",
+        "Command": "d_d/b+3",
         "Counter hit frame": "-2",
         "Damage": "13 cs",
         "Gif": "https://gfycat.com/ScarceFluffyKodiakbear.gif",
@@ -688,7 +688,7 @@
             "u/f+1"
         ],
         "Block frame": "-4",
-        "Command": "u/b or u or u/f+1",
+        "Command": "u/b_u_u/f+1",
         "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": "https://gfycat.com/ImaginaryConventionalFlatcoatretriever.gif",
@@ -704,7 +704,7 @@
             "u/f+2"
         ],
         "Block frame": "-8",
-        "Command": "u/b or u or u/f+2",
+        "Command": "u/b_u_u/f+2",
         "Counter hit frame": "JG",
         "Damage": "21",
         "Gif": "https://gfycat.com/AdorableMilkyDiamondbackrattlesnake.gif",
@@ -720,7 +720,7 @@
             "u/f+3"
         ],
         "Block frame": "-13",
-        "Command": "u/b or u or u/f+3",
+        "Command": "u/b_u_u/f+3",
         "Counter hit frame": "JG",
         "Damage": "11(,23)",
         "Gif": "https://gfycat.com/HarmoniousElderlyIrishredandwhitesetter.gif",
@@ -736,7 +736,7 @@
             "u/f+3,u"
         ],
         "Block frame": "-13",
-        "Command": "u/b or u or u/f+3, u",
+        "Command": "u/b_u_u/f+3, u",
         "Counter hit frame": "JG",
         "Damage": "11(,23)",
         "Gif": "",
@@ -752,7 +752,7 @@
             "u/f+4"
         ],
         "Block frame": "-3",
-        "Command": "u/b or u or u/f+4",
+        "Command": "u/b_u_u/f+4",
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/TenderFavoriteAustraliancurlew.gif",
@@ -773,19 +773,8 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "-",
-        "Command": "u/b or u or u/f",
-        "Counter hit frame": "-",
-        "Damage": "js9~",
-        "Gif": "",
-        "Hit frame": "-",
-        "Hit level": "special",
-        "Notes": "-",
-        "Start up frame": "-"
-    },
-    {
         "Block frame": "-23",
-        "Command": "During jump 1",
+        "Command": "(During jump) 1",
         "Counter hit frame": "-16",
         "Damage": "7",
         "Gif": "",
@@ -796,7 +785,7 @@
     },
     {
         "Block frame": "-22",
-        "Command": "During jump 2",
+        "Command": "(During jump) 2",
         "Counter hit frame": "-15",
         "Damage": "14",
         "Gif": "",
@@ -895,7 +884,7 @@
     },
     {
         "Block frame": "+11",
-        "Command": "f, f, f+1+2 or wr+1+2",
+        "Command": "f, f, f+1+2",
         "Counter hit frame": "JG",
         "Damage": "25",
         "Gif": "https://gfycat.com/ThunderousTediousGazelle.gif",
@@ -1101,39 +1090,6 @@
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "20"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "BT 3 or 4",
-        "Counter hit frame": "KND",
-        "Damage": "25",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "-",
-        "Start up frame": "10"
-    },
-    {
-        "Block frame": "-2",
-        "Command": "BT d+1 or d+2",
-        "Counter hit frame": "+9",
-        "Damage": "10",
-        "Gif": "",
-        "Hit frame": "+9",
-        "Hit level": "sm",
-        "Notes": "-",
-        "Start up frame": "10"
-    },
-    {
-        "Block frame": "-11",
-        "Command": "BT d+3 or d+4",
-        "Counter hit frame": "+3",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "+3",
-        "Hit level": "l",
-        "Notes": "-",
-        "Start up frame": "10"
     },
     {
         "Block frame": "-",
