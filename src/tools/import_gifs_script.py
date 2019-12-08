@@ -1,13 +1,17 @@
-import json, os
+import json, os, sys
+
+sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
 
 # import gifs from the source folder into json folders by comparing the moves notation and alias
-from src import tkfinder
+import tkfinder
+
+base_path = os.path.dirname(__file__)
 
 debug = True
 
 # the source path = gifs folder from T7 chicken app on your local machine
-source_path = 'tc/'
-to_path = 'json/'
+source_path = os.path.abspath(os.path.join(base_path, "..", "..", "tc")) + "\\"
+to_path = os.path.abspath(os.path.join(base_path, "..", "..", "json")) + "\\"
 in_entries = os.listdir(source_path)
 out_entries = os.listdir(to_path)
 
@@ -21,12 +25,16 @@ for entry in in_entries:
         if 'preview_url' in from_move and from_move['preview_url']:
             for to_move in to_data:
 
-                if not 'Gif' in to_move or not to_move['Gif'] and 'Alias' in to_move:
+                if not 'Gif' in to_move or not to_move['Gif']:
 
                     from_notation = tkfinder.move_simplifier(from_move['notation'].lower().strip())
-                    to_notation = tkfinder.move_simplifier(to_move['Command'].lower().strip())  #
+                    to_notation = tkfinder.move_simplifier(to_move['Command'].lower().strip())
 
-                    if to_notation == from_notation or from_notation in map(tkfinder.move_simplifier, to_move['Alias']):
+                    from_notation_in_alias = False
+                    if 'Alias' in to_move:
+                        from_notation_in_alias = from_notation in map(tkfinder.move_simplifier, to_move['Alias'])
+
+                    if to_notation == from_notation or from_notation_in_alias:
                         gif_url = from_move['preview_url'].replace("https://giant.", "https://")
                         gif_url = gif_url.replace('\n', '')
 
@@ -34,6 +42,7 @@ for entry in in_entries:
 
                         msg = '{};{};{}'.format(from_data['displayName'], from_move['notation'].strip(), gif_url)
                         print(msg)
+
 
         chicken_app_json.close()
         mokujin_json.close()
