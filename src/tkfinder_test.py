@@ -58,6 +58,16 @@ class MyTestCase(unittest.TestCase):
 
     def test_get_cha_move(self):
 
+        leroy = {
+            "local_json": "leroy.json",
+            "name": "leroy",
+            "online_webpage": "",
+            "portrait": "https://i.imgur.com/FrR8dDq.png",
+            "proper_name": "Leroy Smith"
+        }
+        self.assertEqual("d/f+1", tkfinder.get_move(leroy, "df1")["Command"])
+
+
         self.assertEqual("f,f,f+3", tkfinder.get_move(kazuya, "wr3")["Command"])
         self.assertEqual("1,1,2", tkfinder.get_move(kazuya, "112")["Command"])
         self.assertEqual("f,n,d,d/f+4,1", tkfinder.get_move(kazuya, "hs")["Command"])

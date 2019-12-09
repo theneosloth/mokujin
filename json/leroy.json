@@ -29,7 +29,7 @@
         "Gif": "",
         "Hit frame": "+8",
         "Hit level": "h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "10"
     },
     {
@@ -40,7 +40,7 @@
         "Gif": "",
         "Hit frame": "+4",
         "Hit level": "h,m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "10"
     },
     {
@@ -51,7 +51,7 @@
         "Gif": "",
         "Hit frame": "+1",
         "Hit level": "h,m,h,h,h,h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "10"
     },
     {
@@ -62,7 +62,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h,m,h,h,h,h,m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "10"
     },
     {
@@ -73,7 +73,7 @@
         "Gif": "",
         "Hit frame": "+5",
         "Hit level": "h,h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "10"
     },
     {
@@ -84,7 +84,7 @@
         "Gif": "",
         "Hit frame": "+8",
         "Hit level": "h,h,h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "10"
     },
     {
@@ -106,7 +106,7 @@
         "Gif": "",
         "Hit frame": "+3",
         "Hit level": "h,h,m,(HTS)",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "10"
     },
     {
@@ -117,7 +117,7 @@
         "Gif": "",
         "Hit frame": "+9",
         "Hit level": "h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "12"
     },
     {
@@ -128,7 +128,7 @@
         "Gif": "",
         "Hit frame": "+4",
         "Hit level": "h,m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "12"
     },
     {
@@ -139,7 +139,7 @@
         "Gif": "",
         "Hit frame": "+4",
         "Hit level": "h,m,h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "12"
     },
     {
@@ -150,7 +150,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h,m,h,m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "12"
     },
     {
@@ -161,7 +161,7 @@
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "h,h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "12"
     },
     {
@@ -172,7 +172,7 @@
         "Gif": "",
         "Hit frame": "+3",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "15"
     },
     {
@@ -183,7 +183,7 @@
         "Gif": "",
         "Hit frame": "+2",
         "Hit level": "m,l",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "15"
     },
     {
@@ -194,7 +194,7 @@
         "Gif": "",
         "Hit frame": "0",
         "Hit level": "h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "12"
     },
     {
@@ -205,7 +205,7 @@
         "Gif": "",
         "Hit frame": "+3",
         "Hit level": "h,m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "15"
     },
     {
@@ -216,7 +216,7 @@
         "Gif": "",
         "Hit frame": "0",
         "Hit level": "h,h,h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "14"
     },
     {
@@ -227,7 +227,7 @@
         "Gif": "",
         "Hit frame": "0",
         "Hit level": "h,h,h,h,h,h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "14"
     },
     {
@@ -238,19 +238,19 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h,h,h,h,h,h,m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "14"
     },
     {
-        "Block frame": "",
+        "Block frame": "?",
         "Command": "3+4",
-        "Counter hit frame": "",
-        "Damage": "",
+        "Counter hit frame": "?",
+        "Damage": "?",
         "Gif": "",
         "Hit frame": "",
         "Hit level": "(HTS)",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-26",
@@ -260,7 +260,7 @@
         "Gif": "",
         "Hit frame": "+16",
         "Hit level": "l",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "100~279"
     },
     {
@@ -282,8 +282,8 @@
         "Gif": "",
         "Hit frame": "+2",
         "Hit level": "h,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-6",
@@ -293,8 +293,8 @@
         "Gif": "",
         "Hit frame": "+8",
         "Hit level": "h,m,m,(HTS)",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-7",
@@ -304,7 +304,7 @@
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "15~16"
     },
     {
@@ -315,8 +315,8 @@
         "Gif": "",
         "Hit frame": "0",
         "Hit level": "m,h,h,h",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-16",
@@ -326,8 +326,8 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,h,h,h,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-9",
@@ -337,7 +337,7 @@
         "Gif": "",
         "Hit frame": "+4",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "16~17"
     },
     {
@@ -349,7 +349,7 @@
         "Hit frame": "KND",
         "Hit level": "m,h",
         "Notes": "Tail Spin",
-        "Start up frame": ""
+        "Start up frame": "?"
     },
     {
         "Block frame": "KND",
@@ -359,7 +359,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m!",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "56~57"
     },
     {
@@ -370,7 +370,7 @@
         "Gif": "",
         "Hit frame": "+5",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "13~14"
     },
     {
@@ -381,8 +381,8 @@
         "Gif": "",
         "Hit frame": "+5",
         "Hit level": "m,h",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-6",
@@ -392,8 +392,8 @@
         "Gif": "",
         "Hit frame": "+6",
         "Hit level": "m,m,(HTS)",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-6",
@@ -403,7 +403,7 @@
         "Gif": "",
         "Hit frame": "+6",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "15"
     },
     {
@@ -414,8 +414,8 @@
         "Gif": "",
         "Hit frame": "Launch (JG)",
         "Hit level": "m,h,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-11",
@@ -425,7 +425,7 @@
         "Gif": "",
         "Hit frame": "0",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "16"
     },
     {
@@ -436,8 +436,8 @@
         "Gif": "",
         "Hit frame": "+6",
         "Hit level": "m,h",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-13",
@@ -447,8 +447,8 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,h,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-6",
@@ -458,7 +458,7 @@
         "Gif": "",
         "Hit frame": "+6",
         "Hit level": "m,(HTS)",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "13"
     },
     {
@@ -469,8 +469,8 @@
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-14",
@@ -491,7 +491,7 @@
         "Gif": "",
         "Hit frame": "Launch (CS)",
         "Hit level": "m,m,m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "22"
     },
     {
@@ -502,7 +502,7 @@
         "Gif": "",
         "Hit frame": "+5",
         "Hit level": "sm (TC)",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "10 cs4~"
     },
     {
@@ -513,8 +513,8 @@
         "Gif": "",
         "Hit frame": "-1",
         "Hit level": "sm,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-9",
@@ -524,8 +524,8 @@
         "Gif": "",
         "Hit frame": "+3",
         "Hit level": "sm,m,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-12",
@@ -535,7 +535,7 @@
         "Gif": "",
         "Hit frame": "-1",
         "Hit level": "l",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "15~16 cs6~"
     },
     {
@@ -546,8 +546,8 @@
         "Gif": "",
         "Hit frame": "0",
         "Hit level": "l,l",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-13",
@@ -557,7 +557,7 @@
         "Gif": "",
         "Hit frame": "-2",
         "Hit level": "l",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "16"
     },
     {
@@ -568,8 +568,8 @@
         "Gif": "",
         "Hit frame": "+8",
         "Hit level": "l,h,(HTS)",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-12",
@@ -579,7 +579,7 @@
         "Gif": "",
         "Hit frame": "-1",
         "Hit level": "l",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "14~15"
     },
     {
@@ -590,8 +590,8 @@
         "Gif": "",
         "Hit frame": "+1",
         "Hit level": "l,m,(HTS)",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "0s",
@@ -601,7 +601,7 @@
         "Gif": "",
         "Hit frame": "+6s",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "17~18"
     },
     {
@@ -612,7 +612,7 @@
         "Gif": "",
         "Hit frame": "+1",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "16~17"
     },
     {
@@ -623,8 +623,8 @@
         "Gif": "",
         "Hit frame": "+8",
         "Hit level": "m,h",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-9",
@@ -634,8 +634,8 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,m ",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-26",
@@ -645,7 +645,7 @@
         "Gif": "",
         "Hit frame": "-9",
         "Hit level": "l",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "18~19"
     },
     {
@@ -656,8 +656,8 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "l,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-14",
@@ -667,7 +667,7 @@
         "Gif": "",
         "Hit frame": "-3s ",
         "Hit level": "l",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "17~18"
     },
     {
@@ -678,18 +678,18 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "32~33 (3~?)"
     },
     {
-        "Block frame": "",
+        "Block frame": "?",
         "Command": "b+1",
         "Counter hit frame": "Throw",
         "Damage": "17(,30)",
         "Gif": "",
         "Hit frame": "+5",
         "Hit level": "h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "11"
     },
     {
@@ -722,7 +722,7 @@
         "Gif": "",
         "Hit frame": "+5",
         "Hit level": "h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "16~17"
     },
     {
@@ -744,7 +744,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "20~24 js9~"
     },
     {
@@ -755,7 +755,7 @@
         "Gif": "",
         "Hit frame": "Launch (KND)",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "21~23 js9~"
     },
     {
@@ -766,7 +766,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "14~15 js9~"
     },
     {
@@ -777,8 +777,8 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,m,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-11",
@@ -788,7 +788,7 @@
         "Gif": "",
         "Hit frame": "0",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "14~15"
     },
     {
@@ -799,8 +799,8 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "m,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "+1",
@@ -810,7 +810,7 @@
         "Gif": "",
         "Hit frame": "ATD",
         "Hit level": "h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "18~23 (19~)"
     },
     {
@@ -821,7 +821,7 @@
         "Gif": "",
         "Hit frame": "+9",
         "Hit level": "m,(HTS)",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "16~17 (16~)"
     },
     {
@@ -832,8 +832,8 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-9",
@@ -843,7 +843,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "17~18 (18~)"
     },
     {
@@ -854,7 +854,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "24~27 js3~"
     },
     {
@@ -865,7 +865,7 @@
         "Gif": "",
         "Hit frame": "+4",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "13~14"
     },
     {
@@ -876,8 +876,8 @@
         "Gif": "",
         "Hit frame": "+6",
         "Hit level": "m,m,(HTS)",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-14",
@@ -887,7 +887,7 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "m,m,m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "15~16"
     },
     {
@@ -898,7 +898,7 @@
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "14~15"
     },
     {
@@ -909,8 +909,8 @@
         "Gif": "",
         "Hit frame": "0",
         "Hit level": "m,h,h,h",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-16",
@@ -920,8 +920,8 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,h,h,h,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-6",
@@ -931,7 +931,7 @@
         "Gif": "",
         "Hit frame": "+5",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "11~12"
     },
     {
@@ -942,7 +942,7 @@
         "Gif": "",
         "Hit frame": "-2",
         "Hit level": "l",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "15~16"
     },
     {
@@ -953,8 +953,8 @@
         "Gif": "",
         "Hit frame": "Launch (JG)",
         "Hit level": "l,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-12",
@@ -964,7 +964,7 @@
         "Gif": "",
         "Hit frame": "+4s ",
         "Hit level": "l",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "18~19(27~28)"
     },
     {
@@ -975,7 +975,7 @@
         "Gif": "",
         "Hit frame": "-5 (-13)",
         "Hit level": "l",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "17~18"
     },
     {
@@ -986,8 +986,8 @@
         "Gif": "",
         "Hit frame": "-4",
         "Hit level": "l,l,l,l",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-3",
@@ -1045,14 +1045,14 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "",
+        "Block frame": "?",
         "Command": "HTS auto low parry",
         "Counter hit frame": "+16",
         "Damage": "15",
         "Gif": "",
         "Hit frame": "+16",
-        "Hit level": "",
-        "Notes": "",
+        "Hit level": "?",
+        "Notes": "-",
         "Start up frame": "3~"
     },
     {
@@ -1063,7 +1063,7 @@
         "Gif": "",
         "Hit frame": "+4",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "24~25 (?~)"
     },
     {
@@ -1074,7 +1074,7 @@
         "Gif": "",
         "Hit frame": "+5",
         "Hit level": "h",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "12~13"
     },
     {
@@ -1086,7 +1086,7 @@
         "Hit frame": "KND",
         "Hit level": "h,h",
         "Notes": "Tail Spin",
-        "Start up frame": ""
+        "Start up frame": "?"
     },
     {
         "Block frame": "-13",
@@ -1096,7 +1096,7 @@
         "Gif": "",
         "Hit frame": "-2",
         "Hit level": "l",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "16"
     },
     {
@@ -1107,8 +1107,8 @@
         "Gif": "",
         "Hit frame": "0",
         "Hit level": "l,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-7",
@@ -1118,7 +1118,7 @@
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "m,(HTS)",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "11~12"
     },
     {
@@ -1129,8 +1129,8 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,m,m",
-        "Notes": "",
-        "Start up frame": ""
+        "Notes": "-",
+        "Start up frame": "?"
     },
     {
         "Block frame": "-10",
@@ -1162,7 +1162,7 @@
         "Gif": "",
         "Hit frame": "Launch (CS)",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "26~30"
     },
     {
@@ -1173,7 +1173,7 @@
         "Gif": "",
         "Hit frame": "+7s ",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "20~22"
     },
     {
