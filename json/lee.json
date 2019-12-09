@@ -418,12 +418,12 @@
         "Start up frame": "21~22s"
     },
     {
-        "Block frame": "-4~-3",
+        "Block frame": "-1~0",
         "Command": "1+2, 3+4",
         "Counter hit frame": "KND",
         "Damage": "20",
-        "Gif": null,
-        "Hit frame": "+3~+4",
+        "Gif": "",
+        "Hit frame": "+6~+7",
         "Hit level": "m (HMS)",
         "Notes": "Homing",
         "Start up frame": "21~22s"

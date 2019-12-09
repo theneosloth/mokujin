@@ -146,12 +146,12 @@
         "Block frame": "-6~-5",
         "Command": "3~4",
         "Counter hit frame": "+3~+4?",
-        "Damage": "16,21",
+        "Damage": "6,22",
         "Gif": "https://gfycat.com/BruisedNiftyGelding.gif",
         "Hit frame": "+3~+4?",
         "Hit level": "mm (TJ)",
         "Notes": "-",
-        "Start up frame": "17,28~29 (18~)"
+        "Start up frame": "18,28~29"
     },
     {
         "Alias": [

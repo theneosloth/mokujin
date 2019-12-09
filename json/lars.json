@@ -1057,14 +1057,14 @@
         "Start up frame": "14~16 ar14~"
     },
     {
-        "Block frame": "-10~-9",
+        "Block frame": "-9",
         "Command": "SEN 4",
         "Counter hit frame": "Launch (Screw)",
         "Damage": "27",
         "Gif": "https://gfycat.com/WavyNimbleBangeltiger.gif",
         "Hit frame": "Launch (Screw)",
         "Hit level": "h",
-        "Notes": "Power crush,Tail spin",
+        "Notes": "Power crush,Tail spin, Homing",
         "Start up frame": "20~21"
     },
     {

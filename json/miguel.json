@@ -376,10 +376,10 @@
     {
         "Block frame": "-12",
         "Command": "d/f+1, 2",
-        "Counter hit frame": "+1",
+        "Counter hit frame": "+3",
         "Damage": "12,18",
         "Gif": "https://gfycat.com/EqualIdioticBrownbear.gif",
-        "Hit frame": "+1",
+        "Hit frame": "+3",
         "Hit level": "m, m",
         "Notes": "-",
         "Start up frame": "13"
@@ -938,11 +938,11 @@
         "Block frame": "-15",
         "Command": "b, d/f+4",
         "Counter hit frame": "KND",
-        "Damage": "24",
+        "Damage": "28",
         "Gif": "https://gfycat.com/MindlessDopeyJaeger.gif",
         "Hit frame": "+8s",
         "Hit level": "l",
-        "Notes": "-",
+        "Notes": "Homing",
         "Start up frame": "27"
     },
     {

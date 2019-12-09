@@ -412,12 +412,12 @@
             "d/b+2",
             "FC+2"
         ],
-        "Block frame": "-4",
-        "Command": "d2",
-        "Counter hit frame": "+7",
+        "Block frame": "-9",
+        "Command": "d+2",
+        "Counter hit frame": "+2",
         "Damage": "6",
         "Gif": "https://gfycat.com/AppropriateAmazingBarb.gif",
-        "Hit frame": "+7",
+        "Hit frame": "+2",
         "Hit level": "Sm (TC)",
         "Notes": "-",
         "Start up frame": "12s cs4or1~"
@@ -724,12 +724,12 @@
         "Alias": [
             "qcf+2"
         ],
-        "Block frame": "-13~",
+        "Block frame": "-14",
         "Command": "qcf+1",
-        "Counter hit frame": "-5~",
+        "Counter hit frame": "-6",
         "Damage": "12",
         "Gif": "https://gfycat.com/AntiqueMagnificentFruitbat.gif",
-        "Hit frame": "-5~",
+        "Hit frame": "-6",
         "Hit level": "Sm",
         "Notes": "-",
         "Start up frame": "19~"
