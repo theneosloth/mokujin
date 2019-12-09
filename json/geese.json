@@ -133,6 +133,7 @@
         "Hit frame": "+8",
         "Hit level": "h",
         "Notes": "-",
+        "Recovery": "-13",
         "Start up frame": "10"
     },
     {
@@ -155,6 +156,7 @@
         "Hit frame": "+6",
         "Hit level": "h, h",
         "Notes": "-",
+        "Recovery": "-18",
         "Start up frame": "10"
     },
     {
@@ -166,6 +168,7 @@
         "Hit frame": "+7",
         "Hit level": "h, h, h",
         "Notes": "-",
+        "Recovery": "-30",
         "Start up frame": "10"
     },
     {
@@ -177,6 +180,7 @@
         "Hit frame": "+4",
         "Hit level": "h, m",
         "Notes": "-",
+        "Recovery": "-25",
         "Start up frame": "10"
     },
     {
@@ -188,6 +192,7 @@
         "Hit frame": "-8~-7",
         "Hit level": "h, m, m",
         "Notes": "-",
+        "Recovery": "-33",
         "Start up frame": "10"
     },
     {
@@ -199,6 +204,7 @@
         "Hit frame": "KND",
         "Hit level": "h, m, m, h",
         "Notes": "-",
+        "Recovery": "-31",
         "Start up frame": "10"
     },
     {
@@ -210,6 +216,7 @@
         "Hit frame": "+20~+22kg",
         "Hit level": "h, m, h",
         "Notes": "-",
+        "Recovery": "-20",
         "Start up frame": "10"
     },
     {
@@ -232,6 +239,7 @@
         "Hit frame": "-4",
         "Hit level": "Sm",
         "Notes": "-",
+        "Recovery": "-31",
         "Start up frame": "15"
     },
     {
@@ -254,6 +262,7 @@
         "Hit frame": "0~+1",
         "Hit level": "h",
         "Notes": "-",
+        "Recovery": "-24",
         "Start up frame": "16~17"
     },
     {
@@ -265,6 +274,7 @@
         "Hit frame": "0~+1",
         "Hit level": "h, m",
         "Notes": "-",
+        "Recovery": "-30",
         "Start up frame": "16~17"
     },
     {
@@ -276,6 +286,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Tail spin, Homing",
+        "Recovery": "-30",
         "Start up frame": "16~17"
     },
     {
@@ -287,6 +298,7 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-33",
         "Start up frame": "14"
     },
     {
@@ -298,6 +310,7 @@
         "Hit frame": "-4~-3",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-34",
         "Start up frame": "24~25"
     },
     {
@@ -320,6 +333,7 @@
         "Hit frame": "SH",
         "Hit level": "mh",
         "Notes": "-",
+        "Recovery": "-32",
         "Start up frame": "17,32~33"
     },
     {
@@ -364,6 +378,7 @@
         "Hit frame": "+20~+22kg",
         "Hit level": "h",
         "Notes": "-",
+        "Recovery": "-20",
         "Start up frame": "23~25"
     },
     {
@@ -386,6 +401,7 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-33",
         "Start up frame": "19"
     },
     {
@@ -397,6 +413,7 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-26",
         "Start up frame": "24~25 js10~"
     },
     {
@@ -408,6 +425,7 @@
         "Hit frame": "+5~+6",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-18",
         "Start up frame": "13~14"
     },
     {
@@ -419,6 +437,7 @@
         "Hit frame": "+4",
         "Hit level": "m, h",
         "Notes": "-",
+        "Recovery": "-20",
         "Start up frame": "13~14"
     },
     {
@@ -430,6 +449,7 @@
         "Hit frame": "KND",
         "Hit level": "m, m",
         "Notes": "-",
+        "Recovery": "-33",
         "Start up frame": "13~14"
     },
     {
@@ -441,6 +461,7 @@
         "Hit frame": "+14~+15kg",
         "Hit level": "m",
         "Notes": "Tail spin, Homing",
+        "Recovery": "-31",
         "Start up frame": "18~19"
     },
     {
@@ -452,6 +473,7 @@
         "Hit frame": "-2",
         "Hit level": "l",
         "Notes": "-",
+        "Recovery": "-31",
         "Start up frame": "15"
     },
     {
@@ -463,6 +485,7 @@
         "Hit frame": "-2",
         "Hit level": "l, m",
         "Notes": "-",
+        "Recovery": "-31",
         "Start up frame": "15"
     },
     {
@@ -474,6 +497,7 @@
         "Hit frame": "KND",
         "Hit level": "l, m",
         "Notes": "-",
+        "Recovery": "-33",
         "Start up frame": "15"
     },
     {
@@ -485,6 +509,7 @@
         "Hit frame": "+20~+22kg",
         "Hit level": "l, h",
         "Notes": "-",
+        "Recovery": "-20",
         "Start up frame": "15"
     },
     {
@@ -507,6 +532,7 @@
         "Hit frame": "+4",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-25",
         "Start up frame": "14"
     },
     {
@@ -566,6 +592,7 @@
         "Hit frame": "KND",
         "Hit level": "l",
         "Notes": "-",
+        "Recovery": "-35",
         "Start up frame": "24~25s cs6~"
     },
     {
@@ -577,6 +604,7 @@
         "Hit frame": "+4~+5",
         "Hit level": "h",
         "Notes": "-",
+        "Recovery": "-24",
         "Start up frame": "12~13"
     },
     {
@@ -588,6 +616,7 @@
         "Hit frame": "+4",
         "Hit level": "h, m",
         "Notes": "-",
+        "Recovery": "-27",
         "Start up frame": "12~13"
     },
     {
@@ -599,6 +628,7 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-33",
         "Start up frame": "24"
     },
     {
@@ -610,6 +640,7 @@
         "Hit frame": "-1~0",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-24",
         "Start up frame": "14~15"
     },
     {
@@ -621,6 +652,7 @@
         "Hit frame": "KND",
         "Hit level": "m, m",
         "Notes": "-",
+        "Recovery": "-34",
         "Start up frame": "14~15"
     },
     {
@@ -643,6 +675,7 @@
         "Hit frame": "-4",
         "Hit level": "l",
         "Notes": "-",
+        "Recovery": "-31",
         "Start up frame": "19"
     },
     {
@@ -654,6 +687,7 @@
         "Hit frame": "+16~+17kg",
         "Hit level": "l, h",
         "Notes": "Tail spin",
+        "Recovery": "-25",
         "Start up frame": "19"
     },
     {
@@ -676,6 +710,7 @@
         "Hit frame": "+3~+4",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-23",
         "Start up frame": "13~14"
     },
     {
@@ -709,6 +744,7 @@
         "Hit frame": "+6",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-23",
         "Start up frame": "11"
     },
     {
@@ -720,6 +756,7 @@
         "Hit frame": "Launch (JG?)",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-31",
         "Start up frame": "15"
     },
     {
@@ -797,6 +834,7 @@
         "Hit frame": "-",
         "Hit level": "(Special)",
         "Notes": "-",
+        "Recovery": "-50",
         "Start up frame": "29~45 1"
     },
     {
@@ -808,6 +846,7 @@
         "Hit frame": "-5~",
         "Hit level": "Sm",
         "Notes": "-",
+        "Recovery": "-34",
         "Start up frame": "19~"
     },
     {
@@ -819,6 +858,7 @@
         "Hit frame": "-8~",
         "Hit level": "Sm x 2",
         "Notes": "-",
+        "Recovery": "-36",
         "Start up frame": "19~,43~"
     },
     {
@@ -852,6 +892,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "-",
+        "Recovery": "-31",
         "Start up frame": "15"
     },
     {
@@ -863,6 +904,7 @@
         "Hit frame": "-5",
         "Hit level": "h",
         "Notes": "-",
+        "Recovery": "-31",
         "Start up frame": "20"
     },
     {
@@ -874,6 +916,7 @@
         "Hit frame": "KND",
         "Hit level": "h, m",
         "Notes": "-",
+        "Recovery": "-35",
         "Start up frame": "20"
     },
     {
@@ -885,6 +928,7 @@
         "Hit frame": "KND",
         "Hit level": "h, m",
         "Notes": "-",
+        "Recovery": "-35",
         "Start up frame": "20"
     },
     {
@@ -896,6 +940,7 @@
         "Hit frame": "KND",
         "Hit level": "h, l",
         "Notes": "-",
+        "Recovery": "-35",
         "Start up frame": "s cs18~"
     },
     {
@@ -907,6 +952,7 @@
         "Hit frame": "KND",
         "Hit level": "Smh",
         "Notes": "Power crush",
+        "Recovery": "-32",
         "Start up frame": "22~30,40 pc8~"
     },
     {
@@ -918,6 +964,7 @@
         "Hit frame": "KND",
         "Hit level": "Smmm",
         "Notes": "Power crush",
+        "Recovery": "-32",
         "Start up frame": "22~30, 40,58 pc8~"
     },
     {
@@ -970,6 +1017,7 @@
         "Hit frame": "KND",
         "Hit level": "Sm x 2",
         "Notes": "-",
+        "Recovery": "-34",
         "Start up frame": "19~,42~"
     },
     {
@@ -992,6 +1040,7 @@
         "Hit frame": "-2",
         "Hit level": "h",
         "Notes": "-",
+        "Recovery": "-28",
         "Start up frame": "19"
     },
     {
@@ -1003,6 +1052,7 @@
         "Hit frame": "KND",
         "Hit level": "h, m",
         "Notes": "Wall bounce",
+        "Recovery": "-33",
         "Start up frame": "19"
     },
     {
@@ -1014,6 +1064,7 @@
         "Hit frame": "KND",
         "Hit level": "h, m",
         "Notes": "-",
+        "Recovery": "-35",
         "Start up frame": "19"
     },
     {
@@ -1025,6 +1076,7 @@
         "Hit frame": "KND",
         "Hit level": "h, l",
         "Notes": "-",
+        "Recovery": "-35",
         "Start up frame": "s cs18~"
     },
     {
@@ -1036,6 +1088,7 @@
         "Hit frame": "KND",
         "Hit level": "Smmm",
         "Notes": "Power crush",
+        "Recovery": "-32",
         "Start up frame": "22~30 ,40,58 pc8~"
     },
     {
@@ -1069,6 +1122,7 @@
         "Hit frame": "KND",
         "Hit level": "Sm x 5",
         "Notes": "-",
+        "Recovery": "-53",
         "Start up frame": "10~"
     },
     {
@@ -1102,6 +1156,7 @@
         "Hit frame": "+8",
         "Hit level": "h",
         "Notes": "-",
+        "Recovery": "-13",
         "Start up frame": "10"
     },
     {
@@ -1113,6 +1168,7 @@
         "Hit frame": "-4",
         "Hit level": "Sm",
         "Notes": "-",
+        "Recovery": "-31",
         "Start up frame": "15"
     },
     {
@@ -1124,6 +1180,7 @@
         "Hit frame": "0",
         "Hit level": "h",
         "Notes": "-",
+        "Recovery": "-24",
         "Start up frame": "16"
     },
     {
@@ -1135,6 +1192,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Tail spin, Homing",
+        "Recovery": "-30",
         "Start up frame": "16"
     },
     {
@@ -1146,6 +1204,7 @@
         "Hit frame": "-4",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-34",
         "Start up frame": "24"
     },
     {
@@ -1157,6 +1216,7 @@
         "Hit frame": "SH",
         "Hit level": "mh",
         "Notes": "-",
+        "Recovery": "-32",
         "Start up frame": "20,32"
     },
     {
@@ -1168,6 +1228,7 @@
         "Hit frame": "+20kg",
         "Hit level": "h",
         "Notes": "-",
+        "Recovery": "-20",
         "Start up frame": "23"
     },
     {
@@ -1179,6 +1240,7 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-33",
         "Start up frame": "19"
     },
     {
@@ -1190,6 +1252,7 @@
         "Hit frame": "+7",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-18",
         "Start up frame": "13"
     },
     {
@@ -1201,6 +1264,7 @@
         "Hit frame": "+14kg",
         "Hit level": "m",
         "Notes": "Tail spin, Homing",
+        "Recovery": "-31",
         "Start up frame": "18"
     },
     {
@@ -1212,6 +1276,7 @@
         "Hit frame": "-2",
         "Hit level": "l",
         "Notes": "-",
+        "Recovery": "-31",
         "Start up frame": "15"
     },
     {
@@ -1223,6 +1288,7 @@
         "Hit frame": "+4",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-25",
         "Start up frame": "14"
     },
     {
@@ -1260,6 +1326,7 @@
         "Hit frame": "-5",
         "Hit level": "l",
         "Notes": "-",
+        "Recovery": "-35",
         "Start up frame": "17s"
     },
     {
@@ -1271,6 +1338,7 @@
         "Hit frame": "+4",
         "Hit level": "h",
         "Notes": "-",
+        "Recovery": "-24",
         "Start up frame": "12"
     },
     {
@@ -1282,6 +1350,7 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-33",
         "Start up frame": "24"
     },
     {
@@ -1293,6 +1362,7 @@
         "Hit frame": "+2",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-24",
         "Start up frame": "14"
     },
     {
@@ -1304,6 +1374,7 @@
         "Hit frame": "-4",
         "Hit level": "l",
         "Notes": "-",
+        "Recovery": "-31",
         "Start up frame": "19"
     },
     {
@@ -1315,6 +1386,7 @@
         "Hit frame": "-3",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-34",
         "Start up frame": "18"
     },
     {
@@ -1326,6 +1398,7 @@
         "Hit frame": "Tail spin",
         "Hit level": "h",
         "Notes": "Tail spin",
+        "Recovery": "-25",
         "Start up frame": "15~16"
     },
     {
@@ -1337,6 +1410,7 @@
         "Hit frame": "+6",
         "Hit level": "m",
         "Notes": "-",
+        "Recovery": "-23",
         "Start up frame": "11"
     },
     {
@@ -1370,6 +1444,7 @@
         "Hit frame": "+6",
         "Hit level": "l",
         "Notes": "-",
+        "Recovery": "-27",
         "Start up frame": "19(28~)"
     },
     {

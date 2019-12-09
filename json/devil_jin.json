@@ -1118,6 +1118,7 @@
         "Hit frame": "-",
         "Hit level": "(TJ)",
         "Notes": "-",
+        "Recovery": "-55",
         "Start up frame": "? js?~"
     },
     {
@@ -1129,6 +1130,7 @@
         "Hit frame": "-",
         "Hit level": "(TJ)(FLY)",
         "Notes": "-",
+        "Recovery": "-96",
         "Start up frame": "? (js?~) (cs?~)"
     },
     {

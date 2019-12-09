@@ -1082,6 +1082,7 @@
         "Hit frame": "-",
         "Hit level": "(Special) (TJ)",
         "Notes": "-",
+        "Recovery": "-35",
         "Start up frame": "a"
     },
     {
@@ -1159,6 +1160,7 @@
         "Hit frame": "-",
         "Hit level": "(Special) (TC)",
         "Notes": "-",
+        "Recovery": "-15",
         "Start up frame": "s"
     },
     {
@@ -1170,6 +1172,7 @@
         "Hit frame": "-",
         "Hit level": "(Special)",
         "Notes": "-",
+        "Recovery": "-50",
         "Start up frame": "-"
     },
     {
@@ -1742,6 +1745,7 @@
         "Hit frame": "-",
         "Hit level": "(Special)",
         "Notes": "-",
+        "Recovery": "-15",
         "Start up frame": "()"
     },
     {

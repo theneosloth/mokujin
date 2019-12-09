@@ -43,6 +43,19 @@ class MyTestCase(unittest.TestCase):
         self.assertIn("in rage f,n,d,d/f+1+4", tkfinder.get_by_move_type(kazuya, "Rage Drive"))
         self.assertIn("d/f+2", tkfinder.get_by_move_type(kazuya, "Homing"))
 
+    def test_get_recovery(self):
+        paul = {
+            "local_json": "paul.json",
+            "name": "paul",
+            "online_webpage": "http://rbnorway.org/paul-t7-frames",
+            "portrait": "https://i.imgur.com/vbjcEy1.jpg",
+            "proper_name": "Paul"
+        }
+
+        self.assertEqual("-37", tkfinder.get_move(paul, "qcf2")["Recovery"])
+        move = tkfinder.get_move(paul, "d3")
+        self.assertFalse('Recovery' in move)
+
     def test_get_cha_move(self):
 
         self.assertEqual("f,f,f+3", tkfinder.get_move(kazuya, "wr3")["Command"])

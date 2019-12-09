@@ -162,6 +162,7 @@
         "Hit frame": "-16",
         "Hit level": "h, h, (Special) (TJ)",
         "Notes": "-",
+        "Recovery": "-39",
         "Start up frame": "10a,s"
     },
     {
@@ -2385,6 +2386,7 @@
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "-",
+        "Recovery": "-30",
         "Start up frame": "21 js9~"
     },
     {

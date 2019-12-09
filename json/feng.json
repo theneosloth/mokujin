@@ -811,6 +811,7 @@
         "Hit frame": "-",
         "Hit level": "(Special)",
         "Notes": "-",
+        "Recovery": "-20",
         "Start up frame": "b"
     },
     {
@@ -1273,6 +1274,7 @@
         "Hit frame": "-",
         "Hit level": "(Special)",
         "Notes": "-",
+        "Recovery": "-55",
         "Start up frame": "24~25"
     },
     {
@@ -1284,6 +1286,7 @@
         "Hit frame": "-",
         "Hit level": "(Special)",
         "Notes": "-",
+        "Recovery": "-55",
         "Start up frame": "24~25"
     },
     {
@@ -1405,6 +1408,7 @@
         "Hit frame": "-",
         "Hit level": "(KNP)",
         "Notes": "-",
+        "Recovery": "-39",
         "Start up frame": "15~16 (35~)"
     },
     {
@@ -1548,6 +1552,7 @@
         "Hit frame": "-",
         "Hit level": "(Special)",
         "Notes": "-",
+        "Recovery": "-20",
         "Start up frame": "b"
     },
     {

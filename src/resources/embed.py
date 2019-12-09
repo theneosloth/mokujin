@@ -16,8 +16,12 @@ def move_embed(character, move):
     embed.add_field(name='Block', value=move['Block frame'])
     embed.add_field(name='Hit', value=move['Hit frame'])
     embed.add_field(name='Counter Hit', value=move['Counter hit frame'])
-    embed.add_field(name='Notes', value=(move['Notes'] if move['Notes'] else "-"))
-    if move['Gif']:
+
+    if 'Recovery' in move:
+        embed.add_field(name='Recovery', value=move['Recovery'])
+    if 'Notes' in move and not move['Notes'] == "-":
+        embed.add_field(name='Notes', value=move['Notes'])
+    if 'Gif' in move and move['Gif']:
         embed.add_field(name='Gif', value=move['Gif'], inline=False)
 
     random_value  = randint(0, 10)
