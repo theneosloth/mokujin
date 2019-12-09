@@ -98,6 +98,16 @@ class MyTestCase(unittest.TestCase):
         }
         self.assertEqual("u/b_u_u/f+3", tkfinder.get_move(chloe, "uf3")["Command"])
 
+        leroy = {
+                    "local_json": "leroy.json",
+                    "name": "leroy",
+                    "online_webpage": "",
+                    "portrait": "https://i.imgur.com/FrR8dDq.png",
+                    "proper_name": "Leroy Smith"
+        }
+
+        self.assertEqual("HTS 3,4", tkfinder.get_move(leroy, "HTS 34")["Command"])
+
 
     def test_ling(self):
         ling = {
