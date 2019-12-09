@@ -242,15 +242,15 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "?",
+        "Block frame": "-",
         "Command": "3+4",
-        "Counter hit frame": "?",
-        "Damage": "?",
+        "Counter hit frame": "-",
+        "Damage": "-",
         "Gif": "",
-        "Hit frame": "",
+        "Hit frame": "-",
         "Hit level": "(HTS)",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-26",
@@ -283,7 +283,7 @@
         "Hit frame": "+2",
         "Hit level": "h,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-6",
@@ -294,7 +294,7 @@
         "Hit frame": "+8",
         "Hit level": "h,m,m,(HTS)",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-7",
@@ -316,7 +316,7 @@
         "Hit frame": "0",
         "Hit level": "m,h,h,h",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-16",
@@ -327,7 +327,7 @@
         "Hit frame": "KND",
         "Hit level": "m,h,h,h,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-9",
@@ -349,7 +349,7 @@
         "Hit frame": "KND",
         "Hit level": "m,h",
         "Notes": "Tail Spin",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "KND",
@@ -382,7 +382,7 @@
         "Hit frame": "+5",
         "Hit level": "m,h",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-6",
@@ -393,7 +393,7 @@
         "Hit frame": "+6",
         "Hit level": "m,m,(HTS)",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-6",
@@ -415,7 +415,7 @@
         "Hit frame": "Launch (JG)",
         "Hit level": "m,h,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-11",
@@ -437,7 +437,7 @@
         "Hit frame": "+6",
         "Hit level": "m,h",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-13",
@@ -448,7 +448,7 @@
         "Hit frame": "KND",
         "Hit level": "m,h,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-6",
@@ -470,7 +470,7 @@
         "Hit frame": "+7",
         "Hit level": "m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-14",
@@ -514,7 +514,7 @@
         "Hit frame": "-1",
         "Hit level": "sm,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-9",
@@ -525,7 +525,7 @@
         "Hit frame": "+3",
         "Hit level": "sm,m,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-12",
@@ -547,7 +547,7 @@
         "Hit frame": "0",
         "Hit level": "l,l",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-13",
@@ -569,7 +569,7 @@
         "Hit frame": "+8",
         "Hit level": "l,h,(HTS)",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-12",
@@ -591,7 +591,7 @@
         "Hit frame": "+1",
         "Hit level": "l,m,(HTS)",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "0s",
@@ -624,7 +624,7 @@
         "Hit frame": "+8",
         "Hit level": "m,h",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-9",
@@ -635,7 +635,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m ",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-26",
@@ -657,7 +657,7 @@
         "Hit frame": "KND",
         "Hit level": "l,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-14",
@@ -682,7 +682,7 @@
         "Start up frame": "32~33 (3~?)"
     },
     {
-        "Block frame": "?",
+        "Block frame": "-",
         "Command": "b+1",
         "Counter hit frame": "Throw",
         "Damage": "17(,30)",
@@ -778,7 +778,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-11",
@@ -800,7 +800,7 @@
         "Hit frame": "CS",
         "Hit level": "m,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "+1",
@@ -833,7 +833,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-9",
@@ -877,7 +877,7 @@
         "Hit frame": "+6",
         "Hit level": "m,m,(HTS)",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-14",
@@ -910,7 +910,7 @@
         "Hit frame": "0",
         "Hit level": "m,h,h,h",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-16",
@@ -921,7 +921,7 @@
         "Hit frame": "KND",
         "Hit level": "m,h,h,h,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-6",
@@ -954,7 +954,7 @@
         "Hit frame": "Launch (JG)",
         "Hit level": "l,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-12",
@@ -987,7 +987,7 @@
         "Hit frame": "-4",
         "Hit level": "l,l,l,l",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-3",
@@ -1045,13 +1045,13 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "?",
+        "Block frame": "-",
         "Command": "HTS auto low parry",
         "Counter hit frame": "+16",
         "Damage": "15",
         "Gif": "",
         "Hit frame": "+16",
-        "Hit level": "?",
+        "Hit level": "-",
         "Notes": "-",
         "Start up frame": "3~"
     },
@@ -1086,7 +1086,7 @@
         "Hit frame": "KND",
         "Hit level": "h,h",
         "Notes": "Tail Spin",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-13",
@@ -1108,7 +1108,7 @@
         "Hit frame": "0",
         "Hit level": "l,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-7",
@@ -1130,7 +1130,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m,m",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-10",
