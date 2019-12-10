@@ -76,9 +76,6 @@ def get_move(character: dict, move_command: str) -> dict:
     if not move:
         move = list(filter(lambda x: (is_command_in_alias(move_command, x)), move_json))
 
-        if not move:
-            move = list(filter(lambda x: move_simplifier(move_command)
-                                         in move_simplifier(x['Command']), move_json))
     if move:
         return move[0]
     else:

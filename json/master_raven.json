@@ -686,7 +686,7 @@
         "Command": "b+4, (b+4, 3), 4, 2",
         "Counter hit frame": "KND",
         "Damage": "11,11,9,21",
-        "Gif": "",
+        "Gif": "https://gfycat.com/CheeryDecentBushbaby.gif",
         "Hit frame": "CS",
         "Hit level": "m, l (TC), l (TC), m",
         "Notes": "-",
@@ -708,7 +708,7 @@
         "Command": "b+4, (b+4, 3), f+4, 2",
         "Counter hit frame": "KND",
         "Damage": "11,11,12,21",
-        "Gif": "",
+        "Gif": "https://gfycat.com/CheeryDecentBushbaby.gif",
         "Hit frame": "CS",
         "Hit level": "m, l (TC), l (TC), m",
         "Notes": "-",
@@ -730,7 +730,7 @@
         "Command": "b+4, (b+4, 3), f+4, U",
         "Counter hit frame": "KND",
         "Damage": "11,11",
-        "Gif": "",
+        "Gif": "https://gfycat.com/AngryDistortedDromaeosaur.gif",
         "Hit frame": "-47~-46",
         "Hit level": "m, l (TC), (Special) (TJ)",
         "Notes": "-",
@@ -741,7 +741,7 @@
         "Command": "b+4, (b+4, 3), 3+4",
         "Counter hit frame": "KND",
         "Damage": "11,11,15",
-        "Gif": "",
+        "Gif": "https://gfycat.com/LankyCreepyAidi.gif",
         "Hit frame": "KND",
         "Hit level": "m, l (TC), m",
         "Notes": "-",
@@ -803,9 +803,12 @@
         "Start up frame": "16"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3"
+        ],
         "Block frame": "-2~0",
         "Command": "u/b_u+3",
-		"Alias": ["u/b+3","u+3"],
         "Counter hit frame": "+5~+7",
         "Damage": "25",
         "Gif": "",
@@ -815,9 +818,12 @@
         "Start up frame": "26~28b js8~"
     },
     {
+        "Alias": [
+            "u/b+3,3",
+            "u+3,3"
+        ],
         "Block frame": "-15~-14",
         "Command": "u/b_u+3, 3",
-		"Alias": ["u/b+3,3","u+3,3"],
         "Counter hit frame": "KND",
         "Damage": "25,20",
         "Gif": "https://gfycat.com/JaggedAlienatedHerculesbeetle.gif",
@@ -827,9 +833,12 @@
         "Start up frame": "26~28 8~"
     },
     {
+        "Alias": [
+            "u/b+3, 4",
+            "u+3,4"
+        ],
         "Block frame": "+8~+9y",
         "Command": "u/b_u+3, 4",
-		"Alias": ["u/b+3, 4","u+3,4"],
         "Counter hit frame": "KND",
         "Damage": "25,37",
         "Gif": "https://gfycat.com/WarlikeGlassCrab.gif",
@@ -839,9 +848,12 @@
         "Start up frame": "js27~"
     },
     {
+        "Alias": [
+            "u/b+3, d+3",
+            "u+3,d+3"
+        ],
         "Block frame": "-15~-14",
         "Command": "u/b_u+3, d+3",
-		"Alias": ["u/b+3, d+3","u+3,d+3"],
         "Counter hit frame": "KND",
         "Damage": "25,18",
         "Gif": "https://gfycat.com/HollowImmaculateIndianelephant.gif",
@@ -851,9 +863,12 @@
         "Start up frame": "cs14~"
     },
     {
+        "Alias": [
+            "u/b+3, d+3, 3",
+            "u+3,d+3,3"
+        ],
         "Block frame": "-6~-3",
         "Command": "u/b_u+3, d+3, 3",
-		"Alias": ["u/b+3, d+3, 3","u+3,d+3,3"],
         "Counter hit frame": "KND",
         "Damage": "25,18,22",
         "Gif": "https://gfycat.com/NarrowHonoredBigmouthbass.gif",
@@ -863,9 +878,12 @@
         "Start up frame": "js1~"
     },
     {
+        "Alias": [
+            "u/b+3, d+3, u",
+            "u+3,d+3,u"
+        ],
         "Block frame": "-35~-34",
         "Command": "u/b_u+3, d+3, U",
-		"Alias": ["u/b+3, d+3, u","u+3,d+3,u"],
         "Counter hit frame": "KND",
         "Damage": "33,24",
         "Gif": "https://gfycat.com/RashZealousEft.gif",
@@ -897,9 +915,13 @@
         "Start up frame": "19~23 js8~"
     },
     {
+        "Alias": [
+            "u/b+4",
+            "u+4",
+            "u/f+4,4"
+        ],
         "Block frame": "-15~-12",
         "Command": "u/b_u_u/f+4, 4",
-		"Alias": ["u/b+4","u+4","u/f+4,4"],
         "Counter hit frame": "KND",
         "Damage": "13or16,20",
         "Gif": "https://gfycat.com/HighlevelBadAmoeba.gif",
@@ -1060,6 +1082,7 @@
         "Hit frame": "-",
         "Hit level": "(Special) (TJ)",
         "Notes": "-",
+        "Recovery": "-35",
         "Start up frame": "a"
     },
     {
@@ -1133,10 +1156,11 @@
         "Command": "FC+d/f, d, D/F",
         "Counter hit frame": "-",
         "Damage": "-",
-        "Gif": "",
+        "Gif": "https://gfycat.com/SnivelingClumsyGardensnake.gif",
         "Hit frame": "-",
         "Hit level": "(Special) (TC)",
         "Notes": "-",
+        "Recovery": "-15",
         "Start up frame": "s"
     },
     {
@@ -1148,6 +1172,7 @@
         "Hit frame": "-",
         "Hit level": "(Special)",
         "Notes": "-",
+        "Recovery": "-50",
         "Start up frame": "-"
     },
     {
@@ -1720,6 +1745,7 @@
         "Hit frame": "-",
         "Hit level": "(Special)",
         "Notes": "-",
+        "Recovery": "-15",
         "Start up frame": "()"
     },
     {
@@ -2097,9 +2123,12 @@
         "Start up frame": "16"
     },
     {
+        "Alias": [
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "u_u/f+1",
-		"Alias": ["u+1","u/f+1"],
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -2109,9 +2138,13 @@
         "Start up frame": "18 js9~"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-12~-11",
         "Command": "u/b_u_u/f+2",
-		"Alias": ["u/b+2","u+2","u/f+2"],
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",
@@ -2121,9 +2154,12 @@
         "Start up frame": "15~16"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3"
+        ],
         "Block frame": "-2~0",
         "Command": "u/b_u+3",
-		"Alias": ["u/b+3","u+3"],
         "Counter hit frame": "+5~+7",
         "Damage": "25",
         "Gif": "",
@@ -2144,9 +2180,12 @@
         "Start up frame": "29~30 js9~"
     },
     {
+        "Alias": [
+            "u/b+4",
+            "u+4"
+        ],
         "Block frame": "-5~-1",
         "Command": "u/b_u+4",
-		"Alias": ["u/b+4","u+4"],
         "Counter hit frame": "KND",
         "Damage": "13",
         "Gif": "",

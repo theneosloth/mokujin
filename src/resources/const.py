@@ -43,8 +43,12 @@ CHARACTER_ALIAS = {
     'steve': ['stv', 'ste', 'fox'],
     'yoshimitsu': ['yoshi', 'manji', 'yos'],
     'xiaoyu': ['xiao', 'ling'],
-    'zafina': ['zaffy', 'zaf']
+    'zafina': ['zaffy', 'zaf'],
+    "fahkumram": ["fah", "fahkum"],
+    "leroy": [],
+    "ganryu": ["gan"]
 }
+
 FEEDBACK_CHANNEL_ID = 647935739081916441
 
 # Dict for searching special move types

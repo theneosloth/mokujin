@@ -132,7 +132,10 @@
         "Start up frame": "12"
     },
     {
-        "Alias": ["3", "3+4"],
+        "Alias": [
+            "3",
+            "3+4"
+        ],
         "Block frame": "-8",
         "Command": "3 (or 3+4)",
         "Counter hit frame": "+4",
@@ -353,7 +356,10 @@
         "Start up frame": "13~14"
     },
     {
-        "Alias": ["d/b+1", "d+1"],
+        "Alias": [
+            "d/b+1",
+            "d+1"
+        ],
         "Block frame": "-5",
         "Command": "(d/b_d)+1",
         "Counter hit frame": "+6",
@@ -574,7 +580,10 @@
         "Start up frame": "63~64 ar63~"
     },
     {
-        "Alias": ["u+3", "u/f+3"],
+        "Alias": [
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "-9~-8",
         "Command": "(u_u/f)+3",
         "Counter hit frame": "KND",
@@ -586,7 +595,10 @@
         "Start up frame": "19~20 js9~"
     },
     {
-        "Alias": ["u+4", "u/f+4"],
+        "Alias": [
+            "u+4",
+            "u/f+4"
+        ],
         "Block frame": "-12~-10",
         "Command": "(u_u/f)+4",
         "Counter hit frame": "-1~+1",
@@ -723,7 +735,7 @@
         "Command": "FC+d/f+3+4",
         "Counter hit frame": "KND",
         "Damage": "24",
-        "Gif": "",
+        "Gif": "https://gfycat.com/PresentFantasticImperialeagle.gif",
         "Hit frame": "KND",
         "Hit level": "m (TC)",
         "Notes": "-",
@@ -785,7 +797,10 @@
         "Start up frame": "11~12 (14~)"
     },
     {
-        "Alias": ["electric", "ewgf"],
+        "Alias": [
+            "electric",
+            "ewgf"
+        ],
         "Block frame": "+5~+6",
         "Command": "f,n,d/f+2",
         "Counter hit frame": "Launch (JG?)",
@@ -907,7 +922,10 @@
         "Start up frame": "16(19~)"
     },
     {
-        "Alias": ["hs", "hellsweep"],
+        "Alias": [
+            "hs",
+            "hellsweep"
+        ],
         "Block frame": "-16",
         "Command": "f,n,d,d/f+4,1",
         "Counter hit frame": "KND",
@@ -1018,7 +1036,10 @@
         "Start up frame": "15~16"
     },
     {
-        "Alias": ["DVK u+1+2", "DVK u/f+1+2"],
+        "Alias": [
+            "DVK u+1+2",
+            "DVK u/f+1+2"
+        ],
         "Block frame": "KND",
         "Command": "DVK (u_u/f)+1+2",
         "Counter hit frame": "KND",
@@ -1151,7 +1172,11 @@
         "Start up frame": "17~18 (26~)"
     },
     {
-        "Alias": ["dvk grounded opponent d+1+2", "down laser", "grounded laser"],
+        "Alias": [
+            "dvk grounded opponent d+1+2",
+            "down laser",
+            "grounded laser"
+        ],
         "Block frame": "-16~-8",
         "Command": "DVK d+1+2 Opponent Down",
         "Counter hit frame": "KND",
@@ -1372,7 +1397,11 @@
         "Start up frame": "19~20"
     },
     {
-        "Alias": ["u/b+1", "u+1", "u/f+1"],
+        "Alias": [
+            "u/b+1",
+            "u+1",
+            "u/f+1"
+        ],
         "Block frame": "-8",
         "Command": "(u/b_u_u/f)+1",
         "Counter hit frame": "+3",
@@ -1384,7 +1413,11 @@
         "Start up frame": "18 js9~"
     },
     {
-        "Alias": ["u/b+2", "u+2", ",u/f+2"],
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            ",u/f+2"
+        ],
         "Block frame": "-12~-11",
         "Command": "(u/b_u_u/f)+2",
         "Counter hit frame": "+9~+10g",
@@ -1583,7 +1616,10 @@
         "Start up frame": "14(15~)"
     },
     {
-        "Alias": ["bt 1", "bt 2"],
+        "Alias": [
+            "bt 1",
+            "bt 2"
+        ],
         "Block frame": "-8",
         "Command": "BT (1_2)",
         "Counter hit frame": "+3",
@@ -1595,7 +1631,10 @@
         "Start up frame": "8"
     },
     {
-        "Alias": ["bt 3", "bt 4"],
+        "Alias": [
+            "bt 3",
+            "bt 4"
+        ],
         "Block frame": "-8",
         "Command": "BT (3_4)",
         "Counter hit frame": "KND",
@@ -1607,7 +1646,10 @@
         "Start up frame": "10"
     },
     {
-        "Alias": ["bt d+1", "bt d+2"],
+        "Alias": [
+            "bt d+1",
+            "bt d+2"
+        ],
         "Block frame": "-2",
         "Command": "BT d+(1_2)",
         "Counter hit frame": "+9",
@@ -1619,7 +1661,10 @@
         "Start up frame": "10s cs1~"
     },
     {
-        "Alias": ["bt d+3", "bt d+4"],
+        "Alias": [
+            "bt d+3",
+            "bt d+4"
+        ],
         "Block frame": "-11",
         "Command": "BT d+(3_4)",
         "Counter hit frame": "+3",

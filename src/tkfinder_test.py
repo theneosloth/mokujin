@@ -12,11 +12,11 @@ kazuya = {
 class MyTestCase(unittest.TestCase):
     def test_get_commands(self):
         result = tkfinder.get_commands_from("hwoarang")
-        self.assertIn("1, 1, 3, 3", result)
+        self.assertIn("1,1,3,3", result)
 
     def test_get_close_moves(self):
         close_moves = tkfinder.get_similar_moves("d/f+1, 2", "hwoarang")
-        self.assertIn("d/f+1, 3", close_moves)
+        self.assertIn("d/f+1,3", close_moves)
 
     def test_is_command_in_alias(self):
         item = {'Alias': ["hs", "hellsweep", "Giant swing", "u/f3"]}
@@ -43,7 +43,30 @@ class MyTestCase(unittest.TestCase):
         self.assertIn("in rage f,n,d,d/f+1+4", tkfinder.get_by_move_type(kazuya, "Rage Drive"))
         self.assertIn("d/f+2", tkfinder.get_by_move_type(kazuya, "Homing"))
 
+    def test_get_recovery(self):
+        paul = {
+            "local_json": "paul.json",
+            "name": "paul",
+            "online_webpage": "http://rbnorway.org/paul-t7-frames",
+            "portrait": "https://i.imgur.com/vbjcEy1.jpg",
+            "proper_name": "Paul"
+        }
+
+        self.assertEqual("-37", tkfinder.get_move(paul, "qcf2")["Recovery"])
+        move = tkfinder.get_move(paul, "d3")
+        self.assertFalse('Recovery' in move)
+
     def test_get_cha_move(self):
+
+        leroy = {
+            "local_json": "leroy.json",
+            "name": "leroy",
+            "online_webpage": "",
+            "portrait": "https://i.imgur.com/FrR8dDq.png",
+            "proper_name": "Leroy Smith"
+        }
+        self.assertEqual("d/f+1", tkfinder.get_move(leroy, "df1")["Command"])
+
 
         self.assertEqual("f,f,f+3", tkfinder.get_move(kazuya, "wr3")["Command"])
         self.assertEqual("1,1,2", tkfinder.get_move(kazuya, "112")["Command"])
@@ -59,13 +82,13 @@ class MyTestCase(unittest.TestCase):
             "online_webpage": "http://rbnorway.org/marduk-t7-frames",
             "portrait": "https://i.imgur.com/2OtX6nd.png"
         }
-        self.assertEqual("d/f+3, d/f+1, 2", tkfinder.get_move(marduk, "df3df12")["Command"])
-        self.assertEqual("d/f+3, 1, d+2", tkfinder.get_move(marduk, "df31,d+2")["Command"])
-        self.assertEqual("d/f+3, 1, d+2", tkfinder.get_move(marduk, "df3,1d+2")["Command"])
-        self.assertEqual("d/f+3, 1, d+2", tkfinder.get_move(marduk, "df+3,1d2")["Command"])
-        self.assertEqual("u/b or u or u/f+3", tkfinder.get_move(marduk, "u3")["Command"])
-        self.assertEqual("u/b or u or u/f+3", tkfinder.get_move(marduk, "uf3")["Command"])
-        self.assertEqual("u/b or u or u/f+3", tkfinder.get_move(marduk, "ub3")["Command"])
+        self.assertEqual("d/f+3,d/f+1,2", tkfinder.get_move(marduk, "df3df12")["Command"])
+        self.assertEqual("d/f+3,1,d+2", tkfinder.get_move(marduk, "df31,d+2")["Command"])
+        self.assertEqual("d/f+3,1,d+2", tkfinder.get_move(marduk, "df3,1d+2")["Command"])
+        self.assertEqual("d/f+3,1,d+2", tkfinder.get_move(marduk, "df+3,1d2")["Command"])
+        self.assertEqual("(u/b_u_u/f)+3", tkfinder.get_move(marduk, "u3")["Command"])
+        self.assertEqual("(u/b_u_u/f)+3", tkfinder.get_move(marduk, "uf3")["Command"])
+        self.assertEqual("(u/b_u_u/f)+3", tkfinder.get_move(marduk, "ub3")["Command"])
 
         leo = {
             "name": "leo",
@@ -96,7 +119,17 @@ class MyTestCase(unittest.TestCase):
             "online_webpage": "http://rbnorway.org/lucky-chloe-t7-frames",
             "portrait": "https://i.imgur.com/iNXYpwT.jpg"
         }
-        self.assertEqual("u/f+3(u+3 or u/b+3)", tkfinder.get_move(chloe, "uf3")["Command"])
+        self.assertEqual("u/b_u_u/f+3", tkfinder.get_move(chloe, "uf3")["Command"])
+
+        leroy = {
+                    "local_json": "leroy.json",
+                    "name": "leroy",
+                    "online_webpage": "",
+                    "portrait": "https://i.imgur.com/FrR8dDq.png",
+                    "proper_name": "Leroy Smith"
+        }
+
+        self.assertEqual("HTS 3,4", tkfinder.get_move(leroy, "HTS 34")["Command"])
 
 
     def test_ling(self):
@@ -107,9 +140,9 @@ class MyTestCase(unittest.TestCase):
             "online_webpage": "http://rbnorway.org/xiaoyu-t7-frames",
             "portrait": "https://i.imgur.com/zuojLtJ.jpg"
         }
-        self.assertEqual("AOP u/b or u or u/f+3, 3", tkfinder.get_move(ling, "AOP uf33")["Command"])
-        self.assertEqual("AOP u/b or u or u/f+3, 3", tkfinder.get_move(ling, "AOP ub33")["Command"])
-        self.assertEqual("AOP u/b or u or u/f+3, 3", tkfinder.get_move(ling, "AOP u33")["Command"])
+        self.assertEqual("AOP u/b_u_u/f+3, 3", tkfinder.get_move(ling, "AOP uf33")["Command"])
+        self.assertEqual("AOP u/b_u_u/f+3, 3", tkfinder.get_move(ling, "AOP ub33")["Command"])
+        self.assertEqual("AOP u/b_u_u/f+3, 3", tkfinder.get_move(ling, "AOP u33")["Command"])
 
 
     def test_move_simplifier(self):

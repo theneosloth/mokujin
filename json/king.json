@@ -422,7 +422,7 @@
         "Command": "d/f+4, 3,d+4",
         "Counter hit frame": "KND",
         "Damage": "10,11,20",
-        "Gif": "",
+        "Gif": "https://gfycat.com/AncientWideeyedGraywolf.gif",
         "Hit frame": "KND",
         "Hit level": "l, h, l (TJ)",
         "Notes": "-",
@@ -484,9 +484,12 @@
         "Start up frame": "23 cs6~22"
     },
     {
+        "Alias": [
+            "d+3+4",
+            "FC+d/f+4"
+        ],
         "Block frame": "-25",
         "Command": "d+3+4_FC+d/f+4",
-        "Alias" : ["d+3+4","FC+d/f+4"],
         "Counter hit frame": "-9",
         "Damage": "14",
         "Gif": "",
@@ -1017,7 +1020,7 @@
         "Command": "FC+d/f+1",
         "Counter hit frame": "KND",
         "Damage": "20",
-        "Gif": "",
+        "Gif": "https://gfycat.com/PeriodicGrizzledAfricanparadiseflycatcher.gif",
         "Hit frame": "KND",
         "Hit level": "l (TC)",
         "Notes": "-",
@@ -1028,7 +1031,7 @@
         "Command": "FC+d/f+2",
         "Counter hit frame": "hKZD",
         "Damage": "21",
-        "Gif": "",
+        "Gif": "https://gfycat.com/UnfitElectricAmurstarfish.gif",
         "Hit frame": "hKZD",
         "Hit level": "m",
         "Notes": "-",
@@ -1409,9 +1412,12 @@
         "Start up frame": "17~19 (169~)"
     },
     {
+        "Alias": [
+            "3+4, 1+4",
+            "3+4, 2+3"
+        ],
         "Block frame": "-",
         "Command": "3+4,1+4 _ 3+4,2+3",
-        "Alias" : ["3+4, 1+4","3+4, 2+3"],
         "Counter hit frame": "-",
         "Damage": "20",
         "Gif": "",
@@ -1839,9 +1845,12 @@
         "Start up frame": "20~21"
     },
     {
+        "Alias": [
+            "u/f+1",
+            "u+1"
+        ],
         "Block frame": "-8",
         "Command": "u_u/f+1",
-        "Alias" : ["u/f+1","u+1"],
         "Counter hit frame": "+3",
         "Damage": "16",
         "Gif": "",
@@ -1884,9 +1893,12 @@
         "Start up frame": "48~52 RG"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3"
+        ],
         "Block frame": "-19",
         "Command": "u/b_u+3",
-		"Alias": ["u/b+3","u+3"],
         "Counter hit frame": "KND",
         "Damage": "33",
         "Gif": "",

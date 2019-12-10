@@ -66,12 +66,12 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "-4",
+        "Block frame": "-2",
         "Command": "1, 3",
-        "Counter hit frame": "+5",
+        "Counter hit frame": "+7",
         "Damage": "7,14",
         "Gif": "https://gfycat.com/ThunderousShockingEnglishpointer.gif",
-        "Hit frame": "+5",
+        "Hit frame": "+7",
         "Hit level": "h, h (SCR)",
         "Notes": "-",
         "Start up frame": "-"
@@ -781,9 +781,12 @@
         "Start up frame": "64"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1"
+        ],
         "Block frame": "-12",
         "Command": "u/b_u+1",
-		"Alias": ["u/b+1","u+1"],
         "Counter hit frame": "-1",
         "Damage": "12",
         "Gif": "",
@@ -804,9 +807,13 @@
         "Start up frame": "19"
     },
     {
+        "Alias": [
+            "u/b+2,2",
+            "u+2,2",
+            "u/f+2,2"
+        ],
         "Block frame": "-12",
         "Command": "u/b_u_u/f+22",
-		"Alias": ["u/b+2,2","u+2,2","u/f+2,2"],
         "Counter hit frame": "+9g",
         "Damage": "17",
         "Gif": "",
@@ -1018,7 +1025,7 @@
         "Command": "f, f, f+3",
         "Counter hit frame": "KND",
         "Damage": "30",
-        "Gif": "",
+        "Gif": "https://gfycat.com/LeafyMeatyAmericanavocet.gif",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "-",
@@ -1183,7 +1190,7 @@
         "Command": "FC+d/f+3",
         "Counter hit frame": "KND",
         "Damage": "15",
-        "Gif": "",
+        "Gif": "https://gfycat.com/AllNaiveBullmastiff.gif",
         "Hit frame": "KND",
         "Hit level": "l (TC)",
         "Notes": "-",
@@ -1227,7 +1234,7 @@
         "Command": "d+1+2",
         "Counter hit frame": "-",
         "Damage": "-",
-        "Gif": "",
+        "Gif": "https://gfycat.com/WellgroomedGregariousFishingcat.gif",
         "Hit frame": "-",
         "Hit level": "(TRT)",
         "Notes": "-",
@@ -1359,7 +1366,7 @@
         "Command": "3+4",
         "Counter hit frame": "-",
         "Damage": "-",
-        "Gif": "",
+        "Gif": "https://gfycat.com/ElementaryUnkemptBrahmanbull.gif",
         "Hit frame": "-",
         "Hit level": "(SCR)",
         "Notes": "-",
@@ -1667,7 +1674,7 @@
         "Command": "d3+4",
         "Counter hit frame": "-",
         "Damage": "-",
-        "Gif": "",
+        "Gif": "https://gfycat.com/SilentFearfulArgali.gif",
         "Hit frame": "-",
         "Hit level": "(MNT)",
         "Notes": "-",

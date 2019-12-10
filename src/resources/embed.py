@@ -1,4 +1,5 @@
 import discord
+from random import randint
 
 
 def move_embed(character, move):
@@ -15,9 +16,18 @@ def move_embed(character, move):
     embed.add_field(name='Block', value=move['Block frame'])
     embed.add_field(name='Hit', value=move['Hit frame'])
     embed.add_field(name='Counter Hit', value=move['Counter hit frame'])
-    embed.add_field(name='Notes', value=(move['Notes'] if move['Notes'] else "-"))
-    if move['Gif']:
+
+    if 'Recovery' in move:
+        embed.add_field(name='Recovery', value=move['Recovery'])
+    if 'Notes' in move and not move['Notes'] == "-":
+        embed.add_field(name='Notes', value=move['Notes'])
+    if 'Gif' in move and move['Gif']:
         embed.add_field(name='Gif', value=move['Gif'], inline=False)
+
+    random_value  = randint(0, 10)
+    # every 10th time
+    if random_value == 0 :
+        embed.add_field(name='Dev Note', value='Also dont forget to check !help to get the newest features :)', inline=False)
 
     return embed
 
@@ -61,14 +71,14 @@ def help_embed():
            "?feedback message   - send message including sender name to the devs  \n\n " \
             "The bot automatically deletes it's own messages after 20 seconds except in channel with the 'tekken' or 'frame' in it"
     embed = discord.Embed(title='Commands', description=text, colour=0x37ba25)
-    embed.set_author(name='Author: Tib')
+    embed.set_author(name='Author: Tib#1303')
 
     return embed
 
 
 def thank_embed():
     text = "\n\n" \
-           "Much thanks and love to T7Chicken Team, Ruxx, BKNR, Vesper, Maxwell, Dramen, Dreamotion, Jacket and Cangu. \n\n" \
+           "Much thanks and love especially to T7Chicken Team, Ruxx, BKNR, Vesper, Maxwell and Evil. \n\n" \
            "This project won't be possible without you guys <3"
     embed = discord.Embed(title='Commands', description=text, colour=0x37ba25)
     embed.set_author(name='Author: Tib')

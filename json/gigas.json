@@ -851,7 +851,7 @@
         "Command": "FC+d/f+2",
         "Counter hit frame": "KND",
         "Damage": "20",
-        "Gif": "",
+        "Gif": "https://gfycat.com/WindingInexperiencedCoypu.gif",
         "Hit frame": "KND",
         "Hit level": "l (TC)",
         "Notes": "-",
@@ -892,10 +892,10 @@
     },
     {
         "Block frame": "-",
-        "Command": "f+3+4 or From special move",
+        "Command": "f+3+4",
         "Counter hit frame": "-",
         "Damage": "-",
-        "Gif": "",
+        "Gif": "https://gfycat.com/DisastrousSadLamprey.gif",
         "Hit frame": "-",
         "Hit level": "(GOL)",
         "Notes": "-",
@@ -1276,9 +1276,12 @@
         "Start up frame": "20~22"
     },
     {
+        "Alias": [
+            "u/b+1",
+            "u+1"
+        ],
         "Block frame": "-8",
-        "Command": "u/b or u+1",
-		"Alias": ["u/b+1","u+1"],
+        "Command": "u/b_u+1",
         "Counter hit frame": "+3",
         "Damage": "16",
         "Gif": "",
@@ -1299,9 +1302,13 @@
         "Start up frame": "23~24 js9~"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-12~-11",
-        "Command": "u/b or u or u/f+2",
-		"Alias": ["u/b+2","u+2","u/f+2"],
+        "Command": "u/b_u_u/f+2",
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",
@@ -1422,7 +1429,7 @@
     },
     {
         "Block frame": "-4",
-        "Command": "FC+d/b+2 or FC+d+2",
+        "Command": "FC+d/b+2_FC+d+2",
         "Counter hit frame": "+7",
         "Damage": "8",
         "Gif": "",
@@ -1485,49 +1492,5 @@
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "16~17 (17~)"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "BT 1 or 2",
-        "Counter hit frame": "+3",
-        "Damage": "15",
-        "Gif": "",
-        "Hit frame": "+3",
-        "Hit level": "h",
-        "Notes": "-",
-        "Start up frame": "8"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "BT 3 or 4",
-        "Counter hit frame": "KND",
-        "Damage": "25",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "-",
-        "Start up frame": "10"
-    },
-    {
-        "Block frame": "-2",
-        "Command": "BT d+1 or 2",
-        "Counter hit frame": "+9",
-        "Damage": "10",
-        "Gif": "",
-        "Hit frame": "+9",
-        "Hit level": "Sm",
-        "Notes": "-",
-        "Start up frame": "10s cs1~"
-    },
-    {
-        "Block frame": "-11",
-        "Command": "BT d+3 or 4",
-        "Counter hit frame": "+3",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "+3",
-        "Hit level": "l",
-        "Notes": "-",
-        "Start up frame": "10s cs1~"
     }
 ]

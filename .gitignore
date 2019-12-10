@@ -16,3 +16,4 @@ venv
 
 # VS Code
 .vscode
+/tc/

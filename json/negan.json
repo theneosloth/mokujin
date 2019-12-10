@@ -378,7 +378,7 @@
         "Command": "d/f+1,2*",
         "Counter hit frame": "+7",
         "Damage": "13,20",
-        "Gif": "",
+        "Gif": "https://gfycat.com/MiniatureBothDassie.gif",
         "Hit frame": "+7",
         "Hit level": "m, m (INT)",
         "Notes": "-",
@@ -504,17 +504,6 @@
         "Hit level": "m, m",
         "Notes": "-",
         "Start up frame": "22"
-    },
-    {
-        "Block frame": "-5",
-        "Command": "d/b or d+1",
-        "Counter hit frame": "+6",
-        "Damage": "5",
-        "Gif": "",
-        "Hit frame": "+6",
-        "Hit level": "sm",
-        "Notes": "-",
-        "Start up frame": "10"
     },
     {
         "Block frame": "-9",
@@ -693,9 +682,13 @@
         "Start up frame": "22"
     },
     {
+        "Alias": [
+            "u/b+1+2",
+            "u+1+2",
+            "u/f+1+2"
+        ],
         "Block frame": "-12",
-        "Command": "u/b or u or u/f+1+2",
-		"Alias": ["u/b+1+2","u+1+2","u/f+1+2"],
+        "Command": "u/b_u_u/f+1+2",
         "Counter hit frame": "-1",
         "Damage": "12 js9",
         "Gif": "",
@@ -716,9 +709,12 @@
         "Start up frame": "25"
     },
     {
+        "Alias": [
+            "u+2",
+            "u/f+2"
+        ],
         "Block frame": "-9",
-        "Command": "u or u/f+2",
-		"Alias": ["u+2","u/f+2"],
+        "Command": "u_u/f+2",
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/ExemplarySpeedyChuckwalla.gif",
@@ -728,9 +724,13 @@
         "Start up frame": "24"
     },
     {
+        "Alias": [
+            "u/b+3",
+            "u+3",
+            "u/f+3"
+        ],
         "Block frame": "-9",
-        "Command": "u/b or u or u/f+3",
-		"Alias": ["u/b+3","u+3","u/f+3"],
+        "Command": "u/b_u_u/f+3",
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/OrangeGiddyFlycatcher.gif",
@@ -740,9 +740,13 @@
         "Start up frame": "29 js9"
     },
     {
+        "Alias": [
+            "u/b+4",
+            "u+4",
+            "u/f+4"
+        ],
         "Block frame": "-7",
-        "Command": "u/b or u or u/f+4",
-		"Alias": ["u/b+4","u+4","u/f+4"],
+        "Command": "u/b_u_u/f+4",
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/AptPleasantBullmastiff.gif",
@@ -976,7 +980,7 @@
         "Command": "FC+d/f+2",
         "Counter hit frame": "KND",
         "Damage": "19",
-        "Gif": "",
+        "Gif": "https://gfycat.com/PastelCornyAfricanparadiseflycatcher.gif",
         "Hit frame": "+3s",
         "Hit level": "l (TC)",
         "Notes": "-",
@@ -1036,39 +1040,6 @@
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "14"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "BT 3 or 4",
-        "Counter hit frame": "KND",
-        "Damage": "18",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "-",
-        "Start up frame": "10"
-    },
-    {
-        "Block frame": "-2",
-        "Command": "BT d+1 or d+2",
-        "Counter hit frame": "+9",
-        "Damage": "10",
-        "Gif": "",
-        "Hit frame": "+9",
-        "Hit level": "sm",
-        "Notes": "-",
-        "Start up frame": "10"
-    },
-    {
-        "Block frame": "-11",
-        "Command": "BT d+3 or d+4",
-        "Counter hit frame": "+3",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "+3",
-        "Hit level": "l",
-        "Notes": "-",
-        "Start up frame": "10"
     },
     {
         "Block frame": "-",
@@ -1203,28 +1174,6 @@
         "Start up frame": "21"
     },
     {
-        "Block frame": "1 or 2",
-        "Command": "1+3",
-        "Counter hit frame": "-",
-        "Damage": "35",
-        "Gif": "",
-        "Hit frame": "-3",
-        "Hit level": "h",
-        "Notes": "2+3",
-        "Start up frame": "12"
-    },
-    {
-        "Block frame": "-6",
-        "Command": "h",
-        "Counter hit frame": "Left side throw",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "-",
-        "Hit level": "35",
-        "Notes": "h",
-        "Start up frame": "1 or 2"
-    },
-    {
         "Block frame": "-",
         "Command": "40",
         "Counter hit frame": "h",
@@ -1240,7 +1189,7 @@
         "Command": "12",
         "Counter hit frame": "50",
         "Damage": "-3",
-        "Gif": "",
+        "Gif": "https://gfycat.com/HonoredGlassIberianlynx.gif",
         "Hit frame": "h",
         "Hit level": "2",
         "Notes": "12",
