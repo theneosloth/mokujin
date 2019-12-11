@@ -8,8 +8,6 @@ def move_embed(character, move):
                           colour=0x00EAFF,
                           url=character['online_webpage'],
                           description='**Move: ' + move['Command'] + '**')
-
-    print(move)
     embed.set_thumbnail(url=character['portrait'])
     embed.add_field(name='Property', value=move['Hit level'])
     embed.add_field(name='Damage', value=move['Damage'])
@@ -22,13 +20,14 @@ def move_embed(character, move):
         embed.add_field(name='Recovery', value=move['Recovery'])
     if 'Notes' in move and not move['Notes'] == "-":
         embed.add_field(name='Notes', value=move['Notes'])
-    if 'Gif' in move and move['Gif']:
+    if 'Gif' in move and move['Gif'] and not move['Gif'] == "-":
         embed.add_field(name='Gif', value=move['Gif'], inline=False)
 
-    random_value  = randint(0, 10)
+    random_value = randint(0, 10)
     # every 10th time
-    if random_value == 0 :
-        embed.add_field(name='Dev Note', value='Also dont forget to check !help to get the newest features :)', inline=False)
+    if random_value == 0:
+        embed.add_field(name='Dev Note', value='Also dont forget to check !help to get the newest features :)',
+                        inline=False)
 
     return embed
 
@@ -51,6 +50,7 @@ def error_embed(err):
                           description=err)
     return embed
 
+
 def success_embed(message):
     embed = discord.Embed(title='Success',
                           colour=0x3ddb2c,
@@ -70,7 +70,8 @@ def help_embed():
            "!character move     - get frame data of a move from a character \n" \
            "!clear-messages        - deletes bot's last own messages\n" \
            "?feedback message   - send message including sender name to the devs  \n\n " \
-            "The bot automatically deletes it's own messages after 20 seconds except in channel with the 'tekken' or 'frame' in it"
+           "The bot automatically deletes it's own messages after 20 seconds except in channel with the 'tekken' or " \
+           "'frame' in it "
     embed = discord.Embed(title='Commands', description=text, colour=0x37ba25)
     embed.set_author(name='Author: Tib#1303')
 
