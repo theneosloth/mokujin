@@ -9,6 +9,7 @@ def move_embed(character, move):
                           url=character['online_webpage'],
                           description='**Move: ' + move['Command'] + '**')
 
+    print(move)
     embed.set_thumbnail(url=character['portrait'])
     embed.add_field(name='Property', value=move['Hit level'])
     embed.add_field(name='Damage', value=move['Damage'])
