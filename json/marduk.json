@@ -1289,9 +1289,15 @@
         "Start up frame": "29"
     },
     {
+        "Alias": [
+            "d/b+4 grounded opponent",
+            "opponent down d/b+4",
+            "grounded opponent d/b+4",
+            "stomp"
+        ],
         "Block frame": "-14",
-        "Command": "opponent grounded d/b+4",
-        "Counter hit frame": "-3",
+        "Command": "d/b+4 opponent down",
+        "Counter hit frame": "+3~+4",
         "Damage": "23",
         "Gif": "",
         "Hit frame": "-3",
