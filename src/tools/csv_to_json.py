@@ -1,7 +1,7 @@
 import csv, json
 
-input_file= "leroy.csv"
-output_file = "../../json/leroy.json"
+input_file= "ganryu.csv"
+output_file = "../../json/ganryu.json"
 
 movelist = []
 
@@ -23,4 +23,4 @@ with open(input_file) as csv_file:
         movelist.append(move)
 
 with open(output_file, 'w') as c:
-    json.dump(movelist, c, sort_keys=True, indent=4)
+    json.dump(movelist, c, sort_keys=True, indent=4, ensure_ascii=False)
