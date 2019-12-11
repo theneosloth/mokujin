@@ -504,7 +504,7 @@
             "1,2,1,2,dck",
             "1,2,1,2~dck"
         ],
-        "Block frame": "-6~-5",
+        "Block frame": "-4~-3",
         "Command": "1,2,1,2~f+(3_4)",
         "Counter hit frame": "KND",
         "Damage": "7,10,15,15",
