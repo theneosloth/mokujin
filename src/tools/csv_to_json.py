@@ -20,6 +20,9 @@ with open(input_file) as csv_file:
         move['Notes'] = row[7]
         move['Gif'] = ""
 
+        for entry in move:
+            if not move[entry].strip():
+                move[entry] = "-"
         movelist.append(move)
 
 with open(output_file, 'w') as c:
