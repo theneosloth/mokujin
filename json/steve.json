@@ -10,7 +10,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Rage art, alt. input: in rage WS+1+2",
+        "Notes": "Rage art\nAlt. input: in rage WS+1+2",
         "Start up frame": "13 pc8~"
     },
     {
@@ -684,7 +684,7 @@
         "Damage": "11,12",
         "Gif": "https://gfycat.com/BitterBelatedEelelephant.gif",
         "Hit frame": "+4",
-        "Hit level": "m,h,(Special)",
+        "Hit level": "m,h,(PAB)",
         "Notes": "-",
         "Start up frame": "21~22"
     },
@@ -1071,7 +1071,7 @@
         "Gif": "",
         "Hit frame": "+15~+16g",
         "Hit level": "m,(DCK)",
-        "Notes": "Homing, Check d/f+2~DCKc for the cancel",
+        "Notes": "Homing\nCheck d/f+2~DCKc for the cancel",
         "Start up frame": "16~17"
     },
     {
@@ -1935,7 +1935,7 @@
         "Damage": "-",
         "Gif": "https://gfycat.com/EasySnarlingChital.gif",
         "Hit frame": "-",
-        "Hit level": "(Special)",
+        "Hit level": "-",
         "Notes": "-",
         "Start up frame": "17"
     },
@@ -3040,7 +3040,7 @@
         "Gif": "https://gfycat.com/VacantFloweryCob.gif",
         "Hit frame": "throw (+1)",
         "Hit level": "h",
-        "Notes": "Throw, Can change direction with (f_d_b_u)",
+        "Notes": "Throw\nCan change direction with (f_d_b_u)",
         "Start up frame": "10 (20~)"
     },
     {
@@ -3452,7 +3452,7 @@
         "Hit frame": "-",
         "Hit level": "(Special)",
         "Notes": "-",
-        "Start up frame": "8"
+        "Start up frame": "-"
     },
     {
         "Alias": [
@@ -3482,6 +3482,6 @@
         "Hit frame": "-",
         "Hit level": "(Special)",
         "Notes": "-",
-        "Start up frame": "10 1~"
+        "Start up frame": "-"
     }
 ]
