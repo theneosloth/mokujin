@@ -2012,7 +2012,7 @@
         "Hit frame": "+6",
         "Hit level": "h,h,(RFF)",
         "Notes": "-",
-        "Start up frame": "10"
+        "Start up frame": "13"
     },
     {
         "Block frame": "-8",
@@ -2023,7 +2023,7 @@
         "Hit frame": "+3",
         "Hit level": "h,h,m,(LFF)",
         "Notes": "-",
-        "Start up frame": "10"
+        "Start up frame": "13"
     },
     {
         "Block frame": "-7",
@@ -2034,7 +2034,7 @@
         "Hit frame": "+2",
         "Hit level": "h,h,(LFF)",
         "Notes": "-",
-        "Start up frame": "10"
+        "Start up frame": "13"
     },
     {
         "Block frame": "-8",
@@ -2045,7 +2045,7 @@
         "Hit frame": "+3",
         "Hit level": "h,h,(RFF)",
         "Notes": "-",
-        "Start up frame": "10"
+        "Start up frame": "13"
     },
     {
         "Alias": [
@@ -2062,7 +2062,7 @@
         "Hit frame": "+18g",
         "Hit level": "h,h,(RFS)",
         "Notes": "-",
-        "Start up frame": "10"
+        "Start up frame": "13"
     },
     {
         "Block frame": "-15",
@@ -2073,7 +2073,7 @@
         "Hit frame": "KND",
         "Hit level": "h,h,m,(LFF)",
         "Notes": "-",
-        "Start up frame": "10"
+        "Start up frame": "13"
     },
     {
         "Block frame": "-5",
@@ -2084,7 +2084,7 @@
         "Hit frame": "KND",
         "Hit level": "h,h,h,(LFF)",
         "Notes": "Tail spin",
-        "Start up frame": "10"
+        "Start up frame": "13"
     },
     {
         "Block frame": "-9",
@@ -2095,7 +2095,7 @@
         "Hit frame": "+13kg",
         "Hit level": "h,h(TC),(LFF)",
         "Notes": "Tail spin",
-        "Start up frame": "10"
+        "Start up frame": "13"
     },
     {
         "Block frame": "+2",

@@ -992,17 +992,6 @@
     {
         "Block frame": "-11",
         "Command": "WS+1+2,1+2",
-        "Counter hit frame": "-4",
-        "Damage": "25",
-        "Gif": "",
-        "Hit frame": "-4",
-        "Hit level": "m, m",
-        "Notes": "-",
-        "Start up frame": "19~21"
-    },
-    {
-        "Block frame": "-11",
-        "Command": "(WS+1+2),1+2",
         "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": "",
