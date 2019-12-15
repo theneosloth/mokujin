@@ -12,7 +12,7 @@ Framedata acquired from RBNorway and community
 
 Clone this to a linux server that has Python 3.6.0+ with [discord.py](https://github.com/Rapptz/discord.py) library.
 You need your own discord bot ([instruction](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token)) and have the token in the`src/resources/config.json`. You can add a feedback channel there also.
-You will also need an empty file `log/logfile.log`.
+
 
 The executable is `src/mokujin.py`.
 
