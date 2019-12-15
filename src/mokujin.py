@@ -18,10 +18,17 @@ bot = commands.Bot(command_prefix=prefix, description=description)
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.WARNING)
 
-logfile_path = os.path.abspath(os.path.join(base_path, "..", "log", "logfile.log"))
+logfile_directory = os.path.abspath(os.path.join(base_path, "..", "log"))
+logfile_path = logfile_directory + "\\logfile.log"
+
 # Create logfile if not exists
+if not os.path.exists(logfile_directory):
+    os.makedirs(logfile_directory)
+
 if not os.path.isfile(logfile_path):
     open(logfile_path, "w")
+
+
 file_handler = logging.FileHandler(logfile_path)
 
 formatter = logging.Formatter('%(asctime)s : %(levelname)s : %(name)s : %(message)s')
