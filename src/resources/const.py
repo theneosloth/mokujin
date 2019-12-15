@@ -49,8 +49,6 @@ CHARACTER_ALIAS = {
     "ganryu": ["gan","ganny"]
 }
 
-FEEDBACK_CHANNEL_ID = 647935739081916441
-
 # Dict for searching special move types
 MOVE_TYPES = {
     'ra': 'Rage art',
