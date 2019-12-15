@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import os, datetime, logging
+import os, datetime, logging, configurator
 import sys
 
 sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
@@ -9,6 +9,7 @@ from src.resources import const, embed
 from src import tkfinder
 
 base_path = os.path.dirname(__file__)
+config = configurator.Configurator(os.path.abspath(os.path.join(base_path, "resources", "config.json")))
 prefix = '§'
 description = 'The premier Tekken 7 Frame bot, made by Baikonur#4927, continued by Tib#1303'
 bot = commands.Bot(command_prefix=prefix, description=description)
@@ -27,11 +28,8 @@ formatter = logging.Formatter('%(asctime)s : %(levelname)s : %(name)s : %(messag
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 
-# Get token from local txt file
-t_filename = os.path.abspath(os.path.join(base_path, "resources", "token.txt"))
-
-with open(t_filename) as token_file:
-    token = token_file.read().strip()
+token = config.read_config()['TOKEN']
+feedback_channel_id = config.read_config()['FEEDBACK_CHANNEL_ID']
 
 
 @bot.event
@@ -70,7 +68,7 @@ async def on_message(message):
 
             try:
 
-                feedback_channel = bot.get_channel(const.FEEDBACK_CHANNEL_ID)
+                feedback_channel = bot.get_channel(feedback_channel_id)
                 user_message = user_message.replace("\n", "")
                 result = "{}  ;  {} ;   {};\n".format(str(message.author), server_name, user_message)
                 await feedback_channel.send(result)
