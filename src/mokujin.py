@@ -119,21 +119,13 @@ async def on_message(message):
                 else:
                     character_move = tkfinder.get_move(character, original_move)
 
-                    # First checks the move as case sensitive, if it doesn't find it
-                    # it checks it case insensitive
-
                     if character_move is not None:
                         result = embed.move_embed(character, character_move)
                         await channel.send(embed=result, delete_after=delete_after)
                     else:
-                        character_move = tkfinder.get_move(character, original_move)
-                        if character_move is not None:
-                            result = embed.move_embed(character, character_move)
-                            await channel.send(embed=result, delete_after=delete_after)
-                        else:
-                            similar_moves = tkfinder.get_similar_moves(original_move, character_name)
-                            result = embed.similar_moves_embed(similar_moves)
-                            await channel.send(embed=result, delete_after=delete_after)
+                        similar_moves = tkfinder.get_similar_moves(original_move, character_name)
+                        result = embed.similar_moves_embed(similar_moves)
+                        await channel.send(embed=result, delete_after=delete_after)
             else:
                 bot_msg = f'Character {original_name} does not exist.'
                 result = embed.error_embed(bot_msg)
