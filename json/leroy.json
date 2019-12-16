@@ -105,7 +105,7 @@
         "Damage": "7,9,11",
         "Gif": "",
         "Hit frame": "+3",
-        "Hit level": "h,h,m,(HTS)",
+        "Hit level": "h,h,m,(HRM)",
         "Notes": "-",
         "Start up frame": "10"
     },
@@ -248,7 +248,7 @@
         "Damage": "-",
         "Gif": "",
         "Hit frame": "-",
-        "Hit level": "(HTS)",
+        "Hit level": "(HRM)",
         "Notes": "-",
         "Start up frame": "-"
     },
@@ -292,7 +292,7 @@
         "Damage": "15,15,20",
         "Gif": "",
         "Hit frame": "+8",
-        "Hit level": "h,m,m,(HTS)",
+        "Hit level": "h,m,m,(HRM)",
         "Notes": "-",
         "Start up frame": "-"
     },
@@ -391,7 +391,7 @@
         "Damage": "14,16",
         "Gif": "",
         "Hit frame": "+6",
-        "Hit level": "m,m,(HTS)",
+        "Hit level": "m,m,(HRM)",
         "Notes": "-",
         "Start up frame": "-"
     },
@@ -457,7 +457,7 @@
         "Damage": "16",
         "Gif": "",
         "Hit frame": "+6",
-        "Hit level": "m,(HTS)",
+        "Hit level": "m,(HRM)",
         "Notes": "-",
         "Start up frame": "13"
     },
@@ -568,7 +568,7 @@
         "Damage": "14,10",
         "Gif": "",
         "Hit frame": "+8",
-        "Hit level": "l,h,(HTS)",
+        "Hit level": "l,h,(HRM)",
         "Notes": "-",
         "Start up frame": "-"
     },
@@ -590,7 +590,7 @@
         "Damage": "9,16",
         "Gif": "",
         "Hit frame": "+1",
-        "Hit level": "l,m,(HTS)",
+        "Hit level": "l,m,(HRM)",
         "Notes": "-",
         "Start up frame": "-"
     },
@@ -821,7 +821,7 @@
         "Damage": "16",
         "Gif": "",
         "Hit frame": "+9",
-        "Hit level": "m,(HTS)",
+        "Hit level": "m,(HRM)",
         "Notes": "-",
         "Start up frame": "16~17 (16~)"
     },
@@ -876,7 +876,7 @@
         "Damage": "14,16",
         "Gif": "",
         "Hit frame": "+6",
-        "Hit level": "m,m,(HTS)",
+        "Hit level": "m,m,(HRM)",
         "Notes": "-",
         "Start up frame": "-"
     },
@@ -1118,7 +1118,7 @@
         "Damage": "13",
         "Gif": "",
         "Hit frame": "+7",
-        "Hit level": "m,(HTS)",
+        "Hit level": "m,(HRM)",
         "Notes": "-",
         "Start up frame": "11~12"
     },
