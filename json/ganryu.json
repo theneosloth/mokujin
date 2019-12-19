@@ -925,7 +925,8 @@
     },
     {
         "Block frame": "+9",
-        "Command": "f,f,f+1+2 (WR+1+2)",
+        "Alias": ["wr+1+2"],
+        "Command": "f,f,f+1+2",
         "Counter hit frame": "+32g",
         "Damage": "35",
         "Gif": "",
