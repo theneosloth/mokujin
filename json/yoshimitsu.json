@@ -3560,6 +3560,20 @@
     },
     {
         "Alias": [
+            "FC b+1"
+        ],
+        "Block frame": "KND",
+        "Command": "FC d/f+1",
+        "Counter hit frame": "KDD",
+        "Damage": "12",
+        "Gif": "",
+        "Hit frame": "KDD",
+        "Hit level": "l (!)",
+        "Notes": "-",
+        "Start up frame": "26F"
+    },
+    {
+        "Alias": [
             "FC d/b+4",
             "FC d+4"
         ],

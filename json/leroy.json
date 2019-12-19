@@ -683,6 +683,17 @@
         "Start up frame": "32~33 (3~?)"
     },
     {
+        "Block frame": "-5",
+        "Command": "b+1+2",
+        "Counter hit frame": "KND",
+        "Damage": "?",
+        "Gif": "",
+        "Hit frame": "+6",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "12"
+    },
+    {
         "Block frame": "-",
         "Command": "b+1",
         "Counter hit frame": "Throw",
