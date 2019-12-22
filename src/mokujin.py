@@ -28,7 +28,6 @@ if not os.path.exists(logfile_directory):
 if not os.path.isfile(logfile_path):
     open(logfile_path, "w")
 
-
 file_handler = logging.FileHandler(logfile_path)
 
 formatter = logging.Formatter('%(asctime)s : %(levelname)s : %(name)s : %(message)s')
@@ -57,16 +56,21 @@ async def on_message(message):
     try:
         channel = message.channel
 
-        if message.content == "?credit":
-            await channel.send(embed=embed.thank_embed())
+        if message.content.startswith("!auto-delete"):
+
+            if message.author.permissions_in(channel).manage_messages:
+                duration = message.content.split(' ', 1)[1]
+                if duration.isdigit() or duration == "-1":
+                    config.save_auto_delete_duration(channel.id, duration)
+                    await channel.send(embed=embed.success_embed("Saved"))
+                else:
+                    await channel.send(embed=embed.error_embed("Duration needs to be a number in seconds"))
+            else:
+                await channel.send(embed=embed.error_embed("You need the permission <manage_messages> to do that"))
             return
 
         elif message.content == '!help':
             await channel.send(embed=embed.help_embed())
-            return
-
-        elif message.content == '!clear-messages':
-            await channel.purge(limit=200, check=is_me)
             return
 
         elif message.content.startswith('?feedback'):
@@ -87,9 +91,8 @@ async def on_message(message):
 
         elif message.content.startswith('!'):
 
-            delete_after = 20
-            if ('tekken' in channel.name) or ('frame' in channel.name):
-                delete_after = None
+            delete_after = config.get_auto_delete_duration(channel.id)
+
 
             user_message = message.content
             command = user_message[1:]

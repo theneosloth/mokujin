@@ -1,9 +1,1 @@
-{
-  "Test": "Test",
-  "Test2": "Test2",
-  "auto_delete": {
-    "1": 60,
-    "test_channel_id": 100,
-    "2": 70
-  }
-}
+{"Test": "Test", "Test2": "Test2", "auto_delete": {"1": 60, "2": 70, "test_channel_id": 100}}

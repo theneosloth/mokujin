@@ -67,11 +67,12 @@ def similar_moves_embed(similar_moves):
 
 def help_embed():
     text = "" \
-           "!character move     - get frame data of a move from a character \n" \
-           "!clear-messages        - deletes bot's last own messages\n" \
-           "?feedback message   - send message including sender name to the devs  \n\n " \
-           "The bot automatically deletes it's own messages after 20 seconds except in channel with the 'tekken' or " \
-           "'frame' in it "
+           "!character move\t\t\t- get frame data of a move from a character \n" \
+           "!auto-delete seconds\t\t\t-    change the duration of the bot waiting until he deletes the message in " \
+           "this channel\n" \
+           "?feedback message\t\t\t- send message including sender name to the devs \n\n " \
+           "This bot deletes its messages after 20 seconds normally. You can configure this by using !auto-delete " \
+           "function "
     embed = discord.Embed(title='Commands', description=text, colour=0x37ba25)
     embed.set_author(name='Author: Tib#1303')
 

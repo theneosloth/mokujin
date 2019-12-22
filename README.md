@@ -16,14 +16,9 @@ You need your own discord bot ([instruction](https://github.com/reactiflux/disco
 
 The executable is `src/mokujin.py`.
 
-The bot only listens to and responses to messages in channels with tekken or frame. You can change that in the `mokujin.py`
-```
-if ('tekken' in channel.name) or ('frame' in channel.name)
-```
-
 Commands
 ```
-!character move     -   get frame data of a move from a character
-!clear-messages     -   clear bot's last own messages
-?feedback message   -   send message to the author   
+!character move         -   get frame data of a move from a character
+!auto-delete seconds   -    change the duration of the bot waiting until he deletes the message in this channel
+?feedback message       -   send message to the author   
 ```
