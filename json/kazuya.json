@@ -732,14 +732,14 @@
     },
     {
         "Block frame": "-11s",
-        "Command": "FC+d/f+3+4",
+        "Command": "FC d/f+3+4",
         "Counter hit frame": "KND",
         "Damage": "24",
         "Gif": "https://gfycat.com/PresentFantasticImperialeagle.gif",
         "Hit frame": "KND",
         "Hit level": "m (TC)",
         "Notes": "-",
-        "Start up frame": "23s cs1~ ar13~"
+        "Start up frame": "23s cs1~ js13~"
     },
     {
         "Block frame": "-6~-5",
@@ -764,30 +764,26 @@
         "Start up frame": "23"
     },
     {
+        "Alias": [
+            "MS"
+        ],
         "Block frame": "-",
-        "Command": "Odd frame f,n (SSL)",
+        "Command": "f,n",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
         "Hit frame": "-",
-        "Hit level": "(Special)",
-        "Notes": "-",
-        "Start up frame": "23"
+        "Hit level": "(MS)",
+        "Notes": "Odd frame: left.\nEven frame: right.",
+        "Start up frame": "-"
     },
     {
-        "Block frame": "-",
-        "Command": "Even frame f,n (SSR)",
-        "Counter hit frame": "-",
-        "Damage": "-",
-        "Gif": "",
-        "Hit frame": "-",
-        "Hit level": "(Special)",
-        "Notes": "-",
-        "Start up frame": "23"
-    },
-    {
+        "Alias": [
+            "MS WGF",
+            "PWGF"
+        ],
         "Block frame": "-10~-9",
-        "Command": "f,n,D/F+2",
+        "Command": "f,n,d/f+2",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "20",
         "Gif": "",
@@ -798,11 +794,15 @@
     },
     {
         "Alias": [
-            "electric",
-            "ewgf"
+            "MS Elecetric",
+            "MS Perfect Electric",
+            "MS PEWGF",
+            "MS EWGF",
+            "Perfect Electric",
+            "PEWGF"
         ],
         "Block frame": "+5~+6",
-        "Command": "f,n,d/f+2",
+        "Command": "f,n,d/f:2",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "23",
         "Gif": "",
@@ -812,6 +812,9 @@
         "Start up frame": "11~12 (13~)"
     },
     {
+        "Alias": [
+            "MS TGF"
+        ],
         "Block frame": "-16~-14",
         "Command": "f,n,d/f+1",
         "Counter hit frame": "Launch",
@@ -820,7 +823,7 @@
         "Hit frame": "Launch",
         "Hit level": "m",
         "Notes": "-",
-        "Start up frame": "22~24 (24~) ar22~"
+        "Start up frame": "22~24 (24~) js22~"
     },
     {
         "Block frame": "-9~0",
@@ -834,6 +837,10 @@
         "Start up frame": "18~27 (20~) js10~"
     },
     {
+        "Alias": [
+            "MS HS",
+            "MS Hellsweep"
+        ],
         "Block frame": "-23",
         "Command": "f,n,d/f+4",
         "Counter hit frame": "KND",
@@ -842,22 +849,55 @@
         "Hit frame": "-3s (KND)",
         "Hit level": "l",
         "Notes": "-",
-        "Start up frame": "16(18~)"
+        "Start up frame": "16 (18~)"
+    },
+    {
+        "Alias": [
+            "MS HS,4",
+            "MS Hellsweep,4"
+        ],
+        "Block frame": "-23",
+        "Command": "f,n,d/f+4,4",
+        "Counter hit frame": "KND",
+        "Damage": "15,12",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "l,l",
+        "Notes": "-",
+        "Start up frame": "16 (18~)"
+    },
+    {
+        "Alias": [
+            "MS HS,1",
+            "MS Hellsweep,1"
+        ],
+        "Block frame": "-16",
+        "Command": "f,n,d/f+4,1",
+        "Counter hit frame": "KND",
+        "Damage": "15,27",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "l,m",
+        "Notes": "-",
+        "Start up frame": "16 (18~)"
     },
     {
         "Block frame": "-",
-        "Command": "f,n,d,D/F",
+        "Command": "f,n,d,d/f",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": ,
         "Hit frame": "-",
         "Hit level": "(Special)",
         "Notes": "-",
-        "Start up frame": "16(18~)"
+        "Start up frame": "-"
     },
     {
+        "Alias": [
+            "WGF"
+        ],
         "Block frame": "-10~-9",
-        "Command": "f,n,d,D/F+2",
+        "Command": "f,n,d,d/f+2",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "23",
         "Gif": "https://gfycat.com/RespectfulObeseAmericanbittern.gif",
@@ -867,8 +907,12 @@
         "Start up frame": "11~12 (15~)"
     },
     {
+        "Alias": [
+            "Electric",
+            "EWGF"
+        ],
         "Block frame": "+5~+6",
-        "Command": "f,n,d,d/f+2",
+        "Command": "f,n,d,d/f:2",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "23",
         "Gif": "https://gfycat.com/RespectfulObeseAmericanbittern.gif",
@@ -878,6 +922,9 @@
         "Start up frame": "11~12 (14~)"
     },
     {
+        "Alias": [
+            "TGF"
+        ],
         "Block frame": "-16~-14",
         "Command": "f,n,d,d/f+1",
         "Counter hit frame": "Launch",
@@ -886,7 +933,7 @@
         "Hit frame": "Launch",
         "Hit level": "m",
         "Notes": "-",
-        "Start up frame": "22~24 (25~) ar22~"
+        "Start up frame": "22~24 (25~) js22~"
     },
     {
         "Block frame": "-9~0",
@@ -900,6 +947,10 @@
         "Start up frame": "18~27 (21~) js10~"
     },
     {
+        "Alias": [
+            "HS",
+            "Hellsweep"
+        ],
         "Block frame": "-23",
         "Command": "f,n,d,d/f+4",
         "Counter hit frame": "KND",
@@ -911,6 +962,10 @@
         "Start up frame": "16(19~)"
     },
     {
+        "Alias": [
+            "HS,4",
+            "Hellsweep,4"
+        ],
         "Block frame": "-23",
         "Command": "f,n,d,d/f+4,4",
         "Counter hit frame": "KND",
@@ -923,8 +978,8 @@
     },
     {
         "Alias": [
-            "hs",
-            "hellsweep"
+            "HS,1",
+            "Hellsweep,1"
         ],
         "Block frame": "-16",
         "Command": "f,n,d,d/f+4,1",
@@ -938,12 +993,12 @@
     },
     {
         "Block frame": "-6",
-        "Command": "in rage u/b+1+2 (to DVK)",
+        "Command": "in rage u/b+1+2",
         "Counter hit frame": "KND",
         "Damage": "-",
         "Gif": "",
         "Hit frame": "KND",
-        "Hit level": "m (DVK)",
+        "Hit level": "m,(DVK)",
         "Notes": "-",
         "Start up frame": "20 pc5~"
     },
@@ -954,9 +1009,9 @@
         "Damage": "-",
         "Gif": ,
         "Hit frame": "-",
-        "Hit level": "(Special)",
-        "Notes": "-",
-        "Start up frame": "16(19~)"
+        "Hit level": "(DVK off)",
+        "Notes": "Practice Mode only.",
+        "Start up frame": "-"
     },
     {
         "Block frame": "KND",
@@ -1070,7 +1125,7 @@
         "Hit frame": "Launch",
         "Hit level": "m",
         "Notes": "-",
-        "Start up frame": "22~24 (25~) ar22~"
+        "Start up frame": "22~24 (25~) js22~"
     },
     {
         "Block frame": "-16~-14",
@@ -1081,7 +1136,7 @@
         "Hit frame": "Throw(KND)",
         "Hit level": "m,(throw)",
         "Notes": "-",
-        "Start up frame": "22~24 (25~) ar22~"
+        "Start up frame": "22~24 (25~) js22~"
     },
     {
         "Block frame": "-10~-9",
@@ -1114,7 +1169,7 @@
         "Hit frame": "-3s (KND)",
         "Hit level": "l",
         "Notes": "-",
-        "Start up frame": "16(19~)"
+        "Start up frame": "16 (19~)"
     },
     {
         "Block frame": "-16",
@@ -1125,29 +1180,29 @@
         "Hit frame": "KND",
         "Hit level": "l,m",
         "Notes": "-",
-        "Start up frame": "16(19~)"
+        "Start up frame": "16 (19~)"
     },
     {
         "Block frame": "-17~-15",
-        "Command": "DVK f,n,d,d/f+4 ,1,f,n,d,d/f+1",
+        "Command": "DVK f,n,d,d/f+4,1,f,n,d,d/f+1",
         "Counter hit frame": "Launch",
         "Damage": "15,27,20",
         "Gif": "",
         "Hit frame": "Launch",
         "Hit level": "l,m,m",
         "Notes": "-",
-        "Start up frame": "ar22~"
+        "Start up frame": "js22~"
     },
     {
         "Block frame": "-17~-15",
-        "Command": "DVK f,n,d,d/f+4 ,1,f,n,d,d/f+1 When hit U/F",
+        "Command": "DVK f,n,d,d/f+4,1,f,n,d,d/f+1 When hit U/F",
         "Counter hit frame": "Throw(KND)",
         "Damage": "15,27,20,15",
         "Gif": "",
         "Hit frame": "Throw(KND)",
         "Hit level": "l,m,(throw)",
         "Notes": "-",
-        "Start up frame": "ar22~"
+        "Start up frame": "js22~"
     },
     {
         "Block frame": "-23",
@@ -1518,7 +1573,7 @@
     },
     {
         "Block frame": "-5",
-        "Command": "FC+1",
+        "Command": "FC 1",
         "Counter hit frame": "+6",
         "Damage": "5",
         "Gif": "",
@@ -1529,7 +1584,7 @@
     },
     {
         "Block frame": "-4",
-        "Command": "FC+2",
+        "Command": "FC 2",
         "Counter hit frame": "+7",
         "Damage": "18",
         "Gif": "",
@@ -1540,7 +1595,7 @@
     },
     {
         "Block frame": "-17",
-        "Command": "FC+3",
+        "Command": "FC 3",
         "Counter hit frame": "-3",
         "Damage": "12",
         "Gif": "",
@@ -1551,7 +1606,7 @@
     },
     {
         "Block frame": "-15",
-        "Command": "FC+4",
+        "Command": "FC 4",
         "Counter hit frame": "-4",
         "Damage": "10",
         "Gif": "",

@@ -1327,8 +1327,8 @@
     },
     {
         "Alias": [
-            "cd+3*",
-            "cd+3 hold"
+            "CD+3*",
+            "CD+3 hold"
         ],
         "Block frame": "-23~-22",
         "Command": "f,n,d,D/F+3",
