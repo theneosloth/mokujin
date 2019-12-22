@@ -14,6 +14,17 @@ class MyTestCase(unittest.TestCase):
         result = tkfinder.get_commands_from("hwoarang")
         self.assertIn("1,1,3,3", result)
 
+    def test_ganryu(self):
+        gan =  {
+            "local_json": "ganryu.json",
+            "name": "ganryu",
+            "online_webpage": "",
+            "portrait": "https://i.imgur.com/6kScGMT.png",
+            "proper_name": "Ganryu"
+        }
+
+        self.assertEqual("b+1~2", tkfinder.get_move(gan, "b1~2")["Command"])
+
     def test_get_close_moves(self):
         close_moves = tkfinder.get_similar_moves("d/f+1, 2", "hwoarang")
         self.assertIn("d/f+1,3", close_moves)
@@ -66,8 +77,6 @@ class MyTestCase(unittest.TestCase):
             "proper_name": "Leroy Smith"
         }
         self.assertEqual("d/f+1", tkfinder.get_move(leroy, "df1")["Command"])
-
-
         self.assertEqual("f,f,f+3", tkfinder.get_move(kazuya, "wr3")["Command"])
         self.assertEqual("1,1,2", tkfinder.get_move(kazuya, "112")["Command"])
         self.assertEqual("f,n,d,d/f+4,1", tkfinder.get_move(kazuya, "hs")["Command"])
@@ -129,7 +138,7 @@ class MyTestCase(unittest.TestCase):
                     "proper_name": "Leroy Smith"
         }
 
-        self.assertEqual("HTS 3,4", tkfinder.get_move(leroy, "HTS 34")["Command"])
+        self.assertEqual("HRM 3,4", tkfinder.get_move(leroy, "HRM 34")["Command"])
 
 
     def test_ling(self):

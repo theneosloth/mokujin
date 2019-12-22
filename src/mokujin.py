@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import os, datetime, logging
+import os, datetime, logging, configurator
 import sys
 
 sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
@@ -9,6 +9,7 @@ from src.resources import const, embed
 from src import tkfinder
 
 base_path = os.path.dirname(__file__)
+config = configurator.Configurator(os.path.abspath(os.path.join(base_path, "resources", "config.json")))
 prefix = '§'
 description = 'The premier Tekken 7 Frame bot, made by Baikonur#4927, continued by Tib#1303'
 bot = commands.Bot(command_prefix=prefix, description=description)
@@ -17,21 +18,24 @@ bot = commands.Bot(command_prefix=prefix, description=description)
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.WARNING)
 
-logfile_path = os.path.abspath(os.path.join(base_path, "..", "log", "logfile.log"))
+logfile_directory = os.path.abspath(os.path.join(base_path, "..", "log"))
+logfile_path = logfile_directory + "\\logfile.log"
+
 # Create logfile if not exists
+if not os.path.exists(logfile_directory):
+    os.makedirs(logfile_directory)
+
 if not os.path.isfile(logfile_path):
     open(logfile_path, "w")
+
 file_handler = logging.FileHandler(logfile_path)
 
 formatter = logging.Formatter('%(asctime)s : %(levelname)s : %(name)s : %(message)s')
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 
-# Get token from local txt file
-t_filename = os.path.abspath(os.path.join(base_path, "resources", "token.txt"))
-
-with open(t_filename) as token_file:
-    token = token_file.read().strip()
+token = config.read_config()['TOKEN']
+feedback_channel_id = config.read_config()['FEEDBACK_CHANNEL_ID']
 
 
 @bot.event
@@ -52,16 +56,21 @@ async def on_message(message):
     try:
         channel = message.channel
 
-        if message.content == "?credit":
-            await channel.send(embed=embed.thank_embed())
+        if message.content.startswith("!auto-delete"):
+
+            if message.author.permissions_in(channel).manage_messages:
+                duration = message.content.split(' ', 1)[1]
+                if duration.isdigit() or duration == "-1":
+                    config.save_auto_delete_duration(channel.id, duration)
+                    await channel.send(embed=embed.success_embed("Saved"))
+                else:
+                    await channel.send(embed=embed.error_embed("Duration needs to be a number in seconds"))
+            else:
+                await channel.send(embed=embed.error_embed("You need the permission <manage_messages> to do that"))
             return
 
         elif message.content == '!help':
             await channel.send(embed=embed.help_embed())
-            return
-
-        elif message.content == '!clear-messages':
-            await channel.purge(limit=200, check=is_me)
             return
 
         elif message.content.startswith('?feedback'):
@@ -70,7 +79,7 @@ async def on_message(message):
 
             try:
 
-                feedback_channel = bot.get_channel(const.FEEDBACK_CHANNEL_ID)
+                feedback_channel = bot.get_channel(feedback_channel_id)
                 user_message = user_message.replace("\n", "")
                 result = "{}  ;  {} ;   {};\n".format(str(message.author), server_name, user_message)
                 await feedback_channel.send(result)
@@ -82,9 +91,8 @@ async def on_message(message):
 
         elif message.content.startswith('!'):
 
-            delete_after = 20
-            if ('tekken' in channel.name) or ('frame' in channel.name):
-                delete_after = None
+            delete_after = config.get_auto_delete_duration(channel.id)
+
 
             user_message = message.content
             command = user_message[1:]
@@ -121,21 +129,13 @@ async def on_message(message):
                 else:
                     character_move = tkfinder.get_move(character, original_move)
 
-                    # First checks the move as case sensitive, if it doesn't find it
-                    # it checks it case insensitive
-
                     if character_move is not None:
                         result = embed.move_embed(character, character_move)
                         await channel.send(embed=result, delete_after=delete_after)
                     else:
-                        character_move = tkfinder.get_move(character, original_move)
-                        if character_move is not None:
-                            result = embed.move_embed(character, character_move)
-                            await channel.send(embed=result, delete_after=delete_after)
-                        else:
-                            similar_moves = tkfinder.get_similar_moves(original_move, character_name)
-                            result = embed.similar_moves_embed(similar_moves)
-                            await channel.send(embed=result, delete_after=delete_after)
+                        similar_moves = tkfinder.get_similar_moves(original_move, character_name)
+                        result = embed.similar_moves_embed(similar_moves)
+                        await channel.send(embed=result, delete_after=delete_after)
             else:
                 bot_msg = f'Character {original_name} does not exist.'
                 result = embed.error_embed(bot_msg)

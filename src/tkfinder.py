@@ -48,7 +48,7 @@ def get_commands_from(chara_name: str) -> list:
 
 def get_similar_moves(move: str, chara_name: str) -> list:
     move_list = get_commands_from(chara_name)
-    moves = difflib.get_close_matches(move, move_list, 5)
+    moves = difflib.get_close_matches(move, move_list, 5, 0.4)
     return list(moves)
 
 

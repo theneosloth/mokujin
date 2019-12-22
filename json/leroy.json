@@ -7,7 +7,7 @@
         "Gif": "",
         "Hit frame": "Attack Throw",
         "Hit level": "m",
-        "Notes": "Rage Art",
+        "Notes": "Rage art",
         "Start up frame": "20? pc8~?"
     },
     {
@@ -18,7 +18,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "mm",
-        "Notes": "Rage Drive",
+        "Notes": "Rage drive",
         "Start up frame": "15~16"
     },
     {
@@ -105,7 +105,7 @@
         "Damage": "7,9,11",
         "Gif": "",
         "Hit frame": "+3",
-        "Hit level": "h,h,m,(HTS)",
+        "Hit level": "h,h,m,(HRM)",
         "Notes": "-",
         "Start up frame": "10"
     },
@@ -248,7 +248,7 @@
         "Damage": "-",
         "Gif": "",
         "Hit frame": "-",
-        "Hit level": "(HTS)",
+        "Hit level": "(HRM)",
         "Notes": "-",
         "Start up frame": "-"
     },
@@ -292,7 +292,7 @@
         "Damage": "15,15,20",
         "Gif": "",
         "Hit frame": "+8",
-        "Hit level": "h,m,m,(HTS)",
+        "Hit level": "h,m,m,(HRM)",
         "Notes": "-",
         "Start up frame": "-"
     },
@@ -305,7 +305,7 @@
         "Hit frame": "+7",
         "Hit level": "m",
         "Notes": "-",
-        "Start up frame": "15~16"
+        "Start up frame": "14~15"
     },
     {
         "Block frame": "-6",
@@ -391,7 +391,7 @@
         "Damage": "14,16",
         "Gif": "",
         "Hit frame": "+6",
-        "Hit level": "m,m,(HTS)",
+        "Hit level": "m,m,(HRM)",
         "Notes": "-",
         "Start up frame": "-"
     },
@@ -457,7 +457,7 @@
         "Damage": "16",
         "Gif": "",
         "Hit frame": "+6",
-        "Hit level": "m,(HTS)",
+        "Hit level": "m,(HRM)",
         "Notes": "-",
         "Start up frame": "13"
     },
@@ -484,6 +484,7 @@
         "Start up frame": "25~26 pc8"
     },
     {
+        "Alias" : ["cane"],
         "Block frame": "+8",
         "Command": "d/f+2+3",
         "Counter hit frame": "Launch (CS)",
@@ -491,7 +492,7 @@
         "Gif": "",
         "Hit frame": "Launch (CS)",
         "Hit level": "m,m,m",
-        "Notes": "-",
+        "Notes": "once per match",
         "Start up frame": "22"
     },
     {
@@ -567,7 +568,7 @@
         "Damage": "14,10",
         "Gif": "",
         "Hit frame": "+8",
-        "Hit level": "l,h,(HTS)",
+        "Hit level": "l,h,(HRM)",
         "Notes": "-",
         "Start up frame": "-"
     },
@@ -589,7 +590,7 @@
         "Damage": "9,16",
         "Gif": "",
         "Hit frame": "+1",
-        "Hit level": "l,m,(HTS)",
+        "Hit level": "l,m,(HRM)",
         "Notes": "-",
         "Start up frame": "-"
     },
@@ -680,6 +681,17 @@
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "32~33 (3~?)"
+    },
+    {
+        "Block frame": "-5",
+        "Command": "b+1+2",
+        "Counter hit frame": "KND",
+        "Damage": "?",
+        "Gif": "",
+        "Hit frame": "+6",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "12"
     },
     {
         "Block frame": "-",
@@ -800,7 +812,7 @@
         "Hit frame": "CS",
         "Hit level": "m,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "17~18"
     },
     {
         "Block frame": "+1",
@@ -820,7 +832,7 @@
         "Damage": "16",
         "Gif": "",
         "Hit frame": "+9",
-        "Hit level": "m,(HTS)",
+        "Hit level": "m,(HRM)",
         "Notes": "-",
         "Start up frame": "16~17 (16~)"
     },
@@ -875,7 +887,7 @@
         "Damage": "14,16",
         "Gif": "",
         "Hit frame": "+6",
-        "Hit level": "m,m,(HTS)",
+        "Hit level": "m,m,(HRM)",
         "Notes": "-",
         "Start up frame": "-"
     },
@@ -1046,7 +1058,7 @@
     },
     {
         "Block frame": "-",
-        "Command": "HTS auto low parry",
+        "Command": "HRM auto low parry",
         "Counter hit frame": "+16",
         "Damage": "15",
         "Gif": "",
@@ -1057,7 +1069,7 @@
     },
     {
         "Block frame": "-6",
-        "Command": "HTS 1",
+        "Command": "HRM 1",
         "Counter hit frame": "Launch",
         "Damage": "17",
         "Gif": "",
@@ -1068,7 +1080,7 @@
     },
     {
         "Block frame": "-6",
-        "Command": "HTS 2",
+        "Command": "HRM 2",
         "Counter hit frame": "+5",
         "Damage": "14",
         "Gif": "",
@@ -1079,7 +1091,7 @@
     },
     {
         "Block frame": "-4",
-        "Command": "HTS 2,1",
+        "Command": "HRM 2,1",
         "Counter hit frame": "CS",
         "Damage": "14,20",
         "Gif": "",
@@ -1090,7 +1102,7 @@
     },
     {
         "Block frame": "-13",
-        "Command": "HTS 3",
+        "Command": "HRM 3",
         "Counter hit frame": "-2",
         "Damage": "8",
         "Gif": "",
@@ -1101,7 +1113,7 @@
     },
     {
         "Block frame": "-15",
-        "Command": "HTS 3,4",
+        "Command": "HRM 3,4",
         "Counter hit frame": "0",
         "Damage": "8,16",
         "Gif": "",
@@ -1112,18 +1124,18 @@
     },
     {
         "Block frame": "-7",
-        "Command": "HTS 4",
+        "Command": "HRM 4",
         "Counter hit frame": "+7",
         "Damage": "13",
         "Gif": "",
         "Hit frame": "+7",
-        "Hit level": "m,(HTS)",
+        "Hit level": "m,(HRM)",
         "Notes": "-",
         "Start up frame": "11~12"
     },
     {
         "Block frame": "-14",
-        "Command": "HTS 4,1+2",
+        "Command": "HRM 4,1+2",
         "Counter hit frame": "KND",
         "Damage": "13,5,20",
         "Gif": "",
@@ -1134,7 +1146,7 @@
     },
     {
         "Block frame": "-10",
-        "Command": "HTS 1+2",
+        "Command": "HRM 1+2",
         "Counter hit frame": "WB!",
         "Damage": "5,5,20",
         "Gif": "",
@@ -1145,7 +1157,7 @@
     },
     {
         "Block frame": "0",
-        "Command": "HTS f+1",
+        "Command": "HRM f+1",
         "Counter hit frame": "S!",
         "Damage": "17",
         "Gif": "",
@@ -1156,7 +1168,7 @@
     },
     {
         "Block frame": "0",
-        "Command": "HTS f+4",
+        "Command": "HRM f+4",
         "Counter hit frame": "Launch (CS)",
         "Damage": "25",
         "Gif": "",
@@ -1167,7 +1179,7 @@
     },
     {
         "Block frame": "+4s ",
-        "Command": "HTS b+1",
+        "Command": "HRM b+1",
         "Counter hit frame": "Launch (CS)",
         "Damage": "21",
         "Gif": "",
@@ -1178,7 +1190,7 @@
     },
     {
         "Block frame": "-13",
-        "Command": "HTS b+4",
+        "Command": "HRM b+4",
         "Counter hit frame": "Launch",
         "Damage": "17",
         "Gif": "",
