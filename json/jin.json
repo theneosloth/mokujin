@@ -799,7 +799,7 @@
     },
     {
         "Alias": [
-            "zen"
+            "ZEN"
         ],
         "Block frame": "-",
         "Command": "d+1+2",
@@ -814,12 +814,12 @@
     {
         "Alias": [
             "d/f+3+4",
-            "cancan",
-            "can can",
-            "can-can",
-            "cancans",
-            "can cans",
-            "can-cans"
+            "Cancan",
+            "Can Can",
+            "Can-Can",
+            "Cancans",
+            "Can Cans",
+            "Can-Cans"
         ],
         "Block frame": "-19~-17",
         "Command": "d+3+4",
@@ -941,7 +941,7 @@
     },
     {
         "Alias": [
-            "cds"
+            "CDS"
         ],
         "Block frame": "-",
         "Command": "b+1",
@@ -1028,7 +1028,7 @@
         "Hit frame": "Recovery 14 frames",
         "Hit level": "(parry h/m attack)",
         "Notes": "-",
-        "Start up frame": "30 (parry 2~8) (h/m block 9~18)"
+        "Start up frame": "30 (parry 2~8) (h/m block 0~1,9~18)"
     },
     {
         "Alias": [
@@ -1888,7 +1888,7 @@
         "Gif": "",
         "Hit frame": "+6",
         "Hit level": "Sm(TC)",
-        "Notes": "Input f to recover standing",
+        "Notes": "Input f to recover standing.",
         "Start up frame": "10s cs1~"
     },
     {
@@ -1926,8 +1926,8 @@
     },
     {
         "Alias": [
-            "bt 1",
-            "bt 2"
+            "BT 1",
+            "BT 2"
         ],
         "Block frame": "-8",
         "Command": "BT (1_2)",
@@ -1941,8 +1941,8 @@
     },
     {
         "Alias": [
-            "bt 3",
-            "bt 4"
+            "BT 3",
+            "BT 4"
         ],
         "Block frame": "-8",
         "Command": "BT (3_4)",
@@ -1956,8 +1956,8 @@
     },
     {
         "Alias": [
-            "bt d+1",
-            "bt d+2"
+            "BT d+1",
+            "BT d+2"
         ],
         "Block frame": "-2",
         "Command": "BT d+(1_2)",
@@ -1971,8 +1971,8 @@
     },
     {
         "Alias": [
-            "bt d+3",
-            "bt d+4"
+            "BT d+3",
+            "BT d+4"
         ],
         "Block frame": "-11",
         "Command": "BT d+(3_4)",
@@ -2018,8 +2018,8 @@
     },
     {
         "Alias": [
-            "obt 1+3",
-            "obt 2+4"
+            "oBT 1+3",
+            "oBT 2+4"
         ],
         "Break frame": "Unbreakable",
         "Break input": "Unbreakable",
