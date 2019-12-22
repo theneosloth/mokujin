@@ -1,5 +1,6 @@
 import os, json
 
+DEFAULT_DELETE_ATER = 20
 
 class Configurator:
     def __init__(self, config_path):
@@ -20,3 +21,15 @@ class Configurator:
         self.create_file_if_not_exist()
         with open(self.config_path, "w") as outfile:
             json.dump(config_json, outfile)
+
+    def get_auto_delete_duration(self, channel_id) -> int:
+        try:
+            auto_delete = self.read_config()["auto_delete"]
+            return auto_delete[str(channel_id)]
+        except:
+            return DEFAULT_DELETE_ATER
+
+    def save_auto_delete_duration(self, channel_id, duration: int):
+        config = self.read_config()
+        config["auto_delete"][str(channel_id)] = duration
+        self.write_config(config)

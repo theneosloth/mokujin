@@ -17,3 +17,13 @@ class MyTestCase(unittest.TestCase):
 
         self.assertEqual("Test2",config.read_config()['Test2'])
 
+    def test_get_autodelete(self):
+
+        result = config.get_auto_delete_duration("test_channel_id")
+        self.assertEqual(100,result)
+
+    def test_write_autodelete(self):
+
+        config.save_auto_delete_duration(2, 70)
+        result = config.get_auto_delete_duration(2)
+        self.assertEqual(70,result)
