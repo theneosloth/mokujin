@@ -847,7 +847,7 @@
             "d+4 grounded opponent",
             "opponent down d+4",
             "grounded opponent d+4",
-            "stomp"
+            "stomp"],
         "Block frame": "-14",
         "Command": "d+4 opponent down",
         "Counter hit frame": "-3",
