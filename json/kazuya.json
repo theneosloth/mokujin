@@ -837,51 +837,6 @@
         "Start up frame": "18~27 (20~) js10~"
     },
     {
-        "Alias": [
-            "MS HS",
-            "MS Hellsweep"
-        ],
-        "Block frame": "-23",
-        "Command": "f,n,d/f+4",
-        "Counter hit frame": "KND",
-        "Damage": "15",
-        "Gif": "",
-        "Hit frame": "-3s (KND)",
-        "Hit level": "l",
-        "Notes": "-",
-        "Start up frame": "16 (18~)"
-    },
-    {
-        "Alias": [
-            "MS HS,4",
-            "MS Hellsweep,4"
-        ],
-        "Block frame": "-23",
-        "Command": "f,n,d/f+4,4",
-        "Counter hit frame": "KND",
-        "Damage": "15,12",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "l,l",
-        "Notes": "-",
-        "Start up frame": "16 (18~)"
-    },
-    {
-        "Alias": [
-            "MS HS,1",
-            "MS Hellsweep,1"
-        ],
-        "Block frame": "-16",
-        "Command": "f,n,d/f+4,1",
-        "Counter hit frame": "KND",
-        "Damage": "15,27",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "l,m",
-        "Notes": "-",
-        "Start up frame": "16 (18~)"
-    },
-    {
         "Block frame": "-",
         "Command": "f,n,d,d/f",
         "Counter hit frame": "-",
@@ -912,7 +867,7 @@
             "EWGF"
         ],
         "Block frame": "+5~+6",
-        "Command": "f,n,d,d/f:2",
+        "Command": "f,n,d,d/f+2",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "23",
         "Gif": "https://gfycat.com/RespectfulObeseAmericanbittern.gif",
@@ -947,10 +902,6 @@
         "Start up frame": "18~27 (21~) js10~"
     },
     {
-        "Alias": [
-            "HS",
-            "Hellsweep"
-        ],
         "Block frame": "-23",
         "Command": "f,n,d,d/f+4",
         "Counter hit frame": "KND",
@@ -963,8 +914,7 @@
     },
     {
         "Alias": [
-            "HS,4",
-            "Hellsweep,4"
+            "CD+4,4"
         ],
         "Block frame": "-23",
         "Command": "f,n,d,d/f+4,4",
@@ -978,8 +928,8 @@
     },
     {
         "Alias": [
-            "HS,1",
-            "Hellsweep,1"
+            "HS",
+            "Hellsweep"
         ],
         "Block frame": "-16",
         "Command": "f,n,d,d/f+4,1",
