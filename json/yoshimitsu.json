@@ -1,13 +1,13 @@
 [
     {
-        "Block frame": "-",
+        "Block frame": "-22",
         "Command": "in rage b+1+2",
         "Counter hit frame": "KND",
-        "Damage": "-",
+        "Damage": "55",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "Rage Art",
         "Start up frame": "20?"
     },
     {
@@ -18,7 +18,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "Attack returned",
-        "Notes": "Rage drive",
+        "Notes": "Rage Art",
         "Start up frame": "6~"
     },
     {
@@ -1631,7 +1631,7 @@
         "Block frame": "-14",
         "Command": "f, n, d, d/f+2",
         "Counter hit frame": "SCD",
-        "Damage": "-",
+        "Damage": "20",
         "Gif": "https://gfycat.com/FearlessShyGerbil.gif",
         "Hit frame": "+5?k",
         "Hit level": "m (TC)?",
@@ -1642,11 +1642,11 @@
         "Block frame": "+2?",
         "Command": "in rage f, nf, n, d, d/f+1+2",
         "Counter hit frame": "SCD",
-        "Damage": "-",
+        "Damage": "35",
         "Gif": "",
         "Hit frame": "SCD",
         "Hit level": "m (TC)?",
-        "Notes": "Rage art, Tail spin",
+        "Notes": "Rage drive, Tail spin",
         "Start up frame": "14(14~)"
     },
     {
