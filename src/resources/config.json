@@ -1,8 +1,4 @@
 {
-  "FEEDBACK_CHANNEL_ID": 647935739081916441,
-  "TOKEN": "NjQ1MzIyOTY2MzQyNTY1OTI5.XdhrTA.vQFe_ibYyjD3SxKswlLp3bwvhEc",
-  "auto_delete": {
-    "645011616231981086": "-1",
-    "645012718729822239": "2"
-  }
+  "TOKEN": "",
+  "FEEDBACK_CHANNEL_ID" : 0
 }
