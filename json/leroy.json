@@ -475,10 +475,10 @@
     {
         "Block frame": "-14",
         "Command": "d/f+1+2",
-        "Counter hit frame": "KND (WB!)",
+        "Counter hit frame": "KND",
         "Damage": "23",
         "Gif": "",
-        "Hit frame": "KND (WB!)",
+        "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "Power Crush, Wall Bounce",
         "Start up frame": "25~26 pc8"
@@ -740,10 +740,10 @@
     {
         "Block frame": "+1",
         "Command": "u/f+2",
-        "Counter hit frame": "KND (WB!)",
+        "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "",
-        "Hit frame": "KND (WB!)",
+        "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "Wall bounce",
         "Start up frame": "24~25 js9~"
@@ -1147,10 +1147,10 @@
     {
         "Block frame": "-10",
         "Command": "HRM 1+2",
-        "Counter hit frame": "KND (WB!)",
+        "Counter hit frame": "KND",
         "Damage": "5,5,20",
         "Gif": "",
-        "Hit frame": "KND (WB!)",
+        "Hit frame": "KND",
         "Hit level": "m,m,m",
         "Notes": "Wall bounce",
         "Start up frame": "15"
