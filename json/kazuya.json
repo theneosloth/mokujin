@@ -23,7 +23,7 @@
     },
     {
         "Block frame": "-",
-        "Command": "in rage f,n,d,d/f+1+4,u/f (Only when hit )",
+        "Command": "in rage f,n,d,d/f+1+4,u/f",
         "Counter hit frame": "Throw(KND)",
         "Damage": "45,12",
         "Gif": "",

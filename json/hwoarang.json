@@ -1717,7 +1717,7 @@
         "Hit frame": "KND",
         "Hit level": "h(TJ),(RFS)",
         "Notes": "-",
-        "Start up frame": "14"
+        "Start up frame": "14 js8~"
     },
     {
         "Alias": [
@@ -1788,7 +1788,7 @@
         "Gif": "",
         "Hit frame": "-4",
         "Hit level": "m,(LFF)",
-        "Notes": "-",
+        "Notes": "Power crush",
         "Start up frame": "22"
     },
     {
@@ -1799,7 +1799,7 @@
         "Gif": "https://gfycat.com/QueasyQuickAlligatorgar.gif",
         "Hit frame": "KND",
         "Hit level": "m,m,(LFF)",
-        "Notes": "-",
+        "Notes": "Power crush",
         "Start up frame": "22"
     },
     {

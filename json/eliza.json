@@ -1306,6 +1306,7 @@
     },
     {
         "Block frame": "-16",
+        "Alias": ["d+3"],
         "Command": "FC+3 (Close)",
         "Counter hit frame": "-5",
         "Damage": "10",
