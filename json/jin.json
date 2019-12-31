@@ -11,6 +11,9 @@
         "Start up frame": "13 pc8~"
     },
     {
+        "Alias": [
+            "in rage CD+1+2"
+        ],
         "Block frame": "-7~-6",
         "Command": "in rage f,n,d,d/f+1+2",
         "Counter hit frame": "Launch",
@@ -23,19 +26,24 @@
     },
     {
         "Alias": [
-            "cd+1+2~d/f"
+            "in rage f,n,d,d/f+1+2,d/f",
+            "in rage CD+1+2~d/f",
+            "in rage CD+1+2,d/f"
         ],
         "Block frame": "+14~+15g",
-        "Command": "in rage f,n,d,d/f+1+2,d/f",
+        "Command": "in rage f,n,d,d/f+1+2~d/f",
         "Counter hit frame": "Launch",
         "Damage": "25,35",
         "Gif": "",
         "Hit frame": "Launch",
         "Hit level": "h,m,(CD)",
-        "Notes": "Rage drive, 1st hit launches (S!)",
+        "Notes": "Rage drive. 1st hit launches (S!)",
         "Start up frame": "11~12,41~42 (14~)"
     },
     {
+        "Alias": [
+            "in rage CD+1+2,3"
+        ],
         "Block frame": "+8~+13g",
         "Command": "in rage f,n,d,d/f+1+2,3",
         "Counter hit frame": "ATG",
@@ -43,10 +51,13 @@
         "Gif": "",
         "Hit frame": "ATG",
         "Hit level": "h,m,h(TJ)",
-        "Notes": "Rage drive, 1st hit launches (S!)",
+        "Notes": "Rage drive. 1st hit launches (S!)",
         "Start up frame": "js10~"
     },
     {
+        "Alias": [
+            "in rage CD+1+2,3,1"
+        ],
         "Block frame": "+9 (W! +15g, 5dmg)",
         "Command": "in rage f,n,d,d/f+1+2,3,1",
         "Counter hit frame": "KND (W!)",
@@ -54,7 +65,7 @@
         "Gif": "",
         "Hit frame": "KND (W!)",
         "Hit level": "h,m,h(TJ),m(TC)",
-        "Notes": "Rage drive, 1st hit launches (S!)",
+        "Notes": "Rage drive. 1st hit launches (S!)",
         "Start up frame": "cs15~21"
     },
     {
@@ -433,7 +444,7 @@
         "Damage": ",10",
         "Gif": "",
         "Hit frame": "-13",
-        "Hit level": "h",
+        "Hit level": ",h",
         "Notes": "-",
         "Start up frame": "16~17"
     },
@@ -444,7 +455,7 @@
         "Damage": ",8",
         "Gif": "",
         "Hit frame": "-8",
-        "Hit level": "m",
+        "Hit level": ",m",
         "Notes": "-",
         "Start up frame": "16~17"
     },
@@ -455,7 +466,7 @@
         "Damage": ",8",
         "Gif": "",
         "Hit frame": "-9",
-        "Hit level": "m",
+        "Hit level": ",m",
         "Notes": "-",
         "Start up frame": "16~17"
     },
@@ -466,7 +477,7 @@
         "Damage": ",8",
         "Gif": "",
         "Hit frame": "+1s",
-        "Hit level": "m",
+        "Hit level": ",m",
         "Notes": "-",
         "Start up frame": "16~17"
     },
@@ -477,7 +488,7 @@
         "Damage": ",10",
         "Gif": "",
         "Hit frame": "-13",
-        "Hit level": "h",
+        "Hit level": ",h",
         "Notes": "-",
         "Start up frame": "16~17"
     },
@@ -488,13 +499,14 @@
         "Damage": ",18",
         "Gif": "",
         "Hit frame": "KND",
-        "Hit level": "l",
+        "Hit level": ",l",
         "Notes": "-",
         "Start up frame": "16~17"
     },
     {
         "Alias": [
-            "10 hit"
+            "10 hit",
+            "10-hit"
         ],
         "Block frame": "-14",
         "Command": "f+2,3,3,3,2,1,2,3,4,2",
@@ -502,7 +514,7 @@
         "Damage": ",25",
         "Gif": "",
         "Hit frame": "KND (W!)",
-        "Hit level": "h",
+        "Hit level": ",h",
         "Notes": "10-hit",
         "Start up frame": "16~17"
     },
