@@ -142,9 +142,11 @@ async def on_message(message):
                 await message.channel.send(embed=result, delete_after=5)
                 return
         await bot.process_commands(message)
+
     except Exception as e:
-        print(e)
-        logger.error(e)
+        error_msg = "Message: %s. Error: %s".format(message, e)
+        print(error_msg)
+        logger.error(error_msg)
 
 
 def is_me(m):

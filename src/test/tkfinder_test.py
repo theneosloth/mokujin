@@ -81,7 +81,7 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual("1,1,2", tkfinder.get_move(kazuya, "112")["Command"])
         self.assertEqual("f,n,d,d/f+4,1", tkfinder.get_move(kazuya, "hs")["Command"])
         self.assertEqual("f,n,d,d/f+4,1", tkfinder.get_move(kazuya, "cd41")["Command"])
-        self.assertEqual("f,n,d/f+2", tkfinder.get_move(kazuya, "ewgf")["Command"])
+        self.assertEqual("f,n,d,d/f+2", tkfinder.get_move(kazuya, "ewgf")["Command"])
         self.assertEqual("WS+1,2", tkfinder.get_move(kazuya, "ws12")["Command"])
         self.assertEqual("b+2,1", tkfinder.get_move(kazuya, "b21")["Command"])
         marduk = {
