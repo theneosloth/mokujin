@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
-import os, json
-from src.resources import const
+import json
+import os
 from difflib import SequenceMatcher
 from heapq import nlargest as _nlargest
+
+from src.resources import const
 
 base_path = os.path.dirname(__file__)
 
@@ -60,7 +62,7 @@ def get_close_matches_indexes(word, possibilities, n=3, cutoff=0.6):
     that don't score at least that similar to word are ignored.
     """
 
-    if not n >  0:
+    if not n > 0:
         raise ValueError("n must be > 0: %r" % (n,))
     if not 0.0 <= cutoff <= 1.0:
         raise ValueError("cutoff must be in [0.0, 1.0]: %r" % (cutoff,))
@@ -80,13 +82,14 @@ def get_close_matches_indexes(word, possibilities, n=3, cutoff=0.6):
     # Strip scores for the best n matches
     return [x for score, x in result]
 
+
 def get_similar_moves(move: str, chara_name: str) -> list:
     move_list = get_commands_from(chara_name)
     moves_indexes = get_close_matches_indexes(move_simplifier(move), map(move_simplifier, move_list), 5, 0.5)
 
     result = []
     for index in moves_indexes:
-       result.append(move_list[index])
+        result.append(move_list[index])
 
     return result
 
@@ -149,7 +152,6 @@ def is_command_in_alias(command: str, item: dict) -> bool:
 
 def move_simplifier(move_input) -> str:
     """Removes bells and whistles from the move_input"""
-
     short_input = move_input.strip().lower()
 
     for old, new in const.REPLACE.items():

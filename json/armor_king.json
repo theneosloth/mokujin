@@ -1070,7 +1070,7 @@
     },
     {
         "Block frame": "-24",
-        "Command": "WR+4",
+        "Command": "f,f,f+4",
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/bronzepolitealaskanmalamute.gif",
