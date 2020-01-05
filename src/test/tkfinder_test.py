@@ -69,6 +69,15 @@ class MyTestCase(unittest.TestCase):
 
     def test_get_cha_move(self):
 
+        jin =   {
+            "local_json": "jin.json",
+            "name": "jin",
+            "online_webpage": "http://rbnorway.org/jin-t7-frames",
+            "portrait": "https://i.imgur.com/xat3qAS.jpg",
+            "proper_name": "Jin"
+        }
+        self.assertEqual("in rage f,n,d,d/f+1+2", tkfinder.get_move(jin, "in rage cd 1+2")["Command"])
+
         leroy = {
             "local_json": "leroy.json",
             "name": "leroy",
@@ -149,14 +158,19 @@ class MyTestCase(unittest.TestCase):
             "online_webpage": "http://rbnorway.org/xiaoyu-t7-frames",
             "portrait": "https://i.imgur.com/zuojLtJ.jpg"
         }
-        self.assertEqual("AOP u/b_u_u/f+3, 3", tkfinder.get_move(ling, "AOP uf33")["Command"])
-        self.assertEqual("AOP u/b_u_u/f+3, 3", tkfinder.get_move(ling, "AOP ub33")["Command"])
-        self.assertEqual("AOP u/b_u_u/f+3, 3", tkfinder.get_move(ling, "AOP u33")["Command"])
+        self.assertEqual("AOP (u/b_u_u/f)+3,3", tkfinder.get_move(ling, "AOP uf33")["Command"])
+        self.assertEqual("AOP (u/b_u_u/f)+3,3", tkfinder.get_move(ling, "AOP ub33")["Command"])
+        self.assertEqual("AOP (u/b_u_u/f)+3,3", tkfinder.get_move(ling, "AOP u33")["Command"])
 
 
     def test_move_simplifier(self):
+
+        move = "wr3"
+        self.assertEqual("fff3", tkfinder.move_simplifier(move))
+
         move = "df+3, df+1, 1+2"
         self.assertEqual("df3df11+2", tkfinder.move_simplifier(move))
+
 
     def test_none(self):
         entry1 = json.loads("[{\"Gif\": \"\"}]")
