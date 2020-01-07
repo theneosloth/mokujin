@@ -811,7 +811,7 @@
     {
         "Block frame": "-11~-10",
         "Command": "f,f+1+2",
-        "Counter hit frame": "-",
+        "Counter hit frame": "Launch (S!)",
         "Damage": "20",
         "Gif": "https://gfycat.com/ConfusedTimelyBrocketdeer.gif",
         "Hit frame": "KND",

@@ -1019,7 +1019,7 @@
         "Start up frame": "16 (18~)"
     },
     {
-        "Block frame": "+6",
+        "Block frame": "+6~+8",
         "Command": "f,f,f+3",
         "Counter hit frame": "KND",
         "Damage": "30",
@@ -1027,7 +1027,7 @@
         "Hit frame": "KND",
         "Hit level": "m(TJ)",
         "Notes": "-",
-        "Start up frame": "22 (25~)"
+        "Start up frame": "22~24 js3~ (25~)"
     },
     {
         "Block frame": "+5",

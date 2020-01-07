@@ -1609,13 +1609,14 @@
         "Start up frame": "17~18 (19~)"
     },
     {
+        "Alias": ["taunt", "TNT"],
         "Block frame": "+16~+19",
-        "Command": "1+3+4 (to TNT)",
+        "Command": "1+3+4",
         "Counter hit frame": "+16~+19",
         "Damage": "0",
-        "Gif": "",
+        "Gif": "https://gfycat.com/ContentImpartialGroundbeetle.gif",
         "Hit frame": "+16~+19",
-        "Hit level": "!",
+        "Hit level": "m!",
         "Notes": "-",
         "Start up frame": "28~31"
     },
