@@ -144,7 +144,7 @@ async def on_message(message):
         await bot.process_commands(message)
 
     except Exception as e:
-        error_msg = f'Message: {message}. Error: {e}'
+        error_msg = f'Message: {message.content}. Error: {e}'
         print(error_msg)
         logger.error(error_msg)
 
