@@ -2264,7 +2264,7 @@
             "d/b+1"
         ],
         "Block frame": "-5",
-        "Command": "(d/b_d)+1",
+        "Command": "(d_d/b)+1",
         "Counter hit frame": "+6",
         "Damage": "5",
         "Gif": "",
@@ -2279,7 +2279,7 @@
             "d/b+2"
         ],
         "Block frame": "-4",
-        "Command": "(d/b_d)+2",
+        "Command": "(d_d/b)+2",
         "Counter hit frame": "+7",
         "Damage": "8",
         "Gif": "",
