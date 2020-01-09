@@ -1328,6 +1328,9 @@
         "Start up frame": "16"
     },
     {
+        "Alias": [
+            "Backlash"
+        ],
         "Block frame": "+4",
         "Command": "RFF 3~4",
         "Counter hit frame": "KND",
@@ -1335,7 +1338,7 @@
         "Gif": "https://gfycat.com/WaryFlatAdeliepenguin.gif",
         "Hit frame": "KND",
         "Hit level": "h,(LFF)",
-        "Notes": "Homing, Tail spin, Power crush",
+        "Notes": "Homing, Tail Spin, Power Crush",
         "Start up frame": "27"
     },
     {
