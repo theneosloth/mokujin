@@ -424,24 +424,13 @@
     {
         "Block frame": "-5",
         "Command": "d/f+1",
-        "Counter hit frame": "+1",
+        "Counter hit frame": "+1 (vs crouch +14)",
         "Damage": "13",
         "Gif": "https://gfycat.com/EasyCheerfulHypacrosaurus.gif",
-        "Hit frame": "+1",
+        "Hit frame": "+1 (vs crouch +14)",
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "14"
-    },
-    {
-        "Block frame": "-",
-        "Command": "d/f+1 when hit crouching opponent",
-        "Counter hit frame": "+14",
-        "Damage": "13",
-        "Gif": "",
-        "Hit frame": "+14",
-        "Hit level": "m",
-        "Notes": "-",
-        "Start up frame": "-"
     },
     {
         "Block frame": "-9",
