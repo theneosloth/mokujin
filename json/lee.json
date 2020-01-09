@@ -4,12 +4,12 @@
         "Block frame": "-22",
         "Command": "in rage d+1+2",
         "Counter hit frame": "KND",
-        "Damage": "20 pc8~17",
+        "Damage": "55~82",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "Rage art",
-        "Start up frame": "55"
+        "Start up frame": "20 pc8~17"
     },
     {
         "Block frame": "-1~0",
