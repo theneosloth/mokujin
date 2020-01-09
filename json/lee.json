@@ -1,7 +1,8 @@
 [
     {
+        "Alias": ["in rage HMS d+1+2"],
         "Block frame": "-22",
-        "Command": "in rage d+1+2 in rage HMS d+1+2",
+        "Command": "in rage d+1+2",
         "Counter hit frame": "KND",
         "Damage": "20 pc8~17",
         "Gif": "",
@@ -2067,17 +2068,6 @@
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "18~19"
-    },
-    {
-        "Block frame": "-17",
-        "Command": "d+3",
-        "Counter hit frame": "KND",
-        "Damage": "17",
-        "Gif": "https://gfycat.com/BlaringFabulousHousefly.gif",
-        "Hit frame": "-3",
-        "Hit level": "l (TC)",
-        "Notes": "Rage art",
-        "Start up frame": "16s cs6~"
     },
     {
         "Block frame": "-13",
