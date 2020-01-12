@@ -484,9 +484,7 @@
         "Start up frame": "25~26 pc8"
     },
     {
-        "Alias": [
-            "cane"
-        ],
+        "Alias" : ["cane"],
         "Block frame": "+8",
         "Command": "d/f+2+3",
         "Counter hit frame": "Launch (CS)",
