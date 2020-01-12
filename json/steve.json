@@ -3071,8 +3071,8 @@
     {
         "Alias": [
             "FLK 1,b+3+4",
-            "FLK 1~FLK",
-            "FLK 1,FLK"
+            "FLK 1~ALB",
+            "FLK 1,ALB"
         ],
         "Block frame": "+16g",
         "Command": "FLK 1~b+3+4",
@@ -3087,8 +3087,8 @@
     {
         "Alias": [
             "FLK 1,1,b+3+4",
-            "FLK 1,1~FLK",
-            "FLK 1,1,FLK"
+            "FLK 1,1~ALB",
+            "FLK 1,1,ALB"
         ],
         "Block frame": "+16g",
         "Command": "FLK 1,1~b+3+4",
@@ -3103,8 +3103,8 @@
     {
         "Alias": [
             "FLK 1,1,1,b+3+4",
-            "FLK 1,1,1~FLK",
-            "FLK 1,1,1,FLK"
+            "FLK 1,1,1~ALB",
+            "FLK 1,1,1,ALB"
         ],
         "Block frame": "+16g",
         "Command": "FLK 1,1,1~b+3+4",
