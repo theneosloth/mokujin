@@ -744,15 +744,15 @@
         "Start up frame": "23~24 (parry 3~10)"
     },
     {
-        "Break frame": "-2",
-        "Break input": "2",
+        "Block frame": "-2",
+        "Counter hit frame": "2",
         "Command": "d/f+2+3",
         "Damage": "40",
         "Gif": "",
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12",
-        "Success frame": "FDFA"
+        "Hit frame": "FDFA"
     },
     {
         "Block frame": "-7",
