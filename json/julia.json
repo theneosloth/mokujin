@@ -1608,7 +1608,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/FaroffSerpentineArachnid.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "16"
     },
@@ -1619,7 +1619,7 @@
         "Damage": "40",
         "Gif": "",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "16"
     },

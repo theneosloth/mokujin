@@ -2220,7 +2220,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/GlisteningThriftyGoldenretriever.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -2231,7 +2231,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/FortunateSomberIsopod.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -2242,7 +2242,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/GlisteningThriftyGoldenretriever.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
     },
@@ -2253,7 +2253,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/FortunateSomberIsopod.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
     },
@@ -2264,7 +2264,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/GratefulMerryIlladopsis.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -2279,7 +2279,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/BriefMaleBaldeagle.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -2294,7 +2294,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/GratefulGoldenChickadee.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -2309,7 +2309,7 @@
         "Damage": "60",
         "Gif": "https://gfycat.com/DearShamelessAntarcticfurseal.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     }

@@ -1164,7 +1164,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/GiganticLawfulBaiji.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1175,7 +1175,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/SolidBonyGrayreefshark.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1186,7 +1186,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/GiganticLawfulBaiji.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
     },
@@ -1197,7 +1197,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/SolidBonyGrayreefshark.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
     },
@@ -1223,7 +1223,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/CavernousGenuineBobwhite.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1238,7 +1238,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/CavernousGenuineBobwhite.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1253,7 +1253,7 @@
         "Damage": "50",
         "Gif": "https://gfycat.com/PhonyEagerBurro.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     }

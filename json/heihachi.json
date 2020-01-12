@@ -1596,7 +1596,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/SomberFewChrysalis.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1607,7 +1607,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/ImpressivePlushCicada.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1618,7 +1618,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/SomberFewChrysalis.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
     },
@@ -1629,7 +1629,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/WeirdQualifiedHomalocephale.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
     },
@@ -1640,7 +1640,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/FabulousLonelyIrukandjijellyfish.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1651,7 +1651,7 @@
         "Damage": "25",
         "Gif": "https://gfycat.com/HollowMeaslyAmericanlobster.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1662,7 +1662,7 @@
         "Damage": "45",
         "Gif": "https://gfycat.com/ScaredPitifulAiredale.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
     },
@@ -1677,7 +1677,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/WholeRareDromaeosaur.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1692,7 +1692,7 @@
         "Damage": "46",
         "Gif": "https://gfycat.com/CarefreeRadiantGaur.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1707,7 +1707,7 @@
         "Damage": "60",
         "Gif": "https://gfycat.com/SmoggyCluelessChihuahua.gif",
         "Hit frame": "+7",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     }

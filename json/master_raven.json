@@ -2410,7 +2410,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/SickAptIbis.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -2421,7 +2421,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/HideousJitteryCowbird.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -2432,7 +2432,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/SickAptIbis.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
     },
@@ -2443,7 +2443,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/HideousJitteryCowbird.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
     },
@@ -2454,7 +2454,7 @@
         "Damage": "48",
         "Gif": "https://gfycat.com/MedicalWhisperedAntipodesgreenparakeet.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -2465,7 +2465,7 @@
         "Damage": "38",
         "Gif": "https://gfycat.com/HalfClutteredAnemonecrab.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "11"
     },
@@ -2480,7 +2480,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/SpecificGlamorousHyracotherium.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -2495,7 +2495,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/AdventurousMajesticCaudata.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -2510,7 +2510,7 @@
         "Damage": "50",
         "Gif": "https://gfycat.com/ConstantRepentantBlueshark.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     }

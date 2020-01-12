@@ -1357,7 +1357,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/EminentVastBluetonguelizard.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1368,7 +1368,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/FamousWaryGoldeneye.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1379,7 +1379,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/EminentVastBluetonguelizard.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
     },
@@ -1390,7 +1390,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/FamousWaryGoldeneye.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
     },
@@ -1401,7 +1401,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/WideSickGalapagostortoise.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1416,7 +1416,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/BonySlimyAcaciarat.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1431,7 +1431,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/InconsequentialMeagerGalapagossealion.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1446,7 +1446,7 @@
         "Damage": "50",
         "Gif": "https://gfycat.com/BabyishLankyDorado.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     }

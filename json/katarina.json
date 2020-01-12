@@ -1441,7 +1441,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/UniqueOptimisticDungbeetle.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1452,7 +1452,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/OldfashionedMasculineBuzzard.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1463,7 +1463,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/UniqueOptimisticDungbeetle.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
     },
@@ -1474,7 +1474,7 @@
         "Damage": "35",
         "Gif": "https://gfycat.com/OldfashionedMasculineBuzzard.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
     },
@@ -1485,7 +1485,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/WarlikeSpecificCommongonolek.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1500,7 +1500,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/MaturePoliticalHorseshoecrab.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1515,7 +1515,7 @@
         "Damage": "40",
         "Gif": "https://gfycat.com/OptimalSphericalAlpaca.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     },
@@ -1530,7 +1530,7 @@
         "Damage": "50",
         "Gif": "https://gfycat.com/JaggedGregariousArchaeopteryx.gif",
         "Hit frame": "KND",
-        "Hit level": "h throw",
+        "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
     }
