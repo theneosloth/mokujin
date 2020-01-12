@@ -2334,5 +2334,182 @@
         "Hit level": "h",
         "Notes": "-",
         "Start up frame": "14(15~)"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/OblongRecklessEnglishpointer.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "0 (BT)",
+        "Command": "2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/CanineBabyishBluegill.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "0",
+        "Command": "u/f+1+2",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/FeminineWillingCub.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "f+1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/OblongRecklessEnglishpointer.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "0 (BT)",
+        "Command": "f+2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/CanineBabyishBluegill.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "d/f, d/f+1",
+        "Counter hit frame": "-",
+        "Damage": "43",
+        "Gif": "https://gfycat.com/GivingVainEuropeanpolecat.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-2",
+        "Command": "d/f+1+3",
+        "Counter hit frame": "-",
+        "Damage": "37",
+        "Gif": "https://gfycat.com/IllSolidIlsamochadegu.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "11"
+    },
+    {
+        "Block frame": "-2",
+        "Command": "d/f+2+4",
+        "Counter hit frame": "-",
+        "Damage": "37",
+        "Gif": "https://gfycat.com/DimwittedWaryGalah.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "11"
+    },
+    {
+        "Block frame": "-2",
+        "Command": "qcf+1+2",
+        "Counter hit frame": "-",
+        "Damage": "15",
+        "Gif": "https://gfycat.com/AnimatedUnfinishedHairstreakbutterfly.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "11"
+    },
+    {
+        "Block frame": "-2",
+        "Command": "qcf+3+4",
+        "Counter hit frame": "-",
+        "Damage": "15",
+        "Gif": "https://gfycat.com/DismalGiftedBluetickcoonhound.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "11"
+    },
+    {
+        "Block frame": "-",
+        "Command": "QCB+1+4",
+        "Counter hit frame": "-",
+        "Damage": "15",
+        "Gif": "https://gfycat.com/CluelessPossibleAmericankestrel.gif",
+        "Hit frame": "+6",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-",
+        "Command": "2+4, 1, 2, 1",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/ShabbyRecentBluemorphobutterfly.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Left throw",
+            "Left side 2+4"
+        ],
+        "Block frame": "-3",
+        "Command": "left side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/SmallDrearyEyas.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Right throw",
+            "Right side 2+4"
+        ],
+        "Block frame": "-3",
+        "Command": "right side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "38",
+        "Gif": "https://gfycat.com/UnlinedInfatuatedAvians.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Back throw",
+            "Back 2+4"
+        ],
+        "Block frame": "-",
+        "Command": "back side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "60",
+        "Gif": "https://gfycat.com/SilkyBossyAtlanticspadefish.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
     }
 ]

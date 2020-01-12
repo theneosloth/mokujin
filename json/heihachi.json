@@ -847,7 +847,8 @@
             "d+4 grounded opponent",
             "opponent down d+4",
             "grounded opponent d+4",
-            "stomp"],
+            "stomp"
+        ],
         "Block frame": "-14",
         "Command": "d+4 opponent down",
         "Counter hit frame": "-3",
@@ -1587,5 +1588,127 @@
         "Hit level": "h",
         "Notes": "-",
         "Start up frame": "16(17~)"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/SomberFewChrysalis.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "0 (BT)",
+        "Command": "2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/ImpressivePlushCicada.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "f+1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/SomberFewChrysalis.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "0 (BT)",
+        "Command": "f+2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/WeirdQualifiedHomalocephale.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "0",
+        "Command": "f, F+1+2",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/FabulousLonelyIrukandjijellyfish.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "0",
+        "Command": "d/f+2+3",
+        "Counter hit frame": "-",
+        "Damage": "25",
+        "Gif": "https://gfycat.com/HollowMeaslyAmericanlobster.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "qcf+1+3",
+        "Counter hit frame": "-",
+        "Damage": "45",
+        "Gif": "https://gfycat.com/ScaredPitifulAiredale.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Alias": [
+            "Left throw",
+            "Left side 2+4"
+        ],
+        "Block frame": "-3",
+        "Command": "left side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/WholeRareDromaeosaur.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Right throw",
+            "Right side 2+4"
+        ],
+        "Block frame": "-3",
+        "Command": "right side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "46",
+        "Gif": "https://gfycat.com/CarefreeRadiantGaur.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Back throw",
+            "Back 2+4"
+        ],
+        "Block frame": "!",
+        "Command": "back side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "60",
+        "Gif": "https://gfycat.com/SmoggyCluelessChihuahua.gif",
+        "Hit frame": "+7",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
     }
 ]

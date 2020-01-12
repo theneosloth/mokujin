@@ -2010,5 +2010,105 @@
         "Hit level": "h",
         "Notes": "-",
         "Start up frame": "12(13~)"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/WeeEllipticalGordonsetter.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/SkeletalDifferentAdamsstaghornedbeetle.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "f+1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/WeeEllipticalGordonsetter.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "f+2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/SkeletalDifferentAdamsstaghornedbeetle.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "f, F+1+2",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/WeepyMintyAmphibian.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Left throw",
+            "Left side 2+4"
+        ],
+        "Block frame": "-3",
+        "Command": "left side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/GraciousGentleElephantbeetle.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Right throw",
+            "Right side 2+4"
+        ],
+        "Block frame": "-3",
+        "Command": "right side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/PrestigiousImaginativeFirefly.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Back throw",
+            "Back 2+4"
+        ],
+        "Block frame": "-",
+        "Command": "back side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "50",
+        "Gif": "https://gfycat.com/UncomfortableMindlessBernesemountaindog.gif",
+        "Hit frame": "KND",
+        "Hit level": "h throw",
+        "Notes": "Throw",
+        "Start up frame": "-"
     }
 ]
