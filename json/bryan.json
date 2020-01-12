@@ -1609,7 +1609,10 @@
         "Start up frame": "17~18 (19~)"
     },
     {
-        "Alias": ["taunt", "TNT"],
+        "Alias": [
+            "taunt",
+            "TNT"
+        ],
         "Block frame": "+16~+19",
         "Command": "1+3+4",
         "Counter hit frame": "+16~+19",
@@ -2209,5 +2212,102 @@
         "Hit level": "h",
         "Notes": "-",
         "Start up frame": "12(13~)"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/GlisteningThriftyGoldenretriever.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/FortunateSomberIsopod.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "f+1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/GlisteningThriftyGoldenretriever.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "f+2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/FortunateSomberIsopod.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "f, F+1+2",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/GratefulMerryIlladopsis.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Left throw"
+        ],
+        "Block frame": "-3",
+        "Command": "left side 1+3 (or 2+4)",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/BriefMaleBaldeagle.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Right throw"
+        ],
+        "Block frame": "-3",
+        "Command": "right side 1+3 (or 2+4)",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/GratefulGoldenChickadee.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Back throw"
+        ],
+        "Block frame": "!",
+        "Command": "back 1+3 (or 2+4)",
+        "Counter hit frame": "-",
+        "Damage": "60",
+        "Gif": "https://gfycat.com/DearShamelessAntarcticfurseal.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
     }
 ]

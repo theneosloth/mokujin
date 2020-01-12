@@ -2738,5 +2738,124 @@
         "Hit level": "-10",
         "Notes": "-",
         "Start up frame": "-"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/LastingSlushyBighornedsheep.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/IcyDopeyDromaeosaur.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "0",
+        "Command": "u/f+1+2",
+        "Counter hit frame": "-",
+        "Damage": "20",
+        "Gif": "https://gfycat.com/ChillyRigidGar.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "f+1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/LastingSlushyBighornedsheep.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "f+2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/IcyDopeyDromaeosaur.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "d/f, d/f+1",
+        "Counter hit frame": "-",
+        "Damage": "43",
+        "Gif": "https://gfycat.com/FrightenedOpulentDogwoodclubgall.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-2",
+        "Command": "qcf+1+2",
+        "Counter hit frame": "-",
+        "Damage": "15",
+        "Gif": "https://gfycat.com/RectangularBadFrenchbulldog.gif",
+        "Hit frame": "0",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "11"
+    },
+    {
+        "Alias": [
+            "Left throw"
+        ],
+        "Block frame": "-3",
+        "Command": "left side 1+3 or 2+4",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/SoreAgonizingBighornsheep.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Right throw"
+        ],
+        "Block frame": "-3",
+        "Command": "right side  1+3 or 2+4",
+        "Counter hit frame": "-",
+        "Damage": "38",
+        "Gif": "https://gfycat.com/ViciousPlushCentipede.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Back throw"
+        ],
+        "Block frame": "!",
+        "Command": "back 1+3 or 2+4",
+        "Counter hit frame": "-",
+        "Damage": "60",
+        "Gif": "https://gfycat.com/RemarkableMindlessGenet.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
     }
 ]

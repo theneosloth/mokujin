@@ -1453,5 +1453,215 @@
         "Hit level": "l,m (second hit only)",
         "Notes": "-",
         "Start up frame": "-"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/InfiniteFirmAxisdeer.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/SorrowfulHeavenlyAndalusianhorse.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "f+1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/InfiniteFirmAxisdeer.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "f+2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/SorrowfulHeavenlyAndalusianhorse.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "0 (BT)",
+        "Command": "f, F+1+2",
+        "Counter hit frame": "-",
+        "Damage": "20",
+        "Gif": "https://gfycat.com/AfraidNastyIndigobunting.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-2",
+        "Command": "f, hcf+1",
+        "Counter hit frame": "-",
+        "Damage": "50",
+        "Gif": "https://gfycat.com/LittleEntireIrishdraughthorse.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "11"
+    },
+    {
+        "Block frame": "-2",
+        "Command": "qcf+1+3",
+        "Counter hit frame": "-",
+        "Damage": "30",
+        "Gif": "https://gfycat.com/TautDesertedInchworm.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-2",
+        "Command": "qcf+2+4",
+        "Counter hit frame": "-",
+        "Damage": "30",
+        "Gif": "https://gfycat.com/ExcitableGrossGermanshepherd.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "qcb+1+2",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/BruisedWearyAnemoneshrimp.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "11"
+    },
+    {
+        "Alias": [
+            "Left throw"
+        ],
+        "Block frame": "-3",
+        "Command": "left side 1+3 (or 2+4)",
+        "Counter hit frame": "-",
+        "Damage": "45",
+        "Gif": "https://gfycat.com/EvergreenBewitchedGoshawk.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Right throw"
+        ],
+        "Block frame": "-3",
+        "Command": "right side 1+3 (or 2+4)",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/DearImpossibleCowrie.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Back throw"
+        ],
+        "Block frame": "-",
+        "Command": "back 1+3 (or f+1+3)",
+        "Counter hit frame": "-",
+        "Damage": "60",
+        "Gif": "https://gfycat.com/VacantOptimalAnchovy.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Back throw"
+        ],
+        "Block frame": "-",
+        "Command": "back 2+4 (or f+2+4)",
+        "Counter hit frame": "-",
+        "Damage": "60",
+        "Gif": "https://gfycat.com/KindlyFlatFox.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-2",
+        "Command": "on crouch d+1+3",
+        "Counter hit frame": "-",
+        "Damage": "45",
+        "Gif": "https://gfycat.com/CompleteEssentialFantail.gif",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Throw",
+        "Start up frame": "13"
+    },
+    {
+        "Block frame": "-2",
+        "Command": "on crouch d+2+4",
+        "Counter hit frame": "-",
+        "Damage": "45",
+        "Gif": "https://gfycat.com/AdvancedAcceptableBubblefish.gif",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Throw",
+        "Start up frame": "13"
+    },
+    {
+        "Block frame": "-",
+        "Command": "mid air 1+3 (or f+1+3)",
+        "Counter hit frame": "-",
+        "Damage": "20",
+        "Gif": "https://gfycat.com/DisgustingIdealisticAfricanmolesnake.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-",
+        "Command": "mid air 2+4 (or f+2+4)",
+        "Counter hit frame": "-",
+        "Damage": "18",
+        "Gif": "https://gfycat.com/GeneralFaroffElephant.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-",
+        "Command": "mid air f, F+1+2",
+        "Counter hit frame": "-",
+        "Damage": "42",
+        "Gif": "https://gfycat.com/AnchoredAdmirableIraniangroundjay.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
     }
 ]
