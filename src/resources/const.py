@@ -66,7 +66,8 @@ MOVE_TYPES = {
     'armori': 'Power crush',
     'pc': 'Power crush',
     'power': 'Power crush',
-    'power_crush': 'Power crush'
+    'power_crush': 'Power crush',
+    'throw' : 'Throw'
 }
 
 REPLACE = {
