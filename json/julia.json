@@ -137,7 +137,7 @@
     },
     {
         "Block frame": "-",
-        "Command": "(after back spin) 1+2",
+        "Command": "2, B, 1+2",
         "Counter hit frame": "+4",
         "Damage": "22",
         "Gif": "",

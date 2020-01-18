@@ -213,7 +213,7 @@
     },
     {
         "Block frame": "-16",
-        "Command": "3",
+        "Command": "+3",
         "Counter hit frame": "-5",
         "Damage": "14",
         "Gif": null,
@@ -969,10 +969,10 @@
     {
         "Block frame": "-12",
         "Command": "d/b+1",
-        "Counter hit frame": "3",
+        "Counter hit frame": "+3",
         "Damage": "16",
         "Gif": null,
-        "Hit frame": "3",
+        "Hit frame": "+3",
         "Hit level": "m",
         "Notes": "-",
         "Recovery": "-29",
@@ -981,10 +981,10 @@
     {
         "Block frame": "-12",
         "Command": "d/b+1, D",
-        "Counter hit frame": "3",
+        "Counter hit frame": "+3",
         "Damage": "16",
         "Gif": null,
-        "Hit frame": "3",
+        "Hit frame": "+3",
         "Hit level": "m",
         "Notes": "-",
         "Recovery": "-29",
@@ -1005,13 +1005,24 @@
     {
         "Block frame": "-4",
         "Command": "d/b+2",
-        "Counter hit frame": "7",
+        "Counter hit frame": "+7",
         "Damage": "8",
         "Gif": null,
-        "Hit frame": "7",
+        "Hit frame": "+7",
         "Hit level": "sm",
         "Notes": "-",
         "Recovery": "-22",
+        "Start up frame": "11"
+    },
+    {
+        "Block frame": "-10",
+        "Command": "d/b+2,4",
+        "Counter hit frame": "+1",
+        "Damage": "8,10",
+        "Gif": "https://gfycat.com/EagerDenseGiantschnauzer.gif",
+        "Hit frame": "+1",
+        "Hit level": "sm,m",
+        "Notes": "-",
         "Start up frame": "11"
     },
     {
@@ -1199,10 +1210,10 @@
         ],
         "Block frame": "-12",
         "Command": "u/b_u+1",
-        "Counter hit frame": "3",
+        "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
-        "Hit frame": "3",
+        "Hit frame": "+3",
         "Hit level": "m (TJ)",
         "Notes": "-",
         "Start up frame": "18 js9"
@@ -1984,7 +1995,7 @@
         "Counter hit frame": "KND",
         "Damage": "18",
         "Gif": "https://gfycat.com/BouncySeparateEeve.gif",
-        "Hit frame": "3",
+        "Hit frame": "+3",
         "Hit level": "m",
         "Notes": "-",
         "Recovery": "-31",
@@ -2159,7 +2170,7 @@
         "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": null,
-        "Hit frame": "3",
+        "Hit frame": "+3",
         "Hit level": "m",
         "Notes": "-",
         "Recovery": "-33",
@@ -2383,7 +2394,7 @@
         "Hit frame": "-",
         "Hit level": "m",
         "Notes": "-",
-        "Start up frame": "3"
+        "Start up frame": "+3"
     },
     {
         "Block frame": "NONE",
@@ -2498,10 +2509,10 @@
     {
         "Block frame": "2",
         "Command": "Input",
-        "Counter hit frame": "3",
+        "Counter hit frame": "+3",
         "Damage": "2",
         "Gif": "",
-        "Hit frame": "3",
+        "Hit frame": "+3",
         "Hit level": "1",
         "Notes": "2",
         "Start up frame": "1"
@@ -2641,7 +2652,7 @@
         "Start up frame": "Hit"
     },
     {
-        "Block frame": "3",
+        "Block frame": "+3",
         "Command": "-8",
         "Counter hit frame": "Grd",
         "Damage": "-9",

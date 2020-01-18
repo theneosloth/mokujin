@@ -1100,10 +1100,10 @@
     {
         "Block frame": "+7",
         "Command": "f, f, f+2",
-        "Counter hit frame": "+12",
+        "Counter hit frame": "+10",
         "Damage": "25",
         "Gif": "https://gfycat.com/highdevoteddiamondbackrattlesnake.gif",
-        "Hit frame": "+12",
+        "Hit frame": "+10",
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "25(28~)"

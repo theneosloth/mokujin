@@ -632,7 +632,7 @@
         "Start up frame": "24"
     },
     {
-        "Block frame": "-9~-8",
+        "Block frame": "-12",
         "Command": "b+3",
         "Counter hit frame": "-1~0",
         "Damage": "11",
