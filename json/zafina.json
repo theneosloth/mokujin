@@ -900,17 +900,6 @@
         "Start up frame": "25 js9"
     },
     {
-        "Block frame": "-8",
-        "Command": "U/F+4",
-        "Counter hit frame": "+3",
-        "Damage": "25",
-        "Gif": "",
-        "Hit frame": "+3",
-        "Hit level": "m",
-        "Notes": "-",
-        "Start up frame": "25"
-    },
-    {
         "Block frame": "-7",
         "Command": "u/f+1+2",
         "Counter hit frame": "CS",

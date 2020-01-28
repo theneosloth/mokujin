@@ -3415,7 +3415,7 @@
     },
     {
         "Block frame": "-4",
-        "Command": "FC d+2",
+        "Command": "FC 2",
         "Counter hit frame": "+7",
         "Damage": "8",
         "Gif": "",

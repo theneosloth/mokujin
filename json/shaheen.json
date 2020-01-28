@@ -352,7 +352,7 @@
         "Start up frame": "22~23, 28 js11~24"
     },
     {
-        "Block frame": "-1~-2",
+        "Block frame": "-1~0",
         "Command": "d/f+1",
         "Counter hit frame": "+5~+6",
         "Damage": "12",
