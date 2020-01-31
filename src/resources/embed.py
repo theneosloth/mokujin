@@ -9,12 +9,20 @@ def move_embed(character, move):
                           url=character['online_webpage'],
                           description='**Move: ' + move['Command'] + '**')
     embed.set_thumbnail(url=character['portrait'])
+
+    block = "Block"
+    counterhit ="Counter hit"
+
+    if 'Throw' in move['Notes']:
+        block = "On Break"
+        counterhit ="Break Type"
+
     embed.add_field(name='Property', value=move['Hit level'])
     embed.add_field(name='Damage', value=move['Damage'])
     embed.add_field(name='Startup', value='i' + move['Start up frame'])
-    embed.add_field(name='Block', value=move['Block frame'])
+    embed.add_field(name=block, value=move['Block frame'])
     embed.add_field(name='Hit', value=move['Hit frame'])
-    embed.add_field(name='Counter Hit', value=move['Counter hit frame'])
+    embed.add_field(name=counterhit, value=move['Counter hit frame'])
 
     if 'Recovery' in move:
         embed.add_field(name='Recovery', value=move['Recovery'])

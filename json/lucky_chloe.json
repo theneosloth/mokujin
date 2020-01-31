@@ -1632,5 +1632,105 @@
         "Hit level": "l (TC)",
         "Notes": "-",
         "Start up frame": "19s cs4~"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/HonestChubbyGrasshopper.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/AptAdvancedEmu.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "f+1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/HonestChubbyGrasshopper.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "f+2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/AptAdvancedEmu.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "d/f+1+2",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": "https://gfycat.com/DamagedBiodegradableCony.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Left throw",
+            "Left side 2+4"
+        ],
+        "Block frame": "-3",
+        "Command": "left side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/FrigidFittingHylaeosaurus.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Right throw",
+            "Right side 2+4"
+        ],
+        "Block frame": "-3",
+        "Command": "right side  1+3 (or 2+4)",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/QuickNeglectedAlaskankleekai.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Back throw",
+            "Back 2+4"
+        ],
+        "Block frame": "-",
+        "Command": "back side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "50",
+        "Gif": "https://gfycat.com/DazzlingHonorableCuckoo.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
     }
 ]

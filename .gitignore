@@ -18,3 +18,4 @@ venv
 .vscode
 /tc/
 /log/
+/src/tools/add_moves.py

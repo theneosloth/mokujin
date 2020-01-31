@@ -2721,5 +2721,127 @@
         "Hit level": "l (TC)",
         "Notes": "-",
         "Start up frame": "30~36 (31~) cs1~"
+    },
+    {
+        "Block frame": "-8",
+        "Command": "1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/TanElatedBlowfish.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/MixedThinGemsbok.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-8",
+        "Command": "f+1+3",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/TanElatedBlowfish.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "f+2+4",
+        "Counter hit frame": "-",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/MixedThinGemsbok.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "d/f+1+2",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/AnxiousAcidicChameleon.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "11"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "hcf+1+2",
+        "Counter hit frame": "-",
+        "Damage": "50",
+        "Gif": "https://gfycat.com/OptimisticEnormousAardwolf.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "11"
+    },
+    {
+        "Alias": [
+            "Left throw",
+            "Left side 2+4"
+        ],
+        "Block frame": "-3",
+        "Command": "left side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/PortlyWildBackswimmer.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Right throw",
+            "Right side 2+4"
+        ],
+        "Block frame": "-3",
+        "Command": "right side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "42",
+        "Gif": "https://gfycat.com/FluidDirtyConch.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Alias": [
+            "Back throw",
+            "Back 2+4"
+        ],
+        "Block frame": "-",
+        "Command": "back side 1+3",
+        "Counter hit frame": "-",
+        "Damage": "60",
+        "Gif": "https://gfycat.com/AdorableInexperiencedBoto.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-2",
+        "Command": "on crouch d+1+3 (or d+2+4)",
+        "Counter hit frame": "-",
+        "Damage": "45",
+        "Gif": "https://gfycat.com/QueasyElasticAustraliankelpie.gif",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Throw",
+        "Start up frame": "13"
     }
 ]
