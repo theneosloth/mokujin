@@ -77,17 +77,6 @@
         "Start up frame": "10"
     },
     {
-        "Block frame": "-",
-        "Command": "3+4",
-        "Counter hit frame": "-",
-        "Damage": "-",
-        "Gif": "",
-        "Hit frame": "",
-        "Hit level": "-",
-        "Notes": "-",
-        "Start up frame": "17 (low parry 3~)"
-    },
-    {
         "Block frame": "",
         "Command": "f+3+4",
         "Counter hit frame": "",
@@ -278,12 +267,12 @@
         "Block frame": "-",
         "Command": "3+4",
         "Counter hit frame": "-",
-        "Damage": "-",
+        "Damage": "(low parry 15)",
         "Gif": "https://gfycat.com/ripeweepyibizanhound.gif",
-        "Hit frame": "-",
+        "Hit frame": "(low parry +16)",
         "Hit level": "(HRM)",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "17 (low parry 3~)"
     },
     {
         "Block frame": "-26",
