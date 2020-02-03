@@ -940,6 +940,18 @@
         "Start up frame": "26~33a (26~) js9~"
     },
     {
+        "Alias" : ["instant divekick"],
+        "Block frame": "-2",
+        "Command": "qcb,uf+4",
+        "Counter hit frame": "+9?",
+        "Damage": "15",
+        "Gif": null,
+        "Hit frame": "+9?",
+        "Hit level": "m (TJ)",
+        "Notes": "-",
+        "Start up frame": "?"
+    },
+    {
         "Block frame": "-14~-5",
         "Command": "Jump qcb+3",
         "Counter hit frame": "JG",

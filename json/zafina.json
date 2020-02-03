@@ -550,7 +550,7 @@
         "Start up frame": "22 cs6"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-13",
         "Command": "d+3, D",
         "Counter hit frame": "KND",
         "Damage": "14",

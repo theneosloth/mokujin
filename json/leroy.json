@@ -77,13 +77,13 @@
         "Start up frame": "10"
     },
     {
-        "Block frame": "",
+        "Block frame": "-",
         "Command": "f+3+4",
-        "Counter hit frame": "",
-        "Damage": "",
+        "Counter hit frame": "-",
+        "Damage": "-",
         "Gif": "",
-        "Hit frame": "",
-        "Hit level": "",
+        "Hit frame": "-",
+        "Hit level": "-",
         "Notes": "-",
         "Start up frame": "61 parry 20~"
     },
@@ -95,7 +95,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m!",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "117"
     },
     {
