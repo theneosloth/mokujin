@@ -513,6 +513,22 @@
         "Start up frame": "14(,37)"
     },
     {
+        "Alias": [
+            "u/b+2",
+            "u+2",
+            "u/f+2"
+        ],
+        "Block frame": "-14",
+        "Command": "u/b_u_u/f+2f",
+        "Counter hit frame": "-8",
+        "Damage": "12(,20)",
+        "Gif": "https://gfycat.com/GregariousDefiantGoldfinch.gif",
+        "Hit frame": "-8",
+        "Hit level": "h(, Sm)",
+        "Notes": "-",
+        "Start up frame": "14(,37)"
+    },
+    {
         "Block frame": "-12~-11",
         "Command": "u/f+3",
         "Counter hit frame": "KND",
@@ -1187,18 +1203,6 @@
         "Notes": "-",
         "Recovery": "-34",
         "Start up frame": "20"
-    },
-    {
-        "Block frame": "-9~-8",
-        "Command": "b+2",
-        "Counter hit frame": "+12~+13kg",
-        "Damage": "12",
-        "Gif": "https://gfycat.com/FarGreedyBear.gif",
-        "Hit frame": "+12~+13kg",
-        "Hit level": "m",
-        "Notes": "Tail spin, Homing",
-        "Recovery": "-29",
-        "Start up frame": "15~16"
     },
     {
         "Block frame": "-8",

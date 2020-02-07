@@ -709,9 +709,9 @@
     },
     {
         "Block frame": "-15",
-        "Command": "d/b+4, 4, ,",
+        "Command": "d/b+4, 4",
         "Counter hit frame": "KND",
-        "Damage": "18,19,19,,",
+        "Damage": "18,19,19",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m, m, , ",
@@ -720,13 +720,13 @@
     },
     {
         "Block frame": "-13",
-        "Command": "d/b+4, 4, 4, 4, ,",
+        "Command": "d/b+4, 4, 4, 4",
         "Counter hit frame": "KND",
-        "Damage": "18,19,19,20,,",
+        "Damage": "18,19,19,20",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m x 4, , ",
-        "Notes": "Rage art, Rage art",
+        "Notes": "",
         "Start up frame": "18 4~"
     },
     {
