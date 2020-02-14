@@ -1122,28 +1122,6 @@
         "Start up frame": "15"
     },
     {
-        "Block frame": "-9",
-        "Command": "d/f+3",
-        "Counter hit frame": "+4",
-        "Damage": "11",
-        "Gif": null,
-        "Hit frame": "+4",
-        "Hit level": "m",
-        "Notes": "-",
-        "Start up frame": "13"
-    },
-    {
-        "Block frame": "-3",
-        "Command": "d/f+4",
-        "Counter hit frame": "+8",
-        "Damage": "12",
-        "Gif": null,
-        "Hit frame": "+3",
-        "Hit level": "m",
-        "Notes": "-",
-        "Start up frame": "14"
-    },
-    {
         "Block frame": "-5",
         "Command": "d+1",
         "Counter hit frame": "+6",
@@ -1153,28 +1131,6 @@
         "Hit level": "Sm (TC)",
         "Notes": "-",
         "Start up frame": "10s cs4~"
-    },
-    {
-        "Block frame": "-14",
-        "Command": "d+2",
-        "Counter hit frame": "KND",
-        "Damage": "13",
-        "Gif": "https://gfycat.com/SecondPowerlessEasternglasslizard.gif",
-        "Hit frame": "KND",
-        "Hit level": "m",
-        "Notes": "-",
-        "Start up frame": "15"
-    },
-    {
-        "Block frame": "-12",
-        "Command": "d+3",
-        "Counter hit frame": "-1",
-        "Damage": "18",
-        "Gif": null,
-        "Hit frame": "-1",
-        "Hit level": "l",
-        "Notes": "-",
-        "Start up frame": "16"
     },
     {
         "Block frame": "-13",

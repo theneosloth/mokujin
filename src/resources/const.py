@@ -24,7 +24,7 @@ CHARACTER_ALIAS = {
     'kazumi': ['kzm', 'zumi'],
     'kazuya': ['kaz', 'kazze', 'masku'],
     'king': ['kin'],
-    'kuma': ['panda', 'karhu'],
+    'kuma': ['panda', 'karhu', 'bear'],
     'lars': ['lar'],
     'law': ['marshall'],
     'lee': ['violet'],
@@ -46,7 +46,7 @@ CHARACTER_ALIAS = {
     'zafina': ['zaffy', 'zaf'],
     "fahkumram": ["fah", "fahkum"],
     "leroy": [],
-    "ganryu": ["gan","ganny"]
+    "ganryu": ["gan", "ganny"]
 }
 
 # Dict for searching special move types
@@ -67,7 +67,7 @@ MOVE_TYPES = {
     'pc': 'Power crush',
     'power': 'Power crush',
     'power_crush': 'Power crush',
-    'throw' : 'Throw'
+    'throw': 'Throw'
 }
 
 REPLACE = {
