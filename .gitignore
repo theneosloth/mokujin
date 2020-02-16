@@ -19,3 +19,7 @@ venv
 /tc/
 /log/
 /src/tools/add_moves.py
+
+#virtualenv
+lenv/
+venv/
