@@ -410,18 +410,6 @@
         "Start up frame": "s cs1~"
     },
     {
-        "Block frame": "-17~-16",
-        "Command": "d/b+3",
-        "Counter hit frame": "KND",
-        "Damage": "23",
-        "Gif": "https://gfycat.com/UntimelyIdealDeermouse.gif",
-        "Hit frame": "+1~+2s",
-        "Hit level": "l (TC)",
-        "Notes": "-",
-        "Recovery": "-34",
-        "Start up frame": "24~25s cs6~"
-    },
-    {
         "Block frame": "-13",
         "Command": "d/b+4",
         "Counter hit frame": "-2",

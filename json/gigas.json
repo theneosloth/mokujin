@@ -1493,7 +1493,7 @@
         "Notes": "Throw",
         "Start up frame": "15"
     },
-    {
+    {   "Alias": ["SG 1+2","hcb,f+1+2"],
         "Block frame": "-6",
         "Command": "hcb, f+1+2 (or SG 1+2)",
         "Counter hit frame": "-",
