@@ -3138,7 +3138,11 @@
         "Notes": "-",
         "Start up frame": "12"
     },
-    {   "Alias": ["FLK 1,2","FLK 1,1,2"],
+    {
+        "Alias": [
+            "FLK 1,2",
+            "FLK 1,1,2"
+        ],
         "Block frame": "-7",
         "Command": "FLK 1,1,1,2",
         "Counter hit frame": "KND",

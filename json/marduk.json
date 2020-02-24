@@ -462,17 +462,6 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "-6",
-        "Command": "d/f+3,d/f+1,2",
-        "Counter hit frame": "KND",
-        "Damage": "13,10,20",
-        "Gif": "https://gfycat.com/ForcefulDistortedCanadagoose.gif",
-        "Hit frame": "KND",
-        "Hit level": "m,m,h",
-        "Notes": "-",
-        "Start up frame": "-"
-    },
-    {
         "Block frame": "+13g",
         "Command": "d/f+3,d/f+1,2*",
         "Counter hit frame": "KND",
@@ -481,17 +470,6 @@
         "Hit frame": "KND",
         "Hit level": "m,m,h",
         "Notes": "Tail spin",
-        "Start up frame": "-"
-    },
-    {
-        "Block frame": "-7",
-        "Command": "d/f+3,d/f+1,2",
-        "Counter hit frame": "KND",
-        "Damage": "13,10,20",
-        "Gif": "https://gfycat.com/ForcefulDistortedCanadagoose.gif",
-        "Hit frame": "KND",
-        "Hit level": "m,m,h",
-        "Notes": "-",
         "Start up frame": "-"
     },
     {
@@ -1429,32 +1407,6 @@
         "Start up frame": "17 pc8"
     },
     {
-        "Alias": [
-            "hs",
-            "hellsweep"
-        ],
-        "Block frame": "-39",
-        "Command": "VTS d+1+2",
-        "Counter hit frame": "KND",
-        "Damage": "20,20",
-        "Gif": "https://gfycat.com/RelievedHideousAlbatross.gif",
-        "Hit frame": "KND",
-        "Hit level": "l,m",
-        "Notes": "-",
-        "Start up frame": "17"
-    },
-    {
-        "Block frame": "-14",
-        "Command": "VTS d+1+2",
-        "Counter hit frame": "KND",
-        "Damage": "20",
-        "Gif": "https://gfycat.com/RelievedHideousAlbatross.gif",
-        "Hit frame": "KND",
-        "Hit level": "l,m (second hit only)",
-        "Notes": "-",
-        "Start up frame": "-"
-    },
-    {
         "Block frame": "-6",
         "Command": "1+3",
         "Counter hit frame": "-",
@@ -1667,5 +1619,27 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
+    },
+    {
+        "Block frame": "-7",
+        "Command": "d/f+3,d/f+1,2",
+        "Counter hit frame": "KND",
+        "Damage": "13,10,20",
+        "Gif": "https://gfycat.com/ForcefulDistortedCanadagoose.gif",
+        "Hit frame": "KND",
+        "Hit level": "m,m,h",
+        "Notes": "-",
+        "Start up frame": "-"
+    },
+    {
+        "Block frame": "-14",
+        "Command": "VTS d+1+2",
+        "Counter hit frame": "KND",
+        "Damage": "20",
+        "Gif": "https://gfycat.com/RelievedHideousAlbatross.gif",
+        "Hit frame": "KND",
+        "Hit level": "l,m (second hit only)",
+        "Notes": "-",
+        "Start up frame": "-"
     }
 ]
