@@ -1473,10 +1473,10 @@
         ],
         "Block frame": "-6~-5",
         "Command": "b+1,2~f",
-        "Counter hit frame": "+5~+6",
+        "Counter hit frame": "+19kg",
         "Damage": "17,10",
         "Gif": "",
-        "Hit frame": "+5~+6",
+        "Hit frame": "+19kg",
         "Hit level": "h,h,(PAB)",
         "Notes": "Delay: 9f. Hit-confirm: 9f.",
         "Start up frame": "13~14"

@@ -1073,7 +1073,7 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "-7",
+        "Block frame": "-12",
         "Command": "4",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "17",
