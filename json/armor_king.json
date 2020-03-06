@@ -584,10 +584,10 @@
     {
         "Block frame": "-13",
         "Command": "d/b+2, 3",
-        "Counter hit frame": "+21",
+        "Counter hit frame": "+21g",
         "Damage": "10, 20",
         "Gif": "https://gfycat.com/DependablePointedJanenschia.gif",
-        "Hit frame": "+21",
+        "Hit frame": "+21g",
         "Hit level": "m, m",
         "Notes": "-",
         "Recovery": "-35",
@@ -1372,7 +1372,7 @@
         "Hit level": "h",
         "Notes": "-",
         "Recovery": "-27",
-        "Start up frame": "11"
+        "Start up frame": "11 (14)"
     },
     {
         "Block frame": "KND",

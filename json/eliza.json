@@ -11,17 +11,6 @@
         "Start up frame": "20 js13~17 pc8~17"
     },
     {
-        "Block frame": "+1",
-        "Command": "1",
-        "Counter hit frame": "+8",
-        "Damage": "7",
-        "Gif": "",
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "-",
-        "Start up frame": "10"
-    },
-    {
         "Block frame": "-3",
         "Command": "1, 1",
         "Counter hit frame": "+4",
@@ -70,18 +59,6 @@
         "Start up frame": "19~"
     },
     {
-        "Block frame": "-3",
-        "Command": "2",
-        "Counter hit frame": "+8",
-        "Damage": "9",
-        "Gif": "",
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "-",
-        "Recovery": "-21",
-        "Start up frame": "14"
-    },
-    {
         "Block frame": "-12",
         "Command": "2, 2",
         "Counter hit frame": "+2",
@@ -92,29 +69,6 @@
         "Notes": "-",
         "Recovery": "-27",
         "Start up frame": "14"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "3",
-        "Counter hit frame": "+8",
-        "Damage": "12",
-        "Gif": null,
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "-",
-        "Recovery": "-26",
-        "Start up frame": "13"
-    },
-    {
-        "Block frame": "-5",
-        "Command": "4",
-        "Counter hit frame": "KND",
-        "Damage": "21",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "Homing, Tail spin",
-        "Start up frame": "13"
     },
     {
         "Block frame": "-17~-16",
@@ -141,18 +95,6 @@
         "Start up frame": "33~34a js9~23 cs23~"
     },
     {
-        "Block frame": "-9~-8",
-        "Command": "f+3",
-        "Counter hit frame": "+25g(KND)",
-        "Damage": "17",
-        "Gif": "https://gfycat.com/PracticalJollyInganue.gif",
-        "Hit frame": "0~+1",
-        "Hit level": "m",
-        "Notes": "-",
-        "Recovery": "-28",
-        "Start up frame": "16~17"
-    },
-    {
         "Block frame": "-13",
         "Command": "f+1+2",
         "Counter hit frame": "CS",
@@ -163,18 +105,6 @@
         "Notes": "Homing, Power crush",
         "Recovery": "-33",
         "Start up frame": "25 pc8~24"
-    },
-    {
-        "Block frame": "-3",
-        "Command": "d/f+1",
-        "Counter hit frame": "+3",
-        "Damage": "12",
-        "Gif": null,
-        "Hit frame": "+3",
-        "Hit level": "m",
-        "Notes": "-",
-        "Recovery": "-21",
-        "Start up frame": "13"
     },
     {
         "Block frame": "-13",
@@ -201,18 +131,6 @@
         "Start up frame": "13"
     },
     {
-        "Block frame": "-9~-8",
-        "Command": "d/f+2",
-        "Counter hit frame": "+2~+3",
-        "Damage": "10",
-        "Gif": null,
-        "Hit frame": "+2~+3",
-        "Hit level": "m",
-        "Notes": "-",
-        "Recovery": "-26",
-        "Start up frame": "16~17"
-    },
-    {
         "Block frame": "-18~-17",
         "Command": "d/f+2, 3",
         "Counter hit frame": "Launch",
@@ -223,30 +141,6 @@
         "Notes": "-",
         "Recovery": "-39",
         "Start up frame": "js14~"
-    },
-    {
-        "Block frame": "-6~-5",
-        "Command": "d/f+3",
-        "Counter hit frame": "KND",
-        "Damage": "24",
-        "Gif": "https://gfycat.com/SilkyHideousFanworms.gif",
-        "Hit frame": "KND",
-        "Hit level": "m (TJ)",
-        "Notes": "Homing, Wall bounce",
-        "Recovery": "-38",
-        "Start up frame": "25~26 js9~"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "d/f+4",
-        "Counter hit frame": "+3",
-        "Damage": "16",
-        "Gif": null,
-        "Hit frame": "+3",
-        "Hit level": "m",
-        "Notes": "-",
-        "Recovery": "-22",
-        "Start up frame": "12"
     },
     {
         "Block frame": "-",
@@ -270,18 +164,6 @@
         "Notes": "-",
         "Recovery": "-50",
         "Start up frame": "51~52 js21~50"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "b+1",
-        "Counter hit frame": "+3",
-        "Damage": "13",
-        "Gif": null,
-        "Hit frame": "+3",
-        "Hit level": "m",
-        "Notes": "-",
-        "Recovery": "-29",
-        "Start up frame": "14"
     },
     {
         "Block frame": "-13~-11",
@@ -308,18 +190,6 @@
         "Start up frame": "js1~"
     },
     {
-        "Block frame": "-4",
-        "Command": "b+2",
-        "Counter hit frame": "+2",
-        "Damage": "10",
-        "Gif": null,
-        "Hit frame": "+2",
-        "Hit level": "h",
-        "Notes": "-",
-        "Recovery": "-22",
-        "Start up frame": "11"
-    },
-    {
         "Block frame": "-9~-8",
         "Command": "b+2, 3",
         "Counter hit frame": "uKZD",
@@ -330,18 +200,6 @@
         "Notes": "-",
         "Recovery": "-25",
         "Start up frame": "11"
-    },
-    {
-        "Block frame": "-9",
-        "Command": "b+3",
-        "Counter hit frame": "+2",
-        "Damage": "12",
-        "Gif": null,
-        "Hit frame": "+2",
-        "Hit level": "h",
-        "Notes": "-",
-        "Recovery": "-47",
-        "Start up frame": "16"
     },
     {
         "Block frame": "-4~-3",
@@ -366,18 +224,6 @@
         "Notes": "-",
         "Recovery": "-35",
         "Start up frame": "16"
-    },
-    {
-        "Block frame": "-14",
-        "Command": "b+4",
-        "Counter hit frame": "-2",
-        "Damage": "12",
-        "Gif": "https://gfycat.com/InnocentWellwornEeve.gif",
-        "Hit frame": "-2",
-        "Hit level": "Sm",
-        "Notes": "-",
-        "Recovery": "-29",
-        "Start up frame": "15"
     },
     {
         "Block frame": "-13~-12",
@@ -598,30 +444,6 @@
         "Notes": "-",
         "Recovery": "-34",
         "Start up frame": "15~16a"
-    },
-    {
-        "Block frame": "-22~-21",
-        "Command": "WS+3",
-        "Counter hit frame": "Launch (JG?)",
-        "Damage": "20",
-        "Gif": "https://gfycat.com/DiligentSpryAcornwoodpecker.gif",
-        "Hit frame": "Launch (JG?)",
-        "Hit level": "m (TJ)",
-        "Notes": "-",
-        "Recovery": "-44",
-        "Start up frame": "15~16a js15~"
-    },
-    {
-        "Block frame": "-5~-4",
-        "Command": "WS+4",
-        "Counter hit frame": "+6~+7",
-        "Damage": "15",
-        "Gif": "",
-        "Hit frame": "+6~+7",
-        "Hit level": "m",
-        "Notes": "-",
-        "Recovery": "-22",
-        "Start up frame": "11~12"
     },
     {
         "Block frame": "-",
@@ -940,7 +762,9 @@
         "Start up frame": "26~33a (26~) js9~"
     },
     {
-        "Alias" : ["instant divekick"],
+        "Alias": [
+            "instant divekick"
+        ],
         "Block frame": "-2",
         "Command": "qcb,uf+4",
         "Counter hit frame": "+9?",
@@ -1069,52 +893,6 @@
     },
     {
         "Block frame": "+1",
-        "Command": "1",
-        "Counter hit frame": "+8",
-        "Damage": "7",
-        "Gif": "",
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "-",
-        "Start up frame": "10"
-    },
-    {
-        "Block frame": "-3",
-        "Command": "2",
-        "Counter hit frame": "+8",
-        "Damage": "9",
-        "Gif": null,
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "-",
-        "Recovery": "-21",
-        "Start up frame": "14"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "3",
-        "Counter hit frame": "+8",
-        "Damage": "12",
-        "Gif": null,
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "-",
-        "Recovery": "-26",
-        "Start up frame": "13"
-    },
-    {
-        "Block frame": "-5",
-        "Command": "4",
-        "Counter hit frame": "KND",
-        "Damage": "21",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "Homing, Tail spin",
-        "Start up frame": "13"
-    },
-    {
-        "Block frame": "+1",
         "Command": "f+1",
         "Counter hit frame": "+8",
         "Damage": "7",
@@ -1136,18 +914,6 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "-9~-8",
-        "Command": "f+3",
-        "Counter hit frame": "+25g(KND)",
-        "Damage": "17",
-        "Gif": "https://gfycat.com/PracticalJollyInganue.gif",
-        "Hit frame": "0~+1",
-        "Hit level": "m",
-        "Notes": "-",
-        "Recovery": "-28",
-        "Start up frame": "16~17"
-    },
-    {
         "Block frame": "-",
         "Command": "f+4 (to MG)",
         "Counter hit frame": "-",
@@ -1157,54 +923,6 @@
         "Hit level": "(MG)",
         "Notes": "Press down to recover crouching",
         "Start up frame": "18~19"
-    },
-    {
-        "Block frame": "-3",
-        "Command": "d/f+1",
-        "Counter hit frame": "+3",
-        "Damage": "12",
-        "Gif": null,
-        "Hit frame": "+3",
-        "Hit level": "m",
-        "Notes": "-",
-        "Recovery": "-21",
-        "Start up frame": "13"
-    },
-    {
-        "Block frame": "-9~-8",
-        "Command": "d/f+2",
-        "Counter hit frame": "+2~+3",
-        "Damage": "10",
-        "Gif": null,
-        "Hit frame": "+2~+3",
-        "Hit level": "m",
-        "Notes": "-",
-        "Recovery": "-26",
-        "Start up frame": "16~17"
-    },
-    {
-        "Block frame": "-6~-5",
-        "Command": "d/f+3",
-        "Counter hit frame": "KND",
-        "Damage": "24",
-        "Gif": "https://gfycat.com/SilkyHideousFanworms.gif",
-        "Hit frame": "KND",
-        "Hit level": "m (TJ)",
-        "Notes": "Homing, Wall bounce",
-        "Recovery": "-38",
-        "Start up frame": "25~26 js9~"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "d/f+4",
-        "Counter hit frame": "+3",
-        "Damage": "16",
-        "Gif": null,
-        "Hit frame": "+3",
-        "Hit level": "m",
-        "Notes": "-",
-        "Recovery": "-22",
-        "Start up frame": "12"
     },
     {
         "Alias": [
@@ -1220,78 +938,6 @@
         "Hit level": "l (TC)",
         "Notes": "-",
         "Start up frame": "20~21s cs6~"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "b+1",
-        "Counter hit frame": "+3",
-        "Damage": "13",
-        "Gif": null,
-        "Hit frame": "+3",
-        "Hit level": "m",
-        "Notes": "-",
-        "Recovery": "-29",
-        "Start up frame": "14"
-    },
-    {
-        "Block frame": "-4",
-        "Command": "b+2",
-        "Counter hit frame": "+2",
-        "Damage": "10",
-        "Gif": null,
-        "Hit frame": "+2",
-        "Hit level": "h",
-        "Notes": "-",
-        "Recovery": "-22",
-        "Start up frame": "11"
-    },
-    {
-        "Block frame": "-9",
-        "Command": "b+3",
-        "Counter hit frame": "+2",
-        "Damage": "12",
-        "Gif": null,
-        "Hit frame": "+2",
-        "Hit level": "h",
-        "Notes": "-",
-        "Recovery": "-47",
-        "Start up frame": "16"
-    },
-    {
-        "Block frame": "-14",
-        "Command": "b+4",
-        "Counter hit frame": "-2",
-        "Damage": "12",
-        "Gif": "https://gfycat.com/InnocentWellwornEeve.gif",
-        "Hit frame": "-2",
-        "Hit level": "Sm",
-        "Notes": "-",
-        "Recovery": "-29",
-        "Start up frame": "15"
-    },
-    {
-        "Block frame": "-22~-21",
-        "Command": "WS+3",
-        "Counter hit frame": "Launch (JG?)",
-        "Damage": "20",
-        "Gif": "https://gfycat.com/DiligentSpryAcornwoodpecker.gif",
-        "Hit frame": "Launch (JG?)",
-        "Hit level": "m (TJ)",
-        "Notes": "-",
-        "Recovery": "-44",
-        "Start up frame": "15~16a js15~"
-    },
-    {
-        "Block frame": "-5~-4",
-        "Command": "WS+4",
-        "Counter hit frame": "+6~+7",
-        "Damage": "15",
-        "Gif": "",
-        "Hit frame": "+6~+7",
-        "Hit level": "m",
-        "Notes": "-",
-        "Recovery": "-22",
-        "Start up frame": "11~12"
     },
     {
         "Block frame": "-5",
@@ -1496,5 +1142,183 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
+    },
+    {
+        "Block frame": "+1",
+        "Command": "1",
+        "Counter hit frame": "+8",
+        "Damage": "7",
+        "Gif": "",
+        "Hit frame": "+8",
+        "Hit level": "h",
+        "Notes": "-",
+        "Start up frame": "10"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "2",
+        "Counter hit frame": "+8",
+        "Damage": "9",
+        "Gif": null,
+        "Hit frame": "+8",
+        "Hit level": "h",
+        "Notes": "-",
+        "Recovery": "-21",
+        "Start up frame": "14"
+    },
+    {
+        "Block frame": "-8",
+        "Command": "3",
+        "Counter hit frame": "+8",
+        "Damage": "12",
+        "Gif": null,
+        "Hit frame": "+8",
+        "Hit level": "h",
+        "Notes": "-",
+        "Recovery": "-26",
+        "Start up frame": "13"
+    },
+    {
+        "Block frame": "-5",
+        "Command": "4",
+        "Counter hit frame": "KND",
+        "Damage": "21",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Homing, Tail spin",
+        "Start up frame": "13"
+    },
+    {
+        "Block frame": "-9~-8",
+        "Command": "f+3",
+        "Counter hit frame": "+25g(KND)",
+        "Damage": "17",
+        "Gif": "https://gfycat.com/PracticalJollyInganue.gif",
+        "Hit frame": "0~+1",
+        "Hit level": "m",
+        "Notes": "-",
+        "Recovery": "-28",
+        "Start up frame": "16~17"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "d/f+1",
+        "Counter hit frame": "+3",
+        "Damage": "12",
+        "Gif": null,
+        "Hit frame": "+3",
+        "Hit level": "m",
+        "Notes": "-",
+        "Recovery": "-21",
+        "Start up frame": "13"
+    },
+    {
+        "Block frame": "-9~-8",
+        "Command": "d/f+2",
+        "Counter hit frame": "+2~+3",
+        "Damage": "10",
+        "Gif": null,
+        "Hit frame": "+2~+3",
+        "Hit level": "m",
+        "Notes": "-",
+        "Recovery": "-26",
+        "Start up frame": "16~17"
+    },
+    {
+        "Block frame": "-6~-5",
+        "Command": "d/f+3",
+        "Counter hit frame": "KND",
+        "Damage": "24",
+        "Gif": "https://gfycat.com/SilkyHideousFanworms.gif",
+        "Hit frame": "KND",
+        "Hit level": "m (TJ)",
+        "Notes": "Homing, Wall bounce",
+        "Recovery": "-38",
+        "Start up frame": "25~26 js9~"
+    },
+    {
+        "Block frame": "-8",
+        "Command": "d/f+4",
+        "Counter hit frame": "+3",
+        "Damage": "16",
+        "Gif": null,
+        "Hit frame": "+3",
+        "Hit level": "m",
+        "Notes": "-",
+        "Recovery": "-22",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-8",
+        "Command": "b+1",
+        "Counter hit frame": "+3",
+        "Damage": "13",
+        "Gif": null,
+        "Hit frame": "+3",
+        "Hit level": "m",
+        "Notes": "-",
+        "Recovery": "-29",
+        "Start up frame": "14"
+    },
+    {
+        "Block frame": "-4",
+        "Command": "b+2",
+        "Counter hit frame": "+2",
+        "Damage": "10",
+        "Gif": null,
+        "Hit frame": "+2",
+        "Hit level": "h",
+        "Notes": "-",
+        "Recovery": "-22",
+        "Start up frame": "11"
+    },
+    {
+        "Block frame": "-9",
+        "Command": "b+3",
+        "Counter hit frame": "+2",
+        "Damage": "12",
+        "Gif": null,
+        "Hit frame": "+2",
+        "Hit level": "h",
+        "Notes": "-",
+        "Recovery": "-47",
+        "Start up frame": "16"
+    },
+    {
+        "Block frame": "-14",
+        "Command": "b+4",
+        "Counter hit frame": "-2",
+        "Damage": "12",
+        "Gif": "https://gfycat.com/InnocentWellwornEeve.gif",
+        "Hit frame": "-2",
+        "Hit level": "Sm",
+        "Notes": "-",
+        "Recovery": "-29",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-22~-21",
+        "Command": "WS+3",
+        "Counter hit frame": "Launch (JG?)",
+        "Damage": "20",
+        "Gif": "https://gfycat.com/DiligentSpryAcornwoodpecker.gif",
+        "Hit frame": "Launch (JG?)",
+        "Hit level": "m (TJ)",
+        "Notes": "-",
+        "Recovery": "-44",
+        "Start up frame": "15~16a js15~"
+    },
+    {
+        "Block frame": "-5~-4",
+        "Command": "WS+4",
+        "Counter hit frame": "+6~+7",
+        "Damage": "15",
+        "Gif": "",
+        "Hit frame": "+6~+7",
+        "Hit level": "m",
+        "Notes": "-",
+        "Recovery": "-22",
+        "Start up frame": "11~12"
     }
 ]
