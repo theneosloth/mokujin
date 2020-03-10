@@ -550,7 +550,9 @@
         "Start up frame": "29"
     },
     {
-        "Alias": ["d+2,2"],
+        "Alias": [
+            "d+2,2"
+        ],
         "Block frame": "-17",
         "Command": "d+2,2....",
         "Counter hit frame": "-6",
@@ -925,8 +927,10 @@
         "Start up frame": "22~23 (22~)"
     },
     {
+        "Alias": [
+            "WR+1+2"
+        ],
         "Block frame": "+9~+10",
-        "Alias": ["WR+1+2"],
         "Command": "f,f,f+1+2",
         "Counter hit frame": "+32g",
         "Damage": "35",
@@ -1146,7 +1150,10 @@
         "Start up frame": "20~21"
     },
     {
-        "Alias": ["10-hit","10 hit"],
+        "Alias": [
+            "10-hit",
+            "10 hit"
+        ],
         "Block frame": "-17",
         "Command": "FC 1,1,1,1,2,2,3,4,4,1+2",
         "Counter hit frame": "-11",
@@ -1209,7 +1216,7 @@
         "Gif": "https://gfycat.com/hardwhimsicalduck.gif",
         "Hit frame": "Launch",
         "Hit level": "m",
-        "Notes": "S!",
+        "Notes": "Tail spin",
         "Start up frame": "14~15"
     },
     {
@@ -1231,7 +1238,7 @@
         "Gif": "https://gfycat.com/bitesizeddefinitegiantschnauzer.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "Homing, Tail spin",
         "Start up frame": "14~15"
     },
     {
@@ -1264,7 +1271,7 @@
         "Gif": "https://gfycat.com/snivelingeveryenglishsetter.gif",
         "Hit frame": "+10kg",
         "Hit level": "m,h",
-        "Notes": "-",
+        "Notes": "Tail spin",
         "Start up frame": "13~14"
     },
     {

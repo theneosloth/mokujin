@@ -869,28 +869,6 @@
         "Start up frame": "28"
     },
     {
-        "Block frame": "-8",
-        "Command": "u/f+3,4",
-        "Counter hit frame": "Launch (JG?)",
-        "Damage": "15,14",
-        "Gif": "",
-        "Hit frame": "Launch (JG?)",
-        "Hit level": "m(TJ),m,(LFF)",
-        "Notes": "-",
-        "Start up frame": "js1~"
-    },
-    {
-        "Block frame": "-13~-12",
-        "Command": "u/f+3,4",
-        "Counter hit frame": "KND",
-        "Damage": "15",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "m(TJ)",
-        "Notes": "-",
-        "Start up frame": "js9~"
-    },
-    {
         "Block frame": "-",
         "Command": "u/f+3,4,3",
         "Counter hit frame": "-",
@@ -2620,5 +2598,16 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
+    },
+    {
+        "Block frame": "-13~-12",
+        "Command": "u/f+3,4",
+        "Counter hit frame": "KND",
+        "Damage": "15",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m(TJ)",
+        "Notes": "-",
+        "Start up frame": "js9~"
     }
 ]
