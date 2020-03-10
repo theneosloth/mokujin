@@ -183,8 +183,5 @@ class MyTestCase(unittest.TestCase):
         self.assertTrue(not entry3[0]["Gif"])
         self.assertTrue(not 'Gif' in entry4)
 
-        self.assertTrue("ws12" == "ws12")
-
-
 if __name__ == '__main__':
     unittest.main()
