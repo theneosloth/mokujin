@@ -143,6 +143,17 @@
         "Start up frame": "14~15"
     },
     {
+        "Block frame": "-14s",
+        "Command": "b+1,2",
+        "Counter hit frame": "KND",
+        "Damage": "17,20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m, m",
+        "Notes": "-",
+        "Start up frame": "20~21"
+    },
+    {
         "Block frame": "+6~+7",
         "Command": "f+1, 2, 2",
         "Counter hit frame": "KND",
