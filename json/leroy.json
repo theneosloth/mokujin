@@ -267,11 +267,11 @@
         "Block frame": "-",
         "Command": "3+4",
         "Counter hit frame": "-",
-        "Damage": "(low parry 15)",
+        "Damage": "-",
         "Gif": "https://gfycat.com/ripeweepyibizanhound.gif",
-        "Hit frame": "(low parry +16)",
+        "Hit frame": "-",
         "Hit level": "(HRM)",
-        "Notes": "-",
+        "Notes": "Check **HRM low parry**",
         "Start up frame": "17 (low parry 3~)"
     },
     {
@@ -305,7 +305,7 @@
         "Hit frame": "+2",
         "Hit level": "h,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "14~16"
     },
     {
         "Block frame": "-6",
@@ -316,7 +316,7 @@
         "Hit frame": "+8",
         "Hit level": "h,m,m,(HRM)",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "14~16"
     },
     {
         "Block frame": "-7",
@@ -338,7 +338,7 @@
         "Hit frame": "0",
         "Hit level": "m,h,h,h",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "14~15"
     },
     {
         "Block frame": "-16",
@@ -349,7 +349,7 @@
         "Hit frame": "KND",
         "Hit level": "m,h,h,h,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "14~15"
     },
     {
         "Block frame": "-9",
@@ -371,7 +371,7 @@
         "Hit frame": "KND",
         "Hit level": "m,h",
         "Notes": "Tail spin",
-        "Start up frame": "-"
+        "Start up frame": "16~17"
     },
     {
         "Block frame": "KND",
@@ -404,7 +404,7 @@
         "Hit frame": "+5",
         "Hit level": "m,h",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "13~14"
     },
     {
         "Block frame": "-6",
@@ -415,7 +415,7 @@
         "Hit frame": "+6",
         "Hit level": "m,m,(HRM)",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "13~14"
     },
     {
         "Block frame": "-6",
@@ -437,7 +437,7 @@
         "Hit frame": "Launch (JG)",
         "Hit level": "m,h,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "15"
     },
     {
         "Block frame": "-11",
@@ -459,7 +459,7 @@
         "Hit frame": "+6",
         "Hit level": "m,h",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "16"
     },
     {
         "Block frame": "-13",
@@ -470,7 +470,7 @@
         "Hit frame": "KND",
         "Hit level": "m,h,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "16"
     },
     {
         "Block frame": "-6",
@@ -490,9 +490,9 @@
         "Damage": "16,17",
         "Gif": "https://gfycat.com/pastelthreadbarecassowary.gif",
         "Hit frame": "+7",
-        "Hit level": "m",
+        "Hit level": "m,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "13"
     },
     {
         "Block frame": "-14",
@@ -516,7 +516,7 @@
         "Gif": "https://gfycat.com/angrylawfulbrownbear.gif",
         "Hit frame": "Launch (CS)",
         "Hit level": "m,m,m",
-        "Notes": "once per match",
+        "Notes": "Once per match",
         "Start up frame": "22"
     },
     {
@@ -539,7 +539,7 @@
         "Hit frame": "-1",
         "Hit level": "Sm,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "10"
     },
     {
         "Block frame": "-9",
@@ -550,7 +550,7 @@
         "Hit frame": "+3",
         "Hit level": "Sm,m,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "10"
     },
     {
         "Block frame": "-12",
@@ -572,7 +572,7 @@
         "Hit frame": "-2",
         "Hit level": "l,l",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "15~16"
     },
     {
         "Block frame": "-13",
@@ -594,7 +594,7 @@
         "Hit frame": "+8",
         "Hit level": "l,h,(HRM)",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "16"
     },
     {
         "Block frame": "-12",
@@ -616,7 +616,7 @@
         "Hit frame": "+1",
         "Hit level": "l,m,(HRM)",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "14~15"
     },
     {
         "Block frame": "-4",
@@ -649,7 +649,7 @@
         "Hit frame": "+8",
         "Hit level": "m,h",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "16~17"
     },
     {
         "Block frame": "-10",
@@ -660,7 +660,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "16~17"
     },
     {
         "Block frame": "-26",
@@ -682,7 +682,7 @@
         "Hit frame": "KND",
         "Hit level": "l,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "18~19"
     },
     {
         "Block frame": "-14",
@@ -814,7 +814,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "14~15"
     },
     {
         "Block frame": "-11~-10",
@@ -913,7 +913,7 @@
         "Hit frame": "+6",
         "Hit level": "m,m,(HRM)",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "13~14"
     },
     {
         "Block frame": "-14",
@@ -946,7 +946,7 @@
         "Hit frame": "0",
         "Hit level": "m,h,h,h",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "14~15"
     },
     {
         "Block frame": "-16",
@@ -957,7 +957,7 @@
         "Hit frame": "KND",
         "Hit level": "m,h,h,h,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "14~15"
     },
     {
         "Block frame": "-6",
@@ -990,7 +990,7 @@
         "Hit frame": "Launch (JG)",
         "Hit level": "l,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "15~16"
     },
     {
         "Block frame": "-12",
@@ -1001,11 +1001,16 @@
         "Hit frame": "+4s",
         "Hit level": "l",
         "Notes": "-",
-        "Start up frame": "18~19(27~28)"
+        "Start up frame": "18~19 (27~28)"
     },
     {
+        "Alias": [
+            "d/b+2 grounded opponent",
+            "opponent down d/b+2",
+            "grounded opponent d/b+2",
+        ],
         "Block frame": "-13",
-        "Command": "Opponent down, d/b+2",
+        "Command": "d/b+2 opponent down",
         "Counter hit frame": "-5 (-13)",
         "Damage": "13",
         "Gif": "",
@@ -1015,80 +1020,85 @@
         "Start up frame": "17~18"
     },
     {
+        "Alias": [
+            "d/b+2,1+2 grounded opponent",
+            "opponent down d/b+2,1+2",
+            "grounded opponent d/b+2,1+2",
+        ],
         "Block frame": "-13",
-        "Command": "Opponent down, d/b+2,1+2",
+        "Command": "d/b+2,1+2 opponent down",
         "Counter hit frame": "-4",
         "Damage": "15,5,5,15",
         "Gif": "https://gfycat.com/untriedyoungichthyosaurs.gif",
         "Hit frame": "-4",
         "Hit level": "l,l,l,l",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "17~18"
     },
     {
         "Block frame": "-3",
         "Command": "1+3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "1 or 2",
         "Damage": "35",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "1 or 2 break",
+        "Notes": "Throw",
         "Start up frame": "12~14"
     },
     {
         "Block frame": "-3",
         "Command": "f+1+3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "1 or 2",
         "Damage": "35",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "1 or 2 break",
+        "Notes": "Throw",
         "Start up frame": "15~17"
     },
     {
         "Block frame": "-3",
         "Command": "2+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "1 or 2",
         "Damage": "35",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "1 or 2 break",
+        "Notes": "Throw",
         "Start up frame": "12~14"
     },
     {
         "Block frame": "-3",
-        "Command": "f+2+3",
-        "Counter hit frame": "KND",
+        "Command": "f+2+4",
+        "Counter hit frame": "1 or 2",
         "Damage": "35",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "1 or 2 break",
+        "Notes": "Throw",
         "Start up frame": "15~17"
     },
     {
         "Block frame": "-2",
         "Command": "u/f+1+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "1+2",
         "Damage": "40",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "1+2 break",
+        "Notes": "Throw",
         "Start up frame": "12"
     },
     {
-        "Block frame": "-",
-        "Command": "HRM auto low parry",
+        "Block frame": "Unbreakable",
+        "Command": "HRM low parry",
         "Counter hit frame": "+16",
         "Damage": "15",
         "Gif": "",
         "Hit frame": "+16",
-        "Hit level": "-",
-        "Notes": "-",
+        "Hit level": "l (parry)",
+        "Notes": "Throw",
         "Start up frame": "3~"
     },
     {
@@ -1100,7 +1110,7 @@
         "Hit frame": "+4",
         "Hit level": "m",
         "Notes": "-",
-        "Start up frame": "24~25 (?~)"
+        "Start up frame": "24~25"
     },
     {
         "Block frame": "-6",
@@ -1122,7 +1132,7 @@
         "Hit frame": "KND",
         "Hit level": "h,h",
         "Notes": "Tail spin",
-        "Start up frame": "-"
+        "Start up frame": "12~13"
     },
     {
         "Block frame": "-13",
@@ -1144,7 +1154,7 @@
         "Hit frame": "0",
         "Hit level": "l,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "16"
     },
     {
         "Block frame": "-7",
@@ -1166,7 +1176,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "11~12"
     },
     {
         "Block frame": "-10",
@@ -1176,7 +1186,7 @@
         "Gif": "https://gfycat.com/thoroughmiserableboaconstrictor.gif",
         "Hit frame": "KND",
         "Hit level": "m,m,m",
-        "Notes": "Wall bounce",
+        "Notes": "Wall Bounce",
         "Start up frame": "15"
     },
     {
