@@ -1813,9 +1813,9 @@
         "Block frame": "-2~-1",
         "Command": "d+2",
         "Counter hit frame": "+8~+9s",
-        "Damage": "14",
+        "Damage": "17",
         "Gif": null,
-        "Hit frame": "+1~+2s",
+        "Hit frame": "+8~+9s",
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "14~15"
@@ -1835,7 +1835,7 @@
         "Block frame": "-11",
         "Command": "d+4",
         "Counter hit frame": "0",
-        "Damage": "11",
+        "Damage": "13",
         "Gif": "https://gfycat.com/PerfectViciousGangesdolphin.gif",
         "Hit frame": "0",
         "Hit level": "l",
@@ -1865,7 +1865,7 @@
         "Start up frame": "16~17s cs6~"
     },
     {
-        "Block frame": "+3",
+        "Block frame": "+4",
         "Command": "b+1",
         "Counter hit frame": "JG",
         "Damage": "21",

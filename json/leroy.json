@@ -1007,7 +1007,7 @@
         "Alias": [
             "d/b+2 grounded opponent",
             "opponent down d/b+2",
-            "grounded opponent d/b+2",
+            "grounded opponent d/b+2"
         ],
         "Block frame": "-13",
         "Command": "d/b+2 opponent down",
@@ -1023,7 +1023,7 @@
         "Alias": [
             "d/b+2,1+2 grounded opponent",
             "opponent down d/b+2,1+2",
-            "grounded opponent d/b+2,1+2",
+            "grounded opponent d/b+2,1+2"
         ],
         "Block frame": "-13",
         "Command": "d/b+2,1+2 opponent down",

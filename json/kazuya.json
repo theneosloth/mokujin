@@ -1383,7 +1383,7 @@
             "EWGF"
         ],
         "Block frame": "+5~+6",
-        "Command": "f,n,d,d/f+2",
+        "Command": "f,n,d,d/f:2",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "23",
         "Gif": "https://gfycat.com/RespectfulObeseAmericanbittern.gif",
@@ -1391,6 +1391,20 @@
         "Hit level": "h",
         "Notes": "-",
         "Start up frame": "11~12 (14~)"
+    },
+    {
+        "Alias": [
+            "WGF"
+        ],
+        "Block frame": "-10~-9",
+        "Command": "f,n,d,d/f+2",
+        "Counter hit frame": "Launch (JG?)",
+        "Damage": "20",
+        "Gif": "",
+        "Hit frame": "Launch (JG?)",
+        "Hit level": "h",
+        "Notes": "-",
+        "Start up frame": "11~12 (15~)"
     },
     {
         "Block frame": "-9",
