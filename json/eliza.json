@@ -317,6 +317,17 @@
         "Start up frame": "1~"
     },
     {
+        "Block frame": "-7",
+        "Command": "qcf,qcf1+2",
+        "Counter hit frame": "Launch",
+        "Damage": "15",
+        "Gif": null,
+        "Hit frame": "Launch",
+        "Hit level": "sm",
+        "Notes": "-",
+        "Start up frame": "15"
+    },
+    {
         "Block frame": "-13~+17",
         "Command": "f, F+4, 2, qcf+2",
         "Counter hit frame": "-5~+25",
