@@ -90,7 +90,7 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual("1,1,2", tkfinder.get_move(kazuya, "112")["Command"])
         self.assertEqual("f,n,d,d/f+4,1", tkfinder.get_move(kazuya, "hs")["Command"])
         self.assertEqual("f,n,d,d/f+4,1", tkfinder.get_move(kazuya, "cd41")["Command"])
-        self.assertEqual("f,n,d,d/f+2", tkfinder.get_move(kazuya, "ewgf")["Command"])
+        self.assertEqual("f,n,d,d/f:2", tkfinder.get_move(kazuya, "ewgf")["Command"])
         self.assertEqual("WS+1,2", tkfinder.get_move(kazuya, "ws12")["Command"])
         self.assertEqual("b+2,1", tkfinder.get_move(kazuya, "b21")["Command"])
         marduk = {
@@ -162,6 +162,16 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual("AOP (u/b_u_u/f)+3,3", tkfinder.get_move(ling, "AOP ub33")["Command"])
         self.assertEqual("AOP (u/b_u_u/f)+3,3", tkfinder.get_move(ling, "AOP u33")["Command"])
 
+    def test_hwo(self):
+        hwo =   {
+                     "local_json": "hwoarang.json",
+                     "name": "hwoarang",
+                     "online_webpage": "http://rbnorway.org/hwoarang-t7-frames",
+                     "portrait": "https://i.imgur.com/rCx49Yl.jpg",
+                     "proper_name": "Hwoarang"
+                 }
+        self.assertIn("d/f+3", tkfinder.get_by_move_type(hwo, "power crush"))
+
 
     def test_move_simplifier(self):
 
@@ -182,9 +192,6 @@ class MyTestCase(unittest.TestCase):
         self.assertTrue(entry2[0]["Gif"])
         self.assertTrue(not entry3[0]["Gif"])
         self.assertTrue(not 'Gif' in entry4)
-
-        self.assertTrue("ws12" == "ws12")
-
 
 if __name__ == '__main__':
     unittest.main()
