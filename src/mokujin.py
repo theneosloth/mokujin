@@ -46,7 +46,11 @@ async def on_ready():
     print(bot.user.id)
     print('------')
 
+def get_movetype(input: str):
 
+    for k in const.MOVE_TYPES.keys():
+        if input in const.MOVE_TYPES[k]:
+            return k
 @bot.event
 async def on_message(message):
     """This has the main functionality of the bot. It has a lot of
@@ -109,21 +113,20 @@ async def on_message(message):
 
             if character_name is not None:
                 character = tkfinder.get_character_data(character_name)
-                character_move = original_move.lower()
+                move_type = get_movetype(original_move.lower())
 
-                if original_move.lower() in const.MOVE_TYPES.keys():
-
-                    move_list = tkfinder.get_by_move_type(character, const.MOVE_TYPES[character_move])
+                if move_type:
+                    move_list = tkfinder.get_by_move_type(character, move_type)
                     if len(move_list) < 1:
                         result = embed.error_embed(
-                            'No ' + const.MOVE_TYPES[character_move].lower() + ' for ' + character['proper_name'])
+                            'No ' + move_type.lower() + ' for ' + character['proper_name'])
                         await channel.send(embed=result, delete_after=delete_after)
                     elif len(move_list) == 1:
                         character_move = tkfinder.get_move(character, move_list[0])
                         result = embed.move_embed(character, character_move)
                         await channel.send(embed=result, delete_after=delete_after)
                     elif len(move_list) > 1:
-                        result = embed.move_list_embed(character, move_list, const.MOVE_TYPES[character_move])
+                        result = embed.move_list_embed(character, move_list, move_type)
                         await channel.send(embed=result, delete_after=delete_after)
 
                 else:

@@ -13,7 +13,7 @@ CHARACTER_ALIAS = {
     'eliza': ['elz'],
     'feng': ['fen'],
     'geese': ['goose'],
-    'gigas': ['ggs'],
+    'gigas': ['ggs', 'gig'],
     'heihachi': ['hashi', 'hei', 'hessu'],
     'hwoarang': ['hwo'],
     'jack7': ['j7', 'jack-7', 'jack'],
@@ -44,30 +44,19 @@ CHARACTER_ALIAS = {
     'yoshimitsu': ['yoshi', 'manji', 'yos'],
     'xiaoyu': ['xiao', 'ling'],
     'zafina': ['zaffy', 'zaf'],
-    "fahkumram": ["fah", "fahkum"],
-    "leroy": [],
-    "ganryu": ["gan", "ganny"]
+    "fahkumram": ['fah', 'fahkum', 'fahk', 'fak'],
+    "leroy": ['ler'],
+    "ganryu": ['gan', 'ganny']
 }
 
-# Dict for searching special move types
 MOVE_TYPES = {
-    'ra': 'Rage art',
-    'rage_art': 'Rage art',
-    'rd': 'Rage drive',
-    'rage_drive': 'Rage drive',
-    'wb': 'Wall bounce',
-    'wall_bounce': 'Wall bounce',
-    'ts': 'Tail spin',
-    'tail_spin': 'Tail spin',
-    'screw': 'Tail spin',
-    'homing': 'Homing',
-    'homari': 'Homing',
-    'armor': 'Power crush',
-    'armori': 'Power crush',
-    'pc': 'Power crush',
-    'power': 'Power crush',
-    'power_crush': 'Power crush',
-    'throw': 'Throw'
+    "Rage art": ["ra", "rage_art", "rageart"],
+    "Rage drive": ["rd", "ragedrive", "rage_drive"],
+    "Wall bounce": ["wb", "wall_bounce", "wallbounce"],
+    "Tail spin": ["ts", "tail_spin", "tailspin", "screw", "s!", "s"],
+    "Homing": ["homing", "homari"],
+    "Power crush": ["armor", "armori", "pc", "power", "power_crush", "powercrush"],
+    "Throw": ["throw", "grab"]
 }
 
 REPLACE = {

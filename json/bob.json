@@ -1661,21 +1661,6 @@
         "Start up frame": "12"
     },
     {
-        "Alias": [
-            "Back throw",
-            "Back 2+4"
-        ],
-        "Block frame": "-",
-        "Command": "back side 1+3",
-        "Counter hit frame": "-",
-        "Damage": "50",
-        "Gif": "https://gfycat.com/HugeWetBandicoot.gif",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "Throw",
-        "Start up frame": "12"
-    },
-    {
         "Block frame": "+1",
         "Command": "1",
         "Counter hit frame": "+8",
