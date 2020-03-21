@@ -12,7 +12,7 @@
     },
     {
         "Block frame": "+24g",
-        "Command": "In rage f, N, d, d/f+1+2",
+        "Command": "In rage f, N, d, d/f+1+2*",
         "Counter hit frame": "+24g",
         "Damage": "0",
         "Gif": "https://gfycat.com/harmlessredgossamerwingedbutterfly.gif",
