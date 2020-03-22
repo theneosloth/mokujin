@@ -1,14 +1,18 @@
 [
     {
+        "Alias": [
+            "WS+b+1+2",
+            "DES b+1+2"
+        ],
         "Block frame": "+1",
-        "Command": "in rage b+1+2 in rage WS+b+1+2 in rage DES b+1+2",
+        "Command": "in rage b+1+2",
         "Counter hit frame": "KND",
         "Damage": "55",
         "Gif": "",
         "Hit frame": "KND",
-        "Hit level": "h x 6, (DES)",
-        "Notes": "Rage art",
-        "Start up frame": "13(~43?) pc8~"
+        "Hit level": "h*6, (DES)",
+        "Notes": "Rage Art.\nTransition to DES only on block.\nAlt. inputs: WS+b+1+2_DES b+1+2",
+        "Start up frame": "13~43? pc8~"
     },
     {
         "Block frame": "0~+1",
@@ -18,8 +22,8 @@
         "Gif": "",
         "Hit frame": "SPD",
         "Hit level": "m (TJ)m",
-        "Notes": "Rage drive, Tail spin",
-        "Start up frame": "16~17 ,36~37"
+        "Notes": "Rage Drive, Tail Spin",
+        "Start up frame": "16~17,36~37"
     },
     {
         "Block frame": "+5~+6",
@@ -29,7 +33,7 @@
         "Gif": "",
         "Hit frame": "SPD",
         "Hit level": "m (TJ)m, (SBT)",
-        "Notes": "Rage drive, Tail spin",
+        "Notes": "Rage Drive, Tail Spin",
         "Start up frame": "16~17 ,36~37"
     },
     {
@@ -40,7 +44,8 @@
         "Gif": "",
         "Hit frame": "SPD",
         "Hit level": "m (TJ)m, (DBT)",
-        "Notes": "Rage drive, Tail spin",
+        "Notes": "Rage Drive, Tail Spin",
+
         "Start up frame": "16~17 ,36~37"
     },
     {
@@ -111,7 +116,7 @@
         "Gif": "https://gfycat.com/ChiefPerfectIcelandicsheepdog.gif",
         "Hit frame": "KND",
         "Hit level": "h, h, h",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Recovery": "-27",
         "Start up frame": "10"
     },
@@ -135,7 +140,7 @@
         "Gif": "https://gfycat.com/CompleteLinedFox.gif",
         "Hit frame": "KND",
         "Hit level": "h, m, m (TJ)",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Recovery": "-31",
         "Start up frame": "12a"
     },
@@ -159,7 +164,7 @@
         "Gif": "https://gfycat.com/UnevenThunderousImperatorangel.gif",
         "Hit frame": "KND",
         "Hit level": "h, h",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Recovery": "-27",
         "Start up frame": "12"
     },
@@ -170,7 +175,7 @@
         "Damage": "12,4*5",
         "Gif": "https://gfycat.com/ClearSecondhandBeaver.gif",
         "Hit frame": "+5",
-        "Hit level": "m, m x 5, (DES)",
+        "Hit level": "m,m*5,(DES)",
         "Notes": "-",
         "Recovery": "-30",
         "Start up frame": "13~14"
@@ -243,7 +248,7 @@
         "Gif": "https://gfycat.com/EasyInexperiencedHuia.gif",
         "Hit frame": "ED",
         "Hit level": "m, h (TJ), m",
-        "Notes": "wb!",
+        "Notes": "Wall Bounce",
         "Recovery": "-30",
         "Start up frame": "js1~12"
     },
@@ -255,7 +260,7 @@
         "Gif": "https://gfycat.com/ScrawnyRequiredCusimanse.gif",
         "Hit frame": "KND",
         "Hit level": "h, h, (DES)",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Recovery": "-24",
         "Start up frame": "14~15"
     },
@@ -267,7 +272,7 @@
         "Gif": "https://gfycat.com/SpecificAdoredFanworms.gif",
         "Hit frame": "+8k",
         "Hit level": "h, m, (DES)",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Recovery": "-33",
         "Start up frame": "14~15"
     },
@@ -432,7 +437,7 @@
         "Gif": "https://gfycat.com/AdvancedGranularBeetle.gif",
         "Hit frame": "KND",
         "Hit level": "l, h",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Recovery": "-37",
         "Start up frame": "17~18"
     },
@@ -516,7 +521,7 @@
         "Gif": "https://gfycat.com/SpitefulCompetentAfricangroundhornbill.gif",
         "Hit frame": "KND",
         "Hit level": "m, h",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Recovery": "-29",
         "Start up frame": "18"
     },
@@ -711,10 +716,11 @@
     },
     {
         "Alias": [
-            "u+3+4, u/f+3+4"
+            "u+3+4",
+            "u/f+3+4"
         ],
         "Block frame": "0~+3",
-        "Command": "u_u/f+3+4",
+        "Command": "(u_u/f)+3+4",
         "Counter hit frame": "KND",
         "Damage": "28",
         "Gif": "",
@@ -791,7 +797,7 @@
         "Gif": "https://gfycat.com/FelinePlasticIberianmole.gif",
         "Hit frame": "KND",
         "Hit level": "m, h (TJ), m",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Recovery": "-30",
         "Start up frame": "js1~12"
     },
@@ -803,7 +809,7 @@
         "Gif": "https://gfycat.com/ScaredTightKiwi.gif",
         "Hit frame": "KND",
         "Hit level": "m, h (TJ), m, (DES)",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Recovery": "-30",
         "Start up frame": "js1~12"
     },
@@ -861,7 +867,7 @@
         "Gif": "https://gfycat.com/KeyPlainHerring.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Power crush",
+        "Notes": "Power Crush",
         "Recovery": "-27",
         "Start up frame": "16~24 (16~) pc8~15"
     },
@@ -909,7 +915,7 @@
         "Gif": "https://gfycat.com/ComplexScarceAnkole.gif",
         "Hit frame": "KMED",
         "Hit level": "m (TJ), m (TJ)",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Recovery": "-32",
         "Start up frame": "js1~"
     },
@@ -1003,7 +1009,7 @@
         "Gif": "",
         "Hit frame": "+11kg",
         "Hit level": "m",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Start up frame": "13~14"
     },
     {
@@ -1014,7 +1020,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Start up frame": "13~14"
     },
     {
@@ -1092,7 +1098,7 @@
         "Damage": "15,5*4",
         "Gif": "https://gfycat.com/AlarmedBoldKite.gif",
         "Hit frame": "+8~+9",
-        "Hit level": "l, h x 3 (TJ), m (TJ)",
+        "Hit level": "l,h*3(TJ),m(TJ)",
         "Notes": "-",
         "Recovery": "-27",
         "Start up frame": "js15~"
@@ -1185,7 +1191,7 @@
         "Gif": "",
         "Hit frame": "KMED",
         "Hit level": "h",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Start up frame": "11~13 (26~) cs4~15"
     },
     {
@@ -1383,7 +1389,7 @@
             "DES D/B"
         ],
         "Block frame": "-",
-        "Command": "DES d+1+2_DES D/B (Cancel)",
+        "Command": "DES (d+1+2_D/B) (Cancel)",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
@@ -1400,7 +1406,7 @@
         "Damage": "3*5,20",
         "Gif": "https://gfycat.com/RealisticPopularAmericancreamdraft.gif",
         "Hit frame": "KZUD",
-        "Hit level": "mmhhhm",
+        "Hit level": "m,m,h,h,h,m",
         "Notes": "-",
         "Recovery": "-33",
         "Start up frame": "14,,,"
@@ -1412,20 +1418,20 @@
         "Damage": "5*3",
         "Gif": "https://gfycat.com/EasyShrillBovine.gif",
         "Hit frame": "Launch (JG?)",
-        "Hit level": "mmm",
+        "Hit level": "m*3",
         "Notes": "-",
         "Recovery": "-31",
         "Start up frame": "20,,"
     },
     {
         "Block frame": "-",
-        "Command": "DES 2 When hit 1",
+        "Command": "DES 2,1",
         "Counter hit frame": "-",
         "Damage": "5*3,14",
         "Gif": "",
         "Hit frame": "Launch",
-        "Hit level": "m x 3, h!",
-        "Notes": "-",
+        "Hit level": "m*3,h!",
+        "Notes": "Only on hit.",
         "Start up frame": "20,,"
     },
     {
@@ -1434,7 +1440,7 @@
             "DES 4"
         ],
         "Block frame": "-",
-        "Command": "DES 3_DES 4",
+        "Command": "DES (3_4)",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "https://gfycat.com/RealisticDamagedDogfish.gif",
@@ -1450,7 +1456,7 @@
         "Damage": "7,7,20",
         "Gif": "https://gfycat.com/ZealousImpoliteAuklet.gif",
         "Hit frame": "+15k",
-        "Hit level": "hhh",
+        "Hit level": "h,h,h",
         "Notes": "Homing",
         "Recovery": "-25",
         "Start up frame": "16,,"
@@ -1462,7 +1468,7 @@
         "Damage": "3*7",
         "Gif": "https://gfycat.com/TemptingWelltodoHedgehog.gif",
         "Hit frame": "+11",
-        "Hit level": "h x 7",
+        "Hit level": "h*7",
         "Notes": "-",
         "Recovery": "-18",
         "Start up frame": "12,,,"
@@ -1565,8 +1571,8 @@
     {
         "Alias": [
             "DES b+3+4",
-            "DES bb",
-            "DES u/b, b"
+            "DES b,b",
+            "DES u/b,b"
         ],
         "Block frame": "-",
         "Command": "DES b+3+4",
@@ -1575,16 +1581,16 @@
         "Gif": "https://gfycat.com/ConfusedDirtyHaddock.gif",
         "Hit frame": "-",
         "Hit level": "(Special) (TJ)",
-        "Notes": "-",
-        "Start up frame": "a"
+        "Notes": "Alt. inputs: DES (b,b_u/b,b)",
+        "Start up frame": "-"
     },
     {
         "Alias": [
-            "DES u+3+4, 1",
-            "DES d+3+4,1"
+            "DES u+3+4",
+            "DES d+3+4"
         ],
         "Block frame": "-",
-        "Command": "DES u_d+3+4",
+        "Command": "DES (d_u)+3+4",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "https://gfycat.com/AggressiveBoringLeopardseal.gif",
@@ -1595,17 +1601,17 @@
     },
     {
         "Alias": [
-            "DES u+3+4, 1",
+            "DES u+3+4,1",
             "DES d+3+4,1"
         ],
         "Block frame": "-13",
-        "Command": "DES u_d+3+4, 1",
+        "Command": "DES (d_u)+3+4,1",
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/AgedCriminalBluefintuna.gif",
         "Hit frame": "KND",
         "Hit level": "(Special) (TJ), m",
-        "Notes": "Wall bounce",
+        "Notes": "Wall Bounce",
         "Start up frame": "20~21 (44~)"
     },
     {
@@ -1626,12 +1632,12 @@
             "DES u/f+1+2"
         ],
         "Block frame": "-9s",
-        "Command": "DES u/b_u-u/f+1+2",
+        "Command": "DES (u/b_u_u/f)+1+2",
         "Counter hit frame": "CS",
         "Damage": "9*3",
         "Gif": "https://gfycat.com/EasyUnlinedBubblefish.gif",
         "Hit frame": "CS",
-        "Hit level": "mmm (TJ)",
+        "Hit level": "m*3(TJ)",
         "Notes": "-",
         "Recovery": "-31",
         "Start up frame": "29,,, js5~28"
@@ -1643,7 +1649,7 @@
         "Damage": "9*3",
         "Gif": null,
         "Hit frame": "CS",
-        "Hit level": "m x 3 (TJ), (Special)",
+        "Hit level": "m*3(TJ),(special)",
         "Notes": "-",
         "Recovery": "-31",
         "Start up frame": "29,,, js5~28"
@@ -1651,25 +1657,25 @@
     {
         "Alias": [
             "DES BT 1",
-            "DES BT 22"
+            "DES BT 2"
         ],
         "Block frame": "-9",
-        "Command": "DES BT 1_2",
+        "Command": "DES BT (1_2)",
         "Counter hit frame": "CS",
         "Damage": "4*6",
         "Gif": "",
         "Hit frame": "CS",
-        "Hit level": "m x 6",
+        "Hit level": "m*6",
         "Notes": "-",
         "Start up frame": "19,,,"
     },
     {
         "Alias": [
-            "DES F+3+4",
-            "DES ff"
+            "DES f+3+4",
+            "DES f,f"
         ],
         "Block frame": "-",
-        "Command": "DES f+3+4_DES f,f ",
+        "Command": "DES (f+3+4_f,f)",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "https://gfycat.com/FalseSatisfiedChrysalis.gif",
@@ -1680,7 +1686,7 @@
     },
     {
         "Block frame": "-",
-        "Command": "DBT b (Cancel)",
+        "Command": "DBT b",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
@@ -1691,11 +1697,11 @@
     },
     {
         "Alias": [
-            "DBT f+3+4, u",
-            "DBT f+3+4, d"
+            "DBT f+3+4,u",
+            "DBT f+3+4,d"
         ],
         "Block frame": "-",
-        "Command": "DBT f+3+4, u_D",
+        "Command": "DBT f+3+4,(d_u)",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
@@ -1711,10 +1717,10 @@
         "Damage": "5*6",
         "Gif": "https://gfycat.com/ComplexInsignificantAnt.gif",
         "Hit frame": "+11",
-        "Hit level": "h x 6",
+        "Hit level": "h*6",
         "Notes": "-",
         "Recovery": "-17",
-        "Start up frame": "24,,, js1~20"
+        "Start up frame": "24~? js1~20"
     },
     {
         "Block frame": "-14",
@@ -1723,7 +1729,7 @@
         "Damage": "8,8,8,20,25",
         "Gif": "https://gfycat.com/RapidThankfulAnnelid.gif",
         "Hit frame": "KND",
-        "Hit level": "mmhhh",
+        "Hit level": "m,m,h,h,h",
         "Notes": "-",
         "Recovery": "-31",
         "Start up frame": "16~17,,, js1~"
@@ -1735,7 +1741,7 @@
         "Damage": "8,8,8,20,25",
         "Gif": null,
         "Hit frame": "KND",
-        "Hit level": "mmhhh, (Special)",
+        "Hit level": "m,m,h,h,h,(Special)",
         "Notes": "-",
         "Recovery": "-31",
         "Start up frame": "16~17,,, js1~"
@@ -1747,7 +1753,7 @@
         "Damage": "8,8,8,20,45",
         "Gif": "https://gfycat.com/SophisticatedRigidBufflehead.gif",
         "Hit frame": "KND",
-        "Hit level": "mmhh, h (TJ)",
+        "Hit level": "m,m,h,h,h(TJ)",
         "Notes": "-",
         "Recovery": "-34",
         "Start up frame": "js1~"
@@ -1759,7 +1765,7 @@
         "Damage": "8,8,8,20,45",
         "Gif": null,
         "Hit frame": "KND",
-        "Hit level": "mmhh, h (TJ), (Special)",
+        "Hit level": "m,m,h,h,h(TJ),(Special)",
         "Notes": "-",
         "Recovery": "-34",
         "Start up frame": "js1~"
@@ -1771,7 +1777,7 @@
         "Damage": "5,5,5,20",
         "Gif": "https://gfycat.com/PersonalFrayedAustraliankestrel.gif",
         "Hit frame": "KND",
-        "Hit level": "mmmm",
+        "Hit level": "m,m,m,m",
         "Notes": "-",
         "Recovery": "-44",
         "Start up frame": "12,,, js1~"
@@ -1805,7 +1811,7 @@
             "u/f+1"
         ],
         "Block frame": "-8",
-        "Command": "u/b_u_u/f+1",
+        "Command": "(u/b_u_u/f)+1",
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -1822,7 +1828,7 @@
             "u/f+2"
         ],
         "Block frame": "-12~-11",
-        "Command": "u/b_u_u/f+2",
+        "Command": "(u/b_u_u/f)+2",
         "Counter hit frame": "+9~+10g",
         "Damage": "17",
         "Gif": "",
@@ -1839,12 +1845,12 @@
             "u/f+3"
         ],
         "Block frame": "-57~-56",
-        "Command": "u/b_u_u/f+3",
+        "Command": "(u/b_u_u/f)+3",
         "Counter hit frame": "-29~-28 (SH)",
         "Damage": "15",
         "Gif": "",
         "Hit frame": "-29~-28 (SH)",
-        "Hit level": "m (TJ)",
+        "Hit level": "m(TJ)",
         "Notes": "-",
         "Recovery": "-31",
         "Start up frame": "20~21 js9~"
@@ -1856,7 +1862,7 @@
         "Damage": "10",
         "Gif": null,
         "Hit frame": "+7~+8",
-        "Hit level": "m (TJ)",
+        "Hit level": "m(TJ)",
         "Notes": "-",
         "Recovery": "-26",
         "Start up frame": "17~18 js9~"
@@ -1868,7 +1874,7 @@
         "Damage": "5",
         "Gif": "",
         "Hit frame": "+6",
-        "Hit level": "Sm (TC)",
+        "Hit level": "Sm(TC)",
         "Notes": "-",
         "Recovery": "-23",
         "Start up frame": "10s cs1~"
@@ -1880,7 +1886,7 @@
         "Damage": "8",
         "Gif": "",
         "Hit frame": "+7",
-        "Hit level": "Sm (TC)",
+        "Hit level": "Sm(TC)",
         "Notes": "-",
         "Recovery": "-22",
         "Start up frame": "11s cs1~"
@@ -1892,7 +1898,7 @@
         "Damage": "12",
         "Gif": "",
         "Hit frame": "-3",
-        "Hit level": "l (TC)",
+        "Hit level": "l(TC)",
         "Notes": "-",
         "Recovery": "-32",
         "Start up frame": "16s cs1~"
@@ -2097,7 +2103,7 @@
         "Gif": "https://gfycat.com/MajorRemarkableEasternglasslizard.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Tail spin, Homing",
+        "Notes": "Tail Spin, Homing",
         "Recovery": "-27",
         "Start up frame": "13~14"
     },
