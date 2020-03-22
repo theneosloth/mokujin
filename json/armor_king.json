@@ -418,7 +418,7 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "-2",
+        "Block frame": "-5s",
         "Command": "d+2",
         "Counter hit frame": "+9",
         "Damage": "17",
@@ -999,7 +999,7 @@
         "Start up frame": "17"
     },
     {
-        "Block frame": "+8",
+        "Block frame": "+2",
         "Command": "f, F+3, D",
         "Counter hit frame": "KND",
         "Damage": "23",
@@ -1348,7 +1348,7 @@
         "Start up frame": "41"
     },
     {
-        "Block frame": "+6",
+        "Block frame": "+6~+9",
         "Command": "f, N, d, d/f+1",
         "Counter hit frame": "KND",
         "Damage": "23",
@@ -1357,7 +1357,7 @@
         "Hit level": "h",
         "Notes": "-",
         "Recovery": "-27",
-        "Start up frame": "15"
+        "Start up frame": "15~18(i18~)"
     },
     {
         "Alias": [
