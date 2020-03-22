@@ -237,7 +237,7 @@
     },
     {
         "Block frame": "+20g",
-        "Command": "d+1, 2 (Hold)",
+        "Command": "d+1, 2*",
         "Counter hit frame": "KND",
         "Damage": "16,39",
         "Gif": "",

@@ -814,7 +814,7 @@
         "Hit frame": "0",
         "Hit level": "sm, m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "10"
     },
     {
         "Block frame": "-1s",
@@ -1918,6 +1918,17 @@
         "Start up frame": "-"
     },
     {
+        "Block frame": "-13",
+        "Command": "CJM 2",
+        "Counter hit frame": "-2",
+        "Damage": "10",
+        "Gif": "",
+        "Hit frame": "-2",
+        "Hit level": "h",
+        "Notes": "-",
+        "Start up frame": "10"
+    },
+    {
         "Block frame": "-7",
         "Command": "CJM 2, 1",
         "Counter hit frame": "4",
@@ -1927,7 +1938,7 @@
         "Hit level": "h, m",
         "Notes": "-",
         "Recovery": "-24",
-        "Start up frame": "-"
+        "Start up frame": "10"
     },
     {
         "Block frame": "-12",
@@ -2449,16 +2460,16 @@
         "Start up frame": "13"
     },
     {
-        "Block frame": "-13",
+        "Block frame": "-16",
         "Command": "CJM 1",
-        "Counter hit frame": "-2",
+        "Counter hit frame": "+15",
         "Damage": "10",
         "Gif": "https://gfycat.com/LastingEmbellishedFinnishspitz.gif",
-        "Hit frame": "-2",
+        "Hit frame": "+15",
         "Hit level": "h",
         "Notes": "-",
         "Recovery": "-26",
-        "Start up frame": "10"
+        "Start up frame": "11"
     },
     {
         "Block frame": "2",
