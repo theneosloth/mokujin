@@ -1448,7 +1448,7 @@
         "Start up frame": "13~14 (22~)"
     },
     {
-        "Block frame": "-15",
+        "Block frame": "-14",
         "Command": "SS+4",
         "Counter hit frame": "YKU",
         "Damage": "17",
@@ -1943,7 +1943,7 @@
     {
         "Block frame": "-5~-4",
         "Command": "d/b+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "20",
         "Gif": "https://gfycat.com/MiserlyDependableBluejay.gif",
         "Hit frame": "KND",
@@ -1957,7 +1957,7 @@
         "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": "https://gfycat.com/ShockingCreamyAnnelida.gif",
-        "Hit frame": "+3s",
+        "Hit frame": "+4s",
         "Hit level": "l",
         "Notes": "-",
         "Start up frame": "20"
@@ -1992,7 +1992,7 @@
         "Gif": null,
         "Hit frame": "-3",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "Homing",
         "Start up frame": "12"
     },
     {
