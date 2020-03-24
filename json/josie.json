@@ -867,7 +867,7 @@
         "Start up frame": "11~12 (14~)"
     },
     {
-        "Block frame": "+2",
+        "Block frame": "+5",
         "Command": "f, n, d, d/f+1+2",
         "Counter hit frame": "KND",
         "Damage": "20",

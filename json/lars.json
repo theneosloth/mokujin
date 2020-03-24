@@ -1429,7 +1429,7 @@
         "Start up frame": "12s cs1~"
     },
     {
-        "Block frame": "-7~-6",
+        "Block frame": "-7~-6s",
         "Command": "SS+2",
         "Counter hit frame": "KND",
         "Damage": "20",

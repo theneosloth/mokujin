@@ -1,12 +1,13 @@
-import csv, json
+import csv
+import json
 
-input_file= "ganryu.csv"
-output_file = "../../json/ganryu.json"
+input_file = "Fahkumram.csv"
+output_file = "../../json/fahkumram.json"
 
 movelist = []
 
-with open(input_file) as csv_file:
-    csv_reader = csv.reader(csv_file,delimiter=',')
+with open(input_file, encoding='utf-8') as csv_file:
+    csv_reader = csv.reader(csv_file, delimiter=',')
 
     for row in csv_reader:
         move = {}
@@ -26,4 +27,4 @@ with open(input_file) as csv_file:
         movelist.append(move)
 
 with open(output_file, 'w') as c:
-    json.dump(movelist, c, sort_keys=True, indent=4, ensure_ascii=False)
+    json.dump(movelist, c, sort_keys=True, indent=4, ensure_ascii=True)

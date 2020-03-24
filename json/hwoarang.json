@@ -315,7 +315,7 @@
         "Block frame": "-6",
         "Command": "4,3",
         "Counter hit frame": "+5",
-        "Damage": "14,12",
+        "Damage": "14,14",
         "Gif": "https://gfycat.com/RashTintedGrayling.gif",
         "Hit frame": "+5",
         "Hit level": "h,m,(LFF)",
@@ -1005,7 +1005,7 @@
             "JFSR",
             "f,n,d/f+4"
         ],
-        "Block frame": "-10",
+        "Block frame": "-8",
         "Command": "f,n,d/f:4",
         "Counter hit frame": "Launch(JG?)",
         "Damage": "18",
@@ -1063,7 +1063,7 @@
         "Block frame": "-5",
         "Command": "WS+4,4",
         "Counter hit frame": "+4s",
-        "Damage": "12,13",
+        "Damage": "12,16",
         "Gif": "https://gfycat.com/RapidImperturbableAmoeba.gif",
         "Hit frame": "+4s",
         "Hit level": "m,m,(RFF)",
@@ -1269,7 +1269,7 @@
     {
         "Block frame": "-9",
         "Command": "RFF 2,b+4",
-        "Counter hit frame": "+13kg",
+        "Counter hit frame": "Launch (S!)",
         "Damage": "6,27",
         "Gif": "https://gfycat.com/FarawayFantasticDassierat.gif",
         "Hit frame": "+13kg",
@@ -1437,7 +1437,7 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "-11",
+        "Block frame": "-9",
         "Command": "RFF d/f+3",
         "Counter hit frame": "KND",
         "Damage": "25",
@@ -1506,7 +1506,7 @@
         "Start up frame": "17 cs10~"
     },
     {
-        "Block frame": "+2",
+        "Block frame": "+4",
         "Command": "RFF b+2",
         "Counter hit frame": "KND",
         "Damage": "17",
@@ -1530,7 +1530,7 @@
     {
         "Block frame": "-9",
         "Command": "RFF b+4",
-        "Counter hit frame": "+13kg",
+        "Counter hit frame": "Launch (S!)",
         "Damage": "27",
         "Gif": "https://gfycat.com/InsistentLimitedAddax.gif",
         "Hit frame": "+13kg",
@@ -2106,7 +2106,7 @@
     {
         "Block frame": "-9",
         "Command": "RFS 2,b+4",
-        "Counter hit frame": "+13kg",
+        "Counter hit frame": "Launch (S!)",
         "Damage": "7,27",
         "Gif": "",
         "Hit frame": "+13kg",
@@ -2212,7 +2212,7 @@
         "Block frame": "-31",
         "Command": "RFS d+4",
         "Counter hit frame": "-1 (KND)",
-        "Damage": "11",
+        "Damage": "14",
         "Gif": "",
         "Hit frame": "-1 (KND)",
         "Hit level": "l,(LFF)",
@@ -2223,7 +2223,7 @@
         "Block frame": "-14",
         "Command": "RFS d+4,3",
         "Counter hit frame": "KND",
-        "Damage": "11,25",
+        "Damage": "14,25",
         "Gif": "https://gfycat.com/RedHardtofindIslandcanary.gif",
         "Hit frame": "KND",
         "Hit level": "l,m,(LFF)",
