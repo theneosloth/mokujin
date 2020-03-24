@@ -1269,7 +1269,7 @@
     {
         "Block frame": "-9",
         "Command": "RFF 2,b+4",
-        "Counter hit frame": "+13kg",
+        "Counter hit frame": "Launch (S!)",
         "Damage": "6,27",
         "Gif": "https://gfycat.com/FarawayFantasticDassierat.gif",
         "Hit frame": "+13kg",
@@ -1530,7 +1530,7 @@
     {
         "Block frame": "-9",
         "Command": "RFF b+4",
-        "Counter hit frame": "+13kg",
+        "Counter hit frame": "Launch (S!)",
         "Damage": "27",
         "Gif": "https://gfycat.com/InsistentLimitedAddax.gif",
         "Hit frame": "+13kg",
@@ -2106,7 +2106,7 @@
     {
         "Block frame": "-9",
         "Command": "RFS 2,b+4",
-        "Counter hit frame": "+13kg",
+        "Counter hit frame": "Launch (S!)",
         "Damage": "7,27",
         "Gif": "",
         "Hit frame": "+13kg",

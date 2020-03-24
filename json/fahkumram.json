@@ -1,7 +1,7 @@
 [
   {
     "Block frame": "-22",
-    "Command": "During Rage d/f+3+4",
+    "Command": "in rage d/f+3+4",
     "Counter hit frame": "KND",
     "Damage": "55",
     "Gif": "-",
@@ -12,7 +12,7 @@
   },
   {
     "Block frame": "-12",
-    "Command": "During Rage 3, 4~3+4",
+    "Command": "in rage 3, 4~3+4",
     "Counter hit frame": "S!",
     "Damage": "11,10,10",
     "Gif": "-",
@@ -23,7 +23,7 @@
   },
   {
     "Block frame": "-12",
-    "Command": "During Rage 4, 3~3+4",
+    "Command": "in rage 4, 3~3+4",
     "Counter hit frame": "S!",
     "Damage": "14,10,7",
     "Gif": "-",
@@ -34,7 +34,7 @@
   },
   {
     "Block frame": "+1",
-    "Command": "During Rage u/f+3+4",
+    "Command": "in rage u/f+3+4",
     "Counter hit frame": "KND",
     "Damage": "35,4,11",
     "Gif": "-",
@@ -1052,7 +1052,7 @@
     "Gif": "-",
     "Hit frame": "KND",
     "Hit level": "m",
-    "Notes": "-",
+    "Notes": "Homing",
     "Start up frame": "22~23"
   },
   {
