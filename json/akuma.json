@@ -482,9 +482,9 @@
             "FC 4"
         ],
         "Block frame": "-27",
-        "Command": "d4",
+        "Command": "d+4",
         "Counter hit frame": "KND",
-        "Damage": "20",
+        "Damage": "17",
         "Gif": "https://gfycat.com/UnimportantSparseEyelashpitviper.gif",
         "Hit frame": "KND",
         "Hit level": "l (TC)",
@@ -554,7 +554,7 @@
     {
         "Block frame": "0~+1",
         "Command": "f, F+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "+2~3s",
         "Damage": "23",
         "Gif": "https://gfycat.com/MeaslyDelectableApatosaur.gif",
         "Hit frame": "+2~+3s",
@@ -783,12 +783,12 @@
         "Start up frame": "19~"
     },
     {
-        "Block frame": "-9~",
+        "Block frame": "-12~",
         "Command": "hcb+1",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "-4",
         "Damage": "12",
         "Gif": "https://gfycat.com/BlueTallAtlanticsharpnosepuffer.gif",
-        "Hit frame": "-1",
+        "Hit frame": "-4",
         "Hit level": "Sm",
         "Notes": "-",
         "Recovery": "-36",

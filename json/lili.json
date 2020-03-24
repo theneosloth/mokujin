@@ -912,7 +912,7 @@
         "Start up frame": "15~16 (17~)b"
     },
     {
-        "Block frame": "-10~-9",
+        "Block frame": "-9~-8",
         "Command": "qcf+2",
         "Counter hit frame": "0~+1",
         "Damage": "13",

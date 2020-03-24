@@ -934,7 +934,7 @@
         "Gif": "https://gfycat.com/SlimyUnconsciousBrahmanbull.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Power crush",
+        "Notes": "Power crush, Wall bounce",
         "Start up frame": "20 pc8~19"
     },
     {
@@ -2101,7 +2101,7 @@
         "Block frame": "-12~-11",
         "Command": "d/b+3",
         "Counter hit frame": "+2~+3",
-        "Damage": "13",
+        "Damage": "15",
         "Gif": "https://gfycat.com/BouncyOldfashionedJay.gif",
         "Hit frame": "+2~+3",
         "Hit level": "l",

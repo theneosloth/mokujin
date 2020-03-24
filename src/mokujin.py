@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-import os, datetime, logging, configurator
+import configurator
+import datetime
+import logging
+import os
+
 import sys
 
 sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
@@ -46,11 +50,13 @@ async def on_ready():
     print(bot.user.id)
     print('------')
 
-def get_movetype(input: str):
 
+def get_movetype(input: str):
     for k in const.MOVE_TYPES.keys():
         if input in const.MOVE_TYPES[k]:
             return k
+
+
 @bot.event
 async def on_message(message):
     """This has the main functionality of the bot. It has a lot of
@@ -71,6 +77,23 @@ async def on_message(message):
                     await channel.send(embed=embed.error_embed("Duration needs to be a number in seconds"))
             else:
                 await channel.send(embed=embed.error_embed("You need the permission <manage_messages> to do that"))
+            return
+
+        elif message.content.startswith('!clear-messages'):
+
+            # delete x of the bot last messages
+            number = int(message.content.split(' ', 1)[1])
+            messages = []
+            async for m in channel.history(limit=100):
+                if m.author == bot.user:
+                    messages.append(m)
+
+            to_delete = []
+
+            for i in range(number):
+                to_delete.append(messages[i])
+
+            await channel.delete_messages(to_delete)
             return
 
         elif message.content == '!help':
@@ -96,7 +119,6 @@ async def on_message(message):
         elif message.content.startswith('!'):
 
             delete_after = config.get_auto_delete_duration(channel.id)
-
 
             user_message = message.content
             command = user_message[1:]
@@ -144,6 +166,7 @@ async def on_message(message):
                 result = embed.error_embed(bot_msg)
                 await message.channel.send(embed=result, delete_after=5)
                 return
+
         await bot.process_commands(message)
 
     except Exception as e:
