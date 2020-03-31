@@ -821,8 +821,8 @@
     "Gif": "-",
     "Hit frame": "SH",
     "Hit level": "h",
-    "Notes": "Sabaki",
-    "Start up frame": "18~22"
+    "Notes": "Sabaki, Launch on parry",
+    "Start up frame": "18~22 air11~ (parry3~10)"
   },
   {
     "Block frame": "-10",
@@ -1212,7 +1212,7 @@
   {
     "Block frame": "-6",
     "Command": "WS+4",
-    "Counter hit frame": "Launch",
+    "Counter hit frame": "+5",
     "Damage": "20",
     "Gif": "-",
     "Hit frame": "+5",
