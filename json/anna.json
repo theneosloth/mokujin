@@ -2460,7 +2460,7 @@
         "Start up frame": "13"
     },
     {
-        "Block frame": "-16",
+        "Block frame": "-9",
         "Command": "CJM 1",
         "Counter hit frame": "+15",
         "Damage": "10",

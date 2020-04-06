@@ -554,7 +554,7 @@
     {
         "Block frame": "0~+1",
         "Command": "f, F+4",
-        "Counter hit frame": "+2~3s",
+        "Counter hit frame": "+2~+3s",
         "Damage": "23",
         "Gif": "https://gfycat.com/MeaslyDelectableApatosaur.gif",
         "Hit frame": "+2~+3s",
