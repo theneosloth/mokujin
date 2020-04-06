@@ -876,6 +876,17 @@
         "Notes": "-",
         "Start up frame": "-"
     },
+    {   "Alias": ["b+1+3"],
+        "Block frame": "-",
+        "Command": "b+2+4",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": "",
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "Reversal",
+        "Start up frame": "3~8"
+    },
     {
         "Block frame": "-6s",
         "Command": "u/b+1+2,3+4,3+4",

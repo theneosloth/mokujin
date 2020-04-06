@@ -104,6 +104,17 @@
         "Start up frame": "15~16"
     },
     {
+        "Block frame": "+4",
+        "Command": "3, 2, B",
+        "Counter hit frame": "KND",
+        "Damage": "14,17",
+        "Gif": "",
+        "Hit frame": "+14g",
+        "Hit level": "m, h",
+        "Notes": "-",
+        "Start up frame": "15~16"
+    },
+    {
         "Block frame": "-11~-10",
         "Command": "f+2, 3",
         "Counter hit frame": "+5~+6",
@@ -385,7 +396,7 @@
         "Recovery": "-30",
         "Start up frame": "js1~"
     },
-    {
+    {   "Alias": ["FC d/f+2"],
         "Block frame": "-17~-15",
         "Command": "f, F+2",
         "Counter hit frame": "-7~-5",
@@ -409,7 +420,7 @@
     },
     {
         "Block frame": "-21~-19",
-        "Command": "f, F+2, 1, B (Cancel)",
+        "Command": "f, F+2, 1, B",
         "Counter hit frame": "-11~-9",
         "Damage": "14",
         "Gif": "",
