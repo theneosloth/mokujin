@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-import configurator
 import datetime
 import logging
 import os
 
 import sys
+
+import configurator
 
 sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
 
@@ -41,6 +42,7 @@ logger.addHandler(file_handler)
 token = config.read_config()['TOKEN']
 feedback_channel_id = config.read_config()['FEEDBACK_CHANNEL_ID']
 
+blacklist = ["mirosu#4151"]
 
 @bot.event
 async def on_ready():
@@ -65,8 +67,10 @@ async def on_message(message):
 
     try:
         channel = message.channel
+        if str(message.author) in blacklist:
+            return
 
-        if message.content.startswith("!auto-delete"):
+        elif message.content.startswith("!auto-delete"):
 
             if message.author.permissions_in(channel).manage_messages:
                 duration = message.content.split(' ', 1)[1]
