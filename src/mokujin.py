@@ -93,6 +93,7 @@ async def on_message(message):
                     messages.append(m)
 
             to_delete = []
+            to_delete.append(message)
 
             for i in range(number):
                 to_delete.append(messages[i])

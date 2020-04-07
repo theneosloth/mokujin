@@ -1111,7 +1111,7 @@
     "Start up frame": "18~19"
   },
   {
-    "Block frame": "+9",
+    "Block frame": "+9~14g",
     "Command": "f,f,F+3",
     "Counter hit frame": "KND",
     "Damage": "30",
