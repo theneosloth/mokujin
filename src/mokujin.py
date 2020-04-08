@@ -79,7 +79,7 @@ async def on_message(message):
 
             serverlist.sort()
             printlist = []
-            step= 30
+            step= 60
             begin = int(0)
             end = int(0)
             for begin in range(0, len(serverlist), step):
