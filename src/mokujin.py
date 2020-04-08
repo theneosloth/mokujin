@@ -59,8 +59,11 @@ def get_movetype(input: str):
     for k in const.MOVE_TYPES.keys():
         if input in const.MOVE_TYPES[k]:
             return k
+
+
 def do_sum(x1, x2):
     return x1 + "\n" + x2
+
 
 @bot.event
 async def on_message(message):
@@ -78,20 +81,18 @@ async def on_message(message):
             serverlist = list(map(lambda x: x.name, bot.guilds))
 
             serverlist.sort()
-            printlist = []
-            step= 60
-            begin = int(0)
-            end = int(0)
+            step = 60
             for begin in range(0, len(serverlist), step):
                 end = begin + step
                 if end < len(serverlist):
-                    printed = reduce(do_sum, serverlist[begin:end])
+                    servers = reduce(do_sum, serverlist[begin:end])
                 else:
-                    printed = reduce(do_sum, serverlist[begin:len(serverlist)])
+                    servers = reduce(do_sum, serverlist[begin:len(serverlist)])
 
-                await channel.send(printed)
+                await channel.send(servers)
             msg = "Number of servers in: " + str(len(serverlist))
             await channel.send(msg)
+            return
 
         elif message.content.startswith("!auto-delete"):
 
