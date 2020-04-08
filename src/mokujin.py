@@ -2,6 +2,7 @@
 import datetime
 import logging
 import os
+from functools import reduce
 
 import sys
 
@@ -44,6 +45,7 @@ feedback_channel_id = config.read_config()['FEEDBACK_CHANNEL_ID']
 
 blacklist = ["mirosu#4151"]
 
+
 @bot.event
 async def on_ready():
     print(datetime.datetime.utcnow().isoformat())
@@ -57,7 +59,8 @@ def get_movetype(input: str):
     for k in const.MOVE_TYPES.keys():
         if input in const.MOVE_TYPES[k]:
             return k
-
+def do_sum(x1, x2):
+    return x1 + "\n" + x2
 
 @bot.event
 async def on_message(message):
@@ -72,18 +75,21 @@ async def on_message(message):
 
         elif message.content == '!server-list':
 
-            list = ""
-            x = 0
-            for server in bot.guilds:
-                list += "\n" + server.name
-                x+=1
-                if x == 10:
-                    await channel.send(list)
-                    x = 0
-                    list = ""
+            serverlist = list(map(lambda x: x.name, bot.guilds))
 
-            if not list:
-                await channel.send(list)
+            serverlist.sort()
+            printlist = []
+            step= 10
+            begin = int(0)
+            end = int(0)
+            for begin in range(0, len(serverlist), step):
+                end = begin + step
+                if end < len(serverlist):
+                    printed = reduce(do_sum, serverlist[begin:end])
+                else:
+                    printed = reduce(do_sum, serverlist[begin:len(serverlist)])
+
+                await channel.send(printed)
 
         elif message.content.startswith("!auto-delete"):
 
