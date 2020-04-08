@@ -90,6 +90,8 @@ async def on_message(message):
                     printed = reduce(do_sum, serverlist[begin:len(serverlist)])
 
                 await channel.send(printed)
+            msg = "Number of servers in: " + str(len(serverlist))
+            await channel.send(msg)
 
         elif message.content.startswith("!auto-delete"):
 
