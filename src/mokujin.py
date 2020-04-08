@@ -73,10 +73,17 @@ async def on_message(message):
         elif message.content == '!server-list':
 
             list = ""
+            x = 0
             for server in bot.guilds:
                 list += "\n" + server.name
+                x+=1
+                if x == 10:
+                    await channel.send(list)
+                    x = 0
+                    list = ""
 
-            await channel.send(list)
+            if not list:
+                await channel.send(list)
 
         elif message.content.startswith("!auto-delete"):
 
