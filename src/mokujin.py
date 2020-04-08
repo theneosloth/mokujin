@@ -70,6 +70,15 @@ async def on_message(message):
         if str(message.author) in blacklist:
             return
 
+        elif message.content == '!server-list':
+
+            list = ""
+            for server in bot.guilds:
+                list += "\n" + server.name
+
+            await channel.send(embed=embed.success_embed(list))
+
+
         elif message.content.startswith("!auto-delete"):
 
             if message.author.permissions_in(channel).manage_messages:
