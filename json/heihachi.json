@@ -1177,7 +1177,7 @@
         "Counter hit frame": "-",
         "Damage": "25",
         "Gif": "https://gfycat.com/HollowMeaslyAmericanlobster.gif",
-        "Hit frame": "KND",
+        "Hit frame": "+7",
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
@@ -1445,7 +1445,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "-",
-        "Start up frame": "16"
+        "Start up frame": "18"
     },
     {
         "Block frame": "-3~-2",
