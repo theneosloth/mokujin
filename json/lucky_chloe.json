@@ -277,6 +277,21 @@
         "Start up frame": "16"
     },
     {
+        "Alias": [
+            "WS+2,4",
+            "d/f+2,4"
+        ],
+        "Block frame": "-",
+        "Command": "WS+2_d/f+2 When hit, 4",
+        "Counter hit frame": "KND",
+        "Damage": "14(20),20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m, m",
+        "Notes": "-",
+        "Start up frame": "16"
+    },
+    {
         "Block frame": "-6~-5",
         "Command": "d/f+3, 2",
         "Counter hit frame": "KND",

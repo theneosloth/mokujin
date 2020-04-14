@@ -1941,22 +1941,11 @@
         "Start up frame": " RBT"
     },
     {
-        "Block frame": "-14~-3",
-        "Command": "MED 3 (Opponent in front)",
-        "Counter hit frame": "Launch (JG?)",
-        "Damage": "20",
-        "Gif": "",
-        "Hit frame": "Launch (JG?)",
-        "Hit level": "m (TJ)",
-        "Notes": "-",
-        "Start up frame": "17~28 RBT"
-    },
-    {
-        "Block frame": "+3~+12",
-        "Command": "MED 3 (Opponent behind)",
+        "Block frame": "+6",
+        "Command": "MED 3",
         "Counter hit frame": "KND",
         "Damage": "20",
-        "Gif": "",
+        "Gif": "https://gfycat.com/RespectfulBruisedAiredale.gif",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "-",
