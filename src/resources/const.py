@@ -56,7 +56,7 @@ MOVE_TYPES = {
     "Tail spin": ["ts", "tail_spin", "tailspin", "screw", "s!", "s"],
     "Homing": ["homing", "homari"],
     "Power crush": ["armor", "armori", "pc", "power", "power_crush", "powercrush"],
-    "Throw": ["throw", "grab"]
+    "Throw": ["throw", "grab", "throws", "grabs"]
 }
 
 REPLACE = {

@@ -924,6 +924,17 @@
     "Start up frame": "14~15"
   },
   {
+    "Block frame": "-3",
+    "Command": "d/f+1+2",
+    "Counter hit frame": "-",
+    "Damage": "40",
+    "Gif": "",
+    "Hit frame": "KND",
+    "Hit level": "h",
+    "Notes": "Throw, 14F Break",
+    "Start up frame": "12"
+  },
+  {
     "Block frame": "-7",
     "Command": "b+3",
     "Counter hit frame": "S!",

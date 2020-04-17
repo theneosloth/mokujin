@@ -5,14 +5,13 @@ import os
 from functools import reduce
 
 import sys
+from discord.ext import commands
 
 import configurator
+from src import tkfinder
+from src.resources import const, embed
 
 sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
-
-from discord.ext import commands
-from src.resources import const, embed
-from src import tkfinder
 
 base_path = os.path.dirname(__file__)
 config = configurator.Configurator(os.path.abspath(os.path.join(base_path, "resources", "config.json")))
@@ -84,11 +83,9 @@ async def on_message(message):
             step = 60
             for begin in range(0, len(serverlist), step):
                 end = begin + step
-                if end < len(serverlist):
-                    servers = reduce(do_sum, serverlist[begin:end])
-                else:
-                    servers = reduce(do_sum, serverlist[begin:len(serverlist)])
-
+                if end > len(serverlist):
+                    end = len(serverlist)
+                servers = reduce(do_sum, serverlist[begin:end])
                 await channel.send(servers)
             msg = "Number of servers in: " + str(len(serverlist))
             await channel.send(msg)

@@ -159,7 +159,7 @@
         "Gif": "https://gfycat.com/HelpfulFewElkhound.gif",
         "Hit frame": "KND",
         "Hit level": "m, m",
-        "Notes": "Wall Bound",
+        "Notes": "Wall Bounce",
         "Start up frame": "17"
     },
     {
@@ -642,7 +642,7 @@
     },
     {
         "Block frame": "-4",
-        "Command": "TWISTL f2",
+        "Command": "TWISTL f+2",
         "Counter hit frame": "+7",
         "Damage": "15",
         "Gif": "",
@@ -1349,7 +1349,7 @@
         "Gif": "https://gfycat.com/HighlevelCrazyAnkole.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Power crush",
+        "Notes": "Power crush, Wall bounce",
         "Start up frame": "21 pc8~"
     },
     {
