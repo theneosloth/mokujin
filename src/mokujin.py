@@ -5,13 +5,14 @@ import os
 from functools import reduce
 
 import sys
-from discord.ext import commands
 
 import configurator
-from src import tkfinder
-from src.resources import const, embed
 
 sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
+
+from discord.ext import commands
+from src import tkfinder
+from src.resources import const, embed
 
 base_path = os.path.dirname(__file__)
 config = configurator.Configurator(os.path.abspath(os.path.join(base_path, "resources", "config.json")))
