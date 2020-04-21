@@ -692,7 +692,7 @@
     {
         "Block frame": "-3~-2",
         "Command": "HAR 1",
-        "Counter hit frame": "+17~+18kg",
+        "Counter hit frame": "KND",
         "Damage": "12",
         "Gif": "https://gfycat.com/HandmadeTanAchillestang.gif",
         "Hit frame": "+17~+18kg",
