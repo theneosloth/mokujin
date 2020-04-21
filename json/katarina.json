@@ -185,7 +185,7 @@
         "Counter hit frame": "KND",
         "Damage": "9,4,4,4,17",
         "Gif": "https://gfycat.com/BothColdHaddock.gif",
-        "Hit frame": "+1s",
+        "Hit frame": "+4s",
         "Hit level": "m, m, m, h, m",
         "Notes": "-",
         "Start up frame": "14"
@@ -354,7 +354,7 @@
         "Counter hit frame": "KND",
         "Damage": "21",
         "Gif": "https://gfycat.com/SnarlingBoringFlyingsquirrel.gif",
-        "Hit frame": "-1~0s",
+        "Hit frame": "+1~+2s",
         "Hit level": "l (TC)",
         "Notes": "-",
         "Start up frame": "25~26s cs6~"
@@ -602,7 +602,7 @@
         "Start up frame": "17~18 (18~)"
     },
     {
-        "Block frame": "+1s~+3s",
+        "Block frame": "+5s~+7s",
         "Command": "f, f, f+3",
         "Counter hit frame": "KND",
         "Damage": "30",
@@ -651,7 +651,7 @@
         "Counter hit frame": "KND",
         "Damage": "24",
         "Gif": "https://gfycat.com/FreshUntimelyFrogmouth.gif",
-        "Hit frame": "0s",
+        "Hit frame": "+1s",
         "Hit level": "l (TC)",
         "Notes": "-",
         "Start up frame": "17s cs1~"
@@ -1144,7 +1144,7 @@
         "Counter hit frame": "CS",
         "Damage": "17",
         "Gif": "https://gfycat.com/WelloffPerkyGemsbuck.gif",
-        "Hit frame": "+2",
+        "Hit frame": "+4",
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "15"

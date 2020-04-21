@@ -366,7 +366,7 @@
     {
         "Block frame": "+3s",
         "Command": "f+1+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "20",
         "Gif": "https://gfycat.com/ImaginaryEvilAlpineroadguidetigerbeetle.gif",
         "Hit frame": "+8s",
@@ -377,7 +377,7 @@
     {
         "Block frame": "+3s",
         "Command": "f+1+2, D",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "20",
         "Gif": null,
         "Hit frame": "+8s",
