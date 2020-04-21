@@ -96,7 +96,7 @@
         "Block frame": "-12",
         "Command": "2, 2",
         "Counter hit frame": "+4",
-        "Damage": "10,15 (20)",
+        "Damage": "10,15 (23)",
         "Gif": "https://gfycat.com/HonoredSpeedyHammerkop.gif",
         "Hit frame": "+4",
         "Hit level": "h, h",
@@ -159,7 +159,7 @@
         "Gif": "https://gfycat.com/HelpfulFewElkhound.gif",
         "Hit frame": "KND",
         "Hit level": "m, m",
-        "Notes": "Wall Bound",
+        "Notes": "Wall Bounce",
         "Start up frame": "17"
     },
     {
@@ -273,6 +273,21 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m, m, m, m",
+        "Notes": "-",
+        "Start up frame": "16"
+    },
+    {
+        "Alias": [
+            "WS+2,4",
+            "d/f+2,4"
+        ],
+        "Block frame": "-",
+        "Command": "WS+2_d/f+2 When hit, 4",
+        "Counter hit frame": "KND",
+        "Damage": "14(20),20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m, m",
         "Notes": "-",
         "Start up frame": "16"
     },
@@ -627,7 +642,7 @@
     },
     {
         "Block frame": "-4",
-        "Command": "TWISTL f2",
+        "Command": "TWISTL f+2",
         "Counter hit frame": "+7",
         "Damage": "15",
         "Gif": "",
@@ -1334,7 +1349,7 @@
         "Gif": "https://gfycat.com/HighlevelCrazyAnkole.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Power crush",
+        "Notes": "Power crush, Wall bounce",
         "Start up frame": "21 pc8~"
     },
     {
@@ -1362,7 +1377,7 @@
     {
         "Block frame": "-11~-9",
         "Command": "b+1",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "20",
         "Gif": "https://gfycat.com/MetallicGracefulBactrian.gif",
         "Hit frame": "KND",

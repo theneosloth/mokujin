@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
-import configurator
 import datetime
 import logging
 import os
+from functools import reduce
 
 import sys
+
+import configurator
 
 sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
 
 from discord.ext import commands
-from src.resources import const, embed
 from src import tkfinder
+from src.resources import const, embed
 
 base_path = os.path.dirname(__file__)
 config = configurator.Configurator(os.path.abspath(os.path.join(base_path, "resources", "config.json")))
@@ -41,6 +43,8 @@ logger.addHandler(file_handler)
 token = config.read_config()['TOKEN']
 feedback_channel_id = config.read_config()['FEEDBACK_CHANNEL_ID']
 
+blacklist = ["mirosu#4151"]
+
 
 @bot.event
 async def on_ready():
@@ -57,6 +61,10 @@ def get_movetype(input: str):
             return k
 
 
+def do_sum(x1, x2):
+    return x1 + "\n" + x2
+
+
 @bot.event
 async def on_message(message):
     """This has the main functionality of the bot. It has a lot of
@@ -65,8 +73,26 @@ async def on_message(message):
 
     try:
         channel = message.channel
+        if str(message.author) in blacklist:
+            return
 
-        if message.content.startswith("!auto-delete"):
+        elif message.content == '!server-list':
+
+            serverlist = list(map(lambda x: x.name, bot.guilds))
+
+            serverlist.sort()
+            step = 60
+            for begin in range(0, len(serverlist), step):
+                end = begin + step
+                if end > len(serverlist):
+                    end = len(serverlist)
+                servers = reduce(do_sum, serverlist[begin:end])
+                await channel.send(servers)
+            msg = "Number of servers in: " + str(len(serverlist))
+            await channel.send(msg)
+            return
+
+        elif message.content.startswith("!auto-delete"):
 
             if message.author.permissions_in(channel).manage_messages:
                 duration = message.content.split(' ', 1)[1]
@@ -89,6 +115,7 @@ async def on_message(message):
                     messages.append(m)
 
             to_delete = []
+            to_delete.append(message)
 
             for i in range(number):
                 to_delete.append(messages[i])
@@ -134,7 +161,7 @@ async def on_message(message):
             character_name = tkfinder.correct_character_name(original_name)
 
             if character_name is not None:
-                character = tkfinder.get_character_data(character_name)
+                character = tkfinder.get_character_detail(character_name)
                 move_type = get_movetype(original_move.lower())
 
                 if move_type:

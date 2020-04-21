@@ -2096,7 +2096,7 @@
     },
     {
         "Block frame": "-6~-1",
-        "Command": "U/F+4",
+        "Command": "U/F*+4",
         "Counter hit frame": "KND",
         "Damage": "21",
         "Gif": "https://gfycat.com/EverlastingHomelyBuckeyebutterfly.gif",
@@ -2110,7 +2110,7 @@
         "Command": "u/f+4",
         "Counter hit frame": "-1",
         "Damage": "23",
-        "Gif": "https://gfycat.com/EverlastingHomelyBuckeyebutterfly.gif",
+        "Gif": "",
         "Hit frame": "-1",
         "Hit level": "h (TJ)",
         "Notes": "-",

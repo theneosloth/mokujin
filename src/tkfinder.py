@@ -30,7 +30,7 @@ def correct_character_name(alias: str):
     return None
 
 
-def get_character_json(character):
+def get_character_movelist(character):
     os.path.abspath(os.path.join(base_path, "..", "json", character.get('local_json')))
     filepath = os.path.abspath(os.path.join(base_path, "..", "json", character.get('local_json')))
     with open(filepath) as move_file:
@@ -41,10 +41,10 @@ def get_character_json(character):
 
 
 def get_commands_from(chara_name: str) -> list:
-    character = get_character_data(chara_name)
-    move_json = get_character_json(character)
+    character = get_character_detail(chara_name)
+    movelist = get_character_movelist(character)
     result = []
-    for move in move_json:
+    for move in movelist:
         result.append(move["Command"])
 
     return list(result)
@@ -94,7 +94,7 @@ def get_similar_moves(move: str, chara_name: str) -> list:
     return result
 
 
-def get_character_data(chara_name: str) -> dict:
+def get_character_detail(chara_name: str) -> dict:
     """Gets character details from character_misc.json, if character exists
     returns character details as dict if exists, else None"""
 
@@ -111,12 +111,12 @@ def get_move(character: dict, move_command: str) -> dict:
     """Gets move from local_json, if exists
     returns move if exists, else None"""
 
-    move_json = get_character_json(character)
+    movelist = get_character_movelist(character)
 
     move = list(filter(lambda x: (move_simplifier(x['Command'])
-                                  == move_simplifier(move_command)), move_json))
+                                  == move_simplifier(move_command)), movelist))
     if not move:
-        move = list(filter(lambda x: (is_command_in_alias(move_command, x)), move_json))
+        move = list(filter(lambda x: (is_command_in_alias(move_command, x)), movelist))
 
     if move:
         return move[0]
@@ -128,7 +128,7 @@ def get_by_move_type(character: dict, move_type: str) -> list:
     """Gets a list of moves that match move_type from local_json
     returns a list of move Commands if finds match(es), else empty list"""
 
-    move_json = get_character_json(character)
+    move_json = get_character_movelist(character)
 
     moves = list(filter(lambda x: (move_type.lower() in x['Notes'].lower()), move_json))
 

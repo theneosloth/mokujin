@@ -266,7 +266,7 @@
     {
         "Block frame": "-3",
         "Command": "d/f+4",
-        "Counter hit frame": "+8",
+        "Counter hit frame": "+9",
         "Damage": "12",
         "Gif": null,
         "Hit frame": "+3",
@@ -465,7 +465,7 @@
         "Block frame": "-8~-7",
         "Command": "f, F+2",
         "Counter hit frame": "KND",
-        "Damage": "20",
+        "Damage": "25",
         "Gif": "https://gfycat.com/IndolentCrispIsopod.gif",
         "Hit frame": "KND",
         "Hit level": "m",
@@ -616,7 +616,7 @@
         "Start up frame": "28~29 cs1~"
     },
     {
-        "Block frame": "-12~-11",
+        "Block frame": "-9~-8",
         "Command": "SS+2",
         "Counter hit frame": "KND",
         "Damage": "25",
@@ -748,7 +748,7 @@
         "Start up frame": "15~16 (36~)"
     },
     {
-        "Block frame": "-8~-6",
+        "Block frame": "0~+2",
         "Command": "SG 2",
         "Counter hit frame": "KND",
         "Damage": "30",
@@ -1160,10 +1160,10 @@
     {
         "Block frame": "-6",
         "Command": "d/f+1",
-        "Counter hit frame": "+4",
+        "Counter hit frame": "+7",
         "Damage": "14",
         "Gif": "https://gfycat.com/WellwornPleasingHumpbackwhale.gif",
-        "Hit frame": "+4",
+        "Hit frame": "+7",
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "14"
