@@ -405,7 +405,7 @@
     },
     {
         "Block frame": "Launch",
-        "Command": "B+1+4",
+        "Command": "b*+1+4",
         "Counter hit frame": "Launch",
         "Damage": "60",
         "Gif": "https://gfycat.com/QuarterlyNaturalBullmastiff.gif",

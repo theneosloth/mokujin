@@ -161,7 +161,7 @@ async def on_message(message):
             character_name = tkfinder.correct_character_name(original_name)
 
             if character_name is not None:
-                character = tkfinder.get_character_data(character_name)
+                character = tkfinder.get_character_detail(character_name)
                 move_type = get_movetype(original_move.lower())
 
                 if move_type:
