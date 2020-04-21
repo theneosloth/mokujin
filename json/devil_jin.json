@@ -1227,9 +1227,6 @@
         "Start up frame": "22~25 (27~) js3~"
     },
     {
-        "Alias": [
-            "b+2,1,u/f"
-        ],
         "Block frame": "-16~-14",
         "Command": "f,n,d,d/f+1",
         "Counter hit frame": "Launch",
@@ -1577,7 +1574,7 @@
         ],
         "Block frame": "-3",
         "Command": "left side throw",
-        "Counter hit frame": "2",
+        "Counter hit frame": "1",
         "Damage": "43",
         "Gif": "https://gfycat.com/GorgeousThatElectriceel.gif",
         "Hit frame": "KND",
