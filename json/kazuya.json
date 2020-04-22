@@ -386,7 +386,7 @@
         "Command": "b+1+2",
         "Counter hit frame": "CS(13)",
         "Damage": "21",
-        "Gif": "https://gfycat.com/MinorAcrobaticBasilisk.gif",
+        "Gif": "https://gfycat.com/antiquejealousharlequinbug.gif",
         "Hit frame": "+5",
         "Hit level": "m",
         "Notes": "-",
@@ -405,7 +405,7 @@
     },
     {
         "Block frame": "Launch",
-        "Command": "B+1+4",
+        "Command": "b*+1+4",
         "Counter hit frame": "Launch",
         "Damage": "60",
         "Gif": "https://gfycat.com/QuarterlyNaturalBullmastiff.gif",

@@ -2782,7 +2782,7 @@
         "Gif": "https://gfycat.com/InfatuatedLankyCollie.gif",
         "Hit frame": "Throw(KND)",
         "Hit level": "h(Throw)",
-        "Notes": "-",
+        "Notes": "Throw",
         "Start up frame": "11 (12~)"
     },
     {
@@ -3309,7 +3309,7 @@
         "Gif": "https://gfycat.com/DirectTatteredFairybluebird.gif",
         "Hit frame": "Throw(KND)",
         "Hit level": "h(Throw)",
-        "Notes": "-",
+        "Notes": "Throw",
         "Start up frame": "12(17~)"
     },
     {
@@ -3352,10 +3352,10 @@
         ],
         "Block frame": "-14~-11",
         "Command": "(u_u/f)+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "20",
         "Gif": "https://gfycat.com/LittleImperfectAmericanbittern.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "m(TJ)",
         "Notes": "-",
         "Start up frame": "22~25 js9~"

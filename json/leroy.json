@@ -385,12 +385,12 @@
         "Start up frame": "56~57"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-3",
         "Command": "d/f+1",
-        "Counter hit frame": "+5",
+        "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
-        "Hit frame": "+5",
+        "Hit frame": "+3",
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "13~14"
@@ -407,12 +407,12 @@
         "Start up frame": "13~14"
     },
     {
-        "Block frame": "-6",
+        "Block frame": "-9",
         "Command": "d/f+1,4",
-        "Counter hit frame": "+6",
+        "Counter hit frame": "+3",
         "Damage": "14,16",
         "Gif": "https://gfycat.com/somberemotionalangwantibo.gif",
-        "Hit frame": "+6",
+        "Hit frame": "+3",
         "Hit level": "m,m,(HRM)",
         "Notes": "-",
         "Start up frame": "13~14"
@@ -553,12 +553,12 @@
         "Start up frame": "10"
     },
     {
-        "Block frame": "-12",
+        "Block frame": "-15",
         "Command": "d+2",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "-4",
         "Damage": "15",
         "Gif": "",
-        "Hit frame": "-1",
+        "Hit frame": "-4",
         "Hit level": "l",
         "Notes": "-",
         "Start up frame": "15~16 cs6~"
@@ -795,7 +795,7 @@
         "Start up frame": "21~23 js9~"
     },
     {
-        "Block frame": "-10",
+        "Block frame": "-14",
         "Command": "u/f+3+4",
         "Counter hit frame": "KND",
         "Damage": "8,10",
