@@ -563,7 +563,7 @@
     },
     {
         "Block frame": "-19",
-        "Command": "b+4, 4, 3+4/td>",
+        "Command": "b+4, 4, 3+4",
         "Counter hit frame": "Launch",
         "Damage": "17,17",
         "Gif": "",
@@ -574,7 +574,7 @@
     },
     {
         "Block frame": "-19",
-        "Command": "b+4, 4, f+3+4/td>",
+        "Command": "b+4, 4, f+3+4",
         "Counter hit frame": "Launch",
         "Damage": "17,17",
         "Gif": "",
