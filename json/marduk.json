@@ -1101,12 +1101,12 @@
         "Notes": "-",
         "Start up frame": "12"
     },
-    {
+    {   "Alias": ["FC d/f+1+2"],
         "Block frame": "-4",
         "Command": "FC 1+2",
         "Counter hit frame": "throw",
         "Damage": "25(,15)",
-        "Gif": "",
+        "Gif": "https://gfycat.com/EvenAptAuk.gif",
         "Hit frame": "throw",
         "Hit level": "m (throw)",
         "Notes": "-",

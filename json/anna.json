@@ -2472,16 +2472,15 @@
         "Start up frame": "11"
     },
     {
-        "Block frame": "2",
+        "Block frame": "1",
         "Command": "1",
-        "Counter hit frame": "h",
-        "Damage": "2",
+        "Counter hit frame": "8",
+        "Damage": "7",
         "Gif": null,
         "Hit frame": "Level",
-        "Hit level": "2",
+        "Hit level": "8",
         "Notes": "h",
-        "Recovery": "-27",
-        "Start up frame": "3+4"
+        "Start up frame": "10"
     },
     {
         "Block frame": "-6",
