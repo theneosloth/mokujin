@@ -43,6 +43,7 @@ def move_embed(character, move):
 def move_list_embed(character, move_list, move_type):
     """Returns the embed message for a list of moves matching to a special move type"""
     desc_string = ''
+    move_list.sort()
     for move in move_list:
         desc_string += move + '\n'
 
