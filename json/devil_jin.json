@@ -1379,70 +1379,6 @@
         "Start up frame": "16(19~)"
     },
     {
-        "Block frame": "-4",
-        "Command": "d+2",
-        "Counter hit frame": "+7",
-        "Damage": "8",
-        "Gif": "",
-        "Hit frame": "+7",
-        "Hit level": "Sm(TC)",
-        "Notes": "-",
-        "Start up frame": "11s cs4~"
-    },
-    {
-        "Alias": [
-            "d/b+4",
-            "d+4"
-        ],
-        "Block frame": "-13",
-        "Command": "(d/b_d)+4",
-        "Counter hit frame": "-2",
-        "Damage": "7",
-        "Gif": "",
-        "Hit frame": "-2",
-        "Hit level": "l(TC)",
-        "Notes": "-",
-        "Start up frame": "12s cs4~"
-    },
-    {
-        "Block frame": "-5",
-        "Command": "d/b+1",
-        "Counter hit frame": "+6",
-        "Damage": "5",
-        "Gif": "",
-        "Hit frame": "+6",
-        "Hit level": "Sm(TC)",
-        "Notes": "-",
-        "Start up frame": "10s cs4~"
-    },
-    {
-        "Block frame": "-17",
-        "Command": "d/b+3",
-        "Counter hit frame": "-3",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "-3",
-        "Hit level": "l(TC)",
-        "Notes": "-",
-        "Start up frame": "16s cs4~"
-    },
-    {
-        "Alias": [
-            "u/b+1",
-            "u+1",
-            "u/f+1"
-        ],
-        "Block frame": "-8",
-        "Command": "(u/b_u_u/f)+1",
-        "Counter hit frame": "+3",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "+3",
-        "Hit level": "m(TJ)",
-        "Notes": "-",
-        "Start up frame": "18 js9~"
-    },
-    {
         "Alias": [
             "u/b+3+4",
             "u+3+4",
@@ -1580,7 +1516,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Throw",
-        "Start up frame": "12"
+        "Start up frame": "?"
     },
     {
         "Alias": [
@@ -1594,7 +1530,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Throw",
-        "Start up frame": "12"
+        "Start up frame": "?"
     },
     {
         "Alias": [
@@ -1608,6 +1544,6 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Throw",
-        "Start up frame": "12"
+        "Start up frame": "?"
     }
 ]

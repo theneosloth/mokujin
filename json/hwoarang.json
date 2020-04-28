@@ -2419,7 +2419,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Throw",
-        "Start up frame": "12"
+        "Start up frame": "?"
     },
     {
         "Alias": [
@@ -2433,7 +2433,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Throw",
-        "Start up frame": "12"
+        "Start up frame": "?"
     },
     {
         "Alias": [
@@ -2447,7 +2447,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Throw",
-        "Start up frame": "12"
+        "Start up frame": "?"
     },
     {
         "Block frame": "-",
