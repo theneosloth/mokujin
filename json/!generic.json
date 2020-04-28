@@ -6,7 +6,7 @@
         "Damage": "5",
         "Gif": "",
         "Hit frame": "+6",
-        "Hit level": "Sm (TC)",
+        "Hit level": "Sm(TC)",
         "Notes": "Generic.\nInput f to recover standing.",
         "Start up frame": "10s cs4~"
     },
@@ -50,7 +50,7 @@
         "Damage": "5",
         "Gif": "",
         "Hit frame": "+6",
-        "Hit level": "Sm (TC)",
+        "Hit level": "Sm(TC)",
         "Notes": "Generic.\nInput f to recover standing.",
         "Start up frame": "10s cs4~"
     },
