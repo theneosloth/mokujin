@@ -1,15 +1,7 @@
 #!/usr/bin/env python3
-import datetime
-import logging
-import os
-from functools import reduce
-
-import sys
-
-import configurator
-
+import datetime, logging, os, sys, configurator
 sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
-
+from functools import reduce
 from discord.ext import commands
 from src import tkfinder
 from src.resources import const, embed
@@ -54,9 +46,9 @@ async def on_ready():
     print('------')
 
 
-def get_movetype(input: str):
+def get_move_type(original_move: str):
     for k in const.MOVE_TYPES.keys():
-        if input in const.MOVE_TYPES[k]:
+        if original_move in const.MOVE_TYPES[k]:
             return k
 
 
@@ -98,9 +90,10 @@ async def on_message(message):
                 result = embed.success_embed("Saved")
             else:
                 result = embed.error_embed("Duration needs to be a number in seconds")
-            await channel.send(embed=result)
         else:
-            await channel.send(embed=embed.error_embed("You need the permission <manage_messages> to do that"))
+            result = embed.error_embed("You need the permission <manage_messages> to do that")
+
+        await channel.send(result)
 
     elif message.content.startswith('!clear-messages'):
         # delete x of the bot last messages
@@ -110,9 +103,7 @@ async def on_message(message):
             if m.author == bot.user:
                 messages.append(m)
 
-        to_delete = []
-        to_delete.append(message)
-
+        to_delete = [message]
         for i in range(number):
             to_delete.append(messages[i])
 
@@ -147,17 +138,17 @@ async def on_message(message):
 
         if character_name is not None:
             character = tkfinder.get_character_detail(character_name)
-            move_type = get_movetype(original_move.lower())
+            move_type = get_move_type(original_move.lower())
 
             if move_type:
                 result = display_moves_by_type(character, move_type)
             else:
                 result = display_moves_by_input(character, original_move)
-
-            await channel.send(embed=result, delete_after=delete_after)
         else:
             result = embed.error_embed(f'Character {original_name} does not exist.')
-            await channel.send(embed=result, delete_after=5)
+            delete_after = 5
+
+        await channel.send(embed=result, delete_after=delete_after)
 
     await bot.process_commands(message)
 
