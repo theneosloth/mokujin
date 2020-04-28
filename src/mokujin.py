@@ -35,7 +35,6 @@ if not os.path.isfile(logfile_path):
     open(logfile_path, "w")
 
 file_handler = logging.FileHandler(logfile_path)
-
 formatter = logging.Formatter('%(asctime)s : %(levelname)s : %(name)s : %(message)s')
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
@@ -71,139 +70,121 @@ async def on_message(message):
     things that would be better suited elsewhere but I don't know
     if I'm going to change it."""
 
-    try:
-        channel = message.channel
-        if str(message.author) in blacklist:
-            return
+    channel = message.channel
+    if str(message.author) in blacklist:
+        return
 
-        elif message.content == '!server-list':
+    if message.content == '!server-list':
 
-            serverlist = list(map(lambda x: x.name, bot.guilds))
+        serverlist = list(map(lambda x: x.name, bot.guilds))
 
-            serverlist.sort()
-            step = 60
-            for begin in range(0, len(serverlist), step):
-                end = begin + step
-                if end > len(serverlist):
-                    end = len(serverlist)
-                servers = reduce(do_sum, serverlist[begin:end])
-                await channel.send(servers)
-            msg = "Number of servers in: " + str(len(serverlist))
-            await channel.send(msg)
-            return
+        serverlist.sort()
+        step = 60
+        for begin in range(0, len(serverlist), step):
+            end = begin + step
+            if end > len(serverlist):
+                end = len(serverlist)
+            servers = reduce(do_sum, serverlist[begin:end])
+            await channel.send(servers)
+        msg = "Number of servers in: " + str(len(serverlist))
+        await channel.send(msg)
 
-        elif message.content.startswith("!auto-delete"):
+    elif message.content.startswith("!auto-delete"):
 
-            if message.author.permissions_in(channel).manage_messages:
-                duration = message.content.split(' ', 1)[1]
-                if duration.isdigit() or duration == "-1":
-                    config.save_auto_delete_duration(channel.id, duration)
-                    await channel.send(embed=embed.success_embed("Saved"))
-                else:
-                    await channel.send(embed=embed.error_embed("Duration needs to be a number in seconds"))
+        if message.author.permissions_in(channel).manage_messages:
+            duration = message.content.split(' ', 1)[1]
+            if duration.isdigit() or duration == "-1":
+                config.save_auto_delete_duration(channel.id, duration)
+                result = embed.success_embed("Saved")
             else:
-                await channel.send(embed=embed.error_embed("You need the permission <manage_messages> to do that"))
-            return
+                result = embed.error_embed("Duration needs to be a number in seconds")
+            await channel.send(embed=result)
+        else:
+            await channel.send(embed=embed.error_embed("You need the permission <manage_messages> to do that"))
 
-        elif message.content.startswith('!clear-messages'):
+    elif message.content.startswith('!clear-messages'):
+        # delete x of the bot last messages
+        number = int(message.content.split(' ', 1)[1])
+        messages = []
+        async for m in channel.history(limit=100):
+            if m.author == bot.user:
+                messages.append(m)
 
-            # delete x of the bot last messages
-            number = int(message.content.split(' ', 1)[1])
-            messages = []
-            async for m in channel.history(limit=100):
-                if m.author == bot.user:
-                    messages.append(m)
+        to_delete = []
+        to_delete.append(message)
 
-            to_delete = []
-            to_delete.append(message)
+        for i in range(number):
+            to_delete.append(messages[i])
 
-            for i in range(number):
-                to_delete.append(messages[i])
+        await channel.delete_messages(to_delete)
 
-            await channel.delete_messages(to_delete)
-            return
+    elif message.content == '!help':
+        await channel.send(embed=embed.help_embed())
 
-        elif message.content == '!help':
-            await channel.send(embed=embed.help_embed())
-            return
+    elif message.content.startswith('?feedback'):
+        user_message = message.content.split(' ', 1)[1]
+        server_name = str(message.channel.guild)
+        try:
+            feedback_channel = bot.get_channel(feedback_channel_id)
+            user_message = user_message.replace("\n", "")
+            feedback_message = "{}  ;  {} ;   {};\n".format(str(message.author), server_name, user_message)
+            await feedback_channel.send(feedback_message)
+            result = embed.success_embed("Feedback sent")
+        except Exception as e:
+            result = embed.error_embed("Feedback couldn't be sent caused by: " + e)
 
-        elif message.content.startswith('?feedback'):
-            user_message = message.content.split(' ', 1)[1]
-            server_name = str(message.channel.guild)
+        await channel.send(embed=result)
 
-            try:
+    elif message.content.startswith('!') and len(message.content[1:].split(' ', 1)) > 1:
 
-                feedback_channel = bot.get_channel(feedback_channel_id)
-                user_message = user_message.replace("\n", "")
-                result = "{}  ;  {} ;   {};\n".format(str(message.author), server_name, user_message)
-                await feedback_channel.send(result)
+        delete_after = config.get_auto_delete_duration(channel.id)
+        user_message_list = message.content[1:].split(' ', 1)
 
-                await channel.send(embed=embed.success_embed("Feedback sent"))
-            except Exception as e:
-                await channel.send(embed=embed.error_embed("Feedback couldn't be sent caused by: " + e))
-            return
+        original_name = user_message_list[0].lower()
+        original_move = user_message_list[1]
 
-        elif message.content.startswith('!'):
+        character_name = tkfinder.correct_character_name(original_name)
 
-            delete_after = config.get_auto_delete_duration(channel.id)
+        if character_name is not None:
+            character = tkfinder.get_character_detail(character_name)
+            move_type = get_movetype(original_move.lower())
 
-            user_message = message.content
-            command = user_message[1:]
-            user_message_list = command.split(' ', 1)
-
-            if len(user_message_list) <= 1:
-                # malformed command
-                return
-
-            original_name = user_message_list[0].lower()
-            original_move = user_message_list[1]
-
-            character_name = tkfinder.correct_character_name(original_name)
-
-            if character_name is not None:
-                character = tkfinder.get_character_detail(character_name)
-                move_type = get_movetype(original_move.lower())
-
-                if move_type:
-                    move_list = tkfinder.get_by_move_type(character, move_type)
-                    if len(move_list) < 1:
-                        result = embed.error_embed(
-                            'No ' + move_type.lower() + ' for ' + character['proper_name'])
-                        await channel.send(embed=result, delete_after=delete_after)
-                    elif len(move_list) == 1:
-                        character_move = tkfinder.get_move(character, move_list[0])
-                        result = embed.move_embed(character, character_move)
-                        await channel.send(embed=result, delete_after=delete_after)
-                    elif len(move_list) > 1:
-                        result = embed.move_list_embed(character, move_list, move_type)
-                        await channel.send(embed=result, delete_after=delete_after)
-
-                else:
-                    character_move = tkfinder.get_move(character, original_move)
-
-                    if character_move is not None:
-                        result = embed.move_embed(character, character_move)
-                        await channel.send(embed=result, delete_after=delete_after)
-                    else:
-                        similar_moves = tkfinder.get_similar_moves(original_move, character_name)
-                        result = embed.similar_moves_embed(similar_moves)
-                        await channel.send(embed=result, delete_after=delete_after)
+            if move_type:
+                result = display_moves_by_type(character, move_type)
             else:
-                bot_msg = f'Character {original_name} does not exist.'
-                result = embed.error_embed(bot_msg)
-                await message.channel.send(embed=result, delete_after=5)
-                return
+                result = display_moves_by_input(character, original_move)
 
-        await bot.process_commands(message)
+            await channel.send(embed=result, delete_after=delete_after)
+        else:
+            result = embed.error_embed(f'Character {original_name} does not exist.')
+            await channel.send(embed=result, delete_after=5)
 
-    except Exception as e:
-        error_msg = f'Message: {message.content}. Error: {e}'
-        print(error_msg)
-        logger.error(error_msg)
+    await bot.process_commands(message)
 
 
-def is_me(m):
-    return m.author == bot.user
+def display_moves_by_type(character, move_type):
+    move_list = tkfinder.get_by_move_type(character, move_type)
+    result = object
+    if len(move_list) < 1:
+        result = embed.error_embed(
+            'No ' + move_type.lower() + ' for ' + character['proper_name'])
+    elif len(move_list) == 1:
+        character_move = tkfinder.get_move(character, move_list[0])
+        result = embed.move_embed(character, character_move)
+    elif len(move_list) > 1:
+        result = embed.move_list_embed(character, move_list, move_type)
+    return result
+
+
+def display_moves_by_input(character, original_move):
+    character_move = tkfinder.get_move(character, original_move)
+    character_name = character["name"]
+    if character_move is not None:
+        result = embed.move_embed(character, character_move)
+    else:
+        similar_moves = tkfinder.get_similar_moves(original_move, character_name)
+        result = embed.similar_moves_embed(similar_moves)
+    return result
 
 
 bot.run(token)
