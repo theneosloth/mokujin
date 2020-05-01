@@ -25,7 +25,7 @@ def move_embed(character, move):
     embed.add_field(name=counterhit, value=move['Counter hit frame'])
 
     if 'Recovery' in move:
-        embed.add_field(name='Recovery', value=move['Recovery'])
+        embed.add_field(name='On whiff', value=move['Recovery'])
     if 'Notes' in move and not move['Notes'] == "-":
         embed.add_field(name='Notes', value=move['Notes'])
     if 'Gif' in move and move['Gif'] and not move['Gif'] == "-":
