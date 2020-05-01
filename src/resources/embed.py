@@ -77,8 +77,9 @@ def similar_moves_embed(similar_moves):
 def help_embed():
     text = "" \
            "!character move\t\t\t- get frame data of a move from a character \n" \
-           "!auto-delete seconds\t\t\t-    change the duration of the bot waiting until he deletes the message in " \
+           "!auto-delete seconds\t\t\t- change the duration of the bot waiting until he deletes the message in " \
            "this channel (-1 = deactivate)\n" \
+           "!last-updates\t\t\t- get the messages of some latest updates\n" \
            "?feedback message\t\t\t- send message including sender name to the devs \n\n " \
            "This bot deletes its messages after 20 seconds normally. You can configure this by using !auto-delete " \
            "function "

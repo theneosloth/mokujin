@@ -10,6 +10,7 @@ from functools import reduce
 from discord.ext import commands
 from src import tkfinder
 from src.resources import const, embed
+from github import Github
 
 base_path = os.path.dirname(__file__)
 config = configurator.Configurator(os.path.abspath(os.path.join(base_path, "resources", "config.json")))
@@ -36,8 +37,10 @@ formatter = logging.Formatter('%(asctime)s : %(levelname)s : %(name)s : %(messag
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 
-token = config.read_config()['TOKEN']
+discord_token = config.read_config()['DISCORD_TOKEN']
 feedback_channel_id = config.read_config()['FEEDBACK_CHANNEL_ID']
+github_token = config.read_config()['GITHUB_TOKEN']
+gh = Github(login_or_token=github_token)
 
 blacklist = ["mirosu#4151"]
 
@@ -49,6 +52,15 @@ async def on_ready():
     print(bot.user.name)
     print(bot.user.id)
     print('------')
+
+
+def get_latest_commits_messages(numbers: int):
+    commits = gh.get_user().get_repo("mokujin").get_commits()
+    message = ""
+    for i in range(0, numbers, 1):
+        new_date = datetime.datetime.strptime(str(commits[i].commit.committer.date), '%Y-%m-%d %H:%M:%S').strftime('%Y-%m-%d')
+        message += f'{commits[i].commit.message} on {new_date}\n'
+    return message
 
 
 def get_move_type(original_move: str):
@@ -86,6 +98,15 @@ async def on_message(message):
             msg = "Number of servers in: " + str(len(serverlist))
             await channel.send(msg)
 
+        elif message.content == '!last-updates':
+            try:
+                messages = get_latest_commits_messages(5)
+                print(messages)
+                result = embed.success_embed(messages)
+            except Exception as e:
+                result = embed.error_embed(e)
+            await channel.send(embed=result)
+
         elif message.content.startswith("!auto-delete"):
 
             if message.author.permissions_in(channel).manage_messages:
@@ -98,7 +119,7 @@ async def on_message(message):
             else:
                 result = embed.error_embed("You need the permission <manage_messages> to do that")
 
-            await channel.send(result)
+            await channel.send(embed=result)
 
         elif message.content.startswith('!clear-messages'):
             # delete x of the bot last messages
@@ -187,4 +208,4 @@ def display_moves_by_input(character, original_move):
     return result
 
 
-bot.run(token)
+bot.run(discord_token)
