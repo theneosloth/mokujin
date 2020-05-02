@@ -203,8 +203,14 @@ def display_moves_by_input(character, original_move):
     if character_move is not None:
         result = embed.move_embed(character, character_move)
     else:
-        similar_moves = tkfinder.get_similar_moves(original_move, character_name)
-        result = embed.similar_moves_embed(similar_moves)
+        generic_move = tkfinder.get_generic_move(original_move)
+        if generic_move is not None:
+            generic_character = tkfinder.get_character_detail("generic")
+            result = embed.move_embed(generic_character, generic_move)
+        else:
+            similar_moves = tkfinder.get_similar_moves(original_move, character_name)
+            result = embed.similar_moves_embed(similar_moves)
+
     return result
 
 

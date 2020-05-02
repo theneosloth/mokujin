@@ -19,3 +19,4 @@ venv
 /tc/
 /log/
 /src/tools/add_moves.py
+/src/resources/config.json
