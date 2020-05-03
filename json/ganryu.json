@@ -963,6 +963,17 @@
         "Start up frame": "13~14"
     },
     {
+        "Block frame": "-6",
+        "Command": "WS+4",
+        "Counter hit frame": "+5",
+        "Damage": "20",
+        "Gif": "",
+        "Hit frame": "+5",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "11"
+    },
+    {
         "Block frame": "-13",
         "Command": "WS+1,2",
         "Counter hit frame": "0",

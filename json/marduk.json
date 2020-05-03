@@ -52,7 +52,7 @@
         "Hit frame": "+5",
         "Hit level": "h,h",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "10"
     },
     {
         "Block frame": "-3",
@@ -63,7 +63,7 @@
         "Hit frame": "+3",
         "Hit level": "h,h,(VTS)",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "10"
     },
     {
         "Block frame": "-2",
@@ -74,7 +74,7 @@
         "Hit frame": "+4",
         "Hit level": "h,h,(VTSc)",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "10"
     },
     {
         "Block frame": "-16",
@@ -85,7 +85,7 @@
         "Hit frame": "-5",
         "Hit level": "h,h,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "10"
     },
     {
         "Block frame": "0s",
@@ -107,7 +107,7 @@
         "Hit frame": "+6",
         "Hit level": "h,h,h",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "10"
     },
     {
         "Block frame": "-9",
@@ -118,7 +118,7 @@
         "Hit frame": "+7",
         "Hit level": "h,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "10"
     },
     {
         "Block frame": "0",
@@ -140,7 +140,7 @@
         "Hit frame": "+5",
         "Hit level": "h,h",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "10"
     },
     {
         "Block frame": "-12",
@@ -151,7 +151,7 @@
         "Hit frame": "JG",
         "Hit level": "h,m",
         "Notes": "-",
-        "Start up frame": "-"
+        "Start up frame": "10"
     },
     {
         "Block frame": "-14",
@@ -1164,7 +1164,7 @@
         "Gif": "https://gfycat.com/GrizzledImpartialColt.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "19"
     },
     {

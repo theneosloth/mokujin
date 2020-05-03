@@ -1421,6 +1421,17 @@
         "Start up frame": "12"
     },
     {
+        "Block frame": "-6",
+        "Command": "FC d/b,b,d/b+1+2",
+        "Counter hit frame": "1+2",
+        "Damage": "45",
+        "Gif": "https://gfycat.com/ThreadbareBriefIbisbill.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
         "Block frame": "-13",
         "Command": "f, hcf+1",
         "Counter hit frame": "-",
@@ -1859,7 +1870,7 @@
         "Counter hit frame": "KND",
         "Damage": "22",
         "Gif": "https://gfycat.com/VacantIncompatibleDutchsmoushond.gif",
-        "Hit frame": "+2 OC",
+        "Hit frame": "+2s",
         "Hit level": "l (TC)",
         "Notes": "-",
         "Start up frame": "23 RC"
