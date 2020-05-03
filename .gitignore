@@ -19,7 +19,11 @@ venv
 /tc/
 /log/
 /src/tools/add_moves.py
+<<<<<<< HEAD
 
 #virtualenv
 lenv/
 venv/
+=======
+/src/resources/config.json
+>>>>>>> master

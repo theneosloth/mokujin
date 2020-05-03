@@ -170,7 +170,7 @@
         "Counter hit frame": "+14~+15",
         "Damage": "15,10,14",
         "Gif": "",
-        "Hit frame": "+14~+15",
+        "Hit frame": "+14g~+15g",
         "Hit level": "h, h, m, (KNK)",
         "Notes": "-",
         "Start up frame": "14"
@@ -1008,7 +1008,7 @@
         "Counter hit frame": "+14",
         "Damage": "14",
         "Gif": "https://gfycat.com/UnselfishMeaslyBeetle.gif",
-        "Hit frame": "+14",
+        "Hit frame": "+14g",
         "Hit level": "m, (KNK)",
         "Notes": "-",
         "Start up frame": "20(40~)"
@@ -1479,7 +1479,7 @@
         "Counter hit frame": "+14~+15",
         "Damage": "14",
         "Gif": "https://gfycat.com/QueasyPeskyAbyssiniancat.gif",
-        "Hit frame": "+14~+15",
+        "Hit frame": "+14g~+15g",
         "Hit level": "m, (KNK)",
         "Notes": "-",
         "Start up frame": "17~18"

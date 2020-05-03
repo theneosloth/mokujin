@@ -10,15 +10,16 @@ Framedata acquired from RBNorway and community
 
 ## If you want to use this:
 
-Clone this to a linux server that has Python 3.6.0+ with [discord.py](https://github.com/Rapptz/discord.py) library.
-You need your own discord bot ([instruction](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token)) and have the token in the`src/resources/config.json`. You can add a feedback channel there also.
+Clone this to a linux server that has Python 3.6.0+ with [discord.py](https://github.com/Rapptz/discord.py) and [PyGithub](https://github.com/PyGithub/PyGithub) 
+You need your own discord bot ([instruction](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token)) and have the tokens in the`src/resources/config.json`. You can add a feedback channel there also.
 
 
 The executable is `src/mokujin.py`.
 
 Commands
 ```
-!character move         -   get frame data of a move from a character
+!character move        -    get frame data of a move from a character
 !auto-delete seconds   -    change the duration of the bot waiting until he deletes the message in this channel
-?feedback message       -   send message to the author   
+!last-updates          -    get the messages of some latest updates
+?feedback message      -    send message to the author   
 ```

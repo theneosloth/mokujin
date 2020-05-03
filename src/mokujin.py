@@ -1,18 +1,16 @@
 #!/usr/bin/env python3
+import configurator
 import datetime
 import logging
 import os
-from functools import reduce
-
 import sys
 
-import configurator
-
 sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
-
+from functools import reduce
 from discord.ext import commands
 from src import tkfinder
 from src.resources import const, embed
+from github import Github
 
 base_path = os.path.dirname(__file__)
 config = configurator.Configurator(os.path.abspath(os.path.join(base_path, "resources", "config.json")))
@@ -35,13 +33,14 @@ if not os.path.isfile(logfile_path):
     open(logfile_path, "w")
 
 file_handler = logging.FileHandler(logfile_path)
-
 formatter = logging.Formatter('%(asctime)s : %(levelname)s : %(name)s : %(message)s')
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 
-token = config.read_config()['TOKEN']
+discord_token = config.read_config()['DISCORD_TOKEN']
 feedback_channel_id = config.read_config()['FEEDBACK_CHANNEL_ID']
+github_token = config.read_config()['GITHUB_TOKEN']
+gh = Github(login_or_token=github_token)
 
 blacklist = ["mirosu#4151"]
 
@@ -55,9 +54,18 @@ async def on_ready():
     print('------')
 
 
-def get_movetype(input: str):
+def get_latest_commits_messages(numbers: int):
+    commits = gh.get_user().get_repo("mokujin").get_commits()
+    message = ""
+    for i in range(0, numbers, 1):
+        new_date = datetime.datetime.strptime(str(commits[i].commit.committer.date), '%Y-%m-%d %H:%M:%S').strftime('%Y-%m-%d')
+        message += f'{commits[i].commit.message} on {new_date}\n'
+    return message
+
+
+def get_move_type(original_move: str):
     for k in const.MOVE_TYPES.keys():
-        if input in const.MOVE_TYPES[k]:
+        if original_move in const.MOVE_TYPES[k]:
             return k
 
 
@@ -70,13 +78,12 @@ async def on_message(message):
     """This has the main functionality of the bot. It has a lot of
     things that would be better suited elsewhere but I don't know
     if I'm going to change it."""
-
     try:
         channel = message.channel
         if str(message.author) in blacklist:
             return
 
-        elif message.content == '!server-list':
+        if message.content == '!server-list':
 
             serverlist = list(map(lambda x: x.name, bot.guilds))
 
@@ -90,7 +97,15 @@ async def on_message(message):
                 await channel.send(servers)
             msg = "Number of servers in: " + str(len(serverlist))
             await channel.send(msg)
-            return
+
+        elif message.content == '!last-updates':
+            try:
+                messages = get_latest_commits_messages(5)
+                print(messages)
+                result = embed.success_embed(messages)
+            except Exception as e:
+                result = embed.error_embed(e)
+            await channel.send(embed=result)
 
         elif message.content.startswith("!auto-delete"):
 
@@ -98,15 +113,15 @@ async def on_message(message):
                 duration = message.content.split(' ', 1)[1]
                 if duration.isdigit() or duration == "-1":
                     config.save_auto_delete_duration(channel.id, duration)
-                    await channel.send(embed=embed.success_embed("Saved"))
+                    result = embed.success_embed("Saved")
                 else:
-                    await channel.send(embed=embed.error_embed("Duration needs to be a number in seconds"))
+                    result = embed.error_embed("Duration needs to be a number in seconds")
             else:
-                await channel.send(embed=embed.error_embed("You need the permission <manage_messages> to do that"))
-            return
+                result = embed.error_embed("You need the permission <manage_messages> to do that")
+
+            await channel.send(embed=result)
 
         elif message.content.startswith('!clear-messages'):
-
             # delete x of the bot last messages
             number = int(message.content.split(' ', 1)[1])
             messages = []
@@ -114,46 +129,33 @@ async def on_message(message):
                 if m.author == bot.user:
                     messages.append(m)
 
-            to_delete = []
-            to_delete.append(message)
-
+            to_delete = [message]
             for i in range(number):
                 to_delete.append(messages[i])
 
             await channel.delete_messages(to_delete)
-            return
 
         elif message.content == '!help':
             await channel.send(embed=embed.help_embed())
-            return
 
         elif message.content.startswith('?feedback'):
             user_message = message.content.split(' ', 1)[1]
             server_name = str(message.channel.guild)
-
             try:
-
                 feedback_channel = bot.get_channel(feedback_channel_id)
                 user_message = user_message.replace("\n", "")
-                result = "{}  ;  {} ;   {};\n".format(str(message.author), server_name, user_message)
-                await feedback_channel.send(result)
-
-                await channel.send(embed=embed.success_embed("Feedback sent"))
+                feedback_message = "{}  ;  {} ;   {};\n".format(str(message.author), server_name, user_message)
+                await feedback_channel.send(feedback_message)
+                result = embed.success_embed("Feedback sent")
             except Exception as e:
-                await channel.send(embed=embed.error_embed("Feedback couldn't be sent caused by: " + e))
-            return
+                result = embed.error_embed("Feedback couldn't be sent caused by: " + e)
 
-        elif message.content.startswith('!'):
+            await channel.send(embed=result)
+
+        elif message.content.startswith('!') and len(message.content[1:].split(' ', 1)) > 1:
 
             delete_after = config.get_auto_delete_duration(channel.id)
-
-            user_message = message.content
-            command = user_message[1:]
-            user_message_list = command.split(' ', 1)
-
-            if len(user_message_list) <= 1:
-                # malformed command
-                return
+            user_message_list = message.content[1:].split(' ', 1)
 
             original_name = user_message_list[0].lower()
             original_move = user_message_list[1]
@@ -162,48 +164,54 @@ async def on_message(message):
 
             if character_name is not None:
                 character = tkfinder.get_character_detail(character_name)
-                move_type = get_movetype(original_move.lower())
+                move_type = get_move_type(original_move.lower())
 
                 if move_type:
-                    move_list = tkfinder.get_by_move_type(character, move_type)
-                    if len(move_list) < 1:
-                        result = embed.error_embed(
-                            'No ' + move_type.lower() + ' for ' + character['proper_name'])
-                        await channel.send(embed=result, delete_after=delete_after)
-                    elif len(move_list) == 1:
-                        character_move = tkfinder.get_move(character, move_list[0])
-                        result = embed.move_embed(character, character_move)
-                        await channel.send(embed=result, delete_after=delete_after)
-                    elif len(move_list) > 1:
-                        result = embed.move_list_embed(character, move_list, move_type)
-                        await channel.send(embed=result, delete_after=delete_after)
-
+                    result = display_moves_by_type(character, move_type)
                 else:
-                    character_move = tkfinder.get_move(character, original_move)
-
-                    if character_move is not None:
-                        result = embed.move_embed(character, character_move)
-                        await channel.send(embed=result, delete_after=delete_after)
-                    else:
-                        similar_moves = tkfinder.get_similar_moves(original_move, character_name)
-                        result = embed.similar_moves_embed(similar_moves)
-                        await channel.send(embed=result, delete_after=delete_after)
+                    result = display_moves_by_input(character, original_move)
             else:
-                bot_msg = f'Character {original_name} does not exist.'
-                result = embed.error_embed(bot_msg)
-                await message.channel.send(embed=result, delete_after=5)
-                return
+                result = embed.error_embed(f'Character {original_name} does not exist.')
+                delete_after = 5
+
+            await channel.send(embed=result, delete_after=delete_after)
 
         await bot.process_commands(message)
-
     except Exception as e:
         error_msg = f'Message: {message.content}. Error: {e}'
         print(error_msg)
         logger.error(error_msg)
 
 
-def is_me(m):
-    return m.author == bot.user
+def display_moves_by_type(character, move_type):
+    move_list = tkfinder.get_by_move_type(character, move_type)
+    result = object
+    if len(move_list) < 1:
+        result = embed.error_embed(
+            'No ' + move_type.lower() + ' for ' + character['proper_name'])
+    elif len(move_list) == 1:
+        character_move = tkfinder.get_move(character, move_list[0])
+        result = embed.move_embed(character, character_move)
+    elif len(move_list) > 1:
+        result = embed.move_list_embed(character, move_list, move_type)
+    return result
 
 
-bot.run(token)
+def display_moves_by_input(character, original_move):
+    character_move = tkfinder.get_move(character, original_move)
+    character_name = character["name"]
+    if character_move is not None:
+        result = embed.move_embed(character, character_move)
+    else:
+        generic_move = tkfinder.get_generic_move(original_move)
+        if generic_move is not None:
+            generic_character = tkfinder.get_character_detail("generic")
+            result = embed.move_embed(generic_character, generic_move)
+        else:
+            similar_moves = tkfinder.get_similar_moves(original_move, character_name)
+            result = embed.similar_moves_embed(similar_moves)
+
+    return result
+
+
+bot.run(discord_token)

@@ -211,7 +211,7 @@
     {
         "Block frame": "-9~-8",
         "Command": "3+4",
-        "Counter hit frame": "Tail spin",
+        "Counter hit frame": "S!",
         "Damage": "27",
         "Gif": "https://gfycat.com/WetQueasyCobra.gif",
         "Hit frame": "KND",
@@ -605,7 +605,7 @@
     {
         "Block frame": "-9~-7",
         "Command": "f, F+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "S!",
         "Damage": "20",
         "Gif": "https://gfycat.com/InnocentSnappyCirriped.gif",
         "Hit frame": "KND",
@@ -726,7 +726,7 @@
     {
         "Block frame": "-12",
         "Command": "SWS 3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "17",
         "Gif": "https://gfycat.com/ClassicOpenCoral.gif",
         "Hit frame": "-1",
