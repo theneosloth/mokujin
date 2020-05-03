@@ -25,7 +25,7 @@ def move_embed(character, move):
     embed.add_field(name=counterhit, value=move['Counter hit frame'])
 
     if 'Recovery' in move:
-        embed.add_field(name='Recovery', value=move['Recovery'])
+        embed.add_field(name='On whiff', value=move['Recovery'])
     if 'Notes' in move and not move['Notes'] == "-":
         embed.add_field(name='Notes', value=move['Notes'])
     if 'Gif' in move and move['Gif'] and not move['Gif'] == "-":
@@ -44,6 +44,7 @@ def move_embed(character, move):
 def move_list_embed(character, move_list, move_type):
     """Returns the embed message for a list of moves matching to a special move type"""
     desc_string = ''
+    move_list.sort()
     for move in move_list:
         desc_string += move + '\n'
 
@@ -77,8 +78,9 @@ def similar_moves_embed(similar_moves):
 def help_embed():
     text = "" \
            "!character move\t\t\t- get frame data of a move from a character \n" \
-           "!auto-delete seconds\t\t\t-    change the duration of the bot waiting until he deletes the message in " \
+           "!auto-delete seconds\t\t\t- change the duration of the bot waiting until he deletes the message in " \
            "this channel (-1 = deactivate)\n" \
+           "!last-updates\t\t\t- get the messages of some latest updates\n" \
            "?feedback message\t\t\t- send message including sender name to the devs \n\n " \
            "This bot deletes its messages after 20 seconds normally. You can configure this by using !auto-delete " \
            "function "

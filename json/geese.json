@@ -1262,7 +1262,7 @@
         "Start up frame": "19"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "-3",
         "Command": "d/f+1",
         "Counter hit frame": "+7",
         "Damage": "10",
