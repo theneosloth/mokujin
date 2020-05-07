@@ -420,10 +420,10 @@
   {
     "Block frame": "-9",
     "Command": "3+4",
-    "Counter hit frame": "CS",
+    "Counter hit frame": "Launch",
     "Damage": "27",
     "Gif": "https://gfycat.com/eminentpettyiridescentshark.gif",
-    "Hit frame": "Launch",
+    "Hit frame": "KND",
     "Hit level": "m",
     "Notes": "-",
     "Start up frame": "18~19"

@@ -255,10 +255,10 @@
     {
         "Block frame": "-4~+1",
         "Command": "d/f+3+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "14",
-        "Gif": "https://gfycat.com/WildEveryAnemoneshrimp.gif",
-        "Hit frame": "KND",
+        "Gif": "",
+        "Hit frame": "Launch",
         "Hit level": "m (TJ)",
         "Notes": "-",
         "Start up frame": "24~29b js12~"

@@ -334,5 +334,12 @@
     "online_webpage": "http://rbnorway.org/zafina-t7-frames",
     "portrait": "https://i.imgur.com/sXwy7Pw.jpg",
     "proper_name": "Zafina"
+  },
+  {
+    "local_json": "!generic.json",
+    "name": "generic",
+    "online_webpage": "",
+    "portrait": "https://i.imgur.com/aSjqdNg.png",
+    "proper_name": "Generic"
   }
 ]

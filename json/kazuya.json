@@ -873,8 +873,9 @@
         "Start up frame": "22~24 (25~) js22~"
     },
     {
+        "Alias": ["DVK WGF"],
         "Block frame": "-10~-9",
-        "Command": "DVK f,n,d,D/F+2",
+        "Command": "DVK f,n,d,d/f+2",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "23",
         "Gif": "",
@@ -884,8 +885,9 @@
         "Start up frame": "11~12 (15~)"
     },
     {
+        "Alias": ["DVK EWGF"],
         "Block frame": "-6~-5",
-        "Command": "DVK f,n,d,d/f+2",
+        "Command": "DVK f,n,d,d/f:2",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "23",
         "Gif": "",

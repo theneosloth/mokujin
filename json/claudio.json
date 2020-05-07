@@ -496,7 +496,7 @@
             "fc d/f+2"
         ],
         "Block frame": "-18~-16",
-        "Command": "f, F+2FC+d/f+2",
+        "Command": "f, F+2",
         "Counter hit frame": "-7~-5",
         "Damage": "14",
         "Gif": "",
@@ -548,7 +548,7 @@
         "Start up frame": "15~17 (16~) js11~"
     },
     {
-        "Block frame": "+7~+10g",
+        "Block frame": "+7~+10",
         "Command": "f, f, f+2",
         "Counter hit frame": "KND",
         "Damage": "40",
@@ -1177,10 +1177,10 @@
         "Start up frame": "20 cs6"
     },
     {
-        "Block frame": "-11",
+        "Block frame": "-13",
         "Command": "d/b+4",
         "Counter hit frame": "-",
-        "Damage": "-",
+        "Damage": "7",
         "Gif": null,
         "Hit frame": "0",
         "Hit level": "l",
@@ -1216,7 +1216,7 @@
         "Block frame": "-6~-5",
         "Command": "WS+4",
         "Counter hit frame": "+5~+6",
-        "Damage": "24",
+        "Damage": "18",
         "Gif": "",
         "Hit frame": "+5~+6",
         "Hit level": "m",

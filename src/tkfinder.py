@@ -106,6 +106,10 @@ def get_character_detail(chara_name: str) -> dict:
     else:
         return None
 
+def get_generic_move(move_command: str) -> dict:
+    character = get_character_detail("generic")
+    move = get_move(character, move_command)
+    return move
 
 def get_move(character: dict, move_command: str) -> dict:
     """Gets move from local_json, if exists

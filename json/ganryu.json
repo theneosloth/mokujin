@@ -29,7 +29,7 @@
         "Gif": "",
         "Hit frame": "+9",
         "Hit level": "h",
-        "Notes": "Guaranteed b+1+2",
+        "Notes": "Guaranteed b+1+2 on CH",
         "Start up frame": "12"
     },
     {
@@ -961,6 +961,17 @@
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "13~14"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "WS+4",
+        "Counter hit frame": "+5",
+        "Damage": "20",
+        "Gif": "",
+        "Hit frame": "+5",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "11"
     },
     {
         "Block frame": "-13",
