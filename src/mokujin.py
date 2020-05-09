@@ -75,6 +75,9 @@ def do_sum(x1, x2):
 @bot.event
 async def on_reaction_add(reaction, user):
     if reaction.message.author.id == bot.user.id and user.id != bot.user.id and reaction.count < 3:
+
+        delete_after = config.get_auto_delete_duration(reaction.message.channel.id)
+
         item_index = emoji_list.index(reaction.emoji)
         content = reaction.message.embeds[0].description.replace('\n', '\\n').split("\\n")
         character_name = util.get_character_name_from_content(content)
@@ -83,7 +86,7 @@ async def on_reaction_add(reaction, user):
         move = move_list[item_index]
 
         result = display_moves_by_input(character, move)
-        await reaction.message.channel.send(embed=result)
+        await reaction.message.channel.send(embed=result,delete_after=delete_after)
 
 
 @bot.event
