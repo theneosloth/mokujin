@@ -8,7 +8,7 @@ import sys
 sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
 from functools import reduce
 from discord.ext import commands
-from src import tkfinder
+from src import tkfinder, util
 from src.resources import const, embed
 from github import Github
 
@@ -78,9 +78,9 @@ async def on_reaction_add(reaction, user):
     if reaction.message.author.id == bot.user.id and user.id != bot.user.id and reaction.count < 3:
         item_index = emoji_list.index(reaction.emoji)
         content = reaction.message.embeds[0].description.replace('\n', '\\n').split("\\n")
-        character_name = embed.get_character_name_from_content(content)
+        character_name = util.get_character_name_from_content(content)
         character = tkfinder.get_character_detail(character_name)
-        move_list = embed.get_moves_from_content(content)
+        move_list = util.get_moves_from_content(content)
         move = move_list[item_index]
 
         result = display_moves_by_input(character, move)

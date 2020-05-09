@@ -78,16 +78,6 @@ def similar_moves_embed(similar_moves, character_name):
                           .format(character_name, '\n'.join(similar_moves)))
     return embed
 
-def get_character_name_from_content(content):
-    first_line = content[0]
-    return first_line.split("Similar moves from ")[1]
-
-def get_moves_from_content(content):
-    content.pop(0)
-    for i in range(len(content)):
-        content[i] = content[i][7:]
-    return content
-
 def help_embed():
     text = "" \
            "!character move\t\t\t- get frame data of a move from a character \n" \
