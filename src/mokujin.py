@@ -43,8 +43,7 @@ github_token = config.read_config()['GITHUB_TOKEN']
 gh = Github(login_or_token=github_token)
 
 blacklist = ["mirosu#4151"]
-emoji_list = ['1️⃣', '2️⃣', '3️⃣', '4️⃣', '5️⃣']
-
+emoji_list = ['1\ufe0f\u20e3', '2\ufe0f\u20e3', '3\ufe0f\u20e3', '4\ufe0f\u20e3', '5\ufe0f\u20e3']
 
 @bot.event
 async def on_ready():
