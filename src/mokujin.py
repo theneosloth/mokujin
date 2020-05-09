@@ -192,8 +192,10 @@ async def on_message(message):
 
             bot_message = await channel.send(embed=result, delete_after=delete_after)
             if embed.MOVE_NOT_FOUND_TITLE == bot_message.embeds[0].title:
-                for emoji in emoji_list:
-                    await bot_message.add_reaction(emoji)
+                content= bot_message.embeds[0].description.replace('\n', '\\n').split("\\n")
+                movelist = util.get_moves_from_content(content)
+                for i in range(len(movelist)):
+                    await bot_message.add_reaction(emoji_list[i])
 
         await bot.process_commands(message)
     except Exception as e:
