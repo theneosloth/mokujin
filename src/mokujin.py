@@ -76,10 +76,10 @@ def do_sum(x1, x2):
 async def on_reaction_add(reaction, user):
 
     if reaction.message.author.id == bot.user.id and user.id != bot.user.id and reaction.count < 3:
-
-        delete_after = config.get_auto_delete_duration(reaction.message.channel.id)
         item_index = emoji_list.index(reaction.emoji) if reaction.emoji in emoji_list else -1
+
         if item_index > -1:
+            delete_after = config.get_auto_delete_duration(reaction.message.channel.id)
             content = reaction.message.embeds[0].description.replace('\n', '\\n').split("\\n")
             character_name = util.get_character_name_from_content(content)
             character = tkfinder.get_character_detail(character_name)
@@ -200,7 +200,7 @@ async def on_message(message):
 
         await bot.process_commands(message)
     except Exception as e:
-        error_msg = f'Message: {message.content}. Error: {e}'
+        error_msg = f'Message: {message.content} from {message.author.name} in {message.channel.guild.name}. Error: {e}'
         print(error_msg)
         logger.error(error_msg)
 
