@@ -43,6 +43,7 @@ github_token = config.read_config()['GITHUB_TOKEN']
 gh = Github(login_or_token=github_token)
 
 blacklist = ["mirosu#4151"]
+emoji_list = ['1️⃣', '2️⃣', '3️⃣', '4️⃣', '5️⃣']
 
 
 @bot.event
@@ -71,6 +72,19 @@ def get_move_type(original_move: str):
 
 def do_sum(x1, x2):
     return x1 + "\n" + x2
+
+@bot.event
+async def on_reaction_add(reaction, user):
+    if reaction.message.author.id == bot.user.id and user.id != bot.user.id and reaction.count < 3:
+        item_index = emoji_list.index(reaction.emoji)
+        content = reaction.message.embeds[0].description.replace('\n', '\\n').split("\\n")
+        character_name = embed.get_character_name_from_content(content)
+        character = tkfinder.get_character_detail(character_name)
+        move_list = embed.get_moves_from_content(content)
+        move = move_list[item_index]
+
+        result = display_moves_by_input(character, move)
+        await reaction.message.channel.send(embed=result)
 
 
 @bot.event
@@ -174,14 +188,16 @@ async def on_message(message):
                 result = embed.error_embed(f'Character {original_name} does not exist.')
                 delete_after = 5
 
-            await channel.send(embed=result, delete_after=delete_after)
+            bot_message = await channel.send(embed=result, delete_after=delete_after)
+            if embed.MOVE_NOT_FOUND_TITLE == bot_message.embeds[0].title:
+                for emoji in emoji_list:
+                    await bot_message.add_reaction(emoji)
 
         await bot.process_commands(message)
     except Exception as e:
         error_msg = f'Message: {message.content}. Error: {e}'
         print(error_msg)
         logger.error(error_msg)
-
 
 def display_moves_by_type(character, move_type):
     move_list = tkfinder.get_by_move_type(character, move_type)
@@ -209,7 +225,7 @@ def display_moves_by_input(character, original_move):
             result = embed.move_embed(generic_character, generic_move)
         else:
             similar_moves = tkfinder.get_similar_moves(original_move, character_name)
-            result = embed.similar_moves_embed(similar_moves)
+            result = embed.similar_moves_embed(similar_moves, character_name)
 
     return result
 
