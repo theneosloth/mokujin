@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-import configurator
 import datetime
 import logging
 import os
 import sys
+import configurator
 
 sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
 from functools import reduce
@@ -45,9 +45,10 @@ gh = Github(login_or_token=github_token)
 blacklist = ["mirosu#4151"]
 emoji_list = ['1\ufe0f\u20e3', '2\ufe0f\u20e3', '3\ufe0f\u20e3', '4\ufe0f\u20e3', '5\ufe0f\u20e3']
 
+
 @bot.event
 async def on_ready():
-    print(datetime.datetime.utcnow().isoformat())
+    print(datetime.datetime.now().strftime("%Y-%m-%d  %H:%M:%S"))
     print('Logged in as')
     print(bot.user.name)
     print(bot.user.id)
@@ -58,7 +59,8 @@ def get_latest_commits_messages(numbers: int):
     commits = gh.get_user().get_repo("mokujin").get_commits()
     message = ""
     for i in range(0, numbers, 1):
-        new_date = datetime.datetime.strptime(str(commits[i].commit.committer.date), '%Y-%m-%d %H:%M:%S').strftime('%Y-%m-%d')
+        new_date = datetime.datetime.strptime(str(commits[i].commit.committer.date), '%Y-%m-%d %H:%M:%S').strftime(
+            '%Y-%m-%d')
         message += f'{commits[i].commit.message} on {new_date}\n'
     return message
 
@@ -72,9 +74,9 @@ def get_move_type(original_move: str):
 def do_sum(x1, x2):
     return x1 + "\n" + x2
 
+
 @bot.event
 async def on_reaction_add(reaction, user):
-
     if reaction.message.author.id == bot.user.id and user.id != bot.user.id and reaction.count < 3:
         item_index = emoji_list.index(reaction.emoji) if reaction.emoji in emoji_list else -1
 
@@ -87,7 +89,7 @@ async def on_reaction_add(reaction, user):
             move = move_list[item_index]
 
             result = display_moves_by_input(character, move)
-            await reaction.message.channel.send(embed=result,delete_after=delete_after)
+            await reaction.message.channel.send(embed=result, delete_after=delete_after)
 
 
 @bot.event
@@ -193,16 +195,19 @@ async def on_message(message):
 
             bot_message = await channel.send(embed=result, delete_after=delete_after)
             if embed.MOVE_NOT_FOUND_TITLE == bot_message.embeds[0].title:
-                content= bot_message.embeds[0].description.replace('\n', '\\n').split("\\n")
+                content = bot_message.embeds[0].description.replace('\n', '\\n').split("\\n")
                 movelist = util.get_moves_from_content(content)
                 for i in range(len(movelist)):
                     await bot_message.add_reaction(emoji_list[i])
 
         await bot.process_commands(message)
     except Exception as e:
-        error_msg = f'Message: {message.content} from {message.author.name} in {message.channel.guild.name}. Error: {e}'
+        time_now = datetime.datetime.now().strftime("%Y-%m-%d  %H:%M:%S")
+        error_msg = f'{time_now} | Message: {message.content} from {message.author.name} in {message.channel.guild.name}.' \
+                    f'\n Error: {e}'
         print(error_msg)
         logger.error(error_msg)
+
 
 def display_moves_by_type(character, move_type):
     move_list = tkfinder.get_by_move_type(character, move_type)
