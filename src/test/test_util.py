@@ -2,6 +2,7 @@ import unittest
 
 from src import util
 
+
 class MyTestCase(unittest.TestCase):
     def test_get_content(self):
         content = ['Similar moves from armor_king', '**1**. d/f+2+3', '**2**. d/f+3', '**3**. d/f+2', '**4**. d/b+2, 3',
