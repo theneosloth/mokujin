@@ -9,7 +9,7 @@ sys.path.insert(1, (os.path.dirname(os.path.dirname(__file__))))
 from functools import reduce
 from discord.ext import commands
 from src import tkfinder, util
-from src.resources import const, embed
+from src.resources import embed, const
 from github import Github
 
 base_path = os.path.dirname(__file__)
@@ -42,9 +42,6 @@ feedback_channel_id = config.read_config()['FEEDBACK_CHANNEL_ID']
 github_token = config.read_config()['GITHUB_TOKEN']
 gh = Github(login_or_token=github_token)
 
-blacklist = ["mirosu#4151"]
-emoji_list = ['1\ufe0f\u20e3', '2\ufe0f\u20e3', '3\ufe0f\u20e3', '4\ufe0f\u20e3', '5\ufe0f\u20e3']
-
 
 @bot.event
 async def on_ready():
@@ -54,31 +51,10 @@ async def on_ready():
     print(bot.user.id)
     print('------')
 
-
-def get_latest_commits_messages(numbers: int):
-    commits = gh.get_user().get_repo("mokujin").get_commits()
-    message = ""
-    for i in range(0, numbers, 1):
-        new_date = datetime.datetime.strptime(str(commits[i].commit.committer.date), '%Y-%m-%d %H:%M:%S').strftime(
-            '%Y-%m-%d')
-        message += f'{commits[i].commit.message} on {new_date}\n'
-    return message
-
-
-def get_move_type(original_move: str):
-    for k in const.MOVE_TYPES.keys():
-        if original_move in const.MOVE_TYPES[k]:
-            return k
-
-
-def do_sum(x1, x2):
-    return x1 + "\n" + x2
-
-
 @bot.event
 async def on_reaction_add(reaction, user):
     if reaction.message.author.id == bot.user.id and user.id != bot.user.id and reaction.count < 3:
-        item_index = emoji_list.index(reaction.emoji) if reaction.emoji in emoji_list else -1
+        item_index = const.EMOJI_LIST.index(reaction.emoji) if reaction.emoji in const.EMOJI_LIST else -1
 
         if item_index > -1:
             delete_after = config.get_auto_delete_duration(reaction.message.channel.id)
@@ -88,8 +64,9 @@ async def on_reaction_add(reaction, user):
             move_list = util.get_moves_from_content(content)
             move = move_list[item_index]
 
-            result = display_moves_by_input(character, move)
+            result = util.display_moves_by_input(character, move)
             await reaction.message.channel.send(embed=result, delete_after=delete_after)
+            await reaction.remove(bot.user)
 
 
 @bot.event
@@ -99,7 +76,7 @@ async def on_message(message):
     if I'm going to change it."""
     try:
         channel = message.channel
-        if str(message.author) in blacklist:
+        if str(message.author) in const.BLACKLIST:
             return
 
         if message.content == '!server-list':
@@ -112,15 +89,14 @@ async def on_message(message):
                 end = begin + step
                 if end > len(serverlist):
                     end = len(serverlist)
-                servers = reduce(do_sum, serverlist[begin:end])
+                servers = reduce(util.do_sum, serverlist[begin:end])
                 await channel.send(servers)
             msg = "Number of servers in: " + str(len(serverlist))
             await channel.send(msg)
 
         elif message.content == '!last-updates':
             try:
-                messages = get_latest_commits_messages(5)
-                print(messages)
+                messages = util.get_latest_commits_messages(gh, 5)
                 result = embed.success_embed(messages)
             except Exception as e:
                 result = embed.error_embed(e)
@@ -158,11 +134,10 @@ async def on_message(message):
             await channel.send(embed=embed.help_embed())
 
         elif message.content.startswith('?feedback'):
-            user_message = message.content.split(' ', 1)[1]
+            user_message = message.content.split(' ', 1)[1].replace("\n", "")
             server_name = str(message.channel.guild)
+            feedback_channel = bot.get_channel(feedback_channel_id)
             try:
-                feedback_channel = bot.get_channel(feedback_channel_id)
-                user_message = user_message.replace("\n", "")
                 feedback_message = "{}  ;  {} ;   {};\n".format(str(message.author), server_name, user_message)
                 await feedback_channel.send(feedback_message)
                 result = embed.success_embed("Feedback sent")
@@ -183,12 +158,12 @@ async def on_message(message):
 
             if character_name is not None:
                 character = tkfinder.get_character_detail(character_name)
-                move_type = get_move_type(original_move.lower())
+                move_type = util.get_move_type(original_move.lower())
 
                 if move_type:
-                    result = display_moves_by_type(character, move_type)
+                    result = util.display_moves_by_type(character, move_type)
                 else:
-                    result = display_moves_by_input(character, original_move)
+                    result = util.display_moves_by_input(character, original_move)
             else:
                 result = embed.error_embed(f'Character {original_name} does not exist.')
                 delete_after = 5
@@ -198,7 +173,7 @@ async def on_message(message):
                 content = bot_message.embeds[0].description.replace('\n', '\\n').split("\\n")
                 movelist = util.get_moves_from_content(content)
                 for i in range(len(movelist)):
-                    await bot_message.add_reaction(emoji_list[i])
+                    await bot_message.add_reaction(const.EMOJI_LIST[i])
 
         await bot.process_commands(message)
     except Exception as e:
@@ -207,37 +182,6 @@ async def on_message(message):
                     f'\n Error: {e}'
         print(error_msg)
         logger.error(error_msg)
-
-
-def display_moves_by_type(character, move_type):
-    move_list = tkfinder.get_by_move_type(character, move_type)
-    result = object
-    if len(move_list) < 1:
-        result = embed.error_embed(
-            'No ' + move_type.lower() + ' for ' + character['proper_name'])
-    elif len(move_list) == 1:
-        character_move = tkfinder.get_move(character, move_list[0])
-        result = embed.move_embed(character, character_move)
-    elif len(move_list) > 1:
-        result = embed.move_list_embed(character, move_list, move_type)
-    return result
-
-
-def display_moves_by_input(character, original_move):
-    character_move = tkfinder.get_move(character, original_move)
-    character_name = character["name"]
-    if character_move is not None:
-        result = embed.move_embed(character, character_move)
-    else:
-        generic_move = tkfinder.get_generic_move(original_move)
-        if generic_move is not None:
-            generic_character = tkfinder.get_character_detail("generic")
-            result = embed.move_embed(generic_character, generic_move)
-        else:
-            similar_moves = tkfinder.get_similar_moves(original_move, character_name)
-            result = embed.similar_moves_embed(similar_moves, character_name)
-
-    return result
 
 
 bot.run(discord_token)
