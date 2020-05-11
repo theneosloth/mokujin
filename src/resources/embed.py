@@ -1,6 +1,7 @@
 import discord
 from random import randint
 
+MOVE_NOT_FOUND_TITLE = 'Move not found'
 
 def move_embed(character, move):
     """Returns the embed message for character and move"""
@@ -67,12 +68,15 @@ def success_embed(message):
     return embed
 
 
-def similar_moves_embed(similar_moves):
-    embed = discord.Embed(title='Move not found', colour=0xfcba03,
-                          description='Similar moves:\n**{}**'
-                          .format('** **\n'.join(similar_moves)))
-    return embed
+def similar_moves_embed(similar_moves, character_name):
 
+    for i in range(len(similar_moves)):
+        similar_moves[i] = f'**{i+1}**. {similar_moves[i]}'
+
+    embed = discord.Embed(title=MOVE_NOT_FOUND_TITLE, colour=0xfcba03,
+                          description='Similar moves from {}\n{}'
+                          .format(character_name, '\n'.join(similar_moves)))
+    return embed
 
 def help_embed():
     text = "" \

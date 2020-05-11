@@ -79,3 +79,8 @@ REPLACE = {
     ')': '',
     '*+': '*'
 }
+
+
+BLACKLIST = ["mirosu#4151"]
+
+EMOJI_LIST = ['1\ufe0f\u20e3', '2\ufe0f\u20e3', '3\ufe0f\u20e3', '4\ufe0f\u20e3', '5\ufe0f\u20e3']
