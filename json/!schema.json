@@ -1,0 +1,631 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://example.com/example.json",
+  "type": "array",
+  "title": "The root schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": [],
+  "examples": [
+    [
+      {
+        "Hit level": "m(Throw)",
+        "Damage": "55",
+        "Command": "in rage 1, 1, f+3, 2",
+        "Hit frame": "Throw(KND)",
+        "Counter hit frame": "Throw(KND)",
+        "Notes": "Rage art",
+        "Gif": "",
+        "Block frame": "-",
+        "Alias": [
+          "in rage 1, 1, b+3, 2"
+        ],
+        "Start up frame": "16 pc1~"
+      },
+      {
+        "Hit level": "h",
+        "Damage": "7",
+        "Command": "1",
+        "Counter hit frame": "+8",
+        "Hit frame": "+8",
+        "Notes": "-",
+        "Gif": "https://gfycat.com/MagnificentElatedKitten.gif",
+        "Recovery": "-23",
+        "Start up frame": "10",
+        "Alias": [
+          "f+1"
+        ],
+        "Block frame": "+1"
+      }
+    ]
+  ],
+  "additionalItems": true,
+  "items": {
+    "anyOf": [
+      {
+        "$id": "#/items/anyOf/0",
+        "type": "object",
+        "title": "The first anyOf schema",
+        "description": "An explanation about the purpose of this instance.",
+        "default": {},
+        "examples": [
+          {
+            "Hit level": "m(Throw)",
+            "Command": "in rage 1, 1, f+3, 2",
+            "Damage": "55",
+            "Counter hit frame": "Throw(KND)",
+            "Hit frame": "Throw(KND)",
+            "Notes": "Rage art",
+            "Gif": "",
+            "Start up frame": "16 pc1~",
+            "Alias": [
+              "in rage 1, 1, b+3, 2"
+            ],
+            "Block frame": "-"
+          }
+        ],
+        "required": [
+          "Alias",
+          "Block frame",
+          "Command",
+          "Counter hit frame",
+          "Damage",
+          "Gif",
+          "Hit frame",
+          "Hit level",
+          "Notes",
+          "Start up frame"
+        ],
+        "additionalProperties": true,
+        "properties": {
+          "Alias": {
+            "$id": "#/items/anyOf/0/properties/Alias",
+            "type": "array",
+            "title": "The Alias schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": [],
+            "examples": [
+              [
+                "in rage 1, 1, b+3, 2"
+              ]
+            ],
+            "additionalItems": true,
+            "items": {
+              "anyOf": [
+                {
+                  "$id": "#/items/anyOf/0/properties/Alias/items/anyOf/0",
+                  "type": "string",
+                  "title": "The first anyOf schema",
+                  "description": "An explanation about the purpose of this instance.",
+                  "default": "",
+                  "examples": [
+                    "in rage 1, 1, b+3, 2"
+                  ]
+                }
+              ],
+              "$id": "#/items/anyOf/0/properties/Alias/items"
+            }
+          },
+          "Block frame": {
+            "$id": "#/items/anyOf/0/properties/Block frame",
+            "type": "string",
+            "title": "The Block frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "-"
+            ]
+          },
+          "Command": {
+            "$id": "#/items/anyOf/0/properties/Command",
+            "type": "string",
+            "title": "The Command schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "in rage 1, 1, f+3, 2"
+            ]
+          },
+          "Counter hit frame": {
+            "$id": "#/items/anyOf/0/properties/Counter hit frame",
+            "type": "string",
+            "title": "The Counter hit frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "Throw(KND)"
+            ]
+          },
+          "Damage": {
+            "$id": "#/items/anyOf/0/properties/Damage",
+            "type": "string",
+            "title": "The Damage schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "55"
+            ]
+          },
+          "Gif": {
+            "$id": "#/items/anyOf/0/properties/Gif",
+            "type": "string",
+            "title": "The Gif schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              ""
+            ]
+          },
+          "Hit frame": {
+            "$id": "#/items/anyOf/0/properties/Hit frame",
+            "type": "string",
+            "title": "The Hit frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "Throw(KND)"
+            ]
+          },
+          "Hit level": {
+            "$id": "#/items/anyOf/0/properties/Hit level",
+            "type": "string",
+            "title": "The Hit level schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "m(Throw)"
+            ]
+          },
+          "Notes": {
+            "$id": "#/items/anyOf/0/properties/Notes",
+            "type": "string",
+            "title": "The Notes schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "Rage art"
+            ]
+          },
+          "Start up frame": {
+            "$id": "#/items/anyOf/0/properties/Start up frame",
+            "type": "string",
+            "title": "The Start up frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "16 pc1~"
+            ]
+          }
+        }
+      },
+      {
+        "$id": "#/items/anyOf/1",
+        "type": "object",
+        "title": "The second anyOf schema",
+        "description": "An explanation about the purpose of this instance.",
+        "default": {},
+        "examples": [
+          {
+            "Damage": "7",
+            "Command": "1",
+            "Counter hit frame": "+8",
+            "Hit frame": "+8",
+            "Notes": "-",
+            "Gif": "https://gfycat.com/MagnificentElatedKitten.gif",
+            "Recovery": "-23",
+            "Start up frame": "10",
+            "Alias": [
+              "f+1"
+            ],
+            "Block frame": "+1",
+            "Hit level": "h"
+          }
+        ],
+        "required": [
+          "Alias",
+          "Block frame",
+          "Command",
+          "Counter hit frame",
+          "Damage",
+          "Gif",
+          "Hit frame",
+          "Hit level",
+          "Notes",
+          "Recovery",
+          "Start up frame"
+        ],
+        "additionalProperties": true,
+        "properties": {
+          "Alias": {
+            "$id": "#/items/anyOf/1/properties/Alias",
+            "type": "array",
+            "title": "The Alias schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": [],
+            "examples": [
+              [
+                "f+1"
+              ]
+            ],
+            "additionalItems": true,
+            "items": {
+              "anyOf": [
+                {
+                  "$id": "#/items/anyOf/1/properties/Alias/items/anyOf/0",
+                  "type": "string",
+                  "title": "The first anyOf schema",
+                  "description": "An explanation about the purpose of this instance.",
+                  "default": "",
+                  "examples": [
+                    "f+1"
+                  ]
+                }
+              ],
+              "$id": "#/items/anyOf/1/properties/Alias/items"
+            }
+          },
+          "Block frame": {
+            "$id": "#/items/anyOf/1/properties/Block frame",
+            "type": "string",
+            "title": "The Block frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "+1"
+            ]
+          },
+          "Command": {
+            "$id": "#/items/anyOf/1/properties/Command",
+            "type": "string",
+            "title": "The Command schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "1"
+            ]
+          },
+          "Counter hit frame": {
+            "$id": "#/items/anyOf/1/properties/Counter hit frame",
+            "type": "string",
+            "title": "The Counter hit frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "+8"
+            ]
+          },
+          "Damage": {
+            "$id": "#/items/anyOf/1/properties/Damage",
+            "type": "string",
+            "title": "The Damage schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "7"
+            ]
+          },
+          "Gif": {
+            "$id": "#/items/anyOf/1/properties/Gif",
+            "type": "string",
+            "title": "The Gif schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "https://gfycat.com/MagnificentElatedKitten.gif"
+            ]
+          },
+          "Hit frame": {
+            "$id": "#/items/anyOf/1/properties/Hit frame",
+            "type": "string",
+            "title": "The Hit frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "+8"
+            ]
+          },
+          "Hit level": {
+            "$id": "#/items/anyOf/1/properties/Hit level",
+            "type": "string",
+            "title": "The Hit level schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "h"
+            ]
+          },
+          "Notes": {
+            "$id": "#/items/anyOf/1/properties/Notes",
+            "type": "string",
+            "title": "The Notes schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "-"
+            ]
+          },
+          "Recovery": {
+            "$id": "#/items/anyOf/1/properties/Recovery",
+            "type": "string",
+            "title": "The Recovery schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "-23"
+            ]
+          },
+          "Start up frame": {
+            "$id": "#/items/anyOf/1/properties/Start up frame",
+            "type": "string",
+            "title": "The Start up frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "10"
+            ]
+          }
+        }
+      },
+      {
+        "$id": "#/items/anyOf/2",
+        "type": "object",
+        "title": "The third anyOf schema",
+        "description": "An explanation about the purpose of this instance.",
+        "default": {},
+        "examples": [
+          {
+            "Hit level": "h, h",
+            "Damage": "7,7",
+            "Command": "1, 1",
+            "Counter hit frame": "+4",
+            "Hit frame": "+4",
+            "Notes": "-",
+            "Gif": "https://gfycat.com/VibrantSeparateImperatorangel.gif",
+            "Recovery": "-17",
+            "Start up frame": "10",
+            "Block frame": "-3"
+          }
+        ],
+        "required": [
+          "Block frame",
+          "Command",
+          "Counter hit frame",
+          "Damage",
+          "Gif",
+          "Hit frame",
+          "Hit level",
+          "Notes",
+          "Recovery",
+          "Start up frame"
+        ],
+        "additionalProperties": true,
+        "properties": {
+          "Block frame": {
+            "$id": "#/items/anyOf/2/properties/Block frame",
+            "type": "string",
+            "title": "The Block frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "-3"
+            ]
+          },
+          "Command": {
+            "$id": "#/items/anyOf/2/properties/Command",
+            "type": "string",
+            "title": "The Command schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "1, 1"
+            ]
+          },
+          "Counter hit frame": {
+            "$id": "#/items/anyOf/2/properties/Counter hit frame",
+            "type": "string",
+            "title": "The Counter hit frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "+4"
+            ]
+          },
+          "Damage": {
+            "$id": "#/items/anyOf/2/properties/Damage",
+            "type": "string",
+            "title": "The Damage schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "7,7"
+            ]
+          },
+          "Gif": {
+            "$id": "#/items/anyOf/2/properties/Gif",
+            "type": "string",
+            "title": "The Gif schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "https://gfycat.com/VibrantSeparateImperatorangel.gif"
+            ]
+          },
+          "Hit frame": {
+            "$id": "#/items/anyOf/2/properties/Hit frame",
+            "type": "string",
+            "title": "The Hit frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "+4"
+            ]
+          },
+          "Hit level": {
+            "$id": "#/items/anyOf/2/properties/Hit level",
+            "type": "string",
+            "title": "The Hit level schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "h, h"
+            ]
+          },
+          "Notes": {
+            "$id": "#/items/anyOf/2/properties/Notes",
+            "type": "string",
+            "title": "The Notes schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "-"
+            ]
+          },
+          "Recovery": {
+            "$id": "#/items/anyOf/2/properties/Recovery",
+            "type": "string",
+            "title": "The Recovery schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "-17"
+            ]
+          },
+          "Start up frame": {
+            "$id": "#/items/anyOf/2/properties/Start up frame",
+            "type": "string",
+            "title": "The Start up frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "10"
+            ]
+          }
+        }
+      },
+      {
+        "$id": "#/items/anyOf/3",
+        "type": "object",
+        "title": "The fourth anyOf schema",
+        "description": "An explanation about the purpose of this instance.",
+        "default": {},
+        "examples": [
+          {
+            "Damage": "14",
+            "Command": "1+2, f, f (Cancel)",
+            "Hit frame": "+7",
+            "Counter hit frame": "+7",
+            "Notes": "-",
+            "Gif": "",
+            "Block frame": "-5",
+            "Start up frame": "315 pc8~",
+            "Hit level": "h"
+          }
+        ],
+        "required": [
+          "Block frame",
+          "Command",
+          "Counter hit frame",
+          "Damage",
+          "Gif",
+          "Hit frame",
+          "Hit level",
+          "Notes",
+          "Start up frame"
+        ],
+        "additionalProperties": true,
+        "properties": {
+          "Block frame": {
+            "$id": "#/items/anyOf/3/properties/Block frame",
+            "type": "string",
+            "title": "The Block frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "-5"
+            ]
+          },
+          "Command": {
+            "$id": "#/items/anyOf/3/properties/Command",
+            "type": "string",
+            "title": "The Command schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "1+2, f, f (Cancel)"
+            ]
+          },
+          "Counter hit frame": {
+            "$id": "#/items/anyOf/3/properties/Counter hit frame",
+            "type": "string",
+            "title": "The Counter hit frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "+7"
+            ]
+          },
+          "Damage": {
+            "$id": "#/items/anyOf/3/properties/Damage",
+            "type": "string",
+            "title": "The Damage schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "14"
+            ]
+          },
+          "Gif": {
+            "$id": "#/items/anyOf/3/properties/Gif",
+            "type": "string",
+            "title": "The Gif schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              ""
+            ]
+          },
+          "Hit frame": {
+            "$id": "#/items/anyOf/3/properties/Hit frame",
+            "type": "string",
+            "title": "The Hit frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "+7"
+            ]
+          },
+          "Hit level": {
+            "$id": "#/items/anyOf/3/properties/Hit level",
+            "type": "string",
+            "title": "The Hit level schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "h"
+            ]
+          },
+          "Notes": {
+            "$id": "#/items/anyOf/3/properties/Notes",
+            "type": "string",
+            "title": "The Notes schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "-"
+            ]
+          },
+          "Start up frame": {
+            "$id": "#/items/anyOf/3/properties/Start up frame",
+            "type": "string",
+            "title": "The Start up frame schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "315 pc8~"
+            ]
+          }
+        }
+      }
+    ],
+    "$id": "#/items"
+  }
+}
