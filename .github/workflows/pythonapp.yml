@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: 3.8
       - name: Validate JSON
-        uses: OrRosenblatt/validate-json-action@0.1.0
+        uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: /src/resources/schema.json
           INPUT_JSONS: >-
