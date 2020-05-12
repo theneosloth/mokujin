@@ -9,11 +9,19 @@ on:
   pull_request:
     branches: [ master ]
 
+
 jobs:
-  build:
 
+  verify-json-validation:
     runs-on: ubuntu-latest
-
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_JSONS: /json
+  build:
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.8
@@ -22,8 +30,7 @@ jobs:
         python-version: 3.8
     - name: Validate JSON
       uses: OrRosenblatt/validate-json-action@0.1.0
-      env:
-        INPUT_JSONS: /json/*
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
