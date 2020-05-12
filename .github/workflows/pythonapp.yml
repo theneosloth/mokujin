@@ -20,7 +20,7 @@ jobs:
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: /json/!schema.json
-          INPUT_JSONS: /json
+          INPUT_JSONS: /json/*
   build:
     runs-on: ubuntu-latest
     steps:
