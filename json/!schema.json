@@ -93,7 +93,7 @@
               "anyOf": [
                 {
                   "$id": "#/items/anyOf/0/properties/Alias/items/anyOf/0",
-                  "type": "string",
+                  "type": "string","format": "uri",
                   "title": "The first anyOf schema",
                   "description": "An explanation about the purpose of this instance.",
                   "default": "",
@@ -107,7 +107,7 @@
           },
           "Block frame": {
             "$id": "#/items/anyOf/0/properties/Block frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Block frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -117,7 +117,7 @@
           },
           "Command": {
             "$id": "#/items/anyOf/0/properties/Command",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Command schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -127,7 +127,7 @@
           },
           "Counter hit frame": {
             "$id": "#/items/anyOf/0/properties/Counter hit frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Counter hit frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -137,7 +137,7 @@
           },
           "Damage": {
             "$id": "#/items/anyOf/0/properties/Damage",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Damage schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -147,7 +147,7 @@
           },
           "Gif": {
             "$id": "#/items/anyOf/0/properties/Gif",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Gif schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -157,7 +157,7 @@
           },
           "Hit frame": {
             "$id": "#/items/anyOf/0/properties/Hit frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Hit frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -167,7 +167,7 @@
           },
           "Hit level": {
             "$id": "#/items/anyOf/0/properties/Hit level",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Hit level schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -177,7 +177,7 @@
           },
           "Notes": {
             "$id": "#/items/anyOf/0/properties/Notes",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Notes schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -187,7 +187,7 @@
           },
           "Start up frame": {
             "$id": "#/items/anyOf/0/properties/Start up frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Start up frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -251,7 +251,7 @@
               "anyOf": [
                 {
                   "$id": "#/items/anyOf/1/properties/Alias/items/anyOf/0",
-                  "type": "string",
+                  "type": "string","format": "uri",
                   "title": "The first anyOf schema",
                   "description": "An explanation about the purpose of this instance.",
                   "default": "",
@@ -265,7 +265,7 @@
           },
           "Block frame": {
             "$id": "#/items/anyOf/1/properties/Block frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Block frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -275,7 +275,7 @@
           },
           "Command": {
             "$id": "#/items/anyOf/1/properties/Command",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Command schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -285,7 +285,7 @@
           },
           "Counter hit frame": {
             "$id": "#/items/anyOf/1/properties/Counter hit frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Counter hit frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -295,7 +295,7 @@
           },
           "Damage": {
             "$id": "#/items/anyOf/1/properties/Damage",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Damage schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -305,7 +305,7 @@
           },
           "Gif": {
             "$id": "#/items/anyOf/1/properties/Gif",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Gif schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -315,7 +315,7 @@
           },
           "Hit frame": {
             "$id": "#/items/anyOf/1/properties/Hit frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Hit frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -325,7 +325,7 @@
           },
           "Hit level": {
             "$id": "#/items/anyOf/1/properties/Hit level",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Hit level schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -335,7 +335,7 @@
           },
           "Notes": {
             "$id": "#/items/anyOf/1/properties/Notes",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Notes schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -345,7 +345,7 @@
           },
           "Recovery": {
             "$id": "#/items/anyOf/1/properties/Recovery",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Recovery schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -355,7 +355,7 @@
           },
           "Start up frame": {
             "$id": "#/items/anyOf/1/properties/Start up frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Start up frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -401,7 +401,7 @@
         "properties": {
           "Block frame": {
             "$id": "#/items/anyOf/2/properties/Block frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Block frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -411,7 +411,7 @@
           },
           "Command": {
             "$id": "#/items/anyOf/2/properties/Command",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Command schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -421,7 +421,7 @@
           },
           "Counter hit frame": {
             "$id": "#/items/anyOf/2/properties/Counter hit frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Counter hit frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -431,7 +431,7 @@
           },
           "Damage": {
             "$id": "#/items/anyOf/2/properties/Damage",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Damage schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -441,7 +441,7 @@
           },
           "Gif": {
             "$id": "#/items/anyOf/2/properties/Gif",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Gif schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -451,7 +451,7 @@
           },
           "Hit frame": {
             "$id": "#/items/anyOf/2/properties/Hit frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Hit frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -461,7 +461,7 @@
           },
           "Hit level": {
             "$id": "#/items/anyOf/2/properties/Hit level",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Hit level schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -471,7 +471,7 @@
           },
           "Notes": {
             "$id": "#/items/anyOf/2/properties/Notes",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Notes schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -481,7 +481,7 @@
           },
           "Recovery": {
             "$id": "#/items/anyOf/2/properties/Recovery",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Recovery schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -491,7 +491,7 @@
           },
           "Start up frame": {
             "$id": "#/items/anyOf/2/properties/Start up frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Start up frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -535,7 +535,7 @@
         "properties": {
           "Block frame": {
             "$id": "#/items/anyOf/3/properties/Block frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Block frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -545,7 +545,7 @@
           },
           "Command": {
             "$id": "#/items/anyOf/3/properties/Command",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Command schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -555,7 +555,7 @@
           },
           "Counter hit frame": {
             "$id": "#/items/anyOf/3/properties/Counter hit frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Counter hit frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -565,7 +565,7 @@
           },
           "Damage": {
             "$id": "#/items/anyOf/3/properties/Damage",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Damage schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -575,7 +575,7 @@
           },
           "Gif": {
             "$id": "#/items/anyOf/3/properties/Gif",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Gif schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -585,7 +585,7 @@
           },
           "Hit frame": {
             "$id": "#/items/anyOf/3/properties/Hit frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Hit frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -595,7 +595,7 @@
           },
           "Hit level": {
             "$id": "#/items/anyOf/3/properties/Hit level",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Hit level schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -605,7 +605,7 @@
           },
           "Notes": {
             "$id": "#/items/anyOf/3/properties/Notes",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Notes schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
@@ -615,7 +615,7 @@
           },
           "Start up frame": {
             "$id": "#/items/anyOf/3/properties/Start up frame",
-            "type": "string",
+            "type": "string","format": "uri",
             "title": "The Start up frame schema",
             "description": "An explanation about the purpose of this instance.",
             "default": "",
