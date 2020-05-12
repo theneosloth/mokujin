@@ -1,5 +1,6 @@
 import discord
 from random import randint
+import re
 
 MOVE_NOT_FOUND_TITLE = 'Move not found'
 
@@ -20,7 +21,17 @@ def move_embed(character, move):
 
     embed.add_field(name='Property', value=move['Hit level'])
     embed.add_field(name='Damage', value=move['Damage'])
-    embed.add_field(name='Startup', value='i' + move['Start up frame'])
+
+    result = re.match('/^\d/', move['Start up frame'])
+
+    if result:
+
+        embed.add_field(name='Startup', value='i' + move['Start up frame'])
+
+    else:
+
+        embed.add_field(name='Startup', value=move['Start up frame'])
+
     embed.add_field(name=block, value=move['Block frame'])
     embed.add_field(name='Hit', value=move['Hit frame'])
     embed.add_field(name=counterhit, value=move['Counter hit frame'])
