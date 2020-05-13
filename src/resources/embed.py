@@ -22,7 +22,7 @@ def move_embed(character, move):
     embed.add_field(name='Property', value=move['Hit level'])
     embed.add_field(name='Damage', value=move['Damage'])
 
-    result = re.match('/^\d/', move['Start up frame'])
+    result = re.match('^\d', move['Start up frame'])
 
     if result:
 
