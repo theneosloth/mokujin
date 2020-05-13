@@ -1091,12 +1091,12 @@
             "d/f+2,DCKc",
             "d/f+2~DCKc"
         ],
-        "Block frame": "-6~-5",
+        "Block frame": "-5~-4",
         "Command": "d/f+2~f+(3_4)~d/b",
         "Counter hit frame": "ATG",
         "Damage": "18",
         "Gif": "",
-        "Hit frame": "+11~+12g",
+        "Hit frame": "+12g~+13g",
         "Hit level": "m,(DCKc)",
         "Notes": "Homing.",
         "Start up frame": "16~17s"

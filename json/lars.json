@@ -325,10 +325,10 @@
     {
         "Block frame": "-13~-12",
         "Command": "f+1+2",
-        "Counter hit frame": "CS",
+        "Counter hit frame": "Launch",
         "Damage": "20",
-        "Gif": "https://gfycat.com/AridTangibleCopepod.gif",
-        "Hit frame": "CS",
+        "Gif": "https://gfycat.com/definitetallcanvasback.gif",
+        "Hit frame": "Launch",
         "Hit level": "m",
         "Notes": "-",
         "Start up frame": "15~16"

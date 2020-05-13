@@ -813,7 +813,8 @@
     },
     {
         "Alias": [
-            "HS"
+            "HS",
+            "hellsweep"
         ],
         "Block frame": "-23",
         "Command": "f,n,d,d/f+4",
@@ -823,7 +824,7 @@
         "Hit frame": "+5~+6s",
         "Hit level": "l",
         "Notes": "-",
-        "Start up frame": "16~17 (19~)"
+        "Start up frame": "16 (19~)"
     },
     {
         "Alias": [

@@ -345,6 +345,17 @@
         "Start up frame": "16"
     },
     {
+        "Block frame": "-19",
+        "Command": "f+3, 2",
+        "Counter hit frame": "KND",
+        "Damage": "16,20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m, h",
+        "Notes": "",
+        "Start up frame": "17"
+    },
+    {
         "Block frame": "-70",
         "Command": "d/f+1+2",
         "Counter hit frame": "KND",
