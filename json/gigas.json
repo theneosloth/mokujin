@@ -845,6 +845,93 @@
         "Start up frame": "15~16"
     },
     {
+        "Alias": [
+            "GOL 1",
+            "GOL (two steps) 1"
+        ],
+        "Block frame": "-2~-1",
+        "Command": "GOL (2 steps) 1",
+        "Counter hit frame": "KND",
+        "Damage": "20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "26~27 (85~86)"
+    },
+    {
+        "Alias": [
+            "GOL (three steps) 1"
+        ],
+        "Block frame": "-2~-1",
+        "Command": "GOL (3 steps) 1",
+        "Counter hit frame": "KND",
+        "Damage": "30",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "26~27 (114~115)"
+    },
+    {
+        "Alias": [
+            "GOL 2",
+            "GOL (two steps) 2"
+        ],
+        "Block frame": "KND",
+        "Command": "GOL (2 steps) 2",
+        "Counter hit frame": "KND",
+        "Damage": "40(45)",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "h!",
+        "Notes": "-",
+        "Start up frame": "24~26 (83)"
+    },
+    {
+        "Alias": [
+            "GOL (three steps) 2"
+        ],
+        "Block frame": "KND",
+        "Command": "GOL (3 steps) 2",
+        "Counter hit frame": "KND",
+        "Damage": "55(60)",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "h!",
+        "Notes": "-",
+        "Start up frame": "24~26 (122)"
+    },
+    {
+        "Alias": [
+            "GOL 1+2",
+            "GOL (two steps) 1+2"
+        ],
+        "Block frame": "+4~+10",
+        "Command": "GOL (2 steps) 1+2",
+        "Counter hit frame": "KND",
+        "Damage": "20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m (TJ)",
+        "Notes": "-",
+        "Start up frame": "49~55a,d (105~) js36~"
+    },
+    {
+        "Alias": [
+            "GOL (three steps) 1+2"
+        ],
+        "Block frame": "+4~+10",
+        "Command": "GOL (3 steps) 1+2",
+        "Counter hit frame": "KND",
+        "Damage": "30",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m (TJ)",
+        "Notes": "-",
+        "Start up frame": "49~55a,d (136~) js36~"
+    },
+    {
         "Block frame": "-13~-12",
         "Command": "u/b+4",
         "Counter hit frame": "-1~0",
