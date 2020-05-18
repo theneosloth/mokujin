@@ -20,10 +20,14 @@ venv
 /log/
 /src/tools/add_moves.py
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 #virtualenv
 lenv/
 venv/
 =======
 /src/resources/config.json
+>>>>>>> master
+=======
+/src/tools/get_all_strings.py
 >>>>>>> master

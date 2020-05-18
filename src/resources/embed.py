@@ -1,6 +1,8 @@
 import discord
-from random import randint,choice
+from random import randint, choice
+import re
 
+MOVE_NOT_FOUND_TITLE = 'Move not found'
 
 def move_embed(character, move):
     """Returns the embed message for character and move"""
@@ -19,7 +21,17 @@ def move_embed(character, move):
 
     embed.add_field(name='Property', value=move['Hit level'])
     embed.add_field(name='Damage', value=move['Damage'])
-    embed.add_field(name='Startup', value='i' + move['Start up frame'])
+
+    result = re.match('^\d', move['Start up frame'])
+
+    if result:
+
+        embed.add_field(name='Startup', value='i' + move['Start up frame'])
+
+    else:
+
+        embed.add_field(name='Startup', value=move['Start up frame'])
+
     embed.add_field(name=block, value=move['Block frame'])
     embed.add_field(name='Hit', value=move['Hit frame'])
     embed.add_field(name=counterhit, value=move['Counter hit frame'])
@@ -68,12 +80,15 @@ def success_embed(message):
     return embed
 
 
-def similar_moves_embed(similar_moves):
-    embed = discord.Embed(title='Move not found', colour=0xfcba03,
-                          description='Similar moves:\n**{}**'
-                          .format('** **\n'.join(similar_moves)))
-    return embed
+def similar_moves_embed(similar_moves, character_name):
 
+    for i in range(len(similar_moves)):
+        similar_moves[i] = f'**{i+1}**. {similar_moves[i]}'
+
+    embed = discord.Embed(title=MOVE_NOT_FOUND_TITLE, colour=0xfcba03,
+                          description='Similar moves from {}\n{}'
+                          .format(character_name, '\n'.join(similar_moves)))
+    return embed
 
 def help_embed():
     text = "" \

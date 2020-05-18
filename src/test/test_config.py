@@ -1,10 +1,12 @@
 from src import configurator
-import unittest
+import unittest, os
 
-config = configurator.Configurator("test_config.json")
+dir_path = os.path.dirname(os.path.realpath(__file__))
 
+config = configurator.Configurator(dir_path + "/test_config.json")
 
 class MyTestCase(unittest.TestCase):
+
     def test_read_config(self):
         self.assertEqual("Test", config.read_config()['Test'])
 

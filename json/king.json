@@ -114,7 +114,7 @@
         "Command": "1+2, 1",
         "Counter hit frame": "KND",
         "Damage": "18,21",
-        "Gif": "https://gfycat.com/EasyDistantLacewing.gif",
+        "Gif": "https://gfycat.com/smallkeenimago.gif",
         "Hit frame": "KND",
         "Hit level": "m, m",
         "Notes": "Wall bounce",
@@ -1788,13 +1788,24 @@
         "Start up frame": "15"
     },
     {
-        "Block frame": "-9",
+        "Block frame": "-8",
         "Command": "f+3",
         "Counter hit frame": "+9",
-        "Damage": "24",
+        "Damage": "18",
         "Gif": "https://gfycat.com/WelloffSecondhandAnkole.gif",
         "Hit frame": "+1",
         "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-",
+        "Command": "f+3,1+2",
+        "Counter hit frame": "?",
+        "Damage": "18,20",
+        "Gif": "",
+        "Hit frame": "?",
+        "Hit level": "?",
         "Notes": "-",
         "Start up frame": "15"
     },

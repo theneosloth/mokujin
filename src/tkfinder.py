@@ -106,10 +106,12 @@ def get_character_detail(chara_name: str) -> dict:
     else:
         return None
 
+
 def get_generic_move(move_command: str) -> dict:
     character = get_character_detail("generic")
     move = get_move(character, move_command)
     return move
+
 
 def get_move(character: dict, move_command: str) -> dict:
     """Gets move from local_json, if exists
@@ -157,7 +159,7 @@ def is_command_in_alias(command: str, item: dict) -> bool:
 def move_simplifier(move_input) -> str:
     """Removes bells and whistles from the move_input"""
     short_input = move_input.strip().lower()
-    short_input = short_input.replace("in rage","")
+    short_input = short_input.replace("in rage", "")
 
     for old, new in const.REPLACE.items():
         short_input = short_input.replace(old, new)
