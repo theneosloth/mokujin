@@ -1,0 +1,30 @@
+name: Python application
+'on':
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - name: Validate JSON
+        uses: 'docker://orrosenblatt/validate-json-action:latest'
+        env:
+          INPUT_SCHEMA: /src/resources/schema.json
+          INPUT_JSONS: /json/akuma.json,/json/!generic.json,/json/alisa.json,/json/anna.json,/json/armor_king.json,/json/asuka.json,/json/bob.json,/json/bryan.json,/json/claudio.json,/json/devil_jin.json,/json/dragunov.json,/json/eddy.json,/json/eliza.json,/json/fahkumram.json,/json/feng.json,/json/ganryu.json,/json/geese.json,/json/gigas.json,/json/heihachi.json,/json/hwoarang.json,/json/jack7.json,/json/jin.json,/json/josie.json,/json/julia.json,/json/katarina.json,/json/kazumi.json,/json/kazuya.json,/json/king.json,/json/kuma.json,/json/lars.json,/json/law.json,/json/lee.json,/json/lei.json,/json/leo.json,/json/leroy.json,/json/lili.json,/json/lucky_chloe.json,/json/marduk.json,/json/master_raven.json,/json/miguel.json,/json/negan.json,/json/nina.json,/json/noctis.json,/json/paul.json,/json/shaheen.json,/json/steve.json,/json/xiaoyu.json,/json/yoshimitsu.json,/json/zafina.json
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install wheel
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Test with unittest
+        run: |
+          python -m unittest discover

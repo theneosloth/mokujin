@@ -1045,12 +1045,12 @@
         "Start up frame": "13~14"
     },
     {
-        "Block frame": "+13g",
+        "Block frame": "+16g",
         "Command": "WS+3, b, f",
-        "Counter hit frame": "+17",
+        "Counter hit frame": "+18",
         "Damage": "16",
         "Gif": "",
-        "Hit frame": "+17",
+        "Hit frame": "+18",
         "Hit level": "h, (TFS)",
         "Notes": "-",
         "Start up frame": "16"
@@ -1458,17 +1458,6 @@
         "Hit level": "h (TJ)",
         "Notes": "-",
         "Start up frame": "20~28a (21~) js9~"
-    },
-    {
-        "Block frame": "-",
-        "Command": "DSS , ,",
-        "Counter hit frame": "-",
-        "Damage": "-",
-        "Gif": "",
-        "Hit frame": "-",
-        "Hit level": "-",
-        "Notes": "-",
-        "Start up frame": "20~28 (21~) 9~"
     },
     {
         "Block frame": "-",

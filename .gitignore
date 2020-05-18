@@ -19,4 +19,4 @@ venv
 /tc/
 /log/
 /src/tools/add_moves.py
-/src/resources/config.json
+/src/tools/get_all_strings.py

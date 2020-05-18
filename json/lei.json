@@ -167,10 +167,10 @@
     {
         "Block frame": "-8",
         "Command": "2, 1",
-        "Counter hit frame": "3",
+        "Counter hit frame": "+3",
         "Damage": "10,13",
         "Gif": null,
-        "Hit frame": "3",
+        "Hit frame": "+3",
         "Hit level": "h, m",
         "Notes": "-",
         "Start up frame": "10"
@@ -228,7 +228,7 @@
         "Hit frame": "-4",
         "Hit level": "h",
         "Notes": "Tail spin",
-        "Start up frame": "15"
+        "Start up frame": "14"
     },
     {
         "Block frame": "-1",
