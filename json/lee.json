@@ -91,6 +91,17 @@
         "Start up frame": "10"
     },
     {
+        "Block frame": "-7",
+        "Command": "1, 2, 4*",
+        "Counter hit frame": "CS",
+        "Damage": "7,9,22",
+        "Gif": "",
+        "Hit frame": "0",
+        "Hit level": "h, h, m",
+        "Notes": "-",
+        "Start up frame": "10"
+    },
+    {
         "Block frame": "-14",
         "Command": "1, 2, 4, 3",
         "Counter hit frame": "CS",

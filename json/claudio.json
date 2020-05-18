@@ -281,7 +281,7 @@
             "BT 1+2"
         ],
         "Block frame": "-18~-17",
-        "Command": "d+1+2BT 1+2",
+        "Command": "d+1+2_BT 1+2",
         "Counter hit frame": "KND",
         "Damage": "28",
         "Gif": "https://gfycat.com/anguishedcoordinatedflicker.gif",
@@ -729,17 +729,6 @@
         "Hit level": "h",
         "Notes": "-",
         "Start up frame": "10(11~)"
-    },
-    {
-        "Block frame": "-10?",
-        "Command": "f, F+3",
-        "Counter hit frame": "-",
-        "Damage": "-",
-        "Gif": "",
-        "Hit frame": "-",
-        "Hit level": "m",
-        "Notes": "Homing, Tail spin",
-        "Start up frame": "18?(19~)"
     },
     {
         "Block frame": "-9",
