@@ -2454,7 +2454,7 @@
         "Start up frame": "12b"
     },
     {
-        "Block frame": "-14~13",
+        "Block frame": "-14~-13",
         "Command": "RDS 3",
         "Counter hit frame": "KND",
         "Damage": "25",

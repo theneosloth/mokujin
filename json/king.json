@@ -510,17 +510,6 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "+2",
-        "Command": "b+4 (Close)",
-        "Counter hit frame": "KND",
-        "Damage": "25",
-        "Gif": "https://gfycat.com/SecondOilyChameleon.gif",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "Wall bounce",
-        "Start up frame": "17"
-    },
-    {
         "Block frame": "+2~+3s",
         "Command": "u/f+1+2",
         "Counter hit frame": "KND",
@@ -1770,7 +1759,7 @@
         "Command": "b+4",
         "Counter hit frame": "KND",
         "Damage": "25",
-        "Gif": "",
+        "Gif": "https://gfycat.com/SecondOilyChameleon.gif",
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Wall bounce",

@@ -623,7 +623,7 @@
         "Command": "d+3, 4",
         "Counter hit frame": "KND",
         "Damage": "15",
-        "Gif": "https://gfycat.com/DisloyalHarmoniousAfricanparadiseflycatcher.gif",
+        "Gif": "",
         "Hit frame": "-1",
         "Hit level": "l (TC), (HMS)",
         "Notes": "",
@@ -1128,10 +1128,10 @@
     {
         "Block frame": "-6~-5",
         "Command": "WS+2, 4",
-        "Counter hit frame": "+16~+17kg",
+        "Counter hit frame": "+17~+18kg",
         "Damage": "12,23",
         "Gif": "https://gfycat.com/LightScratchyDuck.gif",
-        "Hit frame": "+16~+17kg",
+        "Hit frame": "+17~+18kg",
         "Hit level": "m, h",
         "Notes": "Tail spin",
         "Start up frame": "14~16"
@@ -1375,7 +1375,7 @@
         "Alias": [
             "slide"
         ],
-        "Block frame": "-23~-19",
+        "Block frame": "-23~-19a",
         "Command": "FC+d/f, d, D/F+3",
         "Counter hit frame": "KND",
         "Damage": "22",
@@ -1614,7 +1614,7 @@
         "Command": "MS 3+4",
         "Counter hit frame": "KND",
         "Damage": "17",
-        "Gif": "https://gfycat.com/ScratchyMadCopperbutterfly.gif",
+        "Gif": "https://gfycat.com/alienatedcheeryirishsetter.gif",
         "Hit frame": "KND",
         "Hit level": "l (TJ)",
         "Notes": "",
