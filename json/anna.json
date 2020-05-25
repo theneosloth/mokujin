@@ -763,7 +763,7 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "-16",
+        "Block frame": "-15",
         "Command": "d/f+4",
         "Counter hit frame": "KND",
         "Damage": "17",

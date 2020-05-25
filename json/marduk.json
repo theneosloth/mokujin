@@ -242,7 +242,7 @@
         "Start up frame": "23"
     },
     {
-        "Block frame": "-11",
+        "Block frame": "-11s",
         "Command": "f+3,2",
         "Counter hit frame": "Launch",
         "Damage": "13,20",

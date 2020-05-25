@@ -237,12 +237,12 @@
         "Recovery": "-35",
         "Start up frame": "27~28,37~38"
     },
-    {
+    {   "Alias": ["MG 2"],
         "Block frame": "-9",
-        "Command": "f, F+2 When hit , b",
+        "Command": "f, F+2",
         "Counter hit frame": "KND",
         "Damage": "25",
-        "Gif": "",
+        "Gif": "https://gfycat.com/gratefulnecessaryirukandjijellyfish.gif",
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",

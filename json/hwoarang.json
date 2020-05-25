@@ -1245,7 +1245,7 @@
         "Start up frame": "10"
     },
     {
-        "Block frame": "-15",
+        "Block frame": "-15s",
         "Command": "RFF 2,4,3",
         "Counter hit frame": "KND",
         "Damage": "6,12,20",
@@ -1368,7 +1368,7 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "-15",
+        "Block frame": "-15s",
         "Command": "RFF 4,3",
         "Counter hit frame": "KND",
         "Damage": "12,20",
@@ -2082,7 +2082,7 @@
         "Start up frame": "13"
     },
     {
-        "Block frame": "-15",
+        "Block frame": "-15s",
         "Command": "RFS 2,4,3",
         "Counter hit frame": "KND",
         "Damage": "7,12,20",
