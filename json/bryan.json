@@ -1943,12 +1943,12 @@
     },
     {
         "Block frame": "-10",
-        "Command": "WS+2 (to GUP)",
+        "Command": "WS+2",
         "Counter hit frame": "+1",
         "Damage": "18",
         "Gif": "",
         "Hit frame": "+1",
-        "Hit level": "m(GUP)",
+        "Hit level": "",
         "Notes": "",
         "Start up frame": "19"
     },
