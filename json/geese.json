@@ -288,14 +288,14 @@
     },
     {
         "Block frame": "-9",
-        "Command": "f+2When con, nects1",
+        "Command": "f+2, 1",
         "Counter hit frame": "KND",
         "Damage": "5,10,15",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "mh, h",
         "Notes": "",
-        "Start up frame": "17,32"
+        "Start up frame": "17"
     },
     {
         "Block frame": "+5~+7",

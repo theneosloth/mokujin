@@ -1051,12 +1051,12 @@
             "d, d/f+1, 3",
             "d, d/f+1, 4"
         ],
-        "Block frame": "+2",
+        "Block frame": "-8",
         "Command": "d, d/f+1, 3_4",
-        "Counter hit frame": "+13",
+        "Counter hit frame": "+3",
         "Damage": "14",
         "Gif": "https://gfycat.com/FlusteredUnlawfulCockerspaniel.gif",
-        "Hit frame": "+8",
+        "Hit frame": "+2",
         "Hit level": "m (CES)",
         "Notes": "",
         "Start up frame": "-"

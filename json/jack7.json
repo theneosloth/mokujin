@@ -866,7 +866,7 @@
         "Notes": "",
         "Start up frame": "30~33 (41~)"
     },
-    {
+    {   "Alias": ["one", "EMGF"],
         "Block frame": "-17~-14",
         "Command": "hcf, d/f+1 (d/b, d/f, f, d/f+1)",
         "Counter hit frame": "Launch(JG?)",
@@ -1995,7 +1995,7 @@
         "Start up frame": "16s cs6~"
     },
     {
-        "Block frame": "-8~-7",
+        "Block frame": "-11",
         "Command": "b+1",
         "Counter hit frame": "KND",
         "Damage": "17",

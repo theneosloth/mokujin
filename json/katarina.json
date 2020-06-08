@@ -827,6 +827,17 @@
         "Start up frame": "18 js9~"
     },
     {
+        "Block frame": "-6",
+        "Command": "d/f+1+2",
+        "Counter hit frame": "1+2",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/warlikespecificcommongonolek.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
         "Alias": [
             "u/b+2",
             "u+2",
