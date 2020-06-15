@@ -1044,14 +1044,25 @@
     },
     {
         "Block frame": "-9",
-        "Command": "FC+d/f+2",
-        "Counter hit frame": "+4",
+        "Command": "FC d/f+2",
+        "Counter hit frame": "1+2",
         "Damage": "12",
         "Gif": "",
         "Hit frame": "+4",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "13"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "FC d/f,d,d/f+1+2",
+        "Counter hit frame": "+4",
+        "Damage": "45",
+        "Gif": "https://gfycat.com/dismaldistantiriomotecat.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "11"
     },
     {
         "Block frame": "-8",
@@ -1948,7 +1959,7 @@
         "Damage": "18",
         "Gif": "",
         "Hit frame": "+1",
-        "Hit level": "",
+        "Hit level": "m",
         "Notes": "",
         "Start up frame": "19"
     },

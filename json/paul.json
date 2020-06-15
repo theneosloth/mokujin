@@ -523,7 +523,7 @@
         "Start up frame": "s cs20~"
     },
     {
-        "Block frame": "-5~+6",
+        "Block frame": "-1~+5",
         "Command": "f, F+4",
         "Counter hit frame": "KND",
         "Damage": "20",
@@ -710,7 +710,7 @@
     {
         "Block frame": "0~+1s",
         "Command": "qcb+1",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "24",
         "Gif": "https://gfycat.com/ScrawnyRichGuineapig.gif",
         "Hit frame": "KND",

@@ -11,7 +11,7 @@
         "Start up frame": "20 pc8~17"
     },
     {
-        "Block frame": "+7~+8",
+        "Block frame": "+9~+10",
         "Command": "in rage SEN 1+2",
         "Counter hit frame": "KND",
         "Damage": "27",

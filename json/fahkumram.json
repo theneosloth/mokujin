@@ -583,7 +583,7 @@
     "Start up frame": "13~14"
   },
   {
-    "Block frame": "-12",
+    "Block frame": "-13",
     "Command": "d/f+1,4",
     "Counter hit frame": "KND",
     "Damage": "10,23",
@@ -1262,7 +1262,7 @@
     "Hit frame": "Launch",
     "Hit level": "m",
     "Notes": "",
-    "Start up frame": "15~16 (~24)"
+    "Start up frame": "15~16 (~24) js9~"
   },
   {
     "Block frame": "-",
