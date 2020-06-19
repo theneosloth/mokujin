@@ -450,37 +450,40 @@
     {
         "Block frame": "-31",
         "Command": "d+4",
-        "Counter hit frame": "-9",
-        "Damage": "9",
+        "Counter hit frame": "-9 (KND)",
+        "Damage": "9(13)",
         "Gif": null,
-        "Hit frame": "-9",
+        "Hit frame": "-9 (KND)",
         "Hit level": "l",
-        "Notes": "",
+        "Notes": "Has Clean Hit property.\nKND when extension is input.",
         "Start up frame": "19"
     },
     {
         "Block frame": "-12",
-        "Command": "d+4, 1",
+        "Command": "d+4,1",
         "Counter hit frame": "+4",
         "Damage": "9(13),20",
         "Gif": "",
         "Hit frame": "+4",
         "Hit level": "l,h",
-        "Notes": "",
+        "Notes": "1st: Has Clean Hit property.",
         "Start up frame": "19"
     },
     {
         "Alias": [
-            "demoman"
+            "Demoman",
+            "Demo Man",
+            "Emo Man",
+            "Emoman"
         ],
         "Block frame": "-18s",
         "Command": "d+4, 1, 1+2",
         "Counter hit frame": "KND",
-        "Damage": "13 [16], 14, 11",
+        "Damage": "9(13),20,25(28)",
         "Gif": "https://gfycat.com/QuaintAggressiveBangeltiger.gif",
         "Hit frame": "KND",
         "Hit level": "l,h,m",
-        "Notes": "",
+        "Notes": "1st: Has Clean Hit property.\n3rd: Has Just Frame input.",
         "Start up frame": "19"
     },
     {
