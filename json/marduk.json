@@ -1295,27 +1295,33 @@
         "Start up frame": "19"
     },
     {
-        "Alias": "fdft 2",
+        "Alias": [
+            "FDFA 2",
+            "FDFT 2"
+        ],
         "Block frame": "-7",
-        "Command": "FDFA 2",
+        "Command": "Face Down 2",
         "Counter hit frame": "+4",
         "Damage": "23",
         "Gif": "",
         "Hit frame": "+4",
         "Hit level": "m",
-        "Notes": "Can be done from FDFT",
+        "Notes": "",
         "Start up frame": "20"
     },
     {
-        "Alias": "fdft d+2",
+        "Alias": [
+            "FDFA d+2",
+            "FDFT d+2"
+        ],
         "Block frame": "-24",
-        "Command": "FDFA d+2",
+        "Command": "Face Down d+2",
         "Counter hit frame": "throw",
         "Damage": "18(,10)",
         "Gif": "",
         "Hit frame": "throw",
         "Hit level": "l (throw)",
-        "Notes": "Can be done from FDFT",
+        "Notes": "",
         "Start up frame": "17"
     },
     {

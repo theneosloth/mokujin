@@ -778,6 +778,20 @@
         "Start up frame": "13"
     },
     {
+        "Alias": [
+            "Parry"
+        ],
+        "Block frame": "-",
+        "Command": "b+1+2",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": "",
+        "Hit frame": "+13",
+        "Hit level": "(parries h/m punch)",
+        "Notes": "",
+        "Start up frame": "2~10 (vulnerable 0~1,11~35)"
+    },
+    {
         "Block frame": "-14",
         "Command": "u/b+3",
         "Counter hit frame": "-3",
