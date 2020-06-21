@@ -1,6 +1,6 @@
 [
     {
-        "Block frame": "-22",
+        "Block frame": "-22~-21",
         "Command": "in rage d/b+3+4",
         "Counter hit frame": "KND",
         "Damage": "55",
@@ -8,7 +8,18 @@
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "Rage art",
-        "Start up frame": "20 pc8~17 js9~17"
+        "Start up frame": "20~21 pc8~21 js9~21"
+    },
+    {
+        "Block frame": "-5",
+        "Command": "d/b+3+4",
+        "Counter hit frame": "2 (1+2 before takedown)",
+        "Damage": "5",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m (TJ)",
+        "Notes": "Rage art",
+        "Start up frame": "26"
     },
     {
         "Block frame": "+5~+8",
@@ -29,7 +40,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m (TJ), (throw), h",
-        "Notes": "Rage art, Tail spin",
+        "Notes": "Rage Drive, Tail spin",
         "Start up frame": "15~18 7~"
     },
     {
@@ -40,7 +51,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m (TJ), (throw), !",
-        "Notes": "Rage art",
+        "Notes": "Rage Drive",
         "Start up frame": "15~18 7~"
     },
     {
@@ -57,10 +68,10 @@
     {
         "Block frame": "-10",
         "Command": "1, 2, 3+4",
-        "Counter hit frame": "-3",
+        "Counter hit frame": "-2",
         "Damage": "7,12",
         "Gif": "https://gfycat.com/SpecificEasygoingGreatargus.gif",
-        "Hit frame": "-3",
+        "Hit frame": "-2",
         "Hit level": "h, h, (Special)",
         "Notes": "",
         "Start up frame": "10"
@@ -85,7 +96,7 @@
         "Hit frame": "+10~+12kg",
         "Hit level": "h, h",
         "Notes": "Tail spin",
-        "Start up frame": " 6~"
+        "Start up frame": " 10"
     },
     {
         "Block frame": "-8~-7",
@@ -111,13 +122,13 @@
     },
     {
         "Block frame": "-16~-15",
-        "Command": "3, 3, 4, b (Cancel)",
+        "Command": "3, 3, 4, b",
         "Counter hit frame": "-5~-4",
-        "Damage": "12,10",
+        "Damage": "12,12",
         "Gif": "",
         "Hit frame": "-8~-7",
         "Hit level": "m, h, (Special)",
-        "Notes": "",
+        "Notes": "Cancel",
         "Start up frame": "14~15ab"
     },
     {
@@ -154,15 +165,15 @@
         "Start up frame": "25~26, 31~36a (25~)"
     },
     {
-        "Block frame": "-9",
+        "Block frame": "-16~-14",
         "Command": "4~3",
-        "Counter hit frame": "Launch (JG?)",
-        "Damage": "13,15",
+        "Counter hit frame": "Launch",
+        "Damage": "8, 10",
         "Gif": null,
-        "Hit frame": "Launch (JG?)",
-        "Hit level": "mm",
+        "Hit frame": "Launch",
+        "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "25 js14~"
+        "Start up frame": "16 js14~"
     },
     {
         "Block frame": "-39",
@@ -179,7 +190,7 @@
         "Block frame": "-13~-12",
         "Command": "4~3, 1",
         "Counter hit frame": "+4~+5",
-        "Damage": "8,10(12),12",
+        "Damage": "8,10,12",
         "Gif": "https://gfycat.com/OrneryResponsibleIchthyosaurs.gif",
         "Hit frame": "+4~+5",
         "Hit level": "m, m, l (TC)",
@@ -190,7 +201,7 @@
         "Block frame": "-4~0",
         "Command": "4~3, 3",
         "Counter hit frame": "KND",
-        "Damage": "8,10(12),23",
+        "Damage": "8,10,23",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m, m, h",
@@ -201,7 +212,7 @@
         "Block frame": "-14~-13",
         "Command": "4~3, 4",
         "Counter hit frame": "KND",
-        "Damage": "8,10(12),17",
+        "Damage": "8,10,17",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m, m, m",
@@ -212,11 +223,11 @@
         "Block frame": "-9",
         "Command": "1+2",
         "Counter hit frame": "KND",
-        "Damage": "23",
+        "Damage": "23 (35)",
         "Gif": "https://gfycat.com/WeeklyUnimportantLeafcutterant.gif",
         "Hit frame": "CS",
-        "Hit level": "m(Attack returned)",
-        "Notes": "",
+        "Hit level": "m (Attack returned, !)",
+        "Notes": "Sabaki i1~3",
         "Start up frame": "14"
     },
     {
@@ -260,7 +271,7 @@
         "Gif": "https://gfycat.com/JauntyZealousAnnelid.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Power crush, Homing",
+        "Notes": "Power crush, Homing, Tail Spin",
         "Start up frame": "19~21 pc8~21"
     },
     {
@@ -286,7 +297,7 @@
         "Start up frame": "16~18"
     },
     {
-        "Block frame": "-15~-14",
+        "Block frame": "-15~-12",
         "Command": "d/f+4, 4",
         "Counter hit frame": "KND",
         "Damage": "13,13",
@@ -299,10 +310,10 @@
     {
         "Block frame": "-6~-3",
         "Command": "d/f+4, 4, 3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "13,15,22",
         "Gif": "https://gfycat.com/DirectCarelessAmmonite.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "m, m, m (TJ)",
         "Notes": "",
         "Start up frame": "js1~"
@@ -311,12 +322,23 @@
         "Block frame": "-29~-26",
         "Command": "d/f+4, 4, U",
         "Counter hit frame": "KND",
-        "Damage": "13,15",
+        "Damage": "13,13",
         "Gif": "https://gfycat.com/UnequaledFaithfulCrab.gif",
         "Hit frame": "-18~-15s -10~-7s",
         "Hit level": "m, m, (Special) (TJ)",
         "Notes": "",
         "Start up frame": "js1~"
+    },
+    {
+        "Block frame": "-",
+        "Command": "d/f+1+2, B",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": "",
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "Wall Bounce, Cancel",
+        "Start up frame": ""
     },
     {
         "Block frame": "-12",
@@ -326,18 +348,18 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "Wall Bounce",
         "Start up frame": "40"
     },
     {
         "Block frame": "-",
-        "Command": "d/f+1+2, B (Cancel)",
+        "Command": "d/f+1+2, B",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(BT)",
-        "Notes": "",
+        "Notes": "Cancel",
         "Start up frame": "b"
     },
     {
@@ -407,7 +429,7 @@
         "Start up frame": "js1~"
     },
     {
-        "Block frame": "-23~-22",
+        "Block frame": "-18~-17",
         "Command": "b+2, 4, U",
         "Counter hit frame": "-7~-6",
         "Damage": "12,15",
@@ -453,7 +475,7 @@
     {
         "Block frame": "-11~-10",
         "Command": "b+4, (b+4, 3), 4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "11,11,9",
         "Gif": "",
         "Hit frame": "0~+1",
@@ -475,7 +497,7 @@
     {
         "Block frame": "-11~-10",
         "Command": "b+4, (b+4, 3), f+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "11,11,12",
         "Gif": "",
         "Hit frame": "0~+1",
@@ -497,7 +519,7 @@
     {
         "Block frame": "-6~-3",
         "Command": "b+4, (b+4, 3), f+4~3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "11,11,22",
         "Gif": "",
         "Hit frame": "KND",
@@ -537,6 +559,28 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "31~32"
+    },
+    {   "Alias": ["b+1+3", "b+2+4"],
+        "Block frame": "-",
+        "Command": "b+1+3_b+2+4",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": null,
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "Parries everything except throws and RA and teleports away from the opponent",
+        "Start up frame": "1~9"
+    },
+    {   "Alias": ["BT b+1+3", "BT b+2+4"],
+        "Block frame": "-",
+        "Command": "BT b+1+3_b+2+4",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": null,
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "Parries everything except throws and RA and teleports away from the opponent",
+        "Start up frame": "1~9"
     },
     {
         "Block frame": "+1~+2s",
@@ -608,10 +652,10 @@
         ],
         "Block frame": "-15~-14",
         "Command": "u/b_u+3, d+3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "25,18",
         "Gif": "https://gfycat.com/HollowImmaculateIndianelephant.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "h (TJ), l (TC)",
         "Notes": "",
         "Start up frame": "cs14~"
@@ -623,10 +667,10 @@
         ],
         "Block frame": "-6~-3",
         "Command": "u/b_u+3, d+3, 3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "25,18,22",
         "Gif": "https://gfycat.com/NarrowHonoredBigmouthbass.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "h (TJ), l (TC), m (TJ)",
         "Notes": "",
         "Start up frame": "js1~"
@@ -639,7 +683,7 @@
         "Block frame": "-35~-34",
         "Command": "u/b_u+3, d+3, U",
         "Counter hit frame": "KND",
-        "Damage": "33,24",
+        "Damage": "25,18",
         "Gif": "https://gfycat.com/RashZealousEft.gif",
         "Hit frame": "KND",
         "Hit level": "h (TJ), l (TC), (Special) (TJ)",
@@ -648,8 +692,23 @@
     },
     {
         "Alias": [
-            "u/b+4",
-            "u+4",
+            "u/b+3, d+3, d",
+            "u+3,d+3,d"
+        ],
+        "Block frame": "-29~-28",
+        "Command": "u/b_u+3, d+3, d",
+        "Counter hit frame": "KND",
+        "Damage": "25, 18",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "h (TJ), l (TC), (Special) (TJ)",
+        "Notes": "Ki-Charge",
+        "Start up frame": "cs1~"
+    },
+    {
+        "Alias": [
+            "u/b+4,4",
+            "u+4,4",
             "u/f+4,4"
         ],
         "Block frame": "-15~-12",
@@ -661,6 +720,37 @@
         "Hit level": "m (TJ), m",
         "Notes": "",
         "Start up frame": "19~23 8~"
+    },
+    {
+        "Alias": [
+            "u/b+4,4, B",
+            "u+4,4, B",
+            "u/f+4,4, B"
+        ],
+        "Block frame": "-17~-13",
+        "Command": "u/b_u_u/f+4, 4, B",
+        "Counter hit frame": "KND",
+        "Damage": "13,20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m (TJ), m",
+        "Notes": "Cancel",
+        "Start up frame": "19~23 8~"
+    },
+    {
+        "Alias": [
+            "u/b+4",
+            "u+4"
+        ],
+        "Block frame": "-5~-1",
+        "Command": "u/b_u+4",
+        "Counter hit frame": "KND",
+        "Damage": "13or16,20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m (TJ)",
+        "Notes": "",
+        "Start up frame": "19~23 js8~"
     },
     {
         "Block frame": "-17~-15",
@@ -676,7 +766,7 @@
     {
         "Block frame": "-14~-13",
         "Command": "u/f+3+4, 4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "20,9",
         "Gif": null,
         "Hit frame": "-3~-2",
@@ -698,7 +788,7 @@
     {
         "Block frame": "-14~-13",
         "Command": "u/f+3+4, f+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "20,12",
         "Gif": null,
         "Hit frame": "-3~-2",
@@ -720,7 +810,7 @@
     {
         "Block frame": "-6~-3",
         "Command": "u/f+3+4, f+4~3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "20,22",
         "Gif": "",
         "Hit frame": "KND",
@@ -784,7 +874,7 @@
         "Start up frame": "15~17 (16~)"
     },
     {
-        "Block frame": "+9g",
+        "Block frame": "+9g~+10g",
         "Command": "f, f, f+3",
         "Counter hit frame": "KND",
         "Damage": "30",
@@ -802,7 +892,7 @@
         "Gif": "https://gfycat.com/VeneratedEarlyCurlew.gif",
         "Hit frame": "KND",
         "Hit level": "mh(Attack returned)",
-        "Notes": "",
+        "Notes": "Sabaki i1~8",
         "Start up frame": "17~18, 30~31 (18~)"
     },
     {
@@ -845,32 +935,43 @@
         "Counter hit frame": "KND",
         "Damage": "23",
         "Gif": "https://gfycat.com/FaithfulGrippingKomododragon.gif",
-        "Hit frame": "KND",
+        "Hit frame": "+10~+13kg",
         "Hit level": "m",
-        "Notes": "Homing",
+        "Notes": "Homing, Tail Spin",
         "Start up frame": "16~19"
     },
     {
+        "Block frame": "-",
+        "Command": "WS+3+4, B",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": "",
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "Move Cancel (Costs 25f until Raven is able to act again)",
+        "Start up frame": ""
+    },
+    {
         "Block frame": "-23",
-        "Command": "FC+d/f+3+4",
-        "Counter hit frame": "KND",
+        "Command": "FC d/f+3+4",
+        "Counter hit frame": "Launch",
         "Damage": "17",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "18~20 cs1~17"
+        "Start up frame": "18~19 cs1~17"
     },
     {
         "Block frame": "-",
-        "Command": "FC+d/f+3+4 When hit 4",
+        "Command": "FC d/f+3+4 When hit 4",
         "Counter hit frame": "-",
         "Damage": "17,30",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "l (TC), h",
         "Notes": "",
-        "Start up frame": "18~20 1~17"
+        "Start up frame": "18~19 1~17"
     },
     {
         "Block frame": "-",
@@ -897,6 +998,17 @@
         "Start up frame": "-"
     },
     {
+        "Block frame": "KND",
+        "Command": "1+2+3+4, b,f+1+2",
+        "Counter hit frame": "KND",
+        "Damage": "60",
+        "Gif": null,
+        "Hit frame": "KND",
+        "Hit level": "!",
+        "Notes": "",
+        "Start up frame": "104"
+    },
+    {
         "Block frame": "-",
         "Command": "When ki-charged b, f+1+2",
         "Counter hit frame": "KND",
@@ -909,14 +1021,14 @@
     },
     {
         "Block frame": "-",
-        "Command": "3+4 (to HAZ)",
+        "Command": "3+4",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(HAZ)",
-        "Notes": "",
-        "Start up frame": "(20~)"
+        "Notes": "Costs 20f until Raven can use HAZ moves",
+        "Start up frame": " 20~ cs10~"
     },
     {
         "Block frame": "-14~-13",
@@ -955,7 +1067,7 @@
         "Block frame": "-9~-5",
         "Command": "HAZ 4 (First part)",
         "Counter hit frame": "Throw(KND)",
-        "Damage": "25(31)",
+        "Damage": "25, 6",
         "Gif": "",
         "Hit frame": "Throw(KND)",
         "Hit level": "m (TJ)(, (throw))",
@@ -992,7 +1104,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(Special), (Special)",
-        "Notes": "",
+        "Notes": "qcf dash (rolldash",
         "Start up frame": "s"
     },
     {
@@ -1003,18 +1115,18 @@
         "Gif": "https://gfycat.com/MenacingAfraidCavy.gif",
         "Hit frame": "-",
         "Hit level": "(Special), (Special) (TJ)",
-        "Notes": "",
+        "Notes": "Whitehole (Costs 25f until Raven is able to act again)",
         "Start up frame": "js1~"
     },
     {
         "Block frame": "-",
-        "Command": "b+3+4 (to BT)",
+        "Command": "b+3+4",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(BT)",
-        "Notes": "",
+        "Notes": "Costs 13f until Raven can use BT moves",
         "Start up frame": "b(14~)"
     },
     {
@@ -1064,19 +1176,19 @@
     {
         "Block frame": "-0~+2",
         "Command": "BT 3, 4",
-        "Counter hit frame": "+6~+8s",
+        "Counter hit frame": "+11g",
         "Damage": "10,17",
         "Gif": "",
         "Hit frame": "+1~+3",
         "Hit level": "h, m",
-        "Notes": "",
+        "Notes": "Guarantees 2,4 on CH",
         "Start up frame": "10"
     },
     {
         "Block frame": "-6~-3",
         "Command": "BT 3, 4, 3",
         "Counter hit frame": "KND",
-        "Damage": "10,10,22",
+        "Damage": "10,17,22",
         "Gif": "https://gfycat.com/FondSmallHomalocephale.gif",
         "Hit frame": "KND",
         "Hit level": "h, m, m",
@@ -1087,7 +1199,7 @@
         "Block frame": "-9~-7",
         "Command": "BT 3, 4, 4",
         "Counter hit frame": "KND",
-        "Damage": "10,10,21",
+        "Damage": "10,17,21",
         "Gif": "https://gfycat.com/MinorGlossyAmericansaddlebred.gif",
         "Hit frame": "KND",
         "Hit level": "h, m, m (TJ)",
@@ -1098,7 +1210,7 @@
         "Block frame": "-36~-34",
         "Command": "BT 3, 4, 4, F",
         "Counter hit frame": "KND",
-        "Damage": "10,10,21",
+        "Damage": "10,17,21",
         "Gif": "https://gfycat.com/MinorGlossyAmericansaddlebred.gif",
         "Hit frame": "KND",
         "Hit level": "h, m, m (TJ), (PHR)",
@@ -1117,7 +1229,7 @@
         "Start up frame": "js1~"
     },
     {
-        "Block frame": "-13~-12 pc6",
+        "Block frame": "-13~-12",
         "Command": "BT 1+2",
         "Counter hit frame": "CS",
         "Damage": "25",
@@ -1125,7 +1237,7 @@
         "Hit frame": "CS",
         "Hit level": "m",
         "Notes": "Power Crush",
-        "Start up frame": "15~16"
+        "Start up frame": "15~16 pc6~"
     },
     {
         "Block frame": "-20~-19",
@@ -1174,7 +1286,7 @@
     {
         "Block frame": "-12~-11",
         "Command": "BT f+2, 3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "13,17",
         "Gif": "https://gfycat.com/MindlessSpitefulAzurevase.gif",
         "Hit frame": "KND",
@@ -1233,7 +1345,7 @@
         "Damage": "17",
         "Gif": "",
         "Hit frame": "0",
-        "Hit level": "m(BT)",
+        "Hit level": "m",
         "Notes": "",
         "Start up frame": "13b"
     },
@@ -1359,6 +1471,17 @@
         "Start up frame": "18~19b"
     },
     {
+        "Block frame": "-",
+        "Command": "BT b+3+4",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": "",
+        "Hit frame": "-",
+        "Hit level": "(HAZ)",
+        "Notes": "Costs 14f until Raven can act again), Auto Block (h/m), ab 6~",
+        "Start up frame": "14~"
+    },
+    {
         "Block frame": "-9~-8",
         "Command": "BT f, F+3",
         "Counter hit frame": "KND",
@@ -1372,10 +1495,10 @@
     {
         "Block frame": "-18~-11",
         "Command": "BT f, F+3+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "17",
         "Gif": "https://gfycat.com/MiniatureHideousAuklet.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "l (TJ)",
         "Notes": "",
         "Start up frame": "23~30 (24~) js13~21 cs18~"
@@ -1412,50 +1535,50 @@
         "Hit frame": "+4~+5",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "16~17 (21~)"
+        "Start up frame": "16~17 (18~)"
     },
     {
         "Block frame": "-13~-12",
         "Command": "qcf+1, 2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "17, 17",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "16~17 (21~)"
+        "Start up frame": "16~17 (18~)"
     },
     {
         "Block frame": "-2~-1",
         "Command": "qcf+1, 3+4",
         "Counter hit frame": "CS(16)",
-        "Damage": "19",
+        "Damage": "17",
         "Gif": "https://gfycat.com/GlossyRegalIlladopsis.gif",
         "Hit frame": "+11~+12",
         "Hit level": "m, (Special)",
         "Notes": "",
-        "Start up frame": "19~20 (21~)"
+        "Start up frame": "16~17 (18~)"
     },
     {
         "Block frame": "-17~-16",
         "Command": "qcf+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "10",
         "Gif": "https://gfycat.com/PiercingSomberCanvasback.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "l (TC)",
         "Notes": "",
         "Start up frame": "27~28 (29~) cs10~"
     },
     {
         "Block frame": "-",
-        "Command": "qcf+2, B (Cancel)",
+        "Command": "qcf+2, B",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(BT)",
-        "Notes": "",
+        "Notes": "Cancel, Costs 30f until Raven is able to act again",
         "Start up frame": "b"
     },
     {
@@ -1466,8 +1589,8 @@
         "Gif": "https://gfycat.com/HandyAdventurousBernesemountaindog.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "",
-        "Start up frame": "40(40)"
+        "Notes": "Wall Bounce",
+        "Start up frame": "40 (42)"
     },
     {
         "Block frame": "-7~-6",
@@ -1506,11 +1629,11 @@
         "Block frame": "-9",
         "Command": "qcf+1+2",
         "Counter hit frame": "KND",
-        "Damage": "12,21",
+        "Damage": "12,25",
         "Gif": "https://gfycat.com/VapidZealousDogfish.gif",
         "Hit frame": "KND",
-        "Hit level": "mm(Returns move)",
-        "Notes": "",
+        "Hit level": "m, m",
+        "Notes": "Wall Bounce, Sabaki (i1~5)",
         "Start up frame": "24,35s (26~) cs19~"
     },
     {
@@ -1551,12 +1674,12 @@
             "u+1",
             "u/f+1"
         ],
-        "Block frame": "-8",
+        "Block frame": "-12",
         "Command": "u_u/f+1",
-        "Counter hit frame": "+3",
+        "Counter hit frame": "+2",
         "Damage": "12",
         "Gif": "",
-        "Hit frame": "+3",
+        "Hit frame": "+2",
         "Hit level": "m (TJ)",
         "Notes": "",
         "Start up frame": "18 js9~"
@@ -1716,10 +1839,10 @@
     {
         "Block frame": "-26",
         "Command": "BT d+3 (Close)",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "21",
         "Gif": "",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "l (TC)",
         "Notes": "",
         "Start up frame": "25 cs4~"
@@ -1738,7 +1861,7 @@
     {
         "Block frame": "-6",
         "Command": "1+3",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1 or 2",
         "Damage": "35",
         "Gif": "https://gfycat.com/SickAptIbis.gif",
         "Hit frame": "KND",
@@ -1749,7 +1872,7 @@
     {
         "Block frame": "-3",
         "Command": "2+4",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1 or 2",
         "Damage": "35",
         "Gif": "https://gfycat.com/HideousJitteryCowbird.gif",
         "Hit frame": "KND",
@@ -1760,7 +1883,7 @@
     {
         "Block frame": "-6",
         "Command": "f+1+3",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1 or 2",
         "Damage": "35",
         "Gif": "https://gfycat.com/SickAptIbis.gif",
         "Hit frame": "KND",
@@ -1771,7 +1894,7 @@
     {
         "Block frame": "-3",
         "Command": "f+2+4",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1 or 2",
         "Damage": "35",
         "Gif": "https://gfycat.com/HideousJitteryCowbird.gif",
         "Hit frame": "KND",
@@ -1782,7 +1905,7 @@
     {
         "Block frame": "0",
         "Command": "hcb, f+1+2",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1+2",
         "Damage": "48",
         "Gif": "https://gfycat.com/MedicalWhisperedAntipodesgreenparakeet.gif",
         "Hit frame": "KND",
@@ -1793,7 +1916,7 @@
     {
         "Block frame": "-2",
         "Command": "d/f+1+4",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1",
         "Damage": "38",
         "Gif": "https://gfycat.com/HalfClutteredAnemonecrab.gif",
         "Hit frame": "KND",
@@ -1954,7 +2077,7 @@
         "Hit frame": "+7~+8(SH)",
         "Hit level": "h (TC)",
         "Notes": "",
-        "Start up frame": "16~17 cs8~"
+        "Start up frame": "15~16 cs8~"
     },
     {
         "Block frame": "-15~-14",
@@ -2095,7 +2218,7 @@
     {
         "Block frame": "-4~-3",
         "Command": "u/f+3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "20",
         "Gif": "https://gfycat.com/BlaringLinedArabianwildcat.gif",
         "Hit frame": "0~+1s",
@@ -2162,7 +2285,7 @@
         "Block frame": "-8",
         "Command": "BT 4",
         "Counter hit frame": "KND",
-        "Damage": "25",
+        "Damage": "18",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h",
