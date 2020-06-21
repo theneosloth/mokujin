@@ -288,7 +288,7 @@
         "Notes": "",
         "Start up frame": "30"
     },
-    {
+    {   "Alias": ["3~3:4"],
         "Block frame": "Throw(KND)",
         "Command": "3~3 hit",
         "Counter hit frame": "Throw(KND)",

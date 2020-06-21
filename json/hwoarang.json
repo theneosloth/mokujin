@@ -1027,15 +1027,26 @@
         "Start up frame": "22~24 js3~ (25~)"
     },
     {
-        "Block frame": "+5",
+        "Block frame": "+5~+6b",
         "Command": "f,f,f+4",
-        "Counter hit frame": "+8",
+        "Counter hit frame": "+8~+9b",
         "Damage": "28",
         "Gif": "",
-        "Hit frame": "+8",
+        "Hit frame": "+8~+9b",
         "Hit level": "h,(LFF)",
         "Notes": "May switch sides on hit.",
-        "Start up frame": "18 (21~)"
+        "Start up frame": "18 (21~) js15~"
+    },
+    {
+        "Block frame": "-",
+        "Command": "b+1+2",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": "",
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "Punch Parry",
+        "Start up frame": "-"
     },
     {
         "Block frame": "-7",
