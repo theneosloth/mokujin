@@ -43,7 +43,7 @@
         "Gif": "https://gfycat.com/DiligentCreepyDogfish.gif",
         "Hit frame": "+5",
         "Hit level": "h, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -54,7 +54,7 @@
         "Gif": null,
         "Hit frame": "-2~-1",
         "Hit level": "h, h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -87,7 +87,7 @@
         "Gif": "https://gfycat.com/BouncyWavyIndianspinyloach.gif",
         "Hit frame": "-1",
         "Hit level": "h, h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -98,7 +98,7 @@
         "Gif": "",
         "Hit frame": "0",
         "Hit level": "h, h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -109,7 +109,7 @@
         "Gif": null,
         "Hit frame": "-3",
         "Hit level": "h, h, m, (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -120,7 +120,7 @@
         "Gif": "",
         "Hit frame": "0",
         "Hit level": "h, h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -131,7 +131,7 @@
         "Gif": "https://gfycat.com/UnluckyImprobableArrowana.gif",
         "Hit frame": "+4",
         "Hit level": "h, h, (Special) (TC)(MS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -142,7 +142,7 @@
         "Gif": null,
         "Hit frame": "0",
         "Hit level": "h, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -153,7 +153,7 @@
         "Gif": null,
         "Hit frame": "+1",
         "Hit level": "h, h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -164,7 +164,7 @@
         "Gif": "https://gfycat.com/LargeSelfassuredEyas.gif",
         "Hit frame": "KND",
         "Hit level": "h, h, m, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -175,7 +175,7 @@
         "Gif": null,
         "Hit frame": "+6~+8",
         "Hit level": "h, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -186,7 +186,7 @@
         "Gif": null,
         "Hit frame": "+6",
         "Hit level": "h, h, (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -197,7 +197,7 @@
         "Gif": "https://gfycat.com/DeafeningAmusedEnglishpointer.gif",
         "Hit frame": "+3~+4",
         "Hit level": "h, h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10s"
     },
     {
@@ -219,7 +219,7 @@
         "Gif": "https://gfycat.com/PointedWholeChickadee.gif",
         "Hit frame": "0~+2",
         "Hit level": "h, h, l (TC)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "cs16~"
     },
     {
@@ -230,7 +230,7 @@
         "Gif": null,
         "Hit frame": "-2~-1",
         "Hit level": "h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "16~"
     },
     {
@@ -263,7 +263,7 @@
         "Gif": null,
         "Hit frame": "+3",
         "Hit level": "m, (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14"
     },
     {
@@ -274,7 +274,7 @@
         "Gif": "https://gfycat.com/AggressiveHelplessJoey.gif",
         "Hit frame": "+1",
         "Hit level": "m, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14"
     },
     {
@@ -285,10 +285,10 @@
         "Gif": "https://gfycat.com/UnrealisticCompassionateAfricanwildcat.gif",
         "Hit frame": "+1",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "30"
     },
-    {
+    {   "Alias": ["3~3:4"],
         "Block frame": "Throw(KND)",
         "Command": "3~3 hit",
         "Counter hit frame": "Throw(KND)",
@@ -296,7 +296,7 @@
         "Gif": "",
         "Hit frame": "Throw(KND)",
         "Hit level": "(h, )h(Throw)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "30"
     },
     {
@@ -307,7 +307,7 @@
         "Gif": null,
         "Hit frame": "-3",
         "Hit level": "h, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "11"
     },
     {
@@ -318,7 +318,7 @@
         "Gif": "https://gfycat.com/BlackIllegalAnnashummingbird.gif",
         "Hit frame": "KND",
         "Hit level": "h, h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "11"
     },
     {
@@ -329,7 +329,7 @@
         "Gif": "https://gfycat.com/YellowSpiritedCottontail.gif",
         "Hit frame": "KND",
         "Hit level": "h, h, m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "js22~"
     },
     {
@@ -340,7 +340,7 @@
         "Gif": null,
         "Hit frame": "+6",
         "Hit level": "h, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "22~"
     },
     {
@@ -351,7 +351,7 @@
         "Gif": "https://gfycat.com/AngelicWindingAmericanredsquirrel.gif",
         "Hit frame": "+6",
         "Hit level": "h, h, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "22~"
     },
     {
@@ -362,7 +362,7 @@
         "Gif": "https://gfycat.com/BonyHandmadeCockroach.gif",
         "Hit frame": "KND",
         "Hit level": "h, m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "22~a"
     },
     {
@@ -373,7 +373,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h, m (Mist step)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "22~a"
     },
     {
@@ -381,7 +381,7 @@
         "Command": "1+2",
         "Counter hit frame": "KND",
         "Damage": "20",
-        "Gif": "https://gfycat.com/DiligentCreepyDogfish.gif",
+        "Gif": "https://gfycat.com/oilydamagedhornet.gif",
         "Hit frame": "+3~+4",
         "Hit level": "m",
         "Notes": "Homing",
@@ -406,7 +406,7 @@
         "Gif": "https://gfycat.com/UnsungBlushingBird.gif",
         "Hit frame": "KND",
         "Hit level": "m, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14~15"
     },
     {
@@ -417,7 +417,7 @@
         "Gif": null,
         "Hit frame": "-7",
         "Hit level": "m, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -428,7 +428,7 @@
         "Gif": null,
         "Hit frame": "-7~-6",
         "Hit level": "m, m, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -439,7 +439,7 @@
         "Gif": null,
         "Hit frame": "-7~-6",
         "Hit level": "m, m, h, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -450,7 +450,7 @@
         "Gif": null,
         "Hit frame": "KND",
         "Hit level": "m, m, h, h, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -483,7 +483,7 @@
         "Gif": "",
         "Hit frame": "+13",
         "Hit level": "h, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "11"
     },
     {
@@ -494,7 +494,7 @@
         "Gif": "https://gfycat.com/RichAcademicLadybird.gif",
         "Hit frame": "+6~+8s",
         "Hit level": "h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "11"
     },
     {
@@ -505,7 +505,7 @@
         "Gif": null,
         "Hit frame": "+10~+12s",
         "Hit level": "h, m, (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "11"
     },
     {
@@ -516,7 +516,7 @@
         "Gif": "https://gfycat.com/SpanishPointedCockerspaniel.gif",
         "Hit frame": "KND",
         "Hit level": "hh",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "13,28~29"
     },
     {
@@ -527,7 +527,7 @@
         "Gif": "https://gfycat.com/MadeupColorfulHare.gif",
         "Hit frame": "+8~+10s",
         "Hit level": "mm (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "30~32, 34~36 js14~33"
     },
     {
@@ -538,7 +538,7 @@
         "Gif": "",
         "Hit frame": "-3~-1s",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "30~32s js14~33"
     },
     {
@@ -549,7 +549,7 @@
         "Gif": null,
         "Hit frame": "+5~+6",
         "Hit level": "m, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15~16"
     },
     {
@@ -560,7 +560,7 @@
         "Gif": "https://gfycat.com/ImpressiveNegativeBlackfish.gif",
         "Hit frame": "Launch",
         "Hit level": "m, h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15~16"
     },
     {
@@ -571,7 +571,7 @@
         "Gif": "",
         "Hit frame": "+2~+3",
         "Hit level": "m, (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "13~14"
     },
     {
@@ -582,7 +582,7 @@
         "Gif": null,
         "Hit frame": "-2~-1",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "20~21"
     },
     {
@@ -615,7 +615,7 @@
         "Gif": "https://gfycat.com/BlaringFabulousHousefly.gif",
         "Hit frame": "-3",
         "Hit level": "l (TC)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "16s cs6~"
     },
     {
@@ -623,10 +623,10 @@
         "Command": "d+3, 4",
         "Counter hit frame": "KND",
         "Damage": "15",
-        "Gif": "https://gfycat.com/DisloyalHarmoniousAfricanparadiseflycatcher.gif",
+        "Gif": "",
         "Hit frame": "-1",
         "Hit level": "l (TC), (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "16s cs6~"
     },
     {
@@ -637,7 +637,7 @@
         "Gif": "https://gfycat.com/JealousFormalChimpanzee.gif",
         "Hit frame": "+2",
         "Hit level": "l, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12"
     },
     {
@@ -648,7 +648,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "l, h! (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12a"
     },
     {
@@ -659,7 +659,7 @@
         "Gif": null,
         "Hit frame": "-16",
         "Hit level": "l, l",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12"
     },
     {
@@ -670,7 +670,7 @@
         "Gif": null,
         "Hit frame": "-16",
         "Hit level": "l, l, l",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12"
     },
     {
@@ -681,7 +681,7 @@
         "Gif": "https://gfycat.com/SpiffyEvenDarwinsfox.gif",
         "Hit frame": "KND",
         "Hit level": "l, l, l, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12"
     },
     {
@@ -692,7 +692,7 @@
         "Gif": null,
         "Hit frame": "KND",
         "Hit level": "l, l, l, m, (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12"
     },
     {
@@ -703,7 +703,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "l, l, l, m, (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12s"
     },
     {
@@ -714,7 +714,7 @@
         "Gif": "https://gfycat.com/DisloyalHarmoniousAfricanparadiseflycatcher.gif",
         "Hit frame": "KND",
         "Hit level": "h! (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "60a cs25~44 js45~"
     },
     {
@@ -725,7 +725,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "s"
     },
     {
@@ -736,7 +736,7 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "!, !",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "76,90"
     },
     {
@@ -747,7 +747,7 @@
         "Gif": "https://gfycat.com/DimElasticGardensnake.gif",
         "Hit frame": "+4~+6",
         "Hit level": "l?",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "23~25"
     },
     {
@@ -758,7 +758,7 @@
         "Gif": null,
         "Hit frame": "+6",
         "Hit level": "h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -769,7 +769,7 @@
         "Gif": "https://gfycat.com/FixedLameBlacklemur.gif",
         "Hit frame": "+1",
         "Hit level": "h, m, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -780,7 +780,7 @@
         "Gif": "https://gfycat.com/BleakQuarterlyAlaskajingle.gif",
         "Hit frame": "+10",
         "Hit level": "h, m, (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -791,7 +791,7 @@
         "Gif": "",
         "Hit frame": "+1",
         "Hit level": "h, (MS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -802,7 +802,7 @@
         "Gif": "",
         "Hit frame": "+6",
         "Hit level": "h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -813,7 +813,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h, m, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -824,7 +824,7 @@
         "Gif": "",
         "Hit frame": "+10",
         "Hit level": "h, m, (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -835,7 +835,7 @@
         "Gif": "",
         "Hit frame": "+1",
         "Hit level": "h, (MS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -846,7 +846,7 @@
         "Gif": "https://gfycat.com/ReliableOblongJay.gif",
         "Hit frame": "+5",
         "Hit level": "h, (MS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14"
     },
     {
@@ -857,7 +857,7 @@
         "Gif": null,
         "Hit frame": "-6~-5",
         "Hit level": "h, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14"
     },
     {
@@ -868,7 +868,7 @@
         "Gif": null,
         "Hit frame": "-8~-7",
         "Hit level": "h, h, (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14"
     },
     {
@@ -890,7 +890,7 @@
         "Gif": "https://gfycat.com/DevotedRigidAsiandamselfly.gif",
         "Hit frame": "-3",
         "Hit level": "l, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -901,7 +901,7 @@
         "Gif": "",
         "Hit frame": "+2",
         "Hit level": "l, h, (MS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -912,7 +912,7 @@
         "Gif": null,
         "Hit frame": "+8~+10s (KND)",
         "Hit level": "m, (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "20~22"
     },
     {
@@ -923,7 +923,7 @@
         "Gif": "",
         "Hit frame": "+7b",
         "Hit level": "Absorbs 1 h/m hit",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "20~22"
     },
     {
@@ -934,7 +934,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "(Special), m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "20"
     },
     {
@@ -956,7 +956,7 @@
         "Gif": "https://gfycat.com/RashRaggedJunco.gif",
         "Hit frame": "-",
         "Hit level": "(Special) (TJ), (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "20 8~19"
     },
     {
@@ -967,7 +967,7 @@
         "Gif": null,
         "Hit frame": "-",
         "Hit level": "(Special) (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "as"
     },
     {
@@ -978,7 +978,7 @@
         "Gif": null,
         "Hit frame": "-",
         "Hit level": "(Special) (TJ), (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "a"
     },
     {
@@ -989,7 +989,7 @@
         "Gif": "https://gfycat.com/MassiveMiserableAsiantrumpetfish.gif",
         "Hit frame": "+3~+4",
         "Hit level": "m (TJ), m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "s js1~4"
     },
     {
@@ -1008,10 +1008,10 @@
         "Command": "u/f+3+4",
         "Counter hit frame": "KND",
         "Damage": "27",
-        "Gif": "https://gfycat.com/TimelyDevotedBlackrussianterrier.gif",
+        "Gif": "https://gfycat.com/failingdiligentblackbuck.gif",
         "Hit frame": "KND",
         "Hit level": "h (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "22~24 js9~"
     },
     {
@@ -1022,7 +1022,7 @@
         "Gif": null,
         "Hit frame": "KND",
         "Hit level": "h (TJ), (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "22~24 js9~"
     },
     {
@@ -1033,7 +1033,7 @@
         "Gif": "https://gfycat.com/LankyWellmadeIndigobunting.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14"
     },
     {
@@ -1044,7 +1044,7 @@
         "Gif": "https://gfycat.com/SecondWindingGoitered.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "16~17 (17~) cs5~12"
     },
     {
@@ -1055,7 +1055,7 @@
         "Gif": "https://gfycat.com/CalculatingTornHorse.gif",
         "Hit frame": "Launch(JG?)",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "22~24 (24~)"
     },
     {
@@ -1078,7 +1078,7 @@
         "Hit frame": "KND",
         "Hit level": "h, (HMS)",
         "Notes": "Homing, Tail spin",
-        "Start up frame": "8~21 (20~)"
+        "Start up frame": "18~21 (20~)"
     },
     {
         "Alias": "",
@@ -1089,7 +1089,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14~15 (17~) js9~"
     },
     {
@@ -1100,7 +1100,7 @@
         "Gif": "https://gfycat.com/BaggyUnawareCutworm.gif",
         "Hit frame": "KND",
         "Hit level": "m, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "js1~"
     },
     {
@@ -1111,7 +1111,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m, m, (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "js1~"
     },
     {
@@ -1122,16 +1122,16 @@
         "Gif": "https://gfycat.com/CarefreeShimmeringKangaroo.gif",
         "Hit frame": "Launch",
         "Hit level": "m, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14~16"
     },
     {
         "Block frame": "-6~-5",
         "Command": "WS+2, 4",
-        "Counter hit frame": "+16~+17kg",
+        "Counter hit frame": "+17~+18kg",
         "Damage": "12,23",
         "Gif": "https://gfycat.com/LightScratchyDuck.gif",
-        "Hit frame": "+16~+17kg",
+        "Hit frame": "+17~+18kg",
         "Hit level": "m, h",
         "Notes": "Tail spin",
         "Start up frame": "14~16"
@@ -1144,7 +1144,7 @@
         "Gif": "",
         "Hit frame": "-4~-2s",
         "Hit level": "m, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10~12"
     },
     {
@@ -1155,7 +1155,7 @@
         "Gif": "",
         "Hit frame": "-4~-2s",
         "Hit level": "m, m (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10~12"
     },
     {
@@ -1166,7 +1166,7 @@
         "Gif": "",
         "Hit frame": "-8",
         "Hit level": "m, m, l",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10~12"
     },
     {
@@ -1177,7 +1177,7 @@
         "Gif": "",
         "Hit frame": "-8",
         "Hit level": "m, m, l, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10~12"
     },
     {
@@ -1188,7 +1188,7 @@
         "Gif": "",
         "Hit frame": "-5",
         "Hit level": "m, m, l, m, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10~12"
     },
     {
@@ -1199,7 +1199,7 @@
         "Gif": "",
         "Hit frame": "-8",
         "Hit level": "m, m, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10~12"
     },
     {
@@ -1210,7 +1210,7 @@
         "Gif": "",
         "Hit frame": "-5",
         "Hit level": "m, m, m, h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10~12"
     },
     {
@@ -1221,7 +1221,7 @@
         "Gif": "",
         "Hit frame": "-8",
         "Hit level": "m, m, m, h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10~12"
     },
     {
@@ -1232,7 +1232,7 @@
         "Gif": "",
         "Hit frame": "-8",
         "Hit level": "l",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10~12"
     },
     {
@@ -1243,7 +1243,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10~12"
     },
     {
@@ -1254,7 +1254,7 @@
         "Gif": "",
         "Hit frame": "+2~+3",
         "Hit level": "m, (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "11~12"
     },
     {
@@ -1265,7 +1265,7 @@
         "Gif": "https://gfycat.com/SerpentineEdibleAntelope.gif",
         "Hit frame": "-3s~-2s",
         "Hit level": "l (TC)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "16~17s cs1~"
     },
     {
@@ -1276,7 +1276,7 @@
         "Gif": "",
         "Hit frame": "-1s~0s",
         "Hit level": "l (TC), (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "16~17s cs1~"
     },
     {
@@ -1287,7 +1287,7 @@
         "Gif": "",
         "Hit frame": "-6~+4",
         "Hit level": "m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "18~28s (18~) js9~"
     },
     {
@@ -1298,7 +1298,7 @@
         "Gif": "",
         "Hit frame": "Launch (JG?)",
         "Hit level": "m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "18~28s (18~) js9~"
     },
     {
@@ -1309,7 +1309,7 @@
         "Gif": "https://gfycat.com/SoulfulJoyfulBedlingtonterrier.gif",
         "Hit frame": "Launch (JG?)",
         "Hit level": "m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "18~28s (18~) js9~"
     },
     {
@@ -1325,7 +1325,7 @@
         "Gif": "",
         "Hit frame": "Launch (JG?) (-6~+4)",
         "Hit level": "m (TJ), (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "18~28s (18~) js9~"
     },
     {
@@ -1336,7 +1336,7 @@
         "Gif": "",
         "Hit frame": "-20~-17",
         "Hit level": "m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14~17 js9~"
     },
     {
@@ -1352,7 +1352,7 @@
         "Gif": "",
         "Hit frame": "KND (-20~-17)",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14~16s js9~"
     },
     {
@@ -1368,21 +1368,21 @@
         "Gif": "https://gfycat.com/ComplexSaneConey.gif",
         "Hit frame": "KND",
         "Hit level": "mm (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "46~49, 56~58d js9~"
     },
     {
         "Alias": [
             "slide"
         ],
-        "Block frame": "-23~-19",
+        "Block frame": "-23~-19a",
         "Command": "FC+d/f, d, D/F+3",
         "Counter hit frame": "KND",
         "Damage": "22",
         "Gif": "https://gfycat.com/GraySmallJumpingbean.gif",
         "Hit frame": "KND",
         "Hit level": "l (TC)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "16~20d (19~) cs1~15 js16~"
     },
     {
@@ -1437,7 +1437,7 @@
         "Gif": "https://gfycat.com/PinkValuableAmericangoldfinch.gif",
         "Hit frame": "+7",
         "Hit level": "h (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12"
     },
     {
@@ -1448,7 +1448,7 @@
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "h, h HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12"
     },
     {
@@ -1459,7 +1459,7 @@
         "Gif": "",
         "Hit frame": "+4",
         "Hit level": "(MS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12s"
     },
     {
@@ -1470,7 +1470,7 @@
         "Gif": "https://gfycat.com/InsistentDetailedJaguarundi.gif",
         "Hit frame": "0",
         "Hit level": "h, m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12"
     },
     {
@@ -1481,7 +1481,7 @@
         "Gif": null,
         "Hit frame": "0",
         "Hit level": "h, m (HMS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12"
     },
     {
@@ -1492,7 +1492,7 @@
         "Gif": "https://gfycat.com/RecklessLegalAfricancivet.gif",
         "Hit frame": "Launch",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "19~20"
     },
     {
@@ -1514,7 +1514,7 @@
         "Gif": "",
         "Hit frame": "Throw(KND)",
         "Hit level": "h, (throw)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "17~19 8~16"
     },
     {
@@ -1525,7 +1525,7 @@
         "Gif": "https://gfycat.com/MistyBitesizedDarklingbeetle.gif",
         "Hit frame": "KND",
         "Hit level": "l (TC)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "24~26s cs6~"
     },
     {
@@ -1536,7 +1536,7 @@
         "Gif": "https://gfycat.com/FeistyThatCuscus.gif",
         "Hit frame": "+6~+7",
         "Hit level": "mm",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15,26~27"
     },
     {
@@ -1558,7 +1558,7 @@
         "Gif": null,
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "20~22s js9~"
     },
     {
@@ -1569,7 +1569,7 @@
         "Gif": "https://gfycat.com/GracefulOrdinaryAbyssiniangroundhornbill.gif",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "25~29 js16~"
     },
     {
@@ -1584,7 +1584,7 @@
         "Gif": "https://gfycat.com/ConcreteTeemingBeagle.gif",
         "Hit frame": "-",
         "Hit level": "(Special) (TC)(MS)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "25~29 16~"
     },
     {
@@ -1595,7 +1595,7 @@
         "Gif": null,
         "Hit frame": "-1~0",
         "Hit level": "m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15~16 (17~) js9~"
     },
     {
@@ -1606,7 +1606,7 @@
         "Gif": "https://gfycat.com/ScratchyMadCopperbutterfly.gif",
         "Hit frame": "Launch (JG?)",
         "Hit level": "m (TJ), m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "js1~"
     },
     {
@@ -1614,10 +1614,10 @@
         "Command": "MS 3+4",
         "Counter hit frame": "KND",
         "Damage": "17",
-        "Gif": "https://gfycat.com/ScratchyMadCopperbutterfly.gif",
+        "Gif": "https://gfycat.com/alienatedcheeryirishsetter.gif",
         "Hit frame": "KND",
         "Hit level": "l (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "29~33a,d (31~) js6~23"
     },
     {
@@ -1628,7 +1628,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "-",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "29~33, (31~) 6~23"
     },
     {
@@ -1639,7 +1639,7 @@
         "Gif": "https://gfycat.com/CraftyOptimisticCamel.gif",
         "Hit frame": "-",
         "Hit level": "(Sway)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "(s)"
     },
     {
@@ -1650,7 +1650,7 @@
         "Gif": "",
         "Hit frame": "+3~+4",
         "Hit level": "l (TC)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "21~22 cs1~"
     },
     {
@@ -1661,7 +1661,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "-",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "21~22 1~"
     },
     {
@@ -1672,7 +1672,7 @@
         "Gif": "",
         "Hit frame": "+8",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -1683,7 +1683,7 @@
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "Sm (TC)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "11s cs4~"
     },
     {
@@ -1694,7 +1694,7 @@
         "Gif": "",
         "Hit frame": "-2",
         "Hit level": "l (TC)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12s cs4~"
     },
     {
@@ -1710,7 +1710,7 @@
         "Gif": "",
         "Hit frame": "+3",
         "Hit level": "m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "18 js9~"
     },
     {
@@ -1726,7 +1726,7 @@
         "Gif": "",
         "Hit frame": "+9~+10g",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15~16"
     },
     {
@@ -1737,7 +1737,7 @@
         "Gif": "",
         "Hit frame": "-8~-6",
         "Hit level": "m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15~17"
     },
     {
@@ -1748,7 +1748,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15~17"
     },
     {
@@ -1763,7 +1763,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "21"
     },
     {
@@ -1774,7 +1774,7 @@
         "Gif": "",
         "Hit frame": "Launch (JG?)",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "23(29,35) js9~33"
     },
     {
@@ -1785,7 +1785,7 @@
         "Gif": "",
         "Hit frame": "+9~+10",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12~13"
     },
     {
@@ -1796,7 +1796,7 @@
         "Gif": "",
         "Hit frame": "+6",
         "Hit level": "Sm (TC)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10s cs1~"
     },
     {
@@ -1807,7 +1807,7 @@
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "Sm (TC)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "11s cs1~"
     },
     {
@@ -1818,7 +1818,7 @@
         "Gif": "",
         "Hit frame": "-3",
         "Hit level": "l (TC)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "16s cs1~"
     },
     {
@@ -1829,7 +1829,7 @@
         "Gif": "",
         "Hit frame": "+8",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10(11~)"
     },
     {
@@ -1840,7 +1840,7 @@
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10(11~)"
     },
     {
@@ -1851,7 +1851,7 @@
         "Gif": "",
         "Hit frame": "+3",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14(15~)"
     },
     {
@@ -1862,7 +1862,7 @@
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "11(12~)"
     },
     {
@@ -1973,7 +1973,7 @@
         "Gif": null,
         "Hit frame": "+8",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -1984,7 +1984,7 @@
         "Gif": null,
         "Hit frame": "+7",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10"
     },
     {
@@ -1995,7 +1995,7 @@
         "Gif": "https://gfycat.com/SelfishFinishedBurro.gif",
         "Hit frame": "+7",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14"
     },
     {
@@ -2006,7 +2006,7 @@
         "Gif": null,
         "Hit frame": "+7",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "11"
     },
     {
@@ -2017,7 +2017,7 @@
         "Gif": null,
         "Hit frame": "+2~+3",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14~15"
     },
     {
@@ -2028,7 +2028,7 @@
         "Gif": null,
         "Hit frame": "-7",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -2039,7 +2039,7 @@
         "Gif": null,
         "Hit frame": "+4",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "11"
     },
     {
@@ -2050,7 +2050,7 @@
         "Gif": null,
         "Hit frame": "+5~+6",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "13~14"
     },
     {
@@ -2061,7 +2061,7 @@
         "Gif": null,
         "Hit frame": "Launch (JG?)(+4a)",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15~16"
     },
     {
@@ -2072,7 +2072,7 @@
         "Gif": null,
         "Hit frame": "+3~+4",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15~16"
     },
     {
@@ -2083,7 +2083,7 @@
         "Gif": "https://gfycat.com/EnlightenedAcademicIberianmidwifetoad.gif",
         "Hit frame": "+2~+3",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "13~14"
     },
     {
@@ -2094,7 +2094,7 @@
         "Gif": "https://gfycat.com/CreativeCraftyEider.gif",
         "Hit frame": "+8~+9",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "18~19"
     },
     {
@@ -2105,7 +2105,7 @@
         "Gif": "",
         "Hit frame": "-14",
         "Hit level": "l",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "12"
     },
     {
@@ -2116,7 +2116,7 @@
         "Gif": "https://gfycat.com/BouncyOldfashionedJay.gif",
         "Hit frame": "+2~+3",
         "Hit level": "l",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "20~21"
     },
     {
@@ -2127,7 +2127,7 @@
         "Gif": null,
         "Hit frame": "+6",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -2138,7 +2138,7 @@
         "Gif": "https://gfycat.com/ComplexHiddenGecko.gif",
         "Hit frame": "+1",
         "Hit level": "h",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14"
     },
     {
@@ -2149,7 +2149,7 @@
         "Gif": null,
         "Hit frame": "-3",
         "Hit level": "l",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15"
     },
     {
@@ -2160,7 +2160,7 @@
         "Gif": "https://gfycat.com/PotableEarnestAtlasmoth.gif",
         "Hit frame": "+7~+9s (KND)",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "20~22"
     },
     {
@@ -2171,7 +2171,7 @@
         "Gif": "https://gfycat.com/VerifiableDiscreteDrafthorse.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "18~22 js17~"
     },
     {
@@ -2182,7 +2182,7 @@
         "Gif": "https://gfycat.com/DimNextDachshund.gif",
         "Hit frame": "-",
         "Hit level": "(Special) (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "a"
     },
     {
@@ -2193,7 +2193,7 @@
         "Gif": null,
         "Hit frame": "+2~+3",
         "Hit level": "m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "25~26 js12~"
     },
     {
@@ -2204,7 +2204,7 @@
         "Gif": "https://gfycat.com/SilentArtisticDoctorfish.gif",
         "Hit frame": "Launch (JG?)",
         "Hit level": "m (TJ)",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "15~16 js9~"
     },
     {
@@ -2215,7 +2215,7 @@
         "Gif": "",
         "Hit frame": "+3~+5",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "14~16"
     },
     {
@@ -2226,7 +2226,7 @@
         "Gif": "",
         "Hit frame": "-10~-8",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "10~12"
     },
     {
@@ -2237,7 +2237,7 @@
         "Gif": "",
         "Hit frame": "+5~+6",
         "Hit level": "m",
-        "Notes": "-",
+        "Notes": "",
         "Start up frame": "11~12"
     }
 ]
