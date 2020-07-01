@@ -779,7 +779,9 @@
     },
     {
         "Alias": [
-            "Parry"
+            "Parry",
+            "Punch Parry",
+            "Reversal"
         ],
         "Block frame": "-",
         "Command": "b+1+2",
@@ -1050,17 +1052,6 @@
         "Hit level": "h,(LFF)",
         "Notes": "May switch sides on hit.",
         "Start up frame": "18 (21~) js15~"
-    },
-    {
-        "Block frame": "-",
-        "Command": "b+1+2",
-        "Counter hit frame": "-",
-        "Damage": "-",
-        "Gif": "",
-        "Hit frame": "-",
-        "Hit level": "-",
-        "Notes": "Punch Parry",
-        "Start up frame": "-"
     },
     {
         "Block frame": "-7",
