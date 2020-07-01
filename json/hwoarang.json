@@ -1347,10 +1347,10 @@
         ],
         "Block frame": "+4",
         "Command": "RFF 3~4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch (S!)",
         "Damage": "35",
         "Gif": "https://gfycat.com/WaryFlatAdeliepenguin.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch (S!)",
         "Hit level": "h,(LFF)",
         "Notes": "Homing, Tail Spin, Power Crush",
         "Start up frame": "27"
@@ -2380,6 +2380,7 @@
         "Start up frame": "15"
     },
     {
+        "Alias": ["LFS f+2+3"],
         "Block frame": "0",
         "Command": "f+2+3",
         "Counter hit frame": "1+2",
