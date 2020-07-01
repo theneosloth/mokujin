@@ -358,10 +358,10 @@
     {
         "Block frame": "-8",
         "Command": "d/f+2",
-        "Counter hit frame": "+3~-4a",
+        "Counter hit frame": "+3~+4a",
         "Damage": "15",
         "Gif": "",
-        "Hit frame": "+3~-4a",
+        "Hit frame": "+3~+4a",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "16~17"
