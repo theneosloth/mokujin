@@ -1070,7 +1070,7 @@
     {
         "Block frame": "-9",
         "Command": "FC d/f+2",
-        "Counter hit frame": "1+2",
+        "Counter hit frame": "+4",
         "Damage": "12",
         "Gif": "",
         "Hit frame": "+4",
@@ -1091,7 +1091,7 @@
     },
     {
         "Block frame": "-8",
-        "Command": "FC+d/f+2,1",
+        "Command": "FC d/f+2,1",
         "Counter hit frame": "KND",
         "Damage": "12,25",
         "Gif": "https://gfycat.com/SparklingUnderstatedHawk.gif",
@@ -1102,10 +1102,11 @@
     },
     {
         "Alias": [
-            "Northern cross"
+            "Northern Cross",
+            "NC"
         ],
         "Block frame": "-10~-9",
-        "Command": "FC+d/f+4",
+        "Command": "FC d/f+4",
         "Counter hit frame": "KND",
         "Damage": "21",
         "Gif": "https://gfycat.com/YawningEnlightenedKestrel.gif",
