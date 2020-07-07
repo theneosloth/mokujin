@@ -1045,12 +1045,12 @@
     {
         "Block frame": "-9",
         "Command": "FC d/f+2",
-        "Counter hit frame": "1+2",
+        "Counter hit frame": "+4",
         "Damage": "12",
         "Gif": "",
         "Hit frame": "+4",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "-",
         "Start up frame": "13"
     },
     {
@@ -1066,7 +1066,7 @@
     },
     {
         "Block frame": "-8",
-        "Command": "FC+d/f+2,1",
+        "Command": "FC d/f+2,1",
         "Counter hit frame": "KND",
         "Damage": "12,25",
         "Gif": "https://gfycat.com/SparklingUnderstatedHawk.gif",
