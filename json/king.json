@@ -1174,7 +1174,7 @@
         "Hit frame": "+7",
         "Hit level": "Sm (TC)",
         "Notes": "",
-        "Start up frame": "11 RC"
+        "Start up frame": "11s"
     },
     {
         "Block frame": "-13",
@@ -1185,7 +1185,7 @@
         "Hit frame": "-2",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "14 RC"
+        "Start up frame": "14s"
     },
     {
         "Block frame": "-4~-3",
@@ -1873,7 +1873,7 @@
         "Hit frame": "+2s",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "23 RC"
+        "Start up frame": "23s"
     },
     {
         "Block frame": "-17~-15a",
@@ -2060,7 +2060,7 @@
         "Hit frame": "KND",
         "Hit level": "l (TJ)",
         "Notes": "",
-        "Start up frame": "22~24 RC"
+        "Start up frame": "22~24s"
     },
     {
         "Block frame": "-",
