@@ -1321,12 +1321,12 @@
         "Block frame": "-17~-7",
         "Command": "FC+u/b_u_u/f+4, 3",
         "Counter hit frame": "Launch (JG?) (-6~+4)",
-        "Damage": "(15or22or)25",
+        "Damage": "25",
         "Gif": "",
         "Hit frame": "Launch (JG?) (-6~+4)",
         "Hit level": "m (TJ), (HMS)",
         "Notes": "",
-        "Start up frame": "18~28s (18~) js9~"
+        "Start up frame": "18 js9~"
     },
     {
         "Block frame": "-31~-28",
@@ -1337,7 +1337,7 @@
         "Hit frame": "-20~-17",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "14~17 js9~"
+        "Start up frame": "18 js9~"
     },
     {
         "Alias": [
@@ -1348,12 +1348,23 @@
         "Block frame": "-31~-28",
         "Command": "FC+u/b_u_U/F+4, d",
         "Counter hit frame": "KND",
-        "Damage": "33or37or40",
+        "Damage": "25",
         "Gif": "",
         "Hit frame": "KND (-20~-17)",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "14~16s js9~"
+        "Start up frame": "18 js9~"
+    },
+    {
+        "Block frame": "-17",
+        "Command": "FC u/f+4",
+        "Counter hit frame": "Launch",
+        "Damage": "25",
+        "Gif": "",
+        "Hit frame": "Launch",
+        "Hit level": "m",
+        "Notes": "",
+        "Start up frame": "18 js9~"
     },
     {
         "Alias": [

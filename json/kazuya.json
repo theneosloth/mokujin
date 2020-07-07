@@ -555,6 +555,17 @@
         "Start up frame": "23s cs1~ js13~"
     },
     {
+        "Block frame": "-5",
+        "Command": "FC d/f, d, d/f+1+2",
+        "Counter hit frame": "1+2",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/secondhandclutteredhare.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
         "Block frame": "-6~-5",
         "Command": "SS+1+2",
         "Counter hit frame": "KND",
