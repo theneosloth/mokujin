@@ -1,8 +1,6 @@
 [
     {
         "Alias": [
-            "in rage LFS d+3+4",
-            "in rage RFS d+3+4",
             "RFS d+3+4",
             "LFS d+3+4"
         ],
@@ -13,30 +11,36 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,(LFF)",
-        "Notes": "Rage art",
+        "Notes": "Rage Art",
         "Start up frame": "20 pc8~17"
     },
     {
-        "Block frame": "-4",
+        "Alias": [
+            "RFF d+3+4"
+        ],
+        "Block frame": "-4~-3",
         "Command": "in rage d+3+4",
-        "Counter hit frame": "0",
-        "Damage": "7,10",
+        "Counter hit frame": "0~+1",
+        "Damage": "6,9",
         "Gif": "",
-        "Hit frame": "0",
-        "Hit level": "lm",
-        "Notes": "Rage drive",
-        "Start up frame": "12,28~29"
+        "Hit frame": "0~+1",
+        "Hit level": "l,m,(LFF)",
+        "Notes": "Rage Drive",
+        "Start up frame": "12,i28~29"
     },
     {
+        "Alias": [
+            "RFF d+3+4,4"
+        ],
         "Block frame": "+7s",
         "Command": "in rage d+3+4,4",
-        "Counter hit frame": "JG",
+        "Counter hit frame": "Launch",
         "Damage": "6,9,27",
         "Gif": "",
-        "Hit frame": "JG",
+        "Hit frame": "Launch",
         "Hit level": "l,m,m(TJ),(RFF)",
-        "Notes": "Rage drive",
-        "Start up frame": "js14~"
+        "Notes": "Rage Drive",
+        "Start up frame": "12,i28~29,i29 js14~"
     },
     {
         "Block frame": "+4",
@@ -46,8 +50,8 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m(TJ),m,h,h,(LFF)",
-        "Notes": "Rage drive",
-        "Start up frame": "28"
+        "Notes": "Rage Drive",
+        "Start up frame": "28 js9~"
     },
     {
         "Block frame": "+4",
@@ -57,8 +61,8 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m(TJ),m,h,h,(LFF)",
-        "Notes": "Rage drive",
-        "Start up frame": "js1~"
+        "Notes": "Rage Drive",
+        "Start up frame": "28 js9~"
     },
     {
         "Alias": [
@@ -240,20 +244,6 @@
         "Start up frame": "14"
     },
     {
-        "Alias": [
-            "3,3,f"
-        ],
-        "Block frame": "+2",
-        "Command": "3,3~f",
-        "Counter hit frame": "+13",
-        "Damage": "15,12",
-        "Gif": "https://gfycat.com/DizzyJoyousGlowworm.gif",
-        "Hit frame": "+8",
-        "Hit level": "h,m,(LFS)",
-        "Notes": "",
-        "Start up frame": "14"
-    },
-    {
         "Block frame": "-14",
         "Command": "3,3,3",
         "Counter hit frame": "KND",
@@ -272,6 +262,20 @@
         "Gif": "https://gfycat.com/SlightThoroughKookaburra.gif",
         "Hit frame": "+20g",
         "Hit level": "h,m,h,(RFS)",
+        "Notes": "",
+        "Start up frame": "14"
+    },
+    {
+        "Alias": [
+            "3,3,f"
+        ],
+        "Block frame": "+2",
+        "Command": "3,3~f",
+        "Counter hit frame": "+13",
+        "Damage": "15,12",
+        "Gif": "https://gfycat.com/DizzyJoyousGlowworm.gif",
+        "Hit frame": "+8",
+        "Hit level": "h,m,(LFS)",
         "Notes": "",
         "Start up frame": "14"
     },
@@ -392,17 +396,6 @@
         "Start up frame": "11"
     },
     {
-        "Block frame": "+2",
-        "Command": "4,4,4,4",
-        "Counter hit frame": "KND",
-        "Damage": "14,13,10,20",
-        "Gif": "https://gfycat.com/GlumDefiniteFattaileddunnart.gif",
-        "Hit frame": "KND",
-        "Hit level": "h,h,h,h,(RFF)",
-        "Notes": "",
-        "Start up frame": "11"
-    },
-    {
         "Block frame": "-15s",
         "Command": "4,4,4,3",
         "Counter hit frame": "KND",
@@ -410,6 +403,17 @@
         "Gif": "https://gfycat.com/DecimalConsciousAiredaleterrier.gif",
         "Hit frame": "KND",
         "Hit level": "h,h,h,m,(RFF)",
+        "Notes": "",
+        "Start up frame": "11"
+    },
+    {
+        "Block frame": "+2",
+        "Command": "4,4,4,4",
+        "Counter hit frame": "KND",
+        "Damage": "14,13,10,20",
+        "Gif": "https://gfycat.com/GlumDefiniteFattaileddunnart.gif",
+        "Hit frame": "KND",
+        "Hit level": "h,h,h,h,(RFF)",
         "Notes": "",
         "Start up frame": "11"
     },
@@ -473,7 +477,7 @@
     },
     {
         "Block frame": "-",
-        "Command": "f,n+4",
+        "Command": "f,n,4",
         "Counter hit frame": "-",
         "Damage": "-",
         "Gif": "https://gfycat.com/CircularGranularChick.gif",
@@ -678,6 +682,17 @@
         "Start up frame": "16"
     },
     {
+        "Block frame": "-1",
+        "Command": "d/b+4,4",
+        "Counter hit frame": "KND",
+        "Damage": "12,21",
+        "Gif": "https://gfycat.com/SoftWildHypsilophodon.gif",
+        "Hit frame": "KND",
+        "Hit level": "l,h,(LFF)",
+        "Notes": "Tail Spin",
+        "Start up frame": "16"
+    },
+    {
         "Alias": [
             "d/b+4,f",
             "d/b+4,b",
@@ -695,17 +710,6 @@
         "Start up frame": "16"
     },
     {
-        "Block frame": "-1",
-        "Command": "d/b+4,4",
-        "Counter hit frame": "KND",
-        "Damage": "12,21",
-        "Gif": "https://gfycat.com/SoftWildHypsilophodon.gif",
-        "Hit frame": "KND",
-        "Hit level": "l,h,(LFF)",
-        "Notes": "Tail Spin",
-        "Start up frame": "16"
-    },
-    {
         "Alias": [
             "unblockable"
         ],
@@ -716,7 +720,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "!",
-        "Notes": "Check: d/b+3+4~b,b",
+        "Notes": "Cancel: d/b+3+4~b,b",
         "Start up frame": "61"
     },
     {
@@ -955,7 +959,7 @@
         "Gif": "",
         "Hit frame": "+1",
         "Hit level": "m,h(TJ)",
-        "Notes": "Check LFS u/f+3+4.",
+        "Notes": "Check LFS u/f+3+4",
         "Start up frame": "14 js14~"
     },
     {
@@ -966,7 +970,7 @@
         "Gif": "https://gfycat.com/VigorousImmediateBlesbok.gif",
         "Hit frame": "+4",
         "Hit level": "m,h(TJ),m(TJ)",
-        "Notes": "",
+        "Notes": "Check LFS u/f+3+4,4",
         "Start up frame": "14 js14~"
     },
     {
@@ -2380,9 +2384,14 @@
         "Start up frame": "15"
     },
     {
-        "Alias": ["LFS f+2+3"],
+        "Alias": [
+            "f+2+3",
+            "LFF f+2+3",
+            "RFF f+2+3",
+            "LFS f+2+3"
+        ],
         "Block frame": "0",
-        "Command": "f+2+3",
+        "Command": "(LFF_RFF_LFS) f+2+3",
         "Counter hit frame": "1+2",
         "Damage": "40",
         "Gif": "https://gfycat.com/ViciousShadowyIberianmole.gif",
