@@ -298,7 +298,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m(TJ)",
         "Notes": "",
-        "Start up frame": "22"
+        "Start up frame": "22 js16~"
     },
     {
         "Block frame": "-6",
@@ -774,7 +774,7 @@
         "Gif": "https://gfycat.com/CarelessDisguisedCygnet.gif",
         "Hit frame": "+2",
         "Hit level": "h,(RFF)",
-        "Notes": "41",
+        "Notes": "",
         "Start up frame": "13"
     },
     {

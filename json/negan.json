@@ -1041,16 +1041,16 @@
         "Notes": "",
         "Start up frame": "14"
     },
-    {
+    {   "Alias" : ["INT"],
         "Block frame": "-",
         "Command": "3+4",
-        "Counter hit frame": "-",
-        "Damage": "-",
+        "Counter hit frame": "(LP) Launch",
+        "Damage": "(LP) 25",
         "Gif": "https://gfycat.com/VigorousTerrificGossamerwingedbutterfly.gif",
-        "Hit frame": "-",
+        "Hit frame": "(LP) Launch",
         "Hit level": "(INT)",
         "Notes": "",
-        "Start up frame": "-"
+        "Start up frame": "30~ lp7~"
     },
     {
         "Block frame": "-",

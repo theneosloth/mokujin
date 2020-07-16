@@ -739,7 +739,7 @@
     },
     {
         "Block frame": "-",
-        "Command": "b+4 (when hit) 1+2",
+        "Command": "b+4:1+2",
         "Counter hit frame": "-",
         "Damage": "14, 20",
         "Gif": "https://gfycat.com/excitablecompetentcowrie.gif",
