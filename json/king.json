@@ -1985,27 +1985,27 @@
         "Notes": "",
         "Start up frame": "48~52 RG"
     },
-    {
-        "Block frame": "-10~-9",
+    {   "Alias": ["u/f+3"],
+        "Block frame": "-10",
         "Command": "u/f+3 (First part)",
         "Counter hit frame": "KND",
-        "Damage": "33",
-        "Gif": "",
+        "Damage": "23",
+        "Gif": "https://gfycat.com/neatsecondaryarrowcrab.gif",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "22~23 RG"
+        "Start up frame": "22~23 js13~"
     },
     {
-        "Block frame": "-5~-1",
+        "Block frame": "-20~-17",
         "Command": "u/f+3 (Second part)",
         "Counter hit frame": "KND",
-        "Damage": "24",
-        "Gif": "",
+        "Damage": "18",
+        "Gif": "https://gfycat.com/neatsecondaryarrowcrab.gif",
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "24~28 RG"
+        "Start up frame": "24~27 js13~"
     },
     {
         "Block frame": "-20",
