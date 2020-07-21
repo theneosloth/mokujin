@@ -886,7 +886,7 @@
     },
     {
         "Block frame": "KND",
-        "Command": "u/f+1+2 (hold)",
+        "Command": "u/f+1+2*",
         "Counter hit frame": "KND",
         "Damage": "45",
         "Gif": "https://gfycat.com/granularmarriedcougar.gif",
@@ -1301,7 +1301,7 @@
         "Notes": "",
         "Start up frame": "-"
     },
-    {
+    {   "Alias" : ["Stomp"],
         "Block frame": "-16",
         "Command": "opponent grounded d+4, 4, 4",
         "Counter hit frame": "-5",

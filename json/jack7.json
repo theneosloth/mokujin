@@ -279,6 +279,28 @@
         "Start up frame": "14~15"
     },
     {
+        "Block frame": "?",
+        "Command": "f+1, 2, 1",
+        "Counter hit frame": "?",
+        "Damage": "15,15,20",
+        "Gif": "https://gfycat.com/frenchwavyichthyosaurs.gif",
+        "Hit frame": "?",
+        "Hit level": "m, h, h",
+        "Notes": "",
+        "Start up frame": "14"
+    },
+    {
+        "Block frame": "?",
+        "Command": "f+1, 2, 1*",
+        "Counter hit frame": "?",
+        "Damage": "15,15,55",
+        "Gif": "",
+        "Hit frame": "?",
+        "Hit level": "m, h, h",
+        "Notes": "",
+        "Start up frame": "14"
+    },
+    {
         "Block frame": "-6~-5",
         "Command": "d/f+2, 1",
         "Counter hit frame": "+5~+6",

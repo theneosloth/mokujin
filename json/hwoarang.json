@@ -535,6 +535,7 @@
         "Hit frame": "Launch (JG?)(+4a)",
         "Hit level": "m,(LFF)",
         "Notes": "",
+        "Recovery": "-26",
         "Start up frame": "15"
     },
     {
@@ -1901,13 +1902,13 @@
     {
         "Block frame": "-12",
         "Command": "LFS b+3",
-        "Counter hit frame": "+14k",
+        "Counter hit frame": "+14kg",
         "Damage": "23",
         "Gif": "https://gfycat.com/WaterloggedBelatedBufeo.gif",
-        "Hit frame": "+14k",
+        "Hit frame": "+14kg",
         "Hit level": "m(TJ),(RFF)",
         "Notes": "Homing, Tail Spin, Power Crush",
-        "Start up frame": "20"
+        "Start up frame": "20 pc8~ js15~"
     },
     {
         "Block frame": "-8",

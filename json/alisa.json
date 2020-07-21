@@ -385,14 +385,14 @@
     {
         "Block frame": "-13",
         "Command": "d/f+1+2",
-        "Counter hit frame": "+8",
+        "Counter hit frame": "+8k",
         "Damage": "25",
         "Gif": "https://gfycat.com/SecondarySmoggyAcouchi.gif",
-        "Hit frame": "+8",
+        "Hit frame": "+8k",
         "Hit level": "m, (DES)",
         "Notes": "Power Crush, Tail Spin",
         "Recovery": "-34",
-        "Start up frame": "18 pc8~"
+        "Start up frame": "19 pc6~"
     },
     {
         "Block frame": "-13~-10",
@@ -1622,8 +1622,8 @@
         "Gif": "",
         "Hit frame": "+8k",
         "Hit level": "m, (DES)",
-        "Notes": "Power Crush",
-        "Start up frame": "18"
+        "Notes": "Power Crush, Tail Spin",
+        "Start up frame": "19 pc6~"
     },
     {
         "Alias": [

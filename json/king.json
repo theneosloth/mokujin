@@ -1155,17 +1155,6 @@
         "Start up frame": "10"
     },
     {
-        "Block frame": "-9",
-        "Command": "f, F+3",
-        "Counter hit frame": "+9",
-        "Damage": "24",
-        "Gif": "",
-        "Hit frame": "+1",
-        "Hit level": "m",
-        "Notes": "",
-        "Start up frame": "15(16~)"
-    },
-    {
         "Block frame": "-4",
         "Command": "d+2",
         "Counter hit frame": "+7",
@@ -1232,12 +1221,12 @@
         "Block frame": "-19",
         "Command": "u/b_u+3",
         "Counter hit frame": "KND",
-        "Damage": "33",
+        "Damage": "25",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "23"
+        "Start up frame": "23 js9~"
     },
     {
         "Block frame": "+1",
@@ -1985,27 +1974,27 @@
         "Notes": "",
         "Start up frame": "48~52 RG"
     },
-    {
-        "Block frame": "-10~-9",
+    {   "Alias": ["u/f+3"],
+        "Block frame": "-10",
         "Command": "u/f+3 (First part)",
         "Counter hit frame": "KND",
-        "Damage": "33",
-        "Gif": "",
+        "Damage": "23",
+        "Gif": "https://gfycat.com/neatsecondaryarrowcrab.gif",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "22~23 RG"
+        "Start up frame": "22~23 js13~"
     },
     {
-        "Block frame": "-5~-1",
+        "Block frame": "-20~-17",
         "Command": "u/f+3 (Second part)",
         "Counter hit frame": "KND",
-        "Damage": "24",
-        "Gif": "",
+        "Damage": "18",
+        "Gif": "https://gfycat.com/neatsecondaryarrowcrab.gif",
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "24~28 RG"
+        "Start up frame": "24~27 js13~"
     },
     {
         "Block frame": "-20",

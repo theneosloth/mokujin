@@ -576,7 +576,7 @@
         "Notes": "Tail spin",
         "Start up frame": "16~17 (25~)"
     },
-    {
+    {   "Alias" : ["Stomp"],
         "Block frame": "-12",
         "Command": "Opponent Down d+3+4",
         "Counter hit frame": "-1",
