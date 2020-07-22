@@ -1166,7 +1166,7 @@
     {
         "Block frame": "-7",
         "Command": "WS+4",
-        "Counter hit frame": "+2",
+        "Counter hit frame": "+7",
         "Damage": "18",
         "Gif": "",
         "Hit frame": "+7",
@@ -1934,26 +1934,26 @@
         "Start up frame": "15"
     },
     {
-        "Block frame": "-24",
+        "Block frame": "-24~-17",
         "Command": "MNT d+4",
         "Counter hit frame": "KND",
         "Damage": "19",
         "Gif": "https://gfycat.com/MiniatureClumsyAfricanmolesnake.gif",
-        "Hit frame": "+2s",
+        "Hit frame": "+2s~+9s",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "20"
+        "Start up frame": "20~27"
     },
     {
-        "Block frame": "-27",
+        "Block frame": "-27~-20",
         "Command": "MNT d+4, D",
         "Counter hit frame": "KND",
         "Damage": "19",
         "Gif": "",
-        "Hit frame": "-1s",
+        "Hit frame": "-1s~+6s",
         "Hit level": "l (MNT)",
         "Notes": "",
-        "Start up frame": "20"
+        "Start up frame": "20~27"
     },
     {
         "Block frame": "-10s",

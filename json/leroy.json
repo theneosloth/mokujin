@@ -839,7 +839,7 @@
         "Start up frame": "14~15 (15~), 17~18"
     },
     {
-        "Block frame": "-2~+2",
+        "Block frame": "-2~+3",
         "Command": "f,f+3",
         "Counter hit frame": "ATG",
         "Damage": "23",

@@ -740,6 +740,7 @@
         "Hit frame": "JG",
         "Hit level": "m",
         "Notes": "",
+        "Recovery": "-26",
         "Start up frame": "15"
     },
     {
@@ -1995,12 +1996,12 @@
         "Start up frame": "16"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "+2",
         "Command": "SS+1, F",
-        "Counter hit frame": "10",
+        "Counter hit frame": "+13",
         "Damage": "21",
         "Gif": "https://gfycat.com/ReflectingDefensiveGoldeneye.gif",
-        "Hit frame": "10",
+        "Hit frame": "+13",
         "Hit level": "h (TGR)",
         "Notes": "",
         "Start up frame": "16"

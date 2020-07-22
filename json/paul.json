@@ -637,7 +637,7 @@
         "Recovery": "-30",
         "Start up frame": "19(29~)"
     },
-    {
+    {   "Alias" : ["Stomp"],
         "Block frame": "-12",
         "Command": "Opponent Down, d+2",
         "Counter hit frame": "+4",

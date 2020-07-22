@@ -358,10 +358,10 @@
     {
         "Block frame": "-8",
         "Command": "d/f+2",
-        "Counter hit frame": "+3~-4a",
+        "Counter hit frame": "+3~+4a",
         "Damage": "15",
         "Gif": "",
-        "Hit frame": "+3~-4a",
+        "Hit frame": "+3~+4a",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "16~17"
@@ -461,7 +461,7 @@
         "Hit frame": "+8~+9s",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "18~19"
+        "Start up frame": "18~19 cs"
     },
     {
         "Block frame": "-14",
@@ -968,7 +968,7 @@
         "Notes": "",
         "Start up frame": "18,31~32 cs1~"
     },
-    {
+    {   "Alias" : ["Stomp"],
         "Block frame": "-14~-13",
         "Command": "Opponent Down d+3+4",
         "Counter hit frame": "-3~-2",
