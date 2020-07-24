@@ -817,6 +817,28 @@
         "Start up frame": "14~15"
     },
     {
+        "Block frame": "-",
+        "Command": "b+2",
+        "Counter hit frame": "-",
+        "Damage": "",
+        "Gif": "",
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "Parry 3~20",
+        "Start up frame": "45"
+    },
+    {   "Alias": ["b+2,1", "b+2,2"],
+        "Block frame": "-9",
+        "Command": "b+2,2",
+        "Counter hit frame": "+7",
+        "Damage": "5,5,5,5,20",
+        "Gif": "",
+        "Hit frame": "+7",
+        "Hit level": "m, h*4",
+        "Notes": "Cost 7f, startup 20f actually",
+        "Start up frame": "13"
+    },
+    {
         "Block frame": "-11~-10",
         "Command": "f,f+2",
         "Counter hit frame": "0~+1",

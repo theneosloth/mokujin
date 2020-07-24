@@ -1964,10 +1964,10 @@
     {
         "Block frame": "-15~-12",
         "Command": "BT d+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch (JG)",
         "Damage": "16",
         "Gif": "https://gfycat.com/PastelFlawedGoitered.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch (JG)",
         "Hit level": "l",
         "Notes": "",
         "Start up frame": "23~26"
