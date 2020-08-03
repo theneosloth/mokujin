@@ -284,7 +284,7 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "+2s",
+        "Block frame": "+2s~+7s",
         "Command": "f+4",
         "Counter hit frame": "KND",
         "Damage": "21",
@@ -293,7 +293,7 @@
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-26",
-        "Start up frame": "23"
+        "Start up frame": "23~28"
     },
     {
         "Block frame": "-13",
