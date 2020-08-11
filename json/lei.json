@@ -202,7 +202,7 @@
         "Command": "b+1, 2",
         "Counter hit frame": "-10",
         "Damage": "7,8",
-        "Gif": "https://gfycat.com/TediousSardonicGar.gif",
+        "Gif": "",
         "Hit frame": "-10",
         "Hit level": "h, h (BT)",
         "Notes": "",
@@ -213,7 +213,7 @@
         "Command": "b+1, 2, 1",
         "Counter hit frame": "+17",
         "Damage": "7,8,7",
-        "Gif": "https://gfycat.com/TediousSardonicGar.gif",
+        "Gif": "",
         "Hit frame": "+10",
         "Hit level": "h, h, l (BT)",
         "Notes": "BT3 guaranteed on normal hit, BTuf4 guaranteed on ch",
@@ -740,6 +740,7 @@
         "Hit frame": "JG",
         "Hit level": "m",
         "Notes": "",
+        "Recovery": "-26",
         "Start up frame": "15"
     },
     {
@@ -1995,12 +1996,12 @@
         "Start up frame": "16"
     },
     {
-        "Block frame": "-1",
+        "Block frame": "+2",
         "Command": "SS+1, F",
-        "Counter hit frame": "10",
+        "Counter hit frame": "+13",
         "Damage": "21",
         "Gif": "https://gfycat.com/ReflectingDefensiveGoldeneye.gif",
-        "Hit frame": "10",
+        "Hit frame": "+13",
         "Hit level": "h (TGR)",
         "Notes": "",
         "Start up frame": "16"

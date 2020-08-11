@@ -284,7 +284,7 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "+2s",
+        "Block frame": "+2s~+7s",
         "Command": "f+4",
         "Counter hit frame": "KND",
         "Damage": "21",
@@ -293,7 +293,7 @@
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-26",
-        "Start up frame": "23"
+        "Start up frame": "23~28"
     },
     {
         "Block frame": "-13",
@@ -739,7 +739,7 @@
     },
     {
         "Block frame": "-",
-        "Command": "b+4 (when hit) 1+2",
+        "Command": "b+4:1+2",
         "Counter hit frame": "-",
         "Damage": "14, 20",
         "Gif": "https://gfycat.com/excitablecompetentcowrie.gif",
@@ -886,7 +886,7 @@
     },
     {
         "Block frame": "KND",
-        "Command": "u/f+1+2 (hold)",
+        "Command": "u/f+1+2*",
         "Counter hit frame": "KND",
         "Damage": "45",
         "Gif": "https://gfycat.com/granularmarriedcougar.gif",
@@ -1301,7 +1301,7 @@
         "Notes": "",
         "Start up frame": "-"
     },
-    {
+    {   "Alias" : ["Stomp"],
         "Block frame": "-16",
         "Command": "opponent grounded d+4, 4, 4",
         "Counter hit frame": "-5",

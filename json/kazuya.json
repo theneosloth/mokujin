@@ -491,10 +491,10 @@
     {
         "Block frame": "-3~-1s",
         "Command": "f,F+3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "25",
         "Gif": "https://gfycat.com/CelebratedYearlyDesertpupfish.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "20~22 (21~)"
@@ -576,7 +576,7 @@
         "Notes": "Tail spin",
         "Start up frame": "16~17 (25~)"
     },
-    {
+    {   "Alias" : ["Stomp"],
         "Block frame": "-12",
         "Command": "Opponent Down d+3+4",
         "Counter hit frame": "-1",

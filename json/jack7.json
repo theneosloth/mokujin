@@ -224,8 +224,8 @@
             "f+3+4",
             "FC d/f+3+4"
         ],
-        "Block frame": "-12~-7",
-        "Command": "f+3+4_FC d/f+3+4",
+        "Block frame": "-9",
+        "Command": "f+3+4",
         "Counter hit frame": "KND",
         "Damage": "28",
         "Gif": "https://gfycat.com/shortvastbuckeyebutterfly",
@@ -250,7 +250,7 @@
         "Command": "d/f+1, 2",
         "Counter hit frame": "-1a",
         "Damage": "12,10",
-        "Gif": "https://gfycat.com/PoliticalFaroffBluebottlejellyfish.gif",
+        "Gif": "",
         "Hit frame": "-1a",
         "Hit level": "m, h",
         "Notes": "",
@@ -277,6 +277,28 @@
         "Hit level": "m, h, h, hh",
         "Notes": "",
         "Start up frame": "14~15"
+    },
+    {
+        "Block frame": "?",
+        "Command": "f+1, 2, 1",
+        "Counter hit frame": "?",
+        "Damage": "15,15,20",
+        "Gif": "https://gfycat.com/frenchwavyichthyosaurs.gif",
+        "Hit frame": "?",
+        "Hit level": "m, h, h",
+        "Notes": "",
+        "Start up frame": "14"
+    },
+    {
+        "Block frame": "?",
+        "Command": "f+1, 2, 1*",
+        "Counter hit frame": "?",
+        "Damage": "15,15,55",
+        "Gif": "",
+        "Hit frame": "?",
+        "Hit level": "m, h, h",
+        "Notes": "",
+        "Start up frame": "14"
     },
     {
         "Block frame": "-6~-5",

@@ -1348,8 +1348,8 @@
         "Start up frame": "47(48~)"
     },
     {
-        "Block frame": "-15~-14",
-        "Command": "f, n, d, d/f+1",
+        "Block frame": "-17~-16",
+        "Command": "f,n,d,d/f+1",
         "Counter hit frame": "Launch",
         "Damage": "22",
         "Gif": "https://gfycat.com/CapitalBowedArmedcrab.gif",

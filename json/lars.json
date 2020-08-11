@@ -461,7 +461,7 @@
         "Hit frame": "+8~+9s",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "18~19"
+        "Start up frame": "18~19 cs"
     },
     {
         "Block frame": "-14",
@@ -968,7 +968,7 @@
         "Notes": "",
         "Start up frame": "18,31~32 cs1~"
     },
-    {
+    {   "Alias" : ["Stomp"],
         "Block frame": "-14~-13",
         "Command": "Opponent Down d+3+4",
         "Counter hit frame": "-3~-2",
@@ -1354,10 +1354,10 @@
         ],
         "Block frame": "-9~-7",
         "Command": "(u_u/f)+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch (JG)",
         "Damage": "20",
         "Gif": "https://gfycat.com/IdealClumsyKitty.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch (JG)",
         "Hit level": "m(TJ)",
         "Notes": "",
         "Start up frame": "25~27 js9~"

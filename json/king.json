@@ -1102,7 +1102,7 @@
     {
         "Block frame": "-5~-2s",
         "Command": "f,n,d,D/F+1+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "24",
         "Gif": "https://gfycat.com/AnyAllErne.gif",
         "Hit frame": "KND",
@@ -1813,7 +1813,7 @@
         "Block frame": "-5~-4",
         "Command": "f,F+1",
         "Counter hit frame": "KND",
-        "Damage": "33",
+        "Damage": "21",
         "Gif": "https://gfycat.com/FabulousSpitefulHarborseal.gif",
         "Hit frame": "+14~+15kg",
         "Hit level": "m",
@@ -1873,7 +1873,7 @@
         "Hit frame": "+2s",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "23s"
+        "Start up frame": "23s cs10~"
     },
     {
         "Block frame": "-17~-15a",
@@ -1898,15 +1898,15 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "-1~+1",
+        "Block frame": "-1~0",
         "Command": "d/f+1",
-        "Counter hit frame": "+3~+5",
-        "Damage": "20",
+        "Counter hit frame": "+3~+4",
+        "Damage": "15",
         "Gif": null,
-        "Hit frame": "+3~+5",
+        "Hit frame": "+3~+4",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "14~16"
+        "Start up frame": "14~15"
     },
     {
         "Block frame": "-6",
@@ -1985,27 +1985,27 @@
         "Notes": "",
         "Start up frame": "48~52 RG"
     },
-    {
-        "Block frame": "-10~-9",
+    {   "Alias": ["u/f+3"],
+        "Block frame": "-10",
         "Command": "u/f+3 (First part)",
         "Counter hit frame": "KND",
-        "Damage": "33",
-        "Gif": "",
+        "Damage": "23",
+        "Gif": "https://gfycat.com/neatsecondaryarrowcrab.gif",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "22~23 RG"
+        "Start up frame": "22~23 js13~"
     },
     {
-        "Block frame": "-5~-1",
+        "Block frame": "-20~-17",
         "Command": "u/f+3 (Second part)",
         "Counter hit frame": "KND",
-        "Damage": "24",
-        "Gif": "",
+        "Damage": "18",
+        "Gif": "https://gfycat.com/neatsecondaryarrowcrab.gif",
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "24~28 RG"
+        "Start up frame": "24~27 js13~"
     },
     {
         "Block frame": "-20",

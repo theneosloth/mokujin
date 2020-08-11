@@ -1299,7 +1299,7 @@
     {
         "Block frame": "-6",
         "Command": "d/f+1+2, F",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1+2",
         "Damage": "40",
         "Gif": "https://gfycat.com/AdoredClassicIbizanhound.gif",
         "Hit frame": "+5",
@@ -1399,7 +1399,7 @@
     {
         "Block frame": "-6",
         "Command": "d/f+1+2",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1+2",
         "Damage": "40",
         "Gif": "https://gfycat.com/ConsciousUnrulyInvisiblerail.gif",
         "Hit frame": "+5",
@@ -1669,7 +1669,7 @@
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
         "Notes": "",
-        "Start up frame": "25"
+        "Start up frame": "25 js9~"
     },
     {
         "Block frame": "-10",

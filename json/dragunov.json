@@ -1320,10 +1320,10 @@
             "d+3+4 grounded opponent",
             "opponent down d+3+4",
             "grounded opponent d+3+4",
-            "stomp"
+            "Stomp"
         ],
         "Block frame": "-11",
-        "Command": "d+3+4 opponent down",
+        "Command": "opponent down d+3+4",
         "Counter hit frame": "0",
         "Damage": "19",
         "Gif": "https://gfycat.com/possibleoptimisticindochinesetiger.gif",
