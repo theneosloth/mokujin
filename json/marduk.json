@@ -1380,6 +1380,28 @@
         "Start up frame": "total 1 frame"
     },
     {
+        "Block frame": "-2",
+        "Command": "VTS 1+3",
+        "Counter hit frame": "1",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/hatefulheartfeltblackrhino.gif",
+        "Hit frame": "KND",
+        "Hit level": "(cancel)",
+        "Notes": "",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-2",
+        "Command": "VTS 2+4",
+        "Counter hit frame": "2",
+        "Damage": "35",
+        "Gif": "https://gfycat.com/realisticficklebedlingtonterrier.gif",
+        "Hit frame": "KND",
+        "Hit level": "(cancel)",
+        "Notes": "",
+        "Start up frame": "12"
+    },
+    {
         "Block frame": "-4",
         "Command": "VTS f+1",
         "Counter hit frame": "+3",
