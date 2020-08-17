@@ -28,72 +28,10 @@
         "Damage": "8,15",
         "Gif": "https://gfycat.com/FortunateClutteredAddax.gif",
         "Hit frame": "+4",
-        "Hit level": "h, m",
-        "Notes": "",
+        "Hit level": "h,m",
+        "Notes": "To f+1 extensions.",
         "Recovery": "-25",
         "Start up frame": "10"
-    },
-    {
-        "Block frame": "-5",
-        "Command": "1,1,3",
-        "Counter hit frame": "KND",
-        "Damage": "17,17",
-        "Gif": "https://gfycat.com/EnlightenedGrippingDiamondbackrattlesnake.gif",
-        "Hit frame": "+6",
-        "Hit level": "m,m",
-        "Notes": "",
-        "Recovery": "-22",
-        "Start up frame": "10"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "1,1,3,1",
-        "Counter hit frame": "+3",
-        "Damage": "17,17,12",
-        "Gif": "https://gfycat.com/ColorlessSoreJaguarundi.gif",
-        "Hit frame": "+3",
-        "Hit level": "m,m,h",
-        "Notes": "",
-        "Recovery": "-26",
-        "Start up frame": "10"
-    },
-    {
-        "Block frame": "-6 (-25s)",
-        "Command": "1,1,4",
-        "Counter hit frame": "Launch (JG?)",
-        "Damage": "17,5,20",
-        "Gif": "https://gfycat.com/PlainAnnualHarrier.gif",
-        "Hit frame": "Launch (JG?)",
-        "Hit level": "m,l,h (TJ)",
-        "Notes": "",
-        "Recovery": "-31",
-        "Start up frame": "js10~"
-    },
-    {
-        "Block frame": "-26",
-        "Command": "1,1,d+4",
-        "Counter hit frame": "KND",
-        "Damage": "17,22",
-        "Gif": "https://gfycat.com/BonyAmusingAcornweevil.gif",
-        "Hit frame": "KND",
-        "Hit level": "m,l (TC)",
-        "Notes": "Homing",
-        "Recovery": "-31",
-        "Start up frame": "s cs6~"
-    },
-    {
-        "Alias": [
-            "f+1,d+4,d/b"
-        ],
-        "Block frame": "-26",
-        "Command": "f+1,d+4~d/b",
-        "Counter hit frame": "-15",
-        "Damage": "17",
-        "Gif": "",
-        "Hit frame": "-15",
-        "Hit level": "m,(TC)",
-        "Notes": "",
-        "Start up frame": "i10s"
     },
     {
         "Block frame": "-8~-7",
@@ -178,15 +116,15 @@
     },
     {
         "Block frame": "-11~-9",
-        "Command": "1, 4",
+        "Command": "1,4",
         "Counter hit frame": "+3~+5",
         "Damage": "8,14",
         "Gif": "https://gfycat.com/DecentInconsequentialEasternnewt.gif",
         "Hit frame": "0~+2",
-        "Hit level": "h, l (TC)(LCT)",
-        "Notes": "",
+        "Hit level": "h,l(TC)",
+        "Notes": "To d/b+4 extensions.\nInput 1,4~d to recover crouching.",
         "Recovery": "-27",
-        "Start up frame": "cs6~"
+        "Start up frame": "10(s)"
     },
     {
         "Block frame": "-3~-2",
@@ -343,7 +281,7 @@
         "Gif": "https://gfycat.com/HighIcyHogget.gif",
         "Hit frame": "+9",
         "Hit level": "lh, h, h",
-        "Notes": "",
+        "Notes": "To 1 (jab) extensions.",
         "Recovery": "-20",
         "Start up frame": "14,31"
     },
@@ -506,102 +444,112 @@
     },
     {
         "Block frame": "-7",
-        "Command": "b+2, 1",
+        "Command": "b+2,1",
         "Counter hit frame": "+4",
         "Damage": "12,14",
         "Gif": "https://gfycat.com/AthleticBigBrant.gif",
         "Hit frame": "+4",
-        "Hit level": "m, m",
-        "Notes": "",
+        "Hit level": "m,m",
+        "Notes": "To f+1 extensions.",
         "Recovery": "-25",
         "Start up frame": "15"
     },
     {
         "Block frame": "-11~-9",
-        "Command": "b+2, 4",
+        "Command": "b+2,4",
         "Counter hit frame": "+3~+5",
         "Damage": "12,14",
         "Gif": "https://gfycat.com/LawfulCleverCutworm.gif",
         "Hit frame": "0~+2",
-        "Hit level": "m, l(LCT)",
-        "Notes": "",
+        "Hit level": "m,l",
+        "Notes": "To d/b+4 extensions.\nInput b+2,4~d to recover crouching.",
         "Recovery": "-27",
-        "Start up frame": "cs15~"
+        "Start up frame": "15(s)"
     },
     {
         "Block frame": "-9",
-        "Command": "b+2, 1+2",
-        "Counter hit frame": "+1",
+        "Command": "b+2,1+2",
+        "Counter hit frame": "+2",
         "Damage": "12,7",
         "Gif": "https://gfycat.com/FirsthandCreepyBlesbok.gif",
         "Hit frame": "+2",
-        "Hit level": "m, h",
-        "Notes": "",
+        "Hit level": "m,h",
+        "Notes": "Delay window: 12f.\nHC window: 9f.",
         "Recovery": "-27",
-        "Start up frame": "15~"
+        "Start up frame": "15"
     },
     {
+        "Alias": [
+            "b+2,1+2,d"
+        ],
         "Block frame": "-6s",
-        "Command": "b+2, 1+2, d (Cancel)",
+        "Command": "b+2,1+2~d",
         "Counter hit frame": "-1s",
         "Damage": "12",
         "Gif": "",
         "Hit frame": "-1s",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "15~s"
+        "Start up frame": "15s"
     },
     {
         "Block frame": "-13~-12",
-        "Command": "b+2, 1+2, 4",
+        "Command": "b+2,1+2,4",
         "Counter hit frame": "KND",
         "Damage": "12,7,20",
         "Gif": "https://gfycat.com/ThoughtfulAllHake.gif",
         "Hit frame": "KND",
         "Hit level": "m, h, m",
-        "Notes": "Tail spin",
+        "Notes": "Tail Spin",
         "Recovery": "-30",
-        "Start up frame": "15~"
+        "Start up frame": "15"
     },
     {
         "Block frame": "-20~-19",
-        "Command": "b+3, 2",
+        "Command": "b+3,2",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "15,20",
         "Gif": "https://gfycat.com/RemorsefulShabbyAmericanshorthair.gif",
         "Hit frame": "Launch (JG?)",
-        "Hit level": "m, m?",
-        "Notes": "",
+        "Hit level": "m,m",
+        "Notes": "Gap on block: 23f.",
         "Recovery": "-37",
-        "Start up frame": "16~17 10~"
+        "Start up frame": "16~17 js10~"
     },
     {
         "Alias": [
-            "b+3,2,b",
+            "b+3,2,d/f",
             "b+3,2,d",
-            "b+3,2,d/f"
+            "b+3,2,d/b",
+            "b+3,2~d/f",
+            "b+3,2~d",
+            "b+3,2~d/b"
         ],
         "Block frame": "-33~-32",
-        "Command": "b+3, 2, (d/b_d_d/f) (Cancel)",
+        "Command": "b+3,2~(d/f_d_d/b)",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "15",
         "Gif": "",
         "Hit frame": "Launch (JG?)",
-        "Hit level": "m, (Special)?",
+        "Hit level": "m",
         "Notes": "",
-        "Start up frame": "16~17 10~s"
+        "Start up frame": "16~17s js10~"
     },
     {
+        "Alias": [
+            "b+3,4~d",
+            "b+3,4,d"
+        ],
         "Block frame": "-11~-9",
-        "Command": "b+3, 4",
+        "Command": "b+3,4",
         "Counter hit frame": "+3~+5",
         "Damage": "15,14",
         "Gif": "https://gfycat.com/ThoseWeepyAngora.gif",
         "Hit frame": "0~+2",
-        "Hit level": "m (TJ), l (TC)(LCT)",
-        "Notes": "",
+        "Hit level": "m(TJ),l(TC)",
+        "Notes": "To d/b+4 extensions.\nInput b+3,4~d to recover crouching.",
         "Recovery": "-27",
-        "Start up frame": "cs1~"
+        "Start up frame": "16~17(s) js10~"
     },
     {
         "Block frame": "-12~-11",
@@ -965,7 +913,7 @@
         "Gif": "https://gfycat.com/ColorlessSoreJaguarundi.gif",
         "Hit frame": "+3",
         "Hit level": "m,m,h",
-        "Notes": "",
+        "Notes": "To 1 (jab) extensions.",
         "Recovery": "-26",
         "Start up frame": "20"
     },
@@ -1005,91 +953,149 @@
         "Hit frame": "-15",
         "Hit level": "m,(TC)",
         "Notes": "",
-        "Start up frame": "i20s"
+        "Start up frame": "20s"
     },
     {
+        "Alias": [
+            "d/b+4~d",
+            "d/b+4,d"
+        ],
         "Block frame": "-11~-9",
-        "Command": "d/b+4, D",
+        "Command": "d/b+4",
         "Counter hit frame": "+3~+5",
         "Damage": "14",
-        "Gif": null,
+        "Gif": "",
         "Hit frame": "0~+2",
-        "Hit level": "l (TC)(LCT)",
-        "Notes": "",
+        "Hit level": "l(TC)",
+        "Notes": "Input d/b+4~d to recover crouching.",
         "Recovery": "-27",
-        "Start up frame": "22~24s cs6~"
+        "Start up frame": "22~24(s) cs6~"
     },
     {
-        "Block frame": "-7~-5",
-        "Command": "d/b+4, 4",
-        "Counter hit frame": "KND",
-        "Damage": "14,15",
-        "Gif": null,
-        "Hit frame": "+4~+6",
-        "Hit level": "l (TC), l (TC)(LCT)",
-        "Notes": "",
-        "Recovery": "-23",
-        "Start up frame": "cs1~"
-    },
-    {
-        "Block frame": "-11~-9",
-        "Command": "d/b+4, 4, D",
-        "Counter hit frame": "KND",
-        "Damage": "15,15",
-        "Gif": null,
-        "Hit frame": "0~+2",
-        "Hit level": "l (TC), l (TC)(LCT)",
-        "Notes": "",
-        "Recovery": "-27",
-        "Start up frame": "s cs1~"
-    },
-    {
-        "Block frame": "-7~-5",
-        "Command": "d/b+4, 4, 4",
-        "Counter hit frame": "KND",
-        "Damage": "18,20,21",
-        "Gif": "https://gfycat.com/WatchfulFocusedAmmonite.gif",
-        "Hit frame": "+4~+6",
-        "Hit level": "l (TC), l (TC), l (TC)(LCT)",
-        "Notes": "",
-        "Recovery": "-23",
-        "Start up frame": "cs1~"
-    },
-    {
-        "Block frame": "-11~-9",
-        "Command": "d/b+4, 4, 4, D",
-        "Counter hit frame": "KND",
-        "Damage": "18,20,21",
-        "Gif": "https://gfycat.com/WatchfulFocusedAmmonite.gif",
-        "Hit frame": "0~+2",
-        "Hit level": "l (TC), l (TC), l (TC)(LCT)",
-        "Notes": "",
-        "Recovery": "-27",
-        "Start up frame": "s cs1~"
+        "Block frame": "-3 (-19s)",
+        "Command": "d/b+4,1+4",
+        "Counter hit frame": "+9",
+        "Damage": "14,5,8",
+        "Gif": "https://gfycat.com/FastRevolvingIvorygull.gif",
+        "Hit frame": "+9",
+        "Hit level": "l,l,h",
+        "Notes": "To 1+4 extensions.",
+        "Recovery": "-20",
+        "Start up frame": "22~24 cs6~"
     },
     {
         "Block frame": "-3",
-        "Command": "LCT 3",
+        "Command": "d/b+4,3",
         "Counter hit frame": "Launch",
-        "Damage": "21",
+        "Damage": "14,21",
         "Gif": "https://gfycat.com/MistyCarefulAzurevase.gif",
         "Hit frame": "Launch",
-        "Hit level": "h(LCT)",
+        "Hit level": "l(TC),h",
         "Notes": "",
         "Recovery": "-30",
-        "Start up frame": " 1~"
+        "Start up frame": "22~24 cs6~"
     },
     {
-        "Block frame": "-3(-19s)",
-        "Command": "LCT 1+4",
-        "Counter hit frame": "+9",
-        "Damage": "5,8",
-        "Gif": "https://gfycat.com/FastRevolvingIvorygull.gif",
-        "Hit frame": "+9",
-        "Hit level": "lh(LCT)",
+        "Block frame": "-7~-5",
+        "Command": "d/b+4,4",
+        "Counter hit frame": "KND",
+        "Damage": "14,15",
+        "Gif": "",
+        "Hit frame": "+4~+6",
+        "Hit level": "l(TC),l(TC)",
         "Notes": "",
+        "Recovery": "-23",
+        "Start up frame": "22~24 cs6~"
+    },
+    {
+        "Alias": [
+            "d/b+4,4,d"
+        ],
+        "Block frame": "-11~--9",
+        "Command": "d/b+4,4~d",
+        "Counter hit frame": "KND",
+        "Damage": "14,15",
+        "Gif": "",
+        "Hit frame": "0~+2",
+        "Hit level": "l(TC),l(TC)",
+        "Notes": "",
+        "Recovery": "-23",
+        "Start up frame": "22~24s cs6~"
+    },
+    {
+        "Block frame": "-3 (-19s)",
+        "Command": "d/b+4,4,1+4",
+        "Counter hit frame": "+9",
+        "Damage": "14,15,5,8",
+        "Gif": "",
+        "Hit frame": "+9",
+        "Hit level": "l,l,l,h",
+        "Notes": "To 1+4 extensions.",
         "Recovery": "-20",
-        "Start up frame": " 1~"
+        "Start up frame": "22~24 cs6~"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "d/b+4,4,3",
+        "Counter hit frame": "Launch",
+        "Damage": "14,15,21",
+        "Gif": "",
+        "Hit frame": "Launch",
+        "Hit level": "l(TC),l(TC),h",
+        "Notes": "",
+        "Recovery": "-30",
+        "Start up frame": "22~24 cs6~"
+    },
+    {
+        "Block frame": "-7~-5",
+        "Command": "d/b+4,4,4",
+        "Counter hit frame": "KND",
+        "Damage": "14,15,16",
+        "Gif": "https://gfycat.com/WatchfulFocusedAmmonite.gif",
+        "Hit frame": "+4~+6",
+        "Hit level": "l(TC),l(TC),l(TC)",
+        "Notes": "",
+        "Recovery": "-23",
+        "Start up frame": "22~24 cs6~"
+    },
+    {
+        "Alias": [
+            "d/b+4,4,4,d"
+        ],
+        "Block frame": "-11~-9",
+        "Command": "d/b+4,4,4~d",
+        "Counter hit frame": "KND",
+        "Damage": "14,15,16",
+        "Gif": "",
+        "Hit frame": "0~+2",
+        "Hit level": "l(TC),l(TC),l(TC)",
+        "Notes": "",
+        "Recovery": "-23",
+        "Start up frame": "22~24s cs6~"
+    },
+    {
+        "Block frame": "-3 (-19s)",
+        "Command": "d/b+4,4,4,1+4",
+        "Counter hit frame": "+9",
+        "Damage": "14,15,16,5,8",
+        "Gif": "",
+        "Hit frame": "+9",
+        "Hit level": "l,l,l,l,h",
+        "Notes": "To 1+4 extensions.",
+        "Recovery": "-20",
+        "Start up frame": "22~24 cs6~"
+    },
+    {
+        "Block frame": "-3",
+        "Command": "d/b+4,4,4,3",
+        "Counter hit frame": "Launch",
+        "Damage": "14,15,16,21",
+        "Gif": "",
+        "Hit frame": "Launch",
+        "Hit level": "l(TC),l(TC),h",
+        "Notes": "",
+        "Recovery": "-30",
+        "Start up frame": "22~24 cs6~"
     },
     {
         "Block frame": "-5",
@@ -1550,18 +1556,6 @@
         "Start up frame": "21"
     },
     {
-        "Block frame": "-11~-9",
-        "Command": "d/b+4",
-        "Counter hit frame": "+3~+5",
-        "Damage": "14",
-        "Gif": null,
-        "Hit frame": "0~+2",
-        "Hit level": "l (TC)(LCT)",
-        "Notes": "",
-        "Recovery": "-27",
-        "Start up frame": "22~24 cs6~"
-    },
-    {
         "Block frame": "-10~-9",
         "Command": "b+1",
         "Counter hit frame": "Throw(KND)",
@@ -1653,7 +1647,7 @@
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-24",
-        "Start up frame": "114"
+        "Start up frame": "14"
     },
     {
         "Block frame": "-3~-2",
