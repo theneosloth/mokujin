@@ -269,36 +269,6 @@
         "Start up frame": "29~30a, 37~38, 70~71 js19~"
     },
     {
-        "Alias": [
-            "WS+2,4:3:1",
-            "d/f+2,4:3:1"
-        ],
-        "Block frame": "-",
-        "Command": "d/f+2:4:3:1",
-        "Counter hit frame": "KND",
-        "Damage": "14(20),20,10,20",
-        "Gif": "https://gfycat.com/gleamingneatindianpalmsquirrel.gif",
-        "Hit frame": "KND",
-        "Hit level": "m, m, m, m",
-        "Notes": "",
-        "Start up frame": "16"
-    },
-    {
-        "Alias": [
-            "WS+2,4",
-            "d/f+2,4"
-        ],
-        "Block frame": "-",
-        "Command": "d/f+2, 4",
-        "Counter hit frame": "KND",
-        "Damage": "14(20),20",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "m, m",
-        "Notes": "",
-        "Start up frame": "16"
-    },
-    {
         "Block frame": "-6~-5",
         "Command": "d/f+3, 2",
         "Counter hit frame": "KND",
@@ -1042,6 +1012,39 @@
         "Start up frame": "16"
     },
     {
+        "Block frame": "-",
+        "Command": "WS+2,4",
+        "Counter hit frame": "KND",
+        "Damage": "20,20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m, m",
+        "Notes": "",
+        "Start up frame": "16"
+    },
+    {
+        "Block frame": "-",
+        "Command": "WS+2,4:3",
+        "Counter hit frame": "KND",
+        "Damage": "20,20,20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m, m, m",
+        "Notes": "",
+        "Start up frame": "16"
+    },
+    {
+        "Block frame": "-",
+        "Command": "WS+2,4:3:1",
+        "Counter hit frame": "KND",
+        "Damage": "20,20,20,20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m, m, m, m",
+        "Notes": "Tail Spin",
+        "Start up frame": "16"
+    },
+    {
         "Block frame": "-12~-11",
         "Command": "WS+3",
         "Counter hit frame": "JG",
@@ -1313,6 +1316,39 @@
         "Hit frame": "Launch (JG?)",
         "Hit level": "?",
         "Notes": "",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-",
+        "Command": "d/f+2,4",
+        "Counter hit frame": "KND",
+        "Damage": "14,20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m, m",
+        "Notes": "",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-",
+        "Command": "d/f+2,4:3",
+        "Counter hit frame": "KND",
+        "Damage": "14,20,20",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "m, m, m",
+        "Notes": "",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-",
+        "Command": "d/f+2,4:3:1",
+        "Counter hit frame": "KND",
+        "Damage": "14,20,20,20",
+        "Gif": "https://gfycat.com/gleamingneatindianpalmsquirrel.gif",
+        "Hit frame": "KND",
+        "Hit level": "m, m, m, m",
+        "Notes": "Tail Spin",
         "Start up frame": "15"
     },
     {
