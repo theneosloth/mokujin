@@ -234,7 +234,7 @@
         "Hit level": "m, h",
         "Notes": "",
         "Recovery": "-32",
-        "Start up frame": "-"
+        "Start up frame": "15"
     },
     {
         "Block frame": "-3",
