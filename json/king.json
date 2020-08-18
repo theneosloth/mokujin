@@ -1420,7 +1420,7 @@
         "Notes": "Throw",
         "Start up frame": "12"
     },
-    {
+    {   "Alias": ["GS"],
         "Block frame": "-13",
         "Command": "f,hcf+1",
         "Counter hit frame": "-",
