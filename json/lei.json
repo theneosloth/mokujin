@@ -1653,7 +1653,7 @@
         "Damage": "18,12,8,20",
         "Gif": "",
         "Hit frame": "KND",
-        "Hit level": "h, m, m, l",
+        "Hit level": "h, m, m, h",
         "Notes": "",
         "Start up frame": "10"
     },
@@ -1725,7 +1725,8 @@
     },
     {
         "Block frame": "-12",
-        "Command": "f, F+2",
+$$
+p        "Command": "f, F+2",
         "Counter hit frame": "+7k",
         "Damage": "24",
         "Gif": "https://gfycat.com/VigorousMerryHuia.gif",

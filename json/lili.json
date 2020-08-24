@@ -380,7 +380,7 @@
         "Damage": "23",
         "Gif": "https://gfycat.com/LimitedInsignificantElver.gif",
         "Hit frame": "Launch(JG?)",
-        "Hit level": "m?",
+        "Hit level": "m",
         "Notes": "",
         "Start up frame": "17~21a"
     },
@@ -650,7 +650,7 @@
         "Damage": "15,22",
         "Gif": "https://gfycat.com/EntireWarmheartedHapuka.gif",
         "Hit frame": "Launch(JG?)",
-        "Hit level": "m (TJ), m?",
+        "Hit level": "m (TJ), m",
         "Notes": "",
         "Start up frame": "15~18 9~a"
     },
@@ -815,7 +815,7 @@
         "Damage": "17",
         "Gif": "",
         "Hit frame": "Launch (JG?)",
-        "Hit level": "m?(BT)",
+        "Hit level": "m,(BT)",
         "Notes": "",
         "Start up frame": "16~18b"
     },
@@ -1257,7 +1257,7 @@
         "Damage": "17",
         "Gif": "https://gfycat.com/EquatorialPlumpAmericanwigeon.gif",
         "Hit frame": "Launch (JG?)",
-        "Hit level": "m?",
+        "Hit level": "m",
         "Notes": "",
         "Start up frame": "16~18"
     },
@@ -1588,7 +1588,7 @@
         "Damage": "16",
         "Gif": null,
         "Hit frame": "+2~+3",
-        "Hit level": "m?",
+        "Hit level": "m",
         "Notes": "",
         "Start up frame": "17~18"
     },
