@@ -559,7 +559,7 @@
         "Start up frame": "13~15 (39~)"
     },
     {
-        "Block frame": "+17~+19",
+        "Block frame": "+17~+19g",
         "Command": "d/b+1+2* (very long)",
         "Counter hit frame": "KND",
         "Damage": "42",
