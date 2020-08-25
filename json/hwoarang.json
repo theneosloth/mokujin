@@ -1321,6 +1321,20 @@
         "Start up frame": "16"
     },
     {
+        "Alias": [
+            "RFF 3,4,f"
+        ],
+        "Block frame": "-12",
+        "Command": "RFF 3,4~f",
+        "Counter hit frame": "-1",
+        "Damage": "13",
+        "Gif": "",
+        "Hit frame": "-1",
+        "Hit level": "m,(RFF)",
+        "Notes": "",
+        "Start up frame": "16"
+    },
+    {
         "Block frame": "-7",
         "Command": "RFF 3,f+4",
         "Counter hit frame": "+4",
