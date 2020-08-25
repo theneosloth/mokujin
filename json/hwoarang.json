@@ -1314,23 +1314,9 @@
         "Command": "RFF 3,4",
         "Counter hit frame": "+21g",
         "Damage": "13,16",
-        "Gif": "",
+        "Gif": "https://gfycat.com/creepysentimentaliaerismetalmark",
         "Hit frame": "+21g",
         "Hit level": "m,h,(RFS)",
-        "Notes": "",
-        "Start up frame": "16"
-    },
-    {
-        "Alias": [
-            "RFF 3,4,f"
-        ],
-        "Block frame": "-12",
-        "Command": "RFF 3,4~f",
-        "Counter hit frame": "-1",
-        "Damage": "13",
-        "Gif": "",
-        "Hit frame": "-1",
-        "Hit level": "m,(RFS)",
         "Notes": "",
         "Start up frame": "16"
     },
