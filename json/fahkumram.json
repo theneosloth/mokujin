@@ -618,10 +618,10 @@
   {
     "Block frame": "-23",
     "Command": "d/f+1,4~3,2",
-    "Counter hit frame": "KND",
-    "Damage": "10,15",
+    "Counter hit frame": "Launch",
+    "Damage": "10,15,25",
     "Gif": "https://gfycat.com/miserlynaivecormorant.gif",
-    "Hit frame": "KND",
+    "Hit frame": "Launch",
     "Hit level": "m,l,m",
     "Notes": "",
     "Start up frame": "13~14"
@@ -1091,10 +1091,10 @@
   {
     "Block frame": "-23",
     "Command": "f,F+4~3,2",
-    "Counter hit frame": "KND",
-    "Damage": "15,17",
+    "Counter hit frame": "Launch",
+    "Damage": "15,25",
     "Gif": "https://gfycat.com/academichauntingharlequinbug.gif",
-    "Hit frame": "KND",
+    "Hit frame": "Launch",
     "Hit level": "l,m",
     "Notes": "",
     "Start up frame": "?"
@@ -1245,10 +1245,10 @@
   {
     "Block frame": "-23",
     "Command": "FC d/f+3,2",
-    "Counter hit frame": "KND",
-    "Damage": "15,17",
+    "Counter hit frame": "Launch",
+    "Damage": "15,25",
     "Gif": "-",
-    "Hit frame": "KND",
+    "Hit frame": "Launch",
     "Hit level": "l,m",
     "Notes": "",
     "Start up frame": "19~20"
