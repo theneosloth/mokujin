@@ -2,336 +2,336 @@
   {
     "local_json": "akuma.json",
     "name": "akuma",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/gouki/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/gouki/data_en.htm",
     "portrait": "https://i.imgur.com/0RWMXuI.png",
     "proper_name": "Akuma"
   },
   {
     "local_json": "alisa.json",
     "name": "alisa",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/alisa/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/alisa/data_en.htm",
     "portrait": "https://i.imgur.com/yeyRqH2.jpg",
     "proper_name": "Alisa"
   },
   {
     "local_json": "anna.json",
     "name": "anna",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/anna/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/anna/data_en.htm",
     "portrait": "https://i.imgur.com/kiZ6oC8.jpg",
     "proper_name": "Anna"
   },
   {
     "local_json": "armor_king.json",
     "name": "armor_king",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/amking/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/amking/data_en.htm",
     "portrait": "https://i.imgur.com/aiZSjIv.jpg",
     "proper_name": "Armor King"
   },
   {
     "local_json": "asuka.json",
     "name": "asuka",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/asuka/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/asuka/data_en.htm",
     "portrait": "https://i.imgur.com/x7Thf0B.png",
     "proper_name": "Asuka"
   },
   {
     "local_json": "bob.json",
     "name": "bob",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/bob/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/bob/data_en.htm",
     "portrait": "https://i.imgur.com/xS7RO6y.jpg",
     "proper_name": "Bob"
   },
   {
     "local_json": "bryan.json",
     "name": "bryan",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/bryan/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/bryan/data_en.htm",
     "portrait": "https://i.imgur.com/PV9xTeM.jpg",
     "proper_name": "Bryan"
   },
   {
     "local_json": "claudio.json",
     "name": "claudio",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/claudio/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/claudio/data_en.htm",
     "portrait": "https://i.imgur.com/iCqFIii.jpg",
     "proper_name": "Claudio"
   },
   {
     "local_json": "devil_jin.json",
     "name": "devil_jin",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/devil/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/devil/data_en.htm",
     "portrait": "https://i.imgur.com/bhZbto7.jpg",
     "proper_name": "Devil Jin"
   },
   {
     "local_json": "dragunov.json",
     "name": "dragunov",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/dragunov/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/dragunov/data_en.htm",
     "portrait": "https://i.imgur.com/oHXfXO7.jpg",
     "proper_name": "Dragunov"
   },
   {
     "local_json": "eddy.json",
     "name": "eddy",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/eddy/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/eddy/data_en.htm",
     "portrait": "https://i.imgur.com/rporala.jpg",
     "proper_name": "Eddy"
   },
   {
     "local_json": "eliza.json",
     "name": "eliza",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/eliza/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/eliza/data_en.htm",
     "portrait": "https://i.imgur.com/pf6xWtq.jpg",
     "proper_name": "Eliza"
   },
   {
     "local_json": "fahkumram.json",
     "name": "fahkumram",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/fahkumram/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/fahkumram/data_en.htm",
     "portrait": "https://i.imgur.com/q5V7xVY.png",
     "proper_name": "Fahkumram"
   },
   {
     "local_json": "feng.json",
     "name": "feng",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/feng/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/feng/data_en.htm",
     "portrait": "https://i.imgur.com/K8chxM4.png",
     "proper_name": "Feng"
   },
   {
     "local_json": "ganryu.json",
     "name": "ganryu",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/ganryu/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/ganryu/data_en.htm",
     "portrait": "https://i.imgur.com/6kScGMT.png",
     "proper_name": "Ganryu"
   },
   {
     "local_json": "geese.json",
     "name": "geese",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/geese/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/geese/data_en.htm",
     "portrait": "https://i.imgur.com/yw4se0X.jpg",
     "proper_name": "Geese"
   },
   {
     "local_json": "gigas.json",
     "name": "gigas",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/gigas/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/gigas/data_en.htm",
     "portrait": "https://i.imgur.com/jTGmJyf.jpg",
     "proper_name": "Gigas"
   },
   {
     "local_json": "heihachi.json",
     "name": "heihachi",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/heihachi/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/heihachi/data_en.htm",
     "portrait": "https://i.imgur.com/o2bKXeP.jpg",
     "proper_name": "Heihachi"
   },
   {
     "local_json": "hwoarang.json",
     "name": "hwoarang",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/hwoarang/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/hwoarang/data_en.htm",
     "portrait": "https://i.imgur.com/rCx49Yl.jpg",
     "proper_name": "Hwoarang"
   },
   {
     "local_json": "jack7.json",
     "name": "jack7",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/jack7/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/jack7/data_en.htm",
     "portrait": "https://i.imgur.com/d5zxC4i.jpg",
     "proper_name": "Jack-7"
   },
   {
     "local_json": "jin.json",
     "name": "jin",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/jin/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/jin/data_en.htm",
     "portrait": "https://i.imgur.com/xat3qAS.jpg",
     "proper_name": "Jin"
   },
   {
     "local_json": "josie.json",
     "name": "josie",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/josie/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/josie/data_en.htm",
     "portrait": "https://i.imgur.com/G5xSqEH.jpg",
     "proper_name": "Josie"
   },
   {
     "local_json": "julia.json",
     "name": "julia",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/julia/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/julia/data_en.htm",
     "portrait": "https://i.imgur.com/ngnoGFu.jpg",
     "proper_name": "Julia"
   },
   {
     "local_json": "katarina.json",
     "name": "katarina",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/katarina/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/katarina/data_en.htm",
     "portrait": "https://i.imgur.com/Ei8V66v.jpg",
     "proper_name": "Katarina"
   },
   {
     "local_json": "kazumi.json",
     "name": "kazumi",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/kazumi/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/kazumi/data_en.htm",
     "portrait": "https://i.imgur.com/ZNiaFwL.jpg",
     "proper_name": "Kazumi"
   },
   {
     "local_json": "kazuya.json",
     "name": "kazuya",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/kazuya/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/kazuya/data_en.htm",
     "portrait": "https://i.imgur.com/nDGmsze.png",
     "proper_name": "Kazuya"
   },
   {
     "local_json": "king.json",
     "name": "king",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/king/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/king/data_en.htm",
     "portrait": "https://i.imgur.com/SMLoecQ.jpg",
     "proper_name": "King"
   },
   {
     "local_json": "kuma.json",
     "name": "kuma",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/kuma/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/kuma/data_en.htm",
     "portrait": "https://i.imgur.com/aOHX45D.jpg",
     "proper_name": "Kuma"
   },
   {
     "local_json": "lars.json",
     "name": "lars",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/lars/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/lars/data_en.htm",
     "portrait": "https://i.imgur.com/1OXX1gk.jpg",
     "proper_name": "Lars"
   },
   {
     "local_json": "law.json",
     "name": "law",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/law/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/law/data_en.htm",
     "portrait": "https://i.imgur.com/NWNEbMv.jpg",
     "proper_name": "Law"
   },
   {
     "local_json": "lee.json",
     "name": "lee",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/lee/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/lee/data_en.htm",
     "portrait": "https://i.imgur.com/HhB6oCg.jpg",
     "proper_name": "Lee"
   },
   {
     "local_json": "lei.json",
     "name": "lei",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/lei/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/lei/data_en.htm",
     "portrait": "https://i.imgur.com/viHXqvl.jpg",
     "proper_name": "Lei"
   },
   {
     "local_json": "leo.json",
     "name": "leo",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/leo/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/leo/data_en.htm",
     "portrait": "https://i.imgur.com/i1CO8SB.jpg",
     "proper_name": "Leo"
   },
   {
     "local_json": "leroy.json",
     "name": "leroy",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/leroy/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/leroy/data_en.htm",
     "portrait": "https://i.imgur.com/parSVod.png",
     "proper_name": "Leroy"
   },
   {
     "local_json": "lili.json",
     "name": "lili",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/lili/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/lili/data_en.htm",
     "portrait": "http://imgur.com/9gZWOcZ.jpg",
     "proper_name": "Lili"
   },
   {
     "local_json": "lucky_chloe.json",
     "name": "lucky_chloe",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/lucky/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/lucky/data_en.htm",
     "portrait": "https://i.imgur.com/iNXYpwT.jpg",
     "proper_name": "Lucky Chloe"
   },
   {
     "local_json": "marduk.json",
     "name": "marduk",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/marduk/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/marduk/data_en.htm",
     "portrait": "https://i.imgur.com/2OtX6nd.png",
     "proper_name": "Marduk"
   },
   {
     "local_json": "master_raven.json",
     "name": "master_raven",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/raven/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/raven/data_en.htm",
     "portrait": "https://i.imgur.com/UZVFlhV.jpg",
     "proper_name": "Master Raven"
   },
   {
     "local_json": "miguel.json",
     "name": "miguel",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/miguel/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/miguel/data_en.htm",
     "portrait": "https://i.imgur.com/AxToATM.jpg",
     "proper_name": "Miguel"
   },
   {
     "local_json": "negan.json",
     "name": "negan",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/negan/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/negan/data_en.htm",
     "portrait": "https://i.imgur.com/RIey2pq.jpg",
     "proper_name": "Negan"
   },
   {
     "local_json": "nina.json",
     "name": "nina",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/nina/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/nina/data_en.htm",
     "portrait": "https://i.imgur.com/tLdu5Nq.jpg",
     "proper_name": "Nina"
   },
   {
     "local_json": "noctis.json",
     "name": "noctis",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/noctis/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/noctis/data_en.htm",
     "portrait": "https://i.imgur.com/otjejvo.png",
     "proper_name": "Noctis"
   },
   {
     "local_json": "paul.json",
     "name": "paul",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/paul/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/paul/data_en.htm",
     "portrait": "https://i.imgur.com/vbjcEy1.jpg",
     "proper_name": "Paul"
   },
   {
     "local_json": "shaheen.json",
     "name": "shaheen",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/shaheen/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/shaheen/data_en.htm",
     "portrait": "https://i.imgur.com/d3MzCtB.jpg",
     "proper_name": "Shaheen"
   },
   {
     "local_json": "steve.json",
     "name": "steve",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/steve/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/steve/data_en.htm",
     "portrait": "https://i.imgur.com/7KgvBVO.jpg",
     "proper_name": "Steve"
   },
   {
     "local_json": "xiaoyu.json",
     "name": "xiaoyu",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/xiaoyu/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/xiaoyu/data_en.htm",
     "portrait": "https://i.imgur.com/zuojLtJ.jpg",
     "proper_name": "Xiaoyu"
   },
   {
     "local_json": "yoshimitsu.json",
     "name": "yoshimitsu",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/yoshimitsu/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/yoshimitsu/data_en.htm",
     "portrait": "https://i.imgur.com/eguFrUh.jpg",
     "proper_name": "Yoshimitsu"
   },
   {
     "local_json": "zafina.json",
     "name": "zafina",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/zafina/data.htm",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/zafina/data_en.htm",
     "portrait": "https://i.imgur.com/sXwy7Pw.jpg",
     "proper_name": "Zafina"
   },
