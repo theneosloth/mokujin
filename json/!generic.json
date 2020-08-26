@@ -88,70 +88,70 @@
         "Start up frame": "12s cs4~"
     },
     {
-        "Block frame": "-8",
+        "Block frame": "-12",
         "Command": "u/b+1",
-        "Counter hit frame": "+3",
+        "Counter hit frame": "-1",
         "Damage": "12",
         "Gif": "",
-        "Hit frame": "+3",
+        "Hit frame": "-1",
         "Hit level": "m(TJ)",
         "Notes": "Generic.",
         "Start up frame": "18 js9~"
     },
     {
-        "Block frame": "-12~-11",
+        "Block frame": "-12",
         "Command": "u/b+2",
-        "Counter hit frame": "+9~+10g",
+        "Counter hit frame": "+9",
         "Damage": "17",
         "Gif": "",
-        "Hit frame": "+9~+10g",
+        "Hit frame": "+9",
         "Hit level": "h",
         "Notes": "Generic.",
-        "Start up frame": "15~16"
+        "Start up frame": "15"
     },
     {
-        "Block frame": "-8",
+        "Block frame": "-12",
         "Command": "u+1",
-        "Counter hit frame": "+3",
+        "Counter hit frame": "-1",
         "Damage": "12",
         "Gif": "",
-        "Hit frame": "+3",
+        "Hit frame": "-1",
         "Hit level": "m(TJ)",
         "Notes": "Generic.",
         "Start up frame": "18 js9~"
     },
     {
-        "Block frame": "-12~-11",
+        "Block frame": "-12",
         "Command": "u+2",
-        "Counter hit frame": "+9~+10g",
+        "Counter hit frame": "+9",
         "Damage": "17",
         "Gif": "",
-        "Hit frame": "+9~+10g",
+        "Hit frame": "+9",
         "Hit level": "h",
         "Notes": "Generic.",
-        "Start up frame": "15~16"
+        "Start up frame": "15"
     },
     {
-        "Block frame": "-8",
+        "Block frame": "-12",
         "Command": "u/f+1",
-        "Counter hit frame": "+3",
+        "Counter hit frame": "-1",
         "Damage": "12",
         "Gif": "",
-        "Hit frame": "+3",
+        "Hit frame": "-1",
         "Hit level": "m(TJ)",
         "Notes": "Generic.",
         "Start up frame": "18 js9~"
     },
     {
-        "Block frame": "-12~-11",
+        "Block frame": "-12",
         "Command": "u/f+2",
-        "Counter hit frame": "+9~+10g",
+        "Counter hit frame": "+9",
         "Damage": "17",
         "Gif": "",
-        "Hit frame": "+9~+10g",
+        "Hit frame": "+9",
         "Hit level": "h",
         "Notes": "Generic.",
-        "Start up frame": "15~16"
+        "Start up frame": "15"
     },
     {
         "Block frame": "-5",
