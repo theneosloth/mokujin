@@ -233,7 +233,7 @@
   {
     "local_json": "leroy.json",
     "name": "leroy",
-    "online_webpage": "",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/leroy/data.htm",
     "portrait": "https://i.imgur.com/parSVod.png",
     "proper_name": "Leroy"
   },
@@ -261,7 +261,7 @@
   {
     "local_json": "master_raven.json",
     "name": "master_raven",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/raven-t7-frames/",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/raven/data.htm",
     "portrait": "https://i.imgur.com/UZVFlhV.jpg",
     "proper_name": "Master Raven"
   },
@@ -289,7 +289,7 @@
   {
     "local_json": "noctis.json",
     "name": "noctis",
-    "online_webpage": "http://geppopotamus.info/game/tekken7fr/noctis-t7-frames/",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/noctis/data.htm",
     "portrait": "https://i.imgur.com/otjejvo.png",
     "proper_name": "Noctis"
   },
