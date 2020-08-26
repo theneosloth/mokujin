@@ -1136,8 +1136,8 @@
         "Block frame": "-5",
         "Command": "4",
         "Counter hit frame": "Launch (JG?)",
-        "Damage": "27",
-        "Gif": null,
+        "Damage": "20",
+        "Gif": "",
         "Hit frame": "+6",
         "Hit level": "h",
         "Notes": "",
@@ -1238,61 +1238,6 @@
         "Hit level": "m (TJ)",
         "Notes": "",
         "Start up frame": "23"
-    },
-    {
-        "Block frame": "+1",
-        "Command": "SS+1",
-        "Counter hit frame": "+8",
-        "Damage": "9",
-        "Gif": "",
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "10(11~)"
-    },
-    {
-        "Block frame": "-14",
-        "Command": "SS+3",
-        "Counter hit frame": "KND",
-        "Damage": "33",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "17(18~)"
-    },
-    {
-        "Block frame": "-5",
-        "Command": "SS+4",
-        "Counter hit frame": "Launch (JG?)",
-        "Damage": "27",
-        "Gif": "",
-        "Hit frame": "+6",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "13(14~)"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "BT 4",
-        "Counter hit frame": "KND",
-        "Damage": "33",
-        "Gif": null,
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "10"
-    },
-    {
-        "Block frame": "-11",
-        "Command": "BT d+3",
-        "Counter hit frame": "+3",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "+3",
-        "Hit level": "l",
-        "Notes": "",
-        "Start up frame": "10s"
     },
     {
         "Block frame": "-6",
