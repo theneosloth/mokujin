@@ -46,7 +46,8 @@ CHARACTER_ALIAS = {
     'zafina': ['zaffy', 'zaf'],
     "fahkumram": ['fah', 'fahkum', 'fahk', 'fak'],
     "leroy": ['ler'],
-    "ganryu": ['gan', 'ganny']
+    "ganryu": ['gan', 'ganny'],
+    "generic": []
 }
 
 MOVE_TYPES = {
