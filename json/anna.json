@@ -7,7 +7,7 @@
         "Block frame":"-9",
         "Hit frame":"KND",
         "Counter hit frame":"KND",
-        "Notes":"-",
+        "Notes":"Rage Art",
         "Gif":"-"
     },
     {
@@ -18,7 +18,7 @@
         "Block frame":"+5s",
         "Hit frame":"Launch",
         "Counter hit frame":"Launch",
-        "Notes":"-",
+        "Notes":"Rage Drive ",
         "Gif":"-"
     },
     {
@@ -1682,7 +1682,7 @@
         "Block frame":"-14s",
         "Hit frame":"KND",
         "Counter hit frame":"KND",
-        "Notes":"Power Crush.",
+        "Notes":"Power Crush",
         "Gif":"https://gfycat.com/CharmingDeficientHarvestmouse.gif"
     },
     {
