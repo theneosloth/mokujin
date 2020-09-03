@@ -288,7 +288,7 @@
     {
         "Block frame": "-12",
         "Command": "d/f+1, 2",
-        "Counter hit frame": "+3",
+        "Counter hit frame": "KND",
         "Damage": "12,18",
         "Gif": "https://gfycat.com/EqualIdioticBrownbear.gif",
         "Hit frame": "+3",

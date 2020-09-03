@@ -544,7 +544,7 @@
     },
     {
         "Block frame": "-14",
-        "Command": "f,f,N,2",
+        "Command": "f,f,n,2",
         "Counter hit frame": "Throw(KND)",
         "Damage": "15",
         "Gif": "https://gfycat.com/SelfassuredElaborateAfricanwildcat.gif",
@@ -555,7 +555,7 @@
     },
     {
         "Block frame": "0",
-        "Command": "f,f,N,1+2",
+        "Command": "f,f,n,1+2",
         "Counter hit frame": "+18",
         "Damage": "0",
         "Gif": "https://gfycat.com/InformalBowedBlackbuck.gif",

@@ -862,7 +862,7 @@
         "Hit frame": "+11g",
         "Hit level": "m(TJ),(RFS)",
         "Notes": "",
-        "Start up frame": "16"
+        "Start up frame": "16 js9~"
     },
     {
         "Block frame": "-7",
@@ -872,8 +872,19 @@
         "Gif": "https://gfycat.com/CautiousSillyGalapagosalbatross.gif",
         "Hit frame": "KND",
         "Hit level": "m(TJ)",
-        "Notes": "51",
+        "Notes": "",
         "Start up frame": "25"
+    },
+    {
+        "Block frame": "--14",
+        "Command": "FC 3",
+        "Counter hit frame": "-3",
+        "Damage": "12",
+        "Gif": "",
+        "Hit frame": "3",
+        "Hit level": "l",
+        "Notes": "",
+        "Start up frame": "16"
     },
     {
         "Block frame": "+5s",
