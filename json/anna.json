@@ -14,7 +14,7 @@
         "Command":"in rage QCF+2+3",
         "Hit level":"m,m",
         "Damage":"17,20",
-        "Start up frame":"15",
+        "Start up frame":"15 (17~)",
         "Block frame":"+5s",
         "Hit frame":"Launch",
         "Counter hit frame":"Launch",

@@ -687,7 +687,7 @@
     {
         "Block frame": "-14",
         "Command": "d/b+4",
-        "Counter hit frame": "-3s",
+        "Counter hit frame": "KND",
         "Damage": "15",
         "Gif": "https://gfycat.com/exemplaryimaginarydarwinsfox.gif",
         "Hit frame": "-3s",
