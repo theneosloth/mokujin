@@ -817,15 +817,18 @@
         "Start up frame": "14~15"
     },
     {
+        "Alias": [
+            "Parry"
+        ],
         "Block frame": "-",
         "Command": "b+2",
         "Counter hit frame": "-",
-        "Damage": "",
+        "Damage": "-",
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "-",
-        "Notes": "Parry 3~20",
-        "Start up frame": "45"
+        "Notes": "",
+        "Start up frame": "3~20 (total 45)"
     },
     {   "Alias": ["b+2,1", "b+2,2"],
         "Block frame": "-9",
