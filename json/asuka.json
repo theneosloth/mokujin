@@ -649,7 +649,7 @@
     {   "Alias": ["b+2+4"],
         "Block frame": "-6",
         "Command": "b+1+3",
-        "Counter hit frame": "f+1+3 for left limp. f+2+4 for right limp",
+        "Counter hit frame": "f+1+3 for left limb. f+2+4 for right limb",
         "Damage": "25 + 50% of attack",
         "Gif": "",
         "Hit frame": "KND",

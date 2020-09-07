@@ -2238,12 +2238,12 @@
         "Start up frame": "13"
     },
     {
-        "Block frame": "-13~-12",
+        "Block frame": "-12",
         "Command": "d+1",
-        "Counter hit frame": "+1~+2s",
+        "Counter hit frame": "+2s",
         "Damage": "15",
         "Gif": null,
-        "Hit frame": "+1~+2s",
+        "Hit frame": "+2s",
         "Hit level": "l (TC)",
         "Notes": "",
         "Start up frame": "21~22s cs6~"
