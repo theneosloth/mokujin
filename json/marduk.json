@@ -1390,6 +1390,17 @@
         "Notes": "",
         "Start up frame": "12"
     },
+    {   "Alias": ["tackle"],
+        "Block frame": "-4(-8)",
+        "Command": "VTS 1+2",
+        "Counter hit frame": "Throw",
+        "Damage": "12",
+        "Gif": "",
+        "Hit frame": "Throw",
+        "Hit level": "h(m)",
+        "Notes": "Throw break i3~6 (2)",
+        "Start up frame": "24"
+    },
     {
         "Block frame": "-2",
         "Command": "VTS 2+4",
