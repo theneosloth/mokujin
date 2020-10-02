@@ -234,10 +234,10 @@
         "Block frame": "-16",
         "Command": "f+2, 3, 3",
         "Counter hit frame": "KND",
-        "Damage": "10,13, 30",
+        "Damage": "10,13,30",
         "Gif": "",
         "Hit frame": "KND",
-        "Hit level": "h, l",
+        "Hit level": "h,l,m",
         "Notes": "",
         "Start up frame": "12"
     },

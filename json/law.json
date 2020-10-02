@@ -728,13 +728,24 @@
         "Start up frame": "16"
     },
     {
-        "Block frame": "-8~+6",
+        "Block frame": "-15",
         "Command": "b+2, 3, 4, b, f",
         "Counter hit frame": "Launch",
         "Damage": "12,10,23",
         "Gif": null,
         "Hit frame": "Launch",
         "Hit level": "m, l, m, (TFS)",
+        "Notes": "",
+        "Start up frame": "16"
+    },
+    {
+        "Block frame": "+5",
+        "Command": "b+2, 3, 4, b, f, f",
+        "Counter hit frame": "Launch",
+        "Damage": "12,10,23",
+        "Gif": null,
+        "Hit frame": "Launch",
+        "Hit level": "m, l, m",
         "Notes": "",
         "Start up frame": "16"
     },
@@ -1179,9 +1190,9 @@
     },
     {
         "Alias": [
-            "FC u/b+3,4",
-            "FC u+3,4",
-            "FC u/f+3,4"
+            "FC u/b+3+4",
+            "FC u+3+4",
+            "FC u/f+3+4"
         ],
         "Block frame": "-4~-2",
         "Command": "FC u/b_u_U/F+3+4",
