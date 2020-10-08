@@ -190,6 +190,28 @@
         "Start up frame": "-"
     },
     {
+        "Block frame": "-5",
+        "Command": "f,f,f+2+4",
+        "Counter hit frame": "1+2",
+        "Damage": "40",
+        "Gif": "https://gfycat.com/kindlyboringindianrockpython.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "10"
+    },
+    {   "Alias": ["mid air WR+2+4", "mid air WR2+4"],
+        "Block frame": "",
+        "Command": "Mid air f,f,f+2+4",
+        "Counter hit frame": "",
+        "Damage": "60",
+        "Gif": "https://gfycat.com/consideratepartialeeve.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "10"
+    },
+    {
         "Block frame": "-18",
         "Command": "3+4, 2",
         "Counter hit frame": "KND",
