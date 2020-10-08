@@ -909,7 +909,7 @@
         "Notes": "",
         "Start up frame": "17~(~) 1~"
     },
-    {
+    {   "Alias": ["Super"],
         "Block frame": "+1~",
         "Command": "qcf, qcf+1+2",
         "Counter hit frame": "KND",
@@ -917,19 +917,19 @@
         "Gif": "https://gfycat.com/CriminalDopeyArchaeopteryx.gif",
         "Hit frame": "KND",
         "Hit level": "Sm x 5",
-        "Notes": "",
+        "Notes": "invulnerable 1~10",
         "Recovery": "-53",
         "Start up frame": "10~"
     },
-    {
+    {   "Alias": ["RS"],
         "Block frame": "-18",
         "Command": "d/b, hcb, d/f+1+2",
         "Counter hit frame": "Launch",
         "Damage": "43",
-        "Gif": "",
+        "Gif": "https://gfycat.com/badnaturalcrayfish.gif",
         "Hit frame": "Launch",
         "Hit level": "Sm",
-        "Notes": "",
+        "Notes": "invulnerable 1~9",
         "Start up frame": "9~"
     },
     {
@@ -979,7 +979,7 @@
         "Hit level": "l",
         "Notes": "",
         "Recovery": "-35",
-        "Start up frame": "17s"
+        "Start up frame": "17 cs6~"
     },
     {
         "Block frame": "-14",
@@ -1235,7 +1235,7 @@
         "Hit level": "mh",
         "Notes": "",
         "Recovery": "-32",
-        "Start up frame": "20,32"
+        "Start up frame": "17,32"
     },
     {
         "Block frame": "+1",

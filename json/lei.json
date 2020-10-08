@@ -202,7 +202,7 @@
         "Command": "b+1, 2",
         "Counter hit frame": "-10",
         "Damage": "7,8",
-        "Gif": "https://gfycat.com/TediousSardonicGar.gif",
+        "Gif": "",
         "Hit frame": "-10",
         "Hit level": "h, h (BT)",
         "Notes": "",
@@ -213,7 +213,7 @@
         "Command": "b+1, 2, 1",
         "Counter hit frame": "+17",
         "Damage": "7,8,7",
-        "Gif": "https://gfycat.com/TediousSardonicGar.gif",
+        "Gif": "",
         "Hit frame": "+10",
         "Hit level": "h, h, l (BT)",
         "Notes": "BT3 guaranteed on normal hit, BTuf4 guaranteed on ch",
@@ -1653,7 +1653,7 @@
         "Damage": "18,12,8,20",
         "Gif": "",
         "Hit frame": "KND",
-        "Hit level": "h, m, m, l",
+        "Hit level": "h, m, m, h",
         "Notes": "",
         "Start up frame": "10"
     },
@@ -1725,18 +1725,18 @@
     },
     {
         "Block frame": "-12",
+
         "Command": "f, F+2",
         "Counter hit frame": "+7k",
         "Damage": "24",
         "Gif": "https://gfycat.com/VigorousMerryHuia.gif",
         "Hit frame": "+7k",
         "Hit level": "m",
-        "Notes": "Tail spin, power crush",
-        "Start up frame": "18 pc6"
+        "Notes": "Tail Spin, Power Crush",
+        "Start up frame": "18 pc6~"
     },
     {
         "Alias": [
-            "f,f+3",
             "f,f,f+3"
         ],
         "Block frame": "-14",

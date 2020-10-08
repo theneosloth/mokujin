@@ -491,10 +491,10 @@
     {
         "Block frame": "-3~-1s",
         "Command": "f,F+3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "25",
         "Gif": "https://gfycat.com/CelebratedYearlyDesertpupfish.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "20~22 (21~)"
@@ -1399,7 +1399,7 @@
         "Command": "f,n,d,d/f:2",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "23",
-        "Gif": "https://gfycat.com/RespectfulObeseAmericanbittern.gif",
+        "Gif": "https://gfycat.com/daringfamouscommongonolek.gif",
         "Hit frame": "Launch (JG?)",
         "Hit level": "h",
         "Notes": "",
@@ -1581,8 +1581,8 @@
         "Gif": "https://gfycat.com/HotMenacingHarrier.gif",
         "Hit frame": "+16~+17kg",
         "Hit level": "h",
-        "Notes": "Tail spin, Homing",
-        "Start up frame": "17~28"
+        "Notes": "Tail Spin, Homing",
+        "Start up frame": "17~18"
     },
     {
         "Block frame": "-5~-4",

@@ -2984,10 +2984,10 @@
         ],
         "Block frame": "-15~-13",
         "Command": "PAB (u_u/f)+2",
-        "Counter hit frame": "Launch",
+        "Counter hit frame": "Launch (JG)",
         "Damage": "23",
         "Gif": "https://gfycat.com/LittleDelayedAcornwoodpecker.gif",
-        "Hit frame": "Launch",
+        "Hit frame": "Launch (JG)",
         "Hit level": "m(TJ)",
         "Notes": "",
         "Start up frame": "17~19a (18~) js9~"

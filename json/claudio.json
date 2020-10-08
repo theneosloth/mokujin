@@ -548,7 +548,7 @@
         "Start up frame": "15~17 (16~) js11~"
     },
     {
-        "Block frame": "+7~+10",
+        "Block frame": "+7g~+10g",
         "Command": "f, f, f+2",
         "Counter hit frame": "KND",
         "Damage": "40",

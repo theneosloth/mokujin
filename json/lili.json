@@ -380,7 +380,7 @@
         "Damage": "23",
         "Gif": "https://gfycat.com/LimitedInsignificantElver.gif",
         "Hit frame": "Launch(JG?)",
-        "Hit level": "m?",
+        "Hit level": "m",
         "Notes": "",
         "Start up frame": "17~21a"
     },
@@ -650,7 +650,7 @@
         "Damage": "15,22",
         "Gif": "https://gfycat.com/EntireWarmheartedHapuka.gif",
         "Hit frame": "Launch(JG?)",
-        "Hit level": "m (TJ), m?",
+        "Hit level": "m (TJ), m",
         "Notes": "",
         "Start up frame": "15~18 9~a"
     },
@@ -815,7 +815,7 @@
         "Damage": "17",
         "Gif": "",
         "Hit frame": "Launch (JG?)",
-        "Hit level": "m?(BT)",
+        "Hit level": "m,(BT)",
         "Notes": "",
         "Start up frame": "16~18b"
     },
@@ -969,13 +969,24 @@
     {
         "Block frame": "+6~+7",
         "Command": "qcf+3+4",
-        "Counter hit frame": "+17k",
+        "Counter hit frame": "+17kg",
         "Damage": "6,20",
         "Gif": "",
-        "Hit frame": "+17k",
+        "Hit frame": "+17kg",
         "Hit level": "hh (TJ)",
         "Notes": "Homing, Tail spin",
         "Start up frame": "12~14, 22~23 (14~) js12~"
+    },
+    {   "Alias" : ["b+2+4"],
+        "Block frame": "-6",
+        "Command": "b+1+3",
+        "Counter hit frame": "KND",
+        "Damage": "25 + 50% of attack",
+        "Gif": "https://gfycat.com/neatthankfuldogfish.gif",
+        "Hit frame": "KND",
+        "Hit level": "hh (TJ)",
+        "Notes": "Punch reversal i3~8, chickenable",
+        "Start up frame": "43"
     },
     {
         "Block frame": "-",
@@ -1246,7 +1257,7 @@
         "Damage": "17",
         "Gif": "https://gfycat.com/EquatorialPlumpAmericanwigeon.gif",
         "Hit frame": "Launch (JG?)",
-        "Hit level": "m?",
+        "Hit level": "m",
         "Notes": "",
         "Start up frame": "16~18"
     },
@@ -1577,7 +1588,7 @@
         "Damage": "16",
         "Gif": null,
         "Hit frame": "+2~+3",
-        "Hit level": "m?",
+        "Hit level": "m",
         "Notes": "",
         "Start up frame": "17~18"
     },

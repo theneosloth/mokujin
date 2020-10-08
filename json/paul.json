@@ -635,7 +635,7 @@
         "Hit level": "l",
         "Notes": "",
         "Recovery": "-30",
-        "Start up frame": "19(29~)"
+        "Start up frame": "19(27~)"
     },
     {   "Alias" : ["Stomp"],
         "Block frame": "-12",

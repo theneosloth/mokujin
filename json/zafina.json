@@ -694,7 +694,7 @@
     },
     {
         "Block frame": "-",
-        "Command": "b+1, when hit 1+2",
+        "Command": "b+1:1+2",
         "Counter hit frame": "Throw",
         "Damage": "14,42",
         "Gif": "",
@@ -1513,7 +1513,7 @@
         "Hit frame": "+8k",
         "Hit level": "m, m (TJ)",
         "Notes": "Tail spin",
-        "Start up frame": "18 js6"
+        "Start up frame": "18"
     },
     {
         "Block frame": "-23",

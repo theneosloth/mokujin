@@ -728,13 +728,24 @@
         "Start up frame": "16"
     },
     {
-        "Block frame": "-8~+6",
+        "Block frame": "-15",
         "Command": "b+2, 3, 4, b, f",
         "Counter hit frame": "Launch",
         "Damage": "12,10,23",
         "Gif": null,
         "Hit frame": "Launch",
         "Hit level": "m, l, m, (TFS)",
+        "Notes": "",
+        "Start up frame": "16"
+    },
+    {
+        "Block frame": "+5",
+        "Command": "b+2, 3, 4, b, f, f",
+        "Counter hit frame": "Launch",
+        "Damage": "12,10,23",
+        "Gif": null,
+        "Hit frame": "Launch",
+        "Hit level": "m, l, m",
         "Notes": "",
         "Start up frame": "16"
     },
@@ -1179,9 +1190,9 @@
     },
     {
         "Alias": [
-            "FC u/b+3,4",
-            "FC u+3,4",
-            "FC u/f+3,4"
+            "FC u/b+3+4",
+            "FC u+3+4",
+            "FC u/f+3+4"
         ],
         "Block frame": "-4~-2",
         "Command": "FC u/b_u_U/F+3+4",
@@ -1353,7 +1364,7 @@
     {
         "Block frame": "-4~-3",
         "Command": "DSS 2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "20",
         "Gif": "https://gfycat.com/WelldocumentedUncommonJellyfish.gif",
         "Hit frame": "KND",
@@ -1964,10 +1975,10 @@
     {
         "Block frame": "-15~-12",
         "Command": "BT d+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch (JG)",
         "Damage": "16",
         "Gif": "https://gfycat.com/PastelFlawedGoitered.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch (JG)",
         "Hit level": "l",
         "Notes": "",
         "Start up frame": "23~26"
@@ -2238,12 +2249,12 @@
         "Start up frame": "13"
     },
     {
-        "Block frame": "-13~-12",
+        "Block frame": "-12",
         "Command": "d+1",
-        "Counter hit frame": "+1~+2s",
+        "Counter hit frame": "+2s",
         "Damage": "15",
         "Gif": null,
-        "Hit frame": "+1~+2s",
+        "Hit frame": "+2s",
         "Hit level": "l (TC)",
         "Notes": "",
         "Start up frame": "21~22s cs6~"
@@ -2296,7 +2307,7 @@
         "Block frame": "-12~-10",
         "Command": "d/b+3",
         "Counter hit frame": "KND",
-        "Damage": "11",
+        "Damage": "15",
         "Gif": "https://gfycat.com/UnderstatedFlickeringAustralianfurseal.gif",
         "Hit frame": "+4~+6s",
         "Hit level": "l",

@@ -598,10 +598,10 @@
     },
     {
         "Block frame": "~",
-        "Command": "b+2 when hit 1+2",
+        "Command": "b+2:1+2",
         "Counter hit frame": "+6",
         "Damage": "13,7,17",
-        "Gif": "",
+        "Gif": "https://gfycat.com/oddballadolescentgrassspider.gif",
         "Hit frame": "+6",
         "Hit level": "m, throw",
         "Notes": "",
@@ -965,7 +965,7 @@
     {
         "Block frame": "-9",
         "Command": "ws+2",
-        "Counter hit frame": "-3",
+        "Counter hit frame": "-3a",
         "Damage": "15",
         "Gif": "",
         "Hit frame": "-3",

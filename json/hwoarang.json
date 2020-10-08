@@ -862,7 +862,7 @@
         "Hit frame": "+11g",
         "Hit level": "m(TJ),(RFS)",
         "Notes": "",
-        "Start up frame": "16"
+        "Start up frame": "16 js9~"
     },
     {
         "Block frame": "-7",
@@ -872,8 +872,19 @@
         "Gif": "https://gfycat.com/CautiousSillyGalapagosalbatross.gif",
         "Hit frame": "KND",
         "Hit level": "m(TJ)",
-        "Notes": "51",
+        "Notes": "",
         "Start up frame": "25"
+    },
+    {
+        "Block frame": "--14",
+        "Command": "FC 3",
+        "Counter hit frame": "-3",
+        "Damage": "12",
+        "Gif": "",
+        "Hit frame": "3",
+        "Hit level": "l",
+        "Notes": "",
+        "Start up frame": "16"
     },
     {
         "Block frame": "+5s",
@@ -1165,7 +1176,7 @@
         "Command": "RFF 3+4",
         "Counter hit frame": "-",
         "Damage": "-",
-        "Gif": "https://gfycat.com/SillyUnhappyCrocodile.gif",
+        "Gif": "https://gfycat.com/ObesePowerfulBaldeagle.gif",
         "Hit frame": "-",
         "Hit level": "(LFF)",
         "Notes": "",
@@ -1314,7 +1325,7 @@
         "Command": "RFF 3,4",
         "Counter hit frame": "+21g",
         "Damage": "13,16",
-        "Gif": "https://gfycat.com/ObesePowerfulBaldeagle.gif",
+        "Gif": "https://gfycat.com/creepysentimentaliaerismetalmark",
         "Hit frame": "+21g",
         "Hit level": "m,h,(RFS)",
         "Notes": "",
@@ -1435,7 +1446,7 @@
     {
         "Block frame": "+12g",
         "Command": "RFF f+3",
-        "Counter hit frame": "+23",
+        "Counter hit frame": "+23g",
         "Damage": "21",
         "Gif": "https://gfycat.com/LegitimateShoddyCoypu.gif",
         "Hit frame": "+23g",
@@ -1542,7 +1553,7 @@
         "Command": "RFF b+3",
         "Counter hit frame": "CS",
         "Damage": "20",
-        "Gif": "https://gfycat.com/CarelessDisguisedCygnet.gif",
+        "Gif": "https://gfycat.com/unlinedinferioralabamamapturtle.gif",
         "Hit frame": "+2",
         "Hit level": "h,(LFF)",
         "Notes": "",

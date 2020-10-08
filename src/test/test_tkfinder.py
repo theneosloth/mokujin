@@ -141,7 +141,7 @@ class MyTestCase(unittest.TestCase):
             "online_webpage": "http://rbnorway.org/lucky-chloe-t7-frames",
             "portrait": "https://i.imgur.com/iNXYpwT.jpg"
         }
-        self.assertEqual("u/b_u_u/f+3", tkfinder.get_move(chloe, "uf3")["Command"])
+        self.assertEqual("u/f+3", tkfinder.get_move(chloe, "uf3")["Command"])
 
         leroy = {
                     "local_json": "leroy.json",

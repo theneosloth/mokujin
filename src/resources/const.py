@@ -13,7 +13,7 @@ CHARACTER_ALIAS = {
     'eliza': ['elz'],
     'feng': ['fen'],
     'geese': ['goose'],
-    'gigas': ['ggs', 'gig'],
+    'gigas': ['ggs', 'gig', 'gigass'],
     'heihachi': ['hashi', 'hei', 'hessu'],
     'hwoarang': ['hwo'],
     'jack7': ['j7', 'jack-7', 'jack'],
@@ -46,7 +46,8 @@ CHARACTER_ALIAS = {
     'zafina': ['zaffy', 'zaf'],
     "fahkumram": ['fah', 'fahkum', 'fahk', 'fak'],
     "leroy": ['ler'],
-    "ganryu": ['gan', 'ganny']
+    "ganryu": ['gan', 'ganny'],
+    "generic": []
 }
 
 MOVE_TYPES = {

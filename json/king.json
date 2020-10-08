@@ -544,7 +544,7 @@
     },
     {
         "Block frame": "-14",
-        "Command": "f,f,N,2",
+        "Command": "f,f,n,2",
         "Counter hit frame": "Throw(KND)",
         "Damage": "15",
         "Gif": "https://gfycat.com/SelfassuredElaborateAfricanwildcat.gif",
@@ -555,7 +555,7 @@
     },
     {
         "Block frame": "0",
-        "Command": "f,f,N,1+2",
+        "Command": "f,f,n,1+2",
         "Counter hit frame": "+18",
         "Damage": "0",
         "Gif": "https://gfycat.com/InformalBowedBlackbuck.gif",
@@ -1102,7 +1102,7 @@
     {
         "Block frame": "-5~-2s",
         "Command": "f,n,d,D/F+1+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "24",
         "Gif": "https://gfycat.com/AnyAllErne.gif",
         "Hit frame": "KND",
@@ -1136,8 +1136,8 @@
         "Block frame": "-5",
         "Command": "4",
         "Counter hit frame": "Launch (JG?)",
-        "Damage": "27",
-        "Gif": null,
+        "Damage": "20",
+        "Gif": "",
         "Hit frame": "+6",
         "Hit level": "h",
         "Notes": "",
@@ -1238,61 +1238,6 @@
         "Hit level": "m (TJ)",
         "Notes": "",
         "Start up frame": "23"
-    },
-    {
-        "Block frame": "+1",
-        "Command": "SS+1",
-        "Counter hit frame": "+8",
-        "Damage": "9",
-        "Gif": "",
-        "Hit frame": "+8",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "10(11~)"
-    },
-    {
-        "Block frame": "-14",
-        "Command": "SS+3",
-        "Counter hit frame": "KND",
-        "Damage": "33",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "17(18~)"
-    },
-    {
-        "Block frame": "-5",
-        "Command": "SS+4",
-        "Counter hit frame": "Launch (JG?)",
-        "Damage": "27",
-        "Gif": "",
-        "Hit frame": "+6",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "13(14~)"
-    },
-    {
-        "Block frame": "-8",
-        "Command": "BT 4",
-        "Counter hit frame": "KND",
-        "Damage": "33",
-        "Gif": null,
-        "Hit frame": "KND",
-        "Hit level": "h",
-        "Notes": "",
-        "Start up frame": "10"
-    },
-    {
-        "Block frame": "-11",
-        "Command": "BT d+3",
-        "Counter hit frame": "+3",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "+3",
-        "Hit level": "l",
-        "Notes": "",
-        "Start up frame": "10s"
     },
     {
         "Block frame": "-6",
@@ -1420,7 +1365,7 @@
         "Notes": "Throw",
         "Start up frame": "12"
     },
-    {
+    {   "Alias": ["GS"],
         "Block frame": "-13",
         "Command": "f,hcf+1",
         "Counter hit frame": "-",
@@ -1813,7 +1758,7 @@
         "Block frame": "-5~-4",
         "Command": "f,F+1",
         "Counter hit frame": "KND",
-        "Damage": "33",
+        "Damage": "21",
         "Gif": "https://gfycat.com/FabulousSpitefulHarborseal.gif",
         "Hit frame": "+14~+15kg",
         "Hit level": "m",
@@ -1847,7 +1792,7 @@
         "Command": "d+3",
         "Counter hit frame": "+1",
         "Damage": "16",
-        "Gif": "https://gfycat.com/UglyTalkativeAidi.gif",
+        "Gif": "",
         "Hit frame": "+1",
         "Hit level": "l",
         "Notes": "",
@@ -1873,7 +1818,7 @@
         "Hit frame": "+2s",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "23s"
+        "Start up frame": "23s cs10~"
     },
     {
         "Block frame": "-17~-15a",
@@ -1898,15 +1843,15 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "-1~+1",
+        "Block frame": "-1~0",
         "Command": "d/f+1",
-        "Counter hit frame": "+3~+5",
-        "Damage": "20",
+        "Counter hit frame": "+3~+4",
+        "Damage": "15",
         "Gif": null,
-        "Hit frame": "+3~+5",
+        "Hit frame": "+3~+4",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "14~16"
+        "Start up frame": "14~15"
     },
     {
         "Block frame": "-6",
