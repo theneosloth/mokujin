@@ -668,7 +668,7 @@
         "Block frame": "-7",
         "Command": "b+4,1",
         "Counter hit frame": "+9s",
-        "Damage": "15,20",
+        "Damage": "15,17",
         "Gif": "https://gfycat.com/ZestyBlueBoar.gif",
         "Hit frame": "+9s",
         "Hit level": "m,m",
@@ -835,12 +835,12 @@
         "Alias": [
             "u/f+1+2,b"
         ],
-        "Block frame": "?",
+        "Block frame": "-43",
         "Command": "u/f+1+2~b",
-        "Counter hit frame": "?",
+        "Counter hit frame": "-35",
         "Damage": "15",
         "Gif": "",
-        "Hit frame": "?",
+        "Hit frame": "-35",
         "Hit level": "m(TJ)(REV BAL)",
         "Notes": "",
         "Start up frame": "16~18 js13~"

@@ -25,7 +25,7 @@
         "Start up frame": "16~17"
     },
     {
-        "Block frame": "+2~+3",
+        "Block frame": "-2",
         "Command": "in rage d/f+3+4, f, N",
         "Counter hit frame": "KND",
         "Damage": "25",

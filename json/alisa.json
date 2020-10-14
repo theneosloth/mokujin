@@ -243,10 +243,10 @@
     {
         "Block frame": "-10~-9",
         "Command": "f+2, 3, 3",
-        "Counter hit frame": "ED",
+        "Counter hit frame": "KND",
         "Damage": "12,8,22",
         "Gif": "https://gfycat.com/EasyInexperiencedHuia.gif",
-        "Hit frame": "ED",
+        "Hit frame": "KND",
         "Hit level": "m, h (TJ), m",
         "Notes": "Wall Bounce",
         "Recovery": "-30",
@@ -2093,7 +2093,7 @@
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-29",
-        "Start up frame": "14~15"
+        "Start up frame": "13"
     },
     {
         "Block frame": "-5~-4",

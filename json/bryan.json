@@ -334,7 +334,7 @@
         "Counter hit frame": "Launch (CS)",
         "Damage": "20",
         "Gif": "https://gfycat.com/EssentialFrighteningApatosaur.gif",
-        "Hit frame": "CS",
+        "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-32",
@@ -458,10 +458,10 @@
     {
         "Block frame": "-13",
         "Command": "d/f+2,3",
-        "Counter hit frame": "CS",
+        "Counter hit frame": "Launch",
         "Damage": "12,20",
         "Gif": "https://gfycat.com/PitifulPersonalBullmastiff.gif",
-        "Hit frame": "CS",
+        "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "13"

@@ -2,11 +2,11 @@
     {
         "Block frame": "-22",
         "Command": "In rage d/f+3+4",
-        "Counter hit frame": "throw",
+        "Counter hit frame": "KND",
         "Damage": "10,45",
         "Gif": "",
-        "Hit frame": "throw",
-        "Hit level": "m (throw)",
+        "Hit frame": "KND",
+        "Hit level": "m",
         "Notes": "Rage Art",
         "Start up frame": "20 pc8~"
     },
@@ -694,7 +694,7 @@
     },
     {
         "Block frame": "-",
-        "Command": "b+1, when hit 1+2",
+        "Command": "b+1:1+2",
         "Counter hit frame": "Throw",
         "Damage": "14,42",
         "Gif": "",

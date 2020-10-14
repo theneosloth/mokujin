@@ -1240,7 +1240,7 @@
     "Hit frame": "-4",
     "Hit level": "l",
     "Notes": "",
-    "Start up frame": "19~20"
+    "Start up frame": "19~20 cs1~"
   },
   {
     "Block frame": "-23",
@@ -1251,7 +1251,7 @@
     "Hit frame": "Launch",
     "Hit level": "l,m",
     "Notes": "",
-    "Start up frame": "19~20"
+    "Start up frame": "19~20 cs1~"
   },
   {
     "Block frame": "-13",
