@@ -455,7 +455,7 @@
         "Hit frame": "KND",
         "Hit level": "m(TJ),m(TJ)",
         "Notes": "Tail spin",
-        "Start up frame": "19~20 js1~"
+        "Start up frame": "28~29 js9~"
     },
     {
         "Block frame": "-16~-15",
@@ -548,10 +548,10 @@
     {
         "Block frame": "-17~-16",
         "Command": "qcf+2",
-        "Counter hit frame": "ED",
+        "Counter hit frame": "KND",
         "Damage": "30",
         "Gif": "https://gfycat.com/UniformFatJerboa.gif",
-        "Hit frame": "ED",
+        "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "15~16 (15~)"
@@ -779,7 +779,7 @@
         "Command": "f,n,d,d/f:2",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "23",
-        "Gif": "https://gfycat.com/TinyPhysicalHake.gif",
+        "Gif": "https://gfycat.com/whichinfinitelaughingthrush.gif",
         "Hit frame": "Launch (JG?)",
         "Hit level": "h",
         "Notes": "",
