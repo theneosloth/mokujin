@@ -1081,6 +1081,17 @@
         "Start up frame": "21~23, 31~33 cs1~"
     },
     {
+        "Block frame": "-4",
+        "Command": "FC+d/f+1+2",
+        "Counter hit frame": "1+2",
+        "Damage": "45",
+        "Gif": "https://gfycat.com/goodgrimitalianbrownbear.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "11"
+    },
+    {
         "Block frame": "-11~-9",
         "Command": "FC+d/f+1+2 , 1+2",
         "Counter hit frame": "+5~+7s",

@@ -1059,7 +1059,18 @@
         "Block frame":"-2",
         "Hit frame":"KND",
         "Counter hit frame":"KND",
-        "Notes":"-",
+        "Notes":"Homing",
+        "Gif":"https://gfycat.com/InbornBoringDuiker.gif"
+    },
+    {
+        "Command":"b+2",
+        "Hit level":"h",
+        "Damage":"10",
+        "Start up frame":"15",
+        "Block frame":"-9",
+        "Hit frame":"+1",
+        "Counter hit frame":"+1",
+        "Notes":"Homing",
         "Gif":"https://gfycat.com/InbornBoringDuiker.gif"
     },
     {
@@ -1570,7 +1581,7 @@
         "Hit frame":"KND",
         "Counter hit frame":"KND",
         "Notes":"-",
-        "Gif":"https://gfycat.com/YoungPopularGuineapig.gif"
+        "Gif":"https://gfycat.com/sardonicfataladmiralbutterfly.gif"
     },
     {
         "Command":"WS+1",
@@ -1592,7 +1603,7 @@
         "Hit frame":"Launch",
         "Counter hit frame":"Launch",
         "Notes":"-",
-        "Gif":"https://gfycat.com/YoungPopularGuineapig.gif"
+        "Gif":""
     },
     {
         "Command":"WS+3",
