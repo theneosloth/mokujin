@@ -1198,7 +1198,7 @@
         "Hit frame": "Launch (JG?)",
         "Hit level": "m (TJ), h, m (TJ)",
         "Notes": "",
-        "Start up frame": "()"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-5~-4",
@@ -1209,7 +1209,7 @@
         "Hit frame": "0~+1 OC",
         "Hit level": "m (TJ), h, m (TJ), m",
         "Notes": "",
-        "Start up frame": "()"
+        "Start up frame": "-"
     },
     {
         "Alias": [
@@ -1224,7 +1224,7 @@
         "Hit frame": "KND",
         "Hit level": "m (TJ), mm (TJ)",
         "Notes": "",
-        "Start up frame": "()"
+        "Start up frame": "-"
     },
     {
         "Block frame": "-",

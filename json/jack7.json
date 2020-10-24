@@ -890,7 +890,7 @@
     },
     {   "Alias": ["one", "EMGF"],
         "Block frame": "-17~-14",
-        "Command": "hcf, d/f+1 (d/b, d/f, f, d/f+1)",
+        "Command": "hcf, d/f+1",
         "Counter hit frame": "Launch(JG?)",
         "Damage": "25",
         "Gif": "https://gfycat.com/meagerbrighthummingbird.gif",
