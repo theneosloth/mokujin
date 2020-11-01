@@ -283,7 +283,7 @@
         "Hit frame": "throw",
         "Hit level": "h, m (throw)",
         "Notes": "",
-        "Start up frame": "-"
+        "Start up frame": "14"
     },
     {
         "Block frame": "-7",
@@ -635,7 +635,7 @@
         "Hit frame": "throw",
         "Hit level": "h, m",
         "Notes": "",
-        "Start up frame": "-"
+        "Start up frame": "16"
     },
     {
         "Block frame": "-6",
@@ -646,7 +646,7 @@
         "Hit frame": "KND",
         "Hit level": "h, m",
         "Notes": "",
-        "Start up frame": "-"
+        "Start up frame": "16"
     },
     {
         "Block frame": "-12",
@@ -684,11 +684,10 @@
     {
         "Alias": [
             "u/b+1+2",
-            "u+1+2",
-            "u/f+1+2"
+            "u+1+2"
         ],
         "Block frame": "-12",
-        "Command": "u/b_u_u/f+1+2",
+        "Command": "u/b_u+1+2",
         "Counter hit frame": "-1",
         "Damage": "12 js9",
         "Gif": "",
@@ -1194,17 +1193,6 @@
         "Hit level": "2",
         "Notes": "12",
         "Start up frame": "-"
-    },
-    {
-        "Block frame": "h",
-        "Command": "none",
-        "Counter hit frame": "12",
-        "Damage": "-",
-        "Gif": "",
-        "Hit frame": "40",
-        "Hit level": "-",
-        "Notes": "1+2",
-        "Start up frame": "u/f+1+2"
     },
     {
         "Block frame": "32",
