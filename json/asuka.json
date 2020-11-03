@@ -403,6 +403,17 @@
         "Start up frame": "13~14"
     },
     {
+        "Block frame": "-6",
+        "Command": "FC d/f,d,d/f+1+2",
+        "Counter hit frame": "1+2",
+        "Damage": "-",
+        "Gif": "https://gfycat.com/madeupelementarygannet.gif",
+        "Hit frame": "Launch",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "11"
+    },
+    {
         "Alias": [
             "d+1+2",
             "FC d/b+1+2",
@@ -416,7 +427,7 @@
         "Hit frame": "KND",
         "Hit level": "l (TC)",
         "Notes": "",
-        "Start up frame": "20 cs15~"
+        "Start up frame": "20 cs10~"
     },
     {
         "Block frame": "-6(-25s)",

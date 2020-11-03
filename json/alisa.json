@@ -243,10 +243,10 @@
     {
         "Block frame": "-10~-9",
         "Command": "f+2, 3, 3",
-        "Counter hit frame": "ED",
+        "Counter hit frame": "KND",
         "Damage": "12,8,22",
         "Gif": "https://gfycat.com/EasyInexperiencedHuia.gif",
-        "Hit frame": "ED",
+        "Hit frame": "KND",
         "Hit level": "m, h (TJ), m",
         "Notes": "Wall Bounce",
         "Recovery": "-30",
@@ -1079,6 +1079,17 @@
         "Notes": "",
         "Recovery": "-27",
         "Start up frame": "21~23, 31~33 cs1~"
+    },
+    {
+        "Block frame": "-4",
+        "Command": "FC+d/f+1+2",
+        "Counter hit frame": "1+2",
+        "Damage": "45",
+        "Gif": "https://gfycat.com/goodgrimitalianbrownbear.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "11"
     },
     {
         "Block frame": "-11~-9",
@@ -2093,7 +2104,7 @@
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-29",
-        "Start up frame": "14~15"
+        "Start up frame": "13"
     },
     {
         "Block frame": "-5~-4",

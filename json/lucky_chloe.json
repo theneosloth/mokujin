@@ -311,7 +311,7 @@
         "Block frame": "-13~-12",
         "Command": "d+3+4, 3+4",
         "Counter hit frame": "0~+1s",
-        "Damage": "10,5,5,7,7",
+        "Damage": "5,5,5,7,7",
         "Gif": "",
         "Hit frame": "0~+1s",
         "Hit level": "lll, ll",
@@ -543,7 +543,7 @@
         "Start up frame": "17~18"
     },
     {
-        "Block frame": "-9~-8 (11b)",
+        "Block frame": "-9~-8",
         "Command": "SS+4",
         "Counter hit frame": "KND",
         "Damage": "17",
@@ -1337,7 +1337,7 @@
         "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": "https://gfycat.com/TeemingNeglectedHart.gif",
-        "Hit frame": "0",
+        "Hit frame": "0s",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "16"

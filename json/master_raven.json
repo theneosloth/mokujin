@@ -1042,6 +1042,17 @@
         "Start up frame": "18~19 (38~)"
     },
     {
+        "Block frame": "-9",
+        "Command": "HAZ 4",
+        "Counter hit frame": "KND",
+        "Damage": "25",
+        "Gif": "https://gfycat.com/organicqualifiedfossa.gif",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "",
+        "Start up frame": "17"
+    },
+    {
         "Block frame": "KND",
         "Command": "HAZ 2",
         "Counter hit frame": "KND",

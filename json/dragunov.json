@@ -693,24 +693,13 @@
     },
     {
         "Block frame": "-26",
-        "Command": "d/b+3 (clean hit)",
-        "Counter hit frame": "Throw(KND)",
-        "Damage": "21",
+        "Command": "d/b+3",
+        "Counter hit frame": "KND (Throw)",
+        "Damage": "14 (21)",
         "Gif": "https://gfycat.com/BlandZigzagAustraliancattledog.gif",
-        "Hit frame": "KND",
+        "Hit frame": "-5 (KND)",
         "Hit level": "l(TC)",
         "Notes": "",
-        "Start up frame": "27 cs6~"
-    },
-    {
-        "Block frame": "-26",
-        "Command": "d/b+3",
-        "Counter hit frame": "KND",
-        "Damage": "14",
-        "Gif": "",
-        "Hit frame": "-5",
-        "Hit level": "l(TC)",
-        "Notes": "Check **d/b+3 (clean hit)**",
         "Start up frame": "27 cs6~"
     },
     {

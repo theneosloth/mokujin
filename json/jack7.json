@@ -216,7 +216,7 @@
         "Gif": "https://gfycat.com/UntriedTightHalicore.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "Wall Bounce",
         "Start up frame": "15~16"
     },
     {
@@ -890,7 +890,7 @@
     },
     {   "Alias": ["one", "EMGF"],
         "Block frame": "-17~-14",
-        "Command": "hcf, d/f+1 (d/b, d/f, f, d/f+1)",
+        "Command": "hcf, d/f+1",
         "Counter hit frame": "Launch(JG?)",
         "Damage": "25",
         "Gif": "https://gfycat.com/meagerbrighthummingbird.gif",
