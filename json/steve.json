@@ -1915,18 +1915,17 @@
     {
         "Alias": [
             "d+1+2 grounded opponent",
-            "opponent down d+1+2",
             "grounded opponent d+1+2"
         ],
         "Block frame": "-11",
-        "Command": "d+1+2 opponent down",
+        "Command": "opponent down d+1+2",
         "Counter hit frame": "+2",
         "Damage": "12",
         "Gif": "",
         "Hit frame": "+2",
         "Hit level": "l",
         "Notes": "",
-        "Start up frame": "17"
+        "Start up frame": "16"
     },
     {
         "Block frame": "-",
@@ -3285,7 +3284,7 @@
         "Counter hit frame": "Tail spin",
         "Damage": "14,23",
         "Gif": "https://gfycat.com/RegularOrderlyGoldenretriever.gif",
-        "Hit frame": "+18",
+        "Hit frame": "+18g",
         "Hit level": "h,h",
         "Notes": "Tail spin.",
         "Start up frame": "12"
