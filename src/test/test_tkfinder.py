@@ -13,7 +13,7 @@ kazuya = {
 class MyTestCase(unittest.TestCase):
     def test_get_commands(self):
         result = tkfinder.get_commands_from("hwoarang")
-        self.assertIn("1,1,3,4", result)
+        self.assertIn("1,1,3,3", result)
 
     def test_get_generic(self):
         result = tkfinder.get_generic_move("d+4")
