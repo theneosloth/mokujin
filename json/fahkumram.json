@@ -134,10 +134,10 @@
   {
     "Block frame": "-5",
     "Command": "1,2,4,3~4",
-    "Counter hit frame": "KND",
+    "Counter hit frame": "+11",
     "Damage": "7,8,16,20",
     "Gif": "https://gfycat.com/giantfrigidbackswimmer.gif",
-    "Hit frame": "KND",
+    "Hit frame": "+11",
     "Hit level": "h,h,h,m",
     "Notes": "",
     "Start up frame": "10"
@@ -222,10 +222,10 @@
   {
     "Block frame": "-5",
     "Command": "2,4,3~4",
-    "Counter hit frame": "KND",
+    "Counter hit frame": "+11",
     "Damage": "8,16,20",
     "Gif": "https://gfycat.com/meatyanxiousgannet.gif",
-    "Hit frame": "KND",
+    "Hit frame": "+11",
     "Hit level": "h,h,m",
     "Notes": "",
     "Start up frame": "12"
@@ -321,10 +321,10 @@
   {
     "Block frame": "-7",
     "Command": "3,4~3",
-    "Counter hit frame": "CS",
+    "Counter hit frame": "KND",
     "Damage": "11,25",
     "Gif": "https://gfycat.com/calmbruisedfrigatebird.gif",
-    "Hit frame": "KND",
+    "Hit frame": "+4",
     "Hit level": "m,m",
     "Notes": "",
     "Start up frame": "13"
@@ -387,10 +387,10 @@
   {
     "Block frame": "-5",
     "Command": "4,3~4",
-    "Counter hit frame": "KND",
+    "Counter hit frame": "+11",
     "Damage": "14,20",
     "Gif": "https://gfycat.com/falseoddballfirecrest.gif",
-    "Hit frame": "KND",
+    "Hit frame": "+11",
     "Hit level": "h,m",
     "Notes": "",
     "Start up frame": "12"
@@ -497,10 +497,10 @@
   {
     "Block frame": "-7",
     "Command": "f+3,2,4~3",
-    "Counter hit frame": "CS",
+    "Counter hit frame": "KND",
     "Damage": "18,16,25",
     "Gif": "https://gfycat.com/dearconfusedargusfish.gif",
-    "Hit frame": "KND",
+    "Hit frame": "+4",
     "Hit level": "m,m,m",
     "Notes": "",
     "Start up frame": "17~18"
@@ -563,10 +563,10 @@
   {
     "Block frame": "-3",
     "Command": "d/f+1,2",
-    "Counter hit frame": "KND",
+    "Counter hit frame": "+6",
     "Damage": "10,17",
     "Gif": "https://gfycat.com/bountifullastaquaticleech.gif",
-    "Hit frame": "+8",
+    "Hit frame": "+6",
     "Hit level": "m,h",
     "Notes": "",
     "Start up frame": "13~14"
@@ -772,10 +772,10 @@
   {
     "Block frame": "-5",
     "Command": "d+3,4,3~4",
-    "Counter hit frame": "KND",
+    "Counter hit frame": "+11",
     "Damage": "11,16,20",
     "Gif": "https://gfycat.com/skeletalsmallamericansaddlebred.gif",
-    "Hit frame": "KND",
+    "Hit frame": "+11",
     "Hit level": "l,h,m",
     "Notes": "",
     "Start up frame": "16"
@@ -819,7 +819,7 @@
     "Counter hit frame": "SH",
     "Damage": "20",
     "Gif": "https://gfycat.com/torndopeygermanspaniel.gif",
-    "Hit frame": "SH",
+    "Hit frame": "+1s",
     "Hit level": "h",
     "Notes": "Sabaki,Launch on parry",
     "Start up frame": "18~22 air11~ (parry3~10)"
@@ -937,7 +937,7 @@
   {
     "Block frame": "-7",
     "Command": "b+3",
-    "Counter hit frame": "S!",
+    "Counter hit frame": "KND",
     "Damage": "27",
     "Gif": "https://gfycat.com/familiardirtyasiansmallclawedotter.gif",
     "Hit frame": "KND",
@@ -1179,10 +1179,10 @@
   {
     "Block frame": "-7",
     "Command": "WS 2,4~3",
-    "Counter hit frame": "CS",
+    "Counter hit frame": "KND",
     "Damage": "13,20",
     "Gif": "https://gfycat.com/unselfishnippyharvestmouse.gif",
-    "Hit frame": "KND",
+    "Hit frame": "+4",
     "Hit level": "m,m",
     "Notes": "",
     "Start up frame": "?"

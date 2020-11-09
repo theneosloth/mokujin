@@ -277,7 +277,7 @@
     {
         "Block frame": "+1~+2s",
         "Command": "d/f+4,1+2",
-        "Counter hit frame": "+5~+6s",
+        "Counter hit frame": "Launch",
         "Damage": "12,30",
         "Gif": "https://gfycat.com/WindingJoyousCattle.gif",
         "Hit frame": "+5~+6s",
@@ -420,7 +420,7 @@
     {
         "Block frame": "+4~+5s",
         "Command": "b+1+2",
-        "Counter hit frame": "+5~+6s",
+        "Counter hit frame": "Launch",
         "Damage": "30",
         "Gif": "https://gfycat.com/VagueAgitatedChameleon.gif",
         "Hit frame": "+5~+6s",

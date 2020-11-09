@@ -94,7 +94,7 @@
         "Start up frame":"10",
         "Block frame":"-6",
         "Hit frame":"KND",
-        "Counter hit frame":"KND",
+        "Counter hit frame":"Launch",
         "Notes":"Screw.",
         "Gif":"https://gfycat.com/DemandingFastCormorant.gif"
     },
@@ -185,7 +185,7 @@
         "Start up frame":"10",
         "Block frame":"-6",
         "Hit frame":"KND",
-        "Counter hit frame":"KND",
+        "Counter hit frame":"Launch",
         "Notes":"Screw.",
         "Gif":"https://gfycat.com/ChiefMiserableBrahmancow.gif"
     },
@@ -1747,7 +1747,7 @@
         "Start up frame":"20~21s (29~) cs4~",
         "Block frame":"-12~-11",
         "Hit frame":"+0~+1",
-        "Counter hit frame":"+1~+2",
+        "Counter hit frame":"+14g",
         "Notes":"-",
         "Gif":"https://gfycat.com/FearfulGroundedBaboon.gif"
     },

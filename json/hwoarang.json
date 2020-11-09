@@ -318,7 +318,7 @@
     {
         "Block frame": "-6",
         "Command": "4,3",
-        "Counter hit frame": "+5",
+        "Counter hit frame": "KND",
         "Damage": "14,16",
         "Gif": "https://gfycat.com/RashTintedGrayling.gif",
         "Hit frame": "+5",

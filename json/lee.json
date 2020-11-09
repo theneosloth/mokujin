@@ -2101,7 +2101,7 @@
     {
         "Block frame": "-6~-5",
         "Command": "d+2",
-        "Counter hit frame": "+8~+9",
+        "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": "https://gfycat.com/CreativeCraftyEider.gif",
         "Hit frame": "+8~+9",

@@ -205,7 +205,7 @@
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/ContentGiantGartersnake.gif",
-        "Hit frame": "KND",
+        "Hit frame": "+7",
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-27",
@@ -509,7 +509,7 @@
     {
         "Block frame": "-7~-3",
         "Command": "RSS 3",
-        "Counter hit frame": "+7s~+11s",
+        "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/MeagerFailingBlesbok.gif",
         "Hit frame": "+7s~+11s",
@@ -1076,7 +1076,7 @@
     {
         "Block frame": "-12",
         "Command": "d/b+4",
-        "Counter hit frame": "+15g",
+        "Counter hit frame": "+4",
         "Damage": "17",
         "Gif": "https://gfycat.com/CanineSimplisticDoctorfish.gif",
         "Hit frame": "+4",

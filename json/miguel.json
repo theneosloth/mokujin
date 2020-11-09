@@ -1080,7 +1080,7 @@
     {
         "Block frame": "-10~-9",
         "Command": "SAV b+1,4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch (?)",
         "Damage": "16,17",
         "Gif": "https://gfycat.com/ScalyBigheartedIberianmole.gif",
         "Hit frame": "+8~+9",

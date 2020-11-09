@@ -577,7 +577,7 @@
     {
         "Block frame": "-9",
         "Command": "b+1,2",
-        "Counter hit frame": "+7",
+        "Counter hit frame": "Launch",
         "Damage": "10,21",
         "Gif": "https://gfycat.com/FaintAmusingAnaconda.gif",
         "Hit frame": "+7",
@@ -1062,7 +1062,7 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "0",
+        "Block frame": "0s",
         "Command": "ss 2",
         "Counter hit frame": "KND",
         "Damage": "21",

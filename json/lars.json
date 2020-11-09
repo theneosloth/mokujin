@@ -209,7 +209,7 @@
     {
         "Block frame": "-9",
         "Command": "f+1,2,3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "10,11,20",
         "Gif": "https://gfycat.com/PlumpWideeyedBufflehead.gif",
         "Hit frame": "KND",
@@ -223,7 +223,7 @@
         ],
         "Block frame": "-12",
         "Command": "f+1,2,3,b",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "10,11,20",
         "Gif": "",
         "Hit frame": "KND",
@@ -927,7 +927,7 @@
     {
         "Block frame": "-12~-11s",
         "Command": "WS 2,1",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "13,17",
         "Gif": "https://gfycat.com/ShamefulDrearyBackswimmer.gif",
         "Hit frame": "+5~+6s",
@@ -1070,7 +1070,7 @@
     {
         "Block frame": "0~+1s",
         "Command": "SEN d/f+1",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "20",
         "Gif": "https://gfycat.com/PracticalFarIndiancow.gif",
         "Hit frame": "+8~+9s",

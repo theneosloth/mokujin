@@ -893,7 +893,7 @@
         "Counter hit frame": "CS",
         "Damage": "18",
         "Gif": "https://gfycat.com/IdleSaltyIbizanhound.gif",
-        "Hit frame": "+15kg",
+        "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Screw",
         "Start up frame": "13~15"
@@ -1071,7 +1071,7 @@
     {
         "Block frame": "-6~-4",
         "Command": "qcf+3+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch (S!)",
         "Damage": "6,20",
         "Gif": "https://gfycat.com/ShortHarmlessHagfish.gif",
         "Hit frame": "KND",

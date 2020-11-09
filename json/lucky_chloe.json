@@ -89,7 +89,7 @@
         "Counter hit frame": "KND",
         "Damage": "7,12,20",
         "Gif": "https://gfycat.com/BleakSoggyBison.gif",
-        "Hit frame": "+4~+5s",
+        "Hit frame": "KND",
         "Hit level": "h,m,m",
         "Notes": "",
         "Start up frame": "10"
@@ -177,7 +177,7 @@
         "Counter hit frame": "KND",
         "Damage": "12,20",
         "Gif": "https://gfycat.com/SpeedyIdioticCockroach.gif",
-        "Hit frame": "+2~+3s",
+        "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "17"
@@ -1392,7 +1392,7 @@
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/WealthyLegalAstrangiacoral.gif",
-        "Hit frame": "+4s",
+        "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "22"
@@ -1400,7 +1400,7 @@
     {
         "Block frame": "-11",
         "Command": "b+3",
-        "Counter hit frame": "+10kg",
+        "Counter hit frame": "KND",
         "Damage": "177",
         "Gif": "https://gfycat.com/IllConcreteDachshund.gif",
         "Hit frame": "+10kg",

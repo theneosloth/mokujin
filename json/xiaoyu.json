@@ -2489,7 +2489,7 @@
     {
         "Block frame": "-26",
         "Command": "RDS d+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "19",
         "Gif": "https://gfycat.com/tangibletartermine.gif",
         "Hit frame": "+5~+7s",

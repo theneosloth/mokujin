@@ -166,7 +166,7 @@
     {
         "Block frame": "-7",
         "Command": "1,4,3,3",
-        "Counter hit frame": "+7",
+        "Counter hit frame": "KND",
         "Damage": "7,14,15,18",
         "Gif": "https://gfycat.com/SevereMadDwarfmongoose.gif",
         "Hit frame": "+7",
@@ -309,7 +309,7 @@
     {
         "Block frame": "-7~-6",
         "Command": "1+2",
-        "Counter hit frame": "+5~+6b",
+        "Counter hit frame": "+6",
         "Damage": "16",
         "Gif": null,
         "Hit frame": "+6~+7",

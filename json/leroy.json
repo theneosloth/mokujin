@@ -643,7 +643,7 @@
     {
         "Block frame": "0",
         "Command": "d/b+1,3",
-        "Counter hit frame": "+8",
+        "Counter hit frame": "Launch",
         "Damage": "15,17",
         "Gif": "",
         "Hit frame": "+8",
@@ -1024,7 +1024,7 @@
         "Counter hit frame": "+12",
         "Damage": "17",
         "Gif": "https://gfycat.com/spiffyhugeibadanmalimbe.gif",
-        "Hit frame": "+4s",
+        "Hit frame": "+4",
         "Hit level": "l",
         "Notes": "",
         "Start up frame": "18~19 (27~28)"

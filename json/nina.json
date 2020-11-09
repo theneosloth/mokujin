@@ -1296,10 +1296,10 @@
     {
         "Block frame": "-13",
         "Command": "f,f,f+3,4",
-        "Counter hit frame": "Launch",
+        "Counter hit frame": "KND",
         "Damage": "13,23",
         "Gif": "https://gfycat.com/HappyPoliticalCutworm.gif",
-        "Hit frame": "Launch",
+        "Hit frame": "KND",
         "Hit level": "m (TJ),m",
         "Notes": "",
         "Start up frame": "20 js4~"
@@ -1592,11 +1592,10 @@
     },
     {
         "Alias": [
-            "u/b+1",
             "u+1"
         ],
         "Block frame": "-8",
-        "Command": "u/b_u+1",
+        "Command": "u+1",
         "Counter hit frame": "+3",
         "Damage": "12",
         "Gif": "",
@@ -1976,7 +1975,7 @@
     },
     {
         "Block frame": "-16",
-        "Command": "b+1",
+        "Command": "u/b+1",
         "Counter hit frame": "CS",
         "Damage": "15",
         "Gif": "https://gfycat.com/UnderstatedSlowBlacklab.gif",

@@ -343,10 +343,10 @@
     {
         "Block frame": "-13",
         "Command": "d/b+3,4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "12,20",
         "Gif": "https://gfycat.com/MammothVastArgentinehornedfrog.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "l,h",
         "Notes": "",
         "Start up frame": "cs6~"
@@ -1049,10 +1049,10 @@
     {
         "Block frame": "-13",
         "Command": "d/b+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "30",
         "Gif": "https://gfycat.com/FoolhardyBleakBeauceron.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch",
         "Hit level": "h",
         "Notes": "",
         "Start up frame": "20 cs6~"

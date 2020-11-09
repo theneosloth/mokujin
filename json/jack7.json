@@ -145,7 +145,7 @@
     {
         "Block frame": "-14s",
         "Command": "b+1,2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "17,17",
         "Gif": "",
         "Hit frame": "KND",
@@ -704,10 +704,10 @@
     {
         "Block frame": "+4~+5",
         "Command": "f,F+3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "20",
         "Gif": "https://gfycat.com/SecretElectricGartersnake.gif",
-        "Hit frame": "KND",
+        "Hit frame": "+9",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "26~27 (27~)"
