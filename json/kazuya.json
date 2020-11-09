@@ -128,7 +128,7 @@
         "Gif": "https://gfycat.com/SecretApprehensiveHare.gif",
         "Hit frame": "+6~+7",
         "Hit level": "h,m",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "12"
     },
     {
@@ -220,7 +220,7 @@
         "Gif": "https://gfycat.com/WeirdTenseAzurevasesponge.gif",
         "Hit frame": "+18~+19kg",
         "Hit level": "m,h",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "15~16"
     },
     {
@@ -523,7 +523,7 @@
     },
     {
         "Block frame": "-12~-11",
-        "Command": "WS+1,2",
+        "Command": "WS 1,2",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "10,12",
         "Gif": "https://gfycat.com/kindlyspeedycalf.gif",
@@ -534,7 +534,7 @@
     },
     {
         "Block frame": "-15~-14",
-        "Command": "WS+4,4",
+        "Command": "WS 4,4",
         "Counter hit frame": "-4~-3s",
         "Damage": "13,16",
         "Gif": "https://gfycat.com/SecondaryDeadHerald.gif",
@@ -556,7 +556,7 @@
     },
     {
         "Block frame": "-5",
-        "Command": "FC d/f, d, d/f+1+2",
+        "Command": "FC d/f,d,d/f+1+2",
         "Counter hit frame": "1+2",
         "Damage": "40",
         "Gif": "https://gfycat.com/secondhandclutteredhare.gif",
@@ -573,7 +573,7 @@
         "Gif": "https://gfycat.com/BitterLimpingLice.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "16~17 (25~)"
     },
     {   "Alias" : ["Stomp"],
@@ -964,7 +964,7 @@
     },
     {
         "Block frame": "-22~-21",
-        "Command": "DVK SS+2",
+        "Command": "DVK ss 2",
         "Counter hit frame": "Launch",
         "Damage": "25",
         "Gif": "https://gfycat.com/PitifulSpiffyGrunion.gif",
@@ -1100,7 +1100,7 @@
     },
     {
         "Block frame": "-18~-17",
-        "Command": "WS+2",
+        "Command": "WS 2",
         "Counter hit frame": "CS",
         "Damage": "25",
         "Gif": "https://gfycat.com/BrownMellowBat.gif",
@@ -1111,18 +1111,18 @@
     },
     {
         "Block frame": "-5~-3",
-        "Command": "WS+3",
+        "Command": "WS 3",
         "Counter hit frame": "KND",
         "Damage": "24",
         "Gif": "https://gfycat.com/NauticalDazzlingGalapagosalbatross.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Homing, Tail spin",
+        "Notes": "Homing,Screw",
         "Start up frame": "21~23"
     },
     {
         "Block frame": "-2~-1",
-        "Command": "WS+1+2",
+        "Command": "WS 1+2",
         "Counter hit frame": "+9~+10",
         "Damage": "12",
         "Gif": "",
@@ -1177,7 +1177,7 @@
     },
     {
         "Block frame": "+1",
-        "Command": "SS+1",
+        "Command": "ss 1",
         "Counter hit frame": "+8",
         "Damage": "7",
         "Gif": "",
@@ -1188,7 +1188,7 @@
     },
     {
         "Block frame": "-3",
-        "Command": "SS+2",
+        "Command": "ss 2",
         "Counter hit frame": "+8",
         "Damage": "12",
         "Gif": "",
@@ -1199,7 +1199,7 @@
     },
     {
         "Block frame": "-7",
-        "Command": "SS+3",
+        "Command": "ss 3",
         "Counter hit frame": "CS",
         "Damage": "23",
         "Gif": "https://gfycat.com/CelebratedKindheartedFlatcoatretriever.gif",
@@ -1210,7 +1210,7 @@
     },
     {
         "Block frame": "-9",
-        "Command": "SS+4",
+        "Command": "ss 4",
         "Counter hit frame": "CS",
         "Damage": "18",
         "Gif": "",
@@ -1221,7 +1221,7 @@
     },
     {
         "Block frame": "-8",
-        "Command": "SS+3+4",
+        "Command": "ss 3+4",
         "Counter hit frame": "+4",
         "Damage": "14",
         "Gif": "",
@@ -1336,7 +1336,7 @@
     },
     {
         "Block frame": "0",
-        "Command": "f, F+1+2",
+        "Command": "f,F+1+2",
         "Counter hit frame": "-",
         "Damage": "35",
         "Gif": "https://gfycat.com/BrokenOrneryGrouper.gif",
@@ -1581,12 +1581,12 @@
         "Gif": "https://gfycat.com/HotMenacingHarrier.gif",
         "Hit frame": "+16~+17kg",
         "Hit level": "h",
-        "Notes": "Tail Spin, Homing",
+        "Notes": "Screw,Homing",
         "Start up frame": "17~18"
     },
     {
         "Block frame": "-5~-4",
-        "Command": "WS+1",
+        "Command": "WS 1",
         "Counter hit frame": "+5~+6",
         "Damage": "10",
         "Gif": "",
@@ -1597,7 +1597,7 @@
     },
     {
         "Block frame": "-3~-2",
-        "Command": "WS+4",
+        "Command": "WS 4",
         "Counter hit frame": "+8~+9",
         "Damage": "13",
         "Gif": "",

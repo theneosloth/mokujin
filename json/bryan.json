@@ -66,7 +66,7 @@
         "Gif": "https://gfycat.com/SoulfulSolidBarnowl.gif",
         "Hit frame": "KND",
         "Hit level": "h,h,h",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "10"
     },
     {
@@ -138,7 +138,7 @@
         "Gif": "https://gfycat.com/UnsteadyAbandonedFluke.gif",
         "Hit frame": "KND",
         "Hit level": "h,h,h,m(TJ)",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "js16~"
     },
     {
@@ -149,7 +149,7 @@
         "Gif": "https://gfycat.com/BarrenAntiqueGarpike.gif",
         "Hit frame": "KND",
         "Hit level": "h,h,h,h,m(TJ)",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "js16~"
     },
     {
@@ -281,7 +281,7 @@
         "Gif": "https://gfycat.com/SlushyEarnestDikkops.gif",
         "Hit frame": "KND",
         "Hit level": "h,m,m",
-        "Notes": "Tail spin\nHold the input to delay",
+        "Notes": "Screw\nHold the input to delay",
         "Start up frame": "12"
     },
     {
@@ -292,7 +292,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h,m,m",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "12"
     },
     {
@@ -511,7 +511,7 @@
             "FC 1+2 (whiff)"
         ],
         "Block frame": "-28",
-        "Command": "d+1+2_FC+1+2 (2nd hit whiff)",
+        "Command": "d+1+2_FC 1+2 (2nd hit whiff)",
         "Counter hit frame": "-17",
         "Damage": "10",
         "Gif": "",
@@ -662,7 +662,7 @@
         "Gif": "https://gfycat.com/MediumAcidicDiplodocus.gif",
         "Hit frame": "KND",
         "Hit level": "h,m(TJ)",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "js16~"
     },
     {
@@ -673,7 +673,7 @@
         "Gif": "https://gfycat.com/DemandingClutteredLadybird.gif",
         "Hit frame": "KND",
         "Hit level": "h,h,m(TJ)",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "js16~"
     },
     {
@@ -682,7 +682,7 @@
             "b+3,f"
         ],
         "Block frame": "+1",
-        "Command": "b+3, F or d/F",
+        "Command": "b+3,F or d/F",
         "Counter hit frame": "+12",
         "Damage": "12",
         "Gif": "https://gfycat.com/FearlessSparklingDowitcher.gif\n",
@@ -967,7 +967,7 @@
         "Gif": "https://gfycat.com/BonyIcyAfricanjacana.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "22~23 (23~)"
     },
     {
@@ -978,7 +978,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "34~35 (35~)"
     },
     {
@@ -989,7 +989,7 @@
         "Gif": "https://gfycat.com/InbornShockingBronco.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Homing, Tail spin",
+        "Notes": "Homing,Screw",
         "Start up frame": "16~19 (17~)"
     },
     {
@@ -1042,13 +1042,13 @@
     },
     {
         "Alias": [
-            "WS+2,f+2",
-            "WS+2,b+2",
-            "WS+2~f+2",
-            "WS+2~b+2"
+            "WS 2,f+2",
+            "WS 2,b+2",
+            "WS 2~f+2",
+            "WS 2~b+2"
         ],
         "Block frame": "-10",
-        "Command": "WS+2,(f_b)+2",
+        "Command": "WS 2,(f_b)+2",
         "Counter hit frame": "Throw(KND)",
         "Damage": "18,25",
         "Gif": "https://gfycat.com/PersonalAdorableAfricanporcupine.gif",
@@ -1059,7 +1059,7 @@
     },
     {
         "Block frame": "-10",
-        "Command": "WS+3,4",
+        "Command": "WS 3,4",
         "Counter hit frame": "+29G",
         "Damage": "18,25",
         "Gif": "https://gfycat.com/IllSoupyAiredaleterrier.gif",
@@ -1098,7 +1098,7 @@
         "Gif": "https://gfycat.com/SparklingUnderstatedHawk.gif",
         "Hit frame": "KND",
         "Hit level": "m,h",
-        "Notes": "Punish, Tail Spin",
+        "Notes": "Punish,Screw",
         "Start up frame": "13"
     },
     {
@@ -1113,23 +1113,23 @@
         "Gif": "https://gfycat.com/YawningEnlightenedKestrel.gif",
         "Hit frame": "+13~+14kg",
         "Hit level": "m",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "15~16 cs1~14"
     },
     {
         "Block frame": "-5~-4",
-        "Command": "SS+1",
+        "Command": "ss 1",
         "Counter hit frame": "CS",
         "Damage": "23",
         "Gif": "https://gfycat.com/NeighboringDaringDegus.gif",
         "Hit frame": "CS",
         "Hit level": "h",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "17~18 (26~)"
     },
     {
         "Block frame": "-13~-12",
-        "Command": "SS+2,3",
+        "Command": "ss 2,3",
         "Counter hit frame": "KND",
         "Damage": "20,20",
         "Gif": "https://gfycat.com/SnoopyCloseBassethound.gif",
@@ -1239,8 +1239,8 @@
     },
     {
         "Alias": [
-            "qcf+4, 1, d",
-            "qcf+4, 1, u"
+            "qcf+4,1,d",
+            "qcf+4,1,u"
         ],
         "Block frame": "-11",
         "Command": "qcf+4,1,d_u (Cancel)",
@@ -1271,7 +1271,7 @@
         "Gif": "https://gfycat.com/KindheartedCourageousFalcon.gif",
         "Hit frame": "KND",
         "Hit level": "m,h,m(TJ)",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "js16~"
     },
     {
@@ -1304,7 +1304,7 @@
         "Gif": "https://gfycat.com/DirectImpossibleIncatern.gif",
         "Hit frame": "KND",
         "Hit level": "m,h",
-        "Notes": "Tail spin",
+        "Notes": "Screw",
         "Start up frame": "15~16 (17~)"
     },
     {
@@ -1434,7 +1434,7 @@
     },
     {
         "Block frame": "\u2013",
-        "Command": "After TNT u/b+1+2, ,",
+        "Command": "After TNT u/b+1+2,,",
         "Counter hit frame": "KND",
         "Damage": "5,2\uff5e",
         "Gif": "",
@@ -1551,7 +1551,7 @@
     },
     {
         "Block frame": "-11(-13)",
-        "Command": "u/f, n+4",
+        "Command": "u/f,n+4",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "25",
         "Gif": "",
@@ -1562,7 +1562,7 @@
     },
     {
         "Block frame": "-16",
-        "Command": "WS+3+4",
+        "Command": "WS 3+4",
         "Counter hit frame": "KND",
         "Damage": "28",
         "Gif": "",
@@ -1573,7 +1573,7 @@
     },
     {
         "Block frame": "-5",
-        "Command": "FC+1",
+        "Command": "FC 1",
         "Counter hit frame": "+6",
         "Damage": "5",
         "Gif": "",
@@ -1584,7 +1584,7 @@
     },
     {
         "Block frame": "-4",
-        "Command": "FC+2",
+        "Command": "FC 2",
         "Counter hit frame": "+7",
         "Damage": "8",
         "Gif": "",
@@ -1595,7 +1595,7 @@
     },
     {
         "Block frame": "-17",
-        "Command": "FC+d/f+3",
+        "Command": "FC d/f+3",
         "Counter hit frame": "-3",
         "Damage": "12",
         "Gif": "",
@@ -1606,7 +1606,7 @@
     },
     {
         "Block frame": "-4",
-        "Command": "SS+3",
+        "Command": "ss 3",
         "Counter hit frame": "+7",
         "Damage": "14",
         "Gif": "",
@@ -1617,7 +1617,7 @@
     },
     {
         "Block frame": "-7",
-        "Command": "SS+4",
+        "Command": "ss 4",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "15",
         "Gif": "",
@@ -1672,7 +1672,7 @@
     },
     {
         "Block frame": "-6",
-        "Command": "f, F+1+2",
+        "Command": "f,F+1+2",
         "Counter hit frame": "-",
         "Damage": "40",
         "Gif": "https://gfycat.com/GratefulMerryIlladopsis.gif",
@@ -1970,7 +1970,7 @@
     },
     {
         "Block frame": "-16~-15",
-        "Command": "WS+1",
+        "Command": "WS 1",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "20",
         "Gif": "",
@@ -1981,7 +1981,7 @@
     },
     {
         "Block frame": "-10",
-        "Command": "WS+2",
+        "Command": "WS 2",
         "Counter hit frame": "+1",
         "Damage": "18",
         "Gif": "",
@@ -1992,7 +1992,7 @@
     },
     {
         "Block frame": "-10",
-        "Command": "WS+3",
+        "Command": "WS 3",
         "Counter hit frame": "uKZD",
         "Damage": "18",
         "Gif": "",
@@ -2003,7 +2003,7 @@
     },
     {
         "Block frame": "-6~-5",
-        "Command": "WS+4",
+        "Command": "WS 4",
         "Counter hit frame": "+5~+6",
         "Damage": "16",
         "Gif": "",
@@ -2014,7 +2014,7 @@
     },
     {
         "Block frame": "-5~-4",
-        "Command": "WS+1+2",
+        "Command": "WS 1+2",
         "Counter hit frame": "+6~+7",
         "Damage": "12",
         "Gif": "",
@@ -2025,7 +2025,7 @@
     },
     {
         "Block frame": "-6~-5",
-        "Command": "SS+2",
+        "Command": "ss 2",
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "",
