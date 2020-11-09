@@ -210,7 +210,7 @@
         "Start up frame": "35~37d (36~) js10~"
     },
     {
-        "Block frame": "-12~-11",
+        "Block frame": "-10",
         "Command": "1+2",
         "Counter hit frame": "KND",
         "Damage": "25",
@@ -427,10 +427,10 @@
     {
         "Block frame": "-9~-8",
         "Command": "b+1+2",
-        "Counter hit frame": "+2~+3",
+        "Counter hit frame": "+8~+9",
         "Damage": "17",
         "Gif": "https://gfycat.com/TemptingGrippingCrownofthornsstarfish.gif",
-        "Hit frame": "+2~+3",
+        "Hit frame": "+8~+9",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "19~20"
@@ -907,12 +907,12 @@
             "CD+4,4,n+4,4",
             "CD+4,4,4,n+4,4"
         ],
-        "Block frame": "-16~-15",
+        "Block frame": "-14~-13",
         "Command": "HS,n+4,4",
-        "Counter hit frame": "-5~-4s",
+        "Counter hit frame": "-3~-2s",
         "Damage": "10,20",
         "Gif": "",
-        "Hit frame": "-5~-4s",
+        "Hit frame": "-3~-2s",
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "28~"
@@ -1364,10 +1364,10 @@
     {
         "Block frame": "-18~-16",
         "Command": "d/b+2",
-        "Counter hit frame": "+5~+7s",
-        "Damage": "23",
+        "Counter hit frame": "+6~+8s",
+        "Damage": "25",
         "Gif": "https://gfycat.com/HighLeafyCentipede.gif",
-        "Hit frame": "+5~+7s",
+        "Hit frame": "+6~+8s",
         "Hit level": "l(TC)",
         "Notes": "",
         "Start up frame": "23~25s cs8~"
@@ -1403,7 +1403,7 @@
         "Hit frame": "+7~+9",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "14~16"
+        "Start up frame": "14~15"
     },
     {
         "Block frame": "-9~-7",

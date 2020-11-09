@@ -1504,12 +1504,12 @@
         "Start up frame": "25~30s cs1?~"
     },
     {
-        "Block frame": "-4~-3",
+        "Block frame": "-3~-2",
         "Command": "AOP 4",
-        "Counter hit frame": "+7~+8",
+        "Counter hit frame": "+8~+9",
         "Damage": "14",
         "Gif": "https://gfycat.com/BoilingSlimyIndianspinyloach.gif",
-        "Hit frame": "+7~+8",
+        "Hit frame": "+8~+9",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "12~13"
@@ -2234,12 +2234,12 @@
         "Start up frame": "19~20"
     },
     {
-        "Block frame": "-4",
+        "Block frame": "-2",
         "Command": "d/f+1",
-        "Counter hit frame": "+7",
-        "Damage": "11",
+        "Counter hit frame": "+9",
+        "Damage": "13",
         "Gif": "https://gfycat.com/NaughtySmoothGermanshorthairedpointer.gif",
-        "Hit frame": "+7",
+        "Hit frame": "+9",
         "Hit level": "m (TC)(RDS)",
         "Notes": "",
         "Start up frame": "14b cs6~13"
@@ -2303,7 +2303,7 @@
         "Block frame": "-9",
         "Command": "d/b+1",
         "Counter hit frame": "KND",
-        "Damage": "30",
+        "Damage": "25",
         "Gif": "https://gfycat.com/AlarmedGreenBubblefish.gif",
         "Hit frame": "KND",
         "Hit level": "m",
@@ -2344,12 +2344,12 @@
         "Start up frame": "15~16b"
     },
     {
-        "Block frame": "+2~+3",
+        "Block frame": "+3~+4",
         "Command": "b+3",
         "Counter hit frame": "KND",
         "Damage": "22",
         "Gif": "https://gfycat.com/GrotesqueHotAxisdeer.gif",
-        "Hit frame": "+7~+8s",
+        "Hit frame": "+8~+9s",
         "Hit level": "h",
         "Notes": "",
         "Start up frame": "18~19b"
@@ -2479,7 +2479,7 @@
         "Block frame": "-12",
         "Command": "RDS d+3",
         "Counter hit frame": "+7s",
-        "Damage": "10",
+        "Damage": "12",
         "Gif": "",
         "Hit frame": "+7s",
         "Hit level": "l",

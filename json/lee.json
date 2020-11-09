@@ -146,12 +146,12 @@
         "Start up frame": "10"
     },
     {
-        "Block frame": "-10",
+        "Block frame": "-11",
         "Command": "1, 3:3",
-        "Counter hit frame": "+1",
+        "Counter hit frame": "0",
         "Damage": "7,5,4",
         "Gif": null,
-        "Hit frame": "+1",
+        "Hit frame": "0",
         "Hit level": "h, h, m",
         "Notes": "",
         "Start up frame": "10"
@@ -292,7 +292,7 @@
         "Block frame": "Throw(KND)",
         "Command": "3~3 hit",
         "Counter hit frame": "Throw(KND)",
-        "Damage": "(18,)15,5",
+        "Damage": "(18,)25",
         "Gif": "",
         "Hit frame": "Throw(KND)",
         "Hit level": "(h, )h(Throw)",
@@ -512,7 +512,7 @@
         "Block frame": "-13~-12",
         "Command": "f+1+2",
         "Counter hit frame": "KND",
-        "Damage": "10,24",
+        "Damage": "10,20",
         "Gif": "https://gfycat.com/SpanishPointedCockerspaniel.gif",
         "Hit frame": "KND",
         "Hit level": "hh",
@@ -553,7 +553,7 @@
         "Start up frame": "15~16"
     },
     {
-        "Block frame": "-16~-15",
+        "Block frame": "-14~-13",
         "Command": "d/f+3, 2, 3",
         "Counter hit frame": "Launch",
         "Damage": "14,11,23",
@@ -941,7 +941,7 @@
         "Block frame": "-15",
         "Command": "b+3+4",
         "Counter hit frame": "KND",
-        "Damage": "25",
+        "Damage": "20",
         "Gif": "https://gfycat.com/SlimyUnconsciousBrahmanbull.gif",
         "Hit frame": "KND",
         "Hit level": "m",
@@ -1397,7 +1397,7 @@
         "Start up frame": "16~20d (19~) cs1~15 js16~"
     },
     {
-        "Block frame": "-11~-8",
+        "Block frame": "-9",
         "Command": "SSR+3+4",
         "Counter hit frame": "KND",
         "Damage": "28",
@@ -1408,7 +1408,7 @@
         "Start up frame": "20~23 (29~)"
     },
     {
-        "Block frame": "-19~-16",
+        "Block frame": "-12",
         "Command": "SSR+3+4, 4",
         "Counter hit frame": "KND",
         "Damage": "28",
@@ -1479,7 +1479,7 @@
         "Counter hit frame": "KND",
         "Damage": "10,17",
         "Gif": "https://gfycat.com/InsistentDetailedJaguarundi.gif",
-        "Hit frame": "0",
+        "Hit frame": "+",
         "Hit level": "h, m",
         "Notes": "",
         "Start up frame": "12"
@@ -1487,10 +1487,10 @@
     {
         "Block frame": "-8",
         "Command": "HMS 1, 4, 3",
-        "Counter hit frame": "0",
+        "Counter hit frame": "+2",
         "Damage": "10,15",
         "Gif": null,
-        "Hit frame": "0",
+        "Hit frame": "+2",
         "Hit level": "h, m (HMS)",
         "Notes": "",
         "Start up frame": "12"
@@ -2102,7 +2102,7 @@
         "Block frame": "-6~-5",
         "Command": "d+2",
         "Counter hit frame": "+8~+9",
-        "Damage": "18",
+        "Damage": "17",
         "Gif": "https://gfycat.com/CreativeCraftyEider.gif",
         "Hit frame": "+8~+9",
         "Hit level": "m",
@@ -2168,7 +2168,7 @@
         "Block frame": "-3~-1",
         "Command": "b+4",
         "Counter hit frame": "Launch",
-        "Damage": "22",
+        "Damage": "20",
         "Gif": "https://gfycat.com/PotableEarnestAtlasmoth.gif",
         "Hit frame": "+7~+9s (KND)",
         "Hit level": "m",

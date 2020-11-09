@@ -497,7 +497,7 @@
         "Counter hit frame": "+9",
         "Damage": "13,10",
         "Gif": "https://gfycat.com/AbandonedAmbitiousAtlanticbluetang.gif",
-        "Hit frame": "+2",
+        "Hit frame": "+5",
         "Hit level": "m, h",
         "Notes": "",
         "Start up frame": "13,30"
@@ -790,7 +790,7 @@
         "Block frame": "-3~-2",
         "Command": "d/f+1+2",
         "Counter hit frame": "+20~+21kg",
-        "Damage": "5,10",
+        "Damage": "5,14",
         "Gif": "https://gfycat.com/AbandonedAmbitiousAtlanticbluetang.gif",
         "Hit frame": "+20~+21kg",
         "Hit level": "mm",
@@ -1294,7 +1294,7 @@
         "Start up frame": "20 js4~"
     },
     {
-        "Block frame": "-15",
+        "Block frame": "-13",
         "Command": "f, f, f+3, 4",
         "Counter hit frame": "Launch",
         "Damage": "13,23",
@@ -1511,7 +1511,7 @@
         "Hit frame": "KND",
         "Hit level": "m?",
         "Notes": "",
-        "Start up frame": "20~21 (22~)"
+        "Start up frame": "17~18 (19~)"
     },
     {
         "Block frame": "-20~-11",
@@ -1905,7 +1905,7 @@
         "Hit frame": "+5",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "13"
+        "Start up frame": "13~14"
     },
     {
         "Block frame": "-7~-6",
@@ -2074,7 +2074,7 @@
         "Start up frame": "14 js6~"
     },
     {
-        "Block frame": "-9~-4",
+        "Block frame": "-7~-2",
         "Command": "u/b+4",
         "Counter hit frame": "KND",
         "Damage": "21",
@@ -2096,12 +2096,12 @@
         "Start up frame": "23~28 js7~"
     },
     {
-        "Block frame": "-6~-1",
+        "Block frame": "0~+5",
         "Command": "U/F*+4",
         "Counter hit frame": "KND",
         "Damage": "21",
         "Gif": "https://gfycat.com/EverlastingHomelyBuckeyebutterfly.gif",
-        "Hit frame": "+3~+8s",
+        "Hit frame": "+5~+10s",
         "Hit level": "m (TJ)",
         "Notes": "",
         "Start up frame": "23~28 js9~"

@@ -128,7 +128,7 @@
         "Gif": "https://gfycat.com/CautiousForkedJunebug.gif",
         "Hit frame": "KND",
         "Hit level": "h, m, m",
-        "Notes": "",
+        "Notes": "Wall bounce",
         "Start up frame": "10"
     },
     {
@@ -206,7 +206,7 @@
         "Gif": "https://gfycat.com/BrokenFriendlyGalago.gif",
         "Hit frame": "KND",
         "Hit level": "h, m, m",
-        "Notes": "",
+        "Notes": "Wall bounce",
         "Start up frame": "12"
     },
     {
@@ -342,7 +342,7 @@
         "Start up frame": "14~15, 26a js14~"
     },
     {
-        "Block frame": "-13~-11",
+        "Block frame": "-12",
         "Command": "3+4, 4",
         "Counter hit frame": "+5~+7k",
         "Damage": "5,10,15",
@@ -950,7 +950,7 @@
         "Block frame": "-14",
         "Command": "f, F+4, 3",
         "Counter hit frame": "Launch",
-        "Damage": "10,10",
+        "Damage": "12,23",
         "Gif": "https://gfycat.com/LiveMeanDartfrog.gif",
         "Hit frame": "Launch",
         "Hit level": "m, m",
@@ -1027,7 +1027,7 @@
         "Block frame": "-5~-4",
         "Command": "WS+1, b, f",
         "Counter hit frame": "+6~+7",
-        "Damage": "13",
+        "Damage": "10",
         "Gif": "",
         "Hit frame": "+1~+2",
         "Hit level": "m, (DSS)",
@@ -1038,7 +1038,7 @@
         "Block frame": "-9",
         "Command": "WS+1, 2",
         "Counter hit frame": "KND",
-        "Damage": "13,25",
+        "Damage": "10,25",
         "Gif": "https://gfycat.com/ZanyClearcutDeviltasmanian.gif",
         "Hit frame": "KND",
         "Hit level": "m, h",
@@ -1049,7 +1049,7 @@
         "Block frame": "0",
         "Command": "WS+1, 2, b, f",
         "Counter hit frame": "KND",
-        "Damage": "13,25",
+        "Damage": "10,25",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m, h, (DSS)",
@@ -1384,12 +1384,12 @@
         "Start up frame": "19~21 (21~)"
     },
     {
-        "Block frame": "-14~-13",
+        "Block frame": "-13",
         "Command": "DSS 4",
         "Counter hit frame": "KND",
         "Damage": "19",
         "Gif": "https://gfycat.com/BareBitesizedLeafcutterant.gif",
-        "Hit frame": "+5~+6s",
+        "Hit frame": "+6s",
         "Hit level": "l",
         "Notes": "",
         "Start up frame": "24~25 (25~)"

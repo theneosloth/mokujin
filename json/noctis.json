@@ -260,7 +260,7 @@
         "Block frame": "-11",
         "Command": "f+4, 2",
         "Counter hit frame": "KND",
-        "Damage": "13,21",
+        "Damage": "13,23",
         "Gif": "https://gfycat.com/SpottedWarlikeCaimanlizard.gif",
         "Hit frame": "KND",
         "Hit level": "m,m",
@@ -282,7 +282,7 @@
         "Block frame": "-13",
         "Command": "f+1+4",
         "Counter hit frame": "KND",
-        "Damage": "20",
+        "Damage": "24",
         "Gif": "https://gfycat.com/UnfoldedPalatableGardensnake.gif",
         "Hit frame": "KND",
         "Hit level": "m",
@@ -353,7 +353,7 @@
         "Hit frame": "+4",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "14"
+        "Start up frame": "14~15"
     },
     {
         "Block frame": "-2",
@@ -553,10 +553,10 @@
         "Start up frame": "25"
     },
     {
-        "Block frame": "+2",
+        "Block frame": "+6",
         "Command": "d/b+1+2*",
         "Counter hit frame": "JG",
-        "Damage": "28",
+        "Damage": "32",
         "Gif": "https://gfycat.com/PlumpPresentKitten.gif",
         "Hit frame": "JG",
         "Hit level": "m",
@@ -594,7 +594,7 @@
         "Hit frame": "+6",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "15"
+        "Start up frame": "14~15"
     },
     {
         "Block frame": "~",
@@ -698,7 +698,7 @@
         "Hit frame": "+8",
         "Hit level": "h",
         "Notes": "",
-        "Start up frame": "14"
+        "Start up frame": "13~14"
     },
     {
         "Alias": [
@@ -842,7 +842,7 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "+5",
+        "Block frame": "+9",
         "Command": "(During jump) 1+2",
         "Counter hit frame": "KND",
         "Damage": "27",

@@ -97,7 +97,7 @@
         "Block frame": "-4~-2",
         "Command": "1,2,4",
         "Counter hit frame": "Launch (S!)",
-        "Damage": "7,12,30",
+        "Damage": "7,12,26",
         "Gif": "https://gfycat.com/FearfulDopeyHoneyeater.gif",
         "Hit frame": "KND (W!)",
         "Hit level": "h,h,h",
@@ -202,7 +202,7 @@
         "Block frame": "-12~-11",
         "Command": "1,d+3",
         "Counter hit frame": "-1~0",
-        "Damage": "7,7",
+        "Damage": "7,9",
         "Gif": "",
         "Hit frame": "-1~0",
         "Hit level": "h,l",
@@ -245,10 +245,10 @@
     {
         "Block frame": "-9~-7",
         "Command": "2,1,4",
-        "Counter hit frame": "+2~+4",
+        "Counter hit frame": "+4",
         "Damage": "9,9,18",
         "Gif": "https://gfycat.com/SelfreliantSelfreliantAtlanticridleyturtle.gif",
-        "Hit frame": "+2~+4",
+        "Hit frame": "+4",
         "Hit level": "h,m,m",
         "Notes": "",
         "Start up frame": "10"
@@ -722,7 +722,7 @@
         "Start up frame": "15~16"
     },
     {
-        "Block frame": "-16",
+        "Block frame": "-14",
         "Command": "d+3,3",
         "Counter hit frame": "-1",
         "Damage": "7,10",
@@ -736,7 +736,7 @@
         "Block frame": "-12~-11",
         "Command": "d+4",
         "Counter hit frame": "-1~0",
-        "Damage": "13",
+        "Damage": "11",
         "Gif": "https://gfycat.com/HarmfulDifficultLeafhopper.gif",
         "Hit frame": "-1~0",
         "Hit level": "l(TC)",
@@ -843,7 +843,7 @@
         "Alias": [
             "d/b+3+4"
         ],
-        "Block frame": "-13~-11",
+        "Block frame": "-11",
         "Command": "d/b+3",
         "Counter hit frame": "KND",
         "Damage": "28",
@@ -1248,7 +1248,7 @@
         "Start up frame": "23~25 (24~)"
     },
     {
-        "Block frame": "+4~+7s",
+        "Block frame": "0~+3s",
         "Command": "f,f+4",
         "Counter hit frame": "KND",
         "Damage": "19",
@@ -1272,10 +1272,10 @@
     {
         "Block frame": "-5",
         "Command": "b,f+2,1",
-        "Counter hit frame": "+6",
-        "Damage": "15,10",
+        "Counter hit frame": "+9",
+        "Damage": "15,14",
         "Gif": "",
-        "Hit frame": "+6",
+        "Hit frame": "+9",
         "Hit level": "m,h",
         "Notes": "",
         "Start up frame": "15~16 (15~)"

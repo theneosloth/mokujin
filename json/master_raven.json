@@ -151,7 +151,7 @@
         "Hit frame": "KND",
         "Hit level": "mm(BT)",
         "Notes": "",
-        "Start up frame": "25~26, 31~36b (25~)"
+        "Start up frame": "25~26, 31~36b (js 17~31)"
     },
     {
         "Block frame": "-39~-34",
@@ -1339,7 +1339,7 @@
         "Start up frame": "js1~"
     },
     {
-        "Block frame": "-8",
+        "Block frame": "-6",
         "Command": "BT f+3",
         "Counter hit frame": "KND",
         "Damage": "17",
@@ -1347,10 +1347,10 @@
         "Hit frame": "+3",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "13"
+        "Start up frame": "13~14"
     },
     {
-        "Block frame": "-11",
+        "Block frame": "-9",
         "Command": "BT f+3, b",
         "Counter hit frame": "KND",
         "Damage": "17",

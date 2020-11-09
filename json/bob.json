@@ -269,7 +269,7 @@
         "Block frame": "-13~-9",
         "Command": "f+1+2",
         "Counter hit frame": "KND",
-        "Damage": "25",
+        "Damage": "23",
         "Gif": "https://gfycat.com/IllImpressiveJabiru.gif",
         "Hit frame": "KND",
         "Hit level": "m",
@@ -376,18 +376,18 @@
         "Start up frame": "js17~"
     },
     {
-        "Block frame": "-10~-9",
+        "Block frame": "-9",
         "Command": "d+2,1",
-        "Counter hit frame": "+1~+2",
-        "Damage": "12,14",
+        "Counter hit frame": "+2",
+        "Damage": "12,11",
         "Gif": "",
-        "Hit frame": "+1~+2",
+        "Hit frame": "+2",
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "15"
     },
     {
-        "Block frame": "-10~-8",
+        "Block frame": "-13",
         "Command": "d+2,1,2",
         "Counter hit frame": "+3~+5",
         "Damage": "12,14,18",
@@ -1069,7 +1069,7 @@
         "Block frame": "-20~-17",
         "Command": "WS+2,1",
         "Counter hit frame": "Launch (JG?)",
-        "Damage": "10,12",
+        "Damage": "10,14",
         "Gif": "https://gfycat.com/MilkyDisfiguredIlladopsis.gif",
         "Hit frame": "Launch (JG?)",
         "Hit level": "m,m",
@@ -1301,12 +1301,12 @@
         "Start up frame": "s"
     },
     {
-        "Block frame": "-2~-1",
+        "Block frame": "-4",
         "Command": "f,n,d,d/f+1",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch (S!)",
         "Damage": "25",
         "Gif": "https://gfycat.com/AmbitiousWideeyedBlesbok.gif",
-        "Hit frame": "KND",
+        "Hit frame": "Launch (S!)",
         "Hit level": "h",
         "Notes": "Tail spin",
         "Start up frame": "13~14 (16~)"
@@ -1782,12 +1782,12 @@
         "Start up frame": "13~14"
     },
     {
-        "Block frame": "-11~-10",
+        "Block frame": "-9~-8",
         "Command": "d+1",
         "Counter hit frame": "KND",
         "Damage": "18",
         "Gif": "https://gfycat.com/CrazyCheerfulIbis.gif",
-        "Hit frame": "+5~+6s",
+        "Hit frame": "+7~+8s",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "18~19s"

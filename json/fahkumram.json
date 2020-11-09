@@ -77,12 +77,12 @@
     "Start up frame": "10"
   },
   {
-    "Block frame": "-6",
+    "Block frame": "-10",
     "Command": "1,2,1",
-    "Counter hit frame": "+7",
+    "Counter hit frame": "+3",
     "Damage": "7,8,15",
     "Gif": "-",
-    "Hit frame": "+7",
+    "Hit frame": "+3",
     "Hit level": "h,h,m",
     "Notes": "",
     "Start up frame": "10"
@@ -300,7 +300,7 @@
     "Block frame": "-16",
     "Command": "3,1,d+4",
     "Counter hit frame": "Throw (+1)",
-    "Damage": "11,12,18",
+    "Damage": "11,12,15",
     "Gif": "https://gfycat.com/bleakamusingharvestmouse.gif",
     "Hit frame": "-5",
     "Hit level": "m,h,l",
@@ -451,12 +451,12 @@
     "Start up frame": "12~13"
   },
   {
-    "Block frame": "-4",
+    "Block frame": "-7",
     "Command": "f+3",
-    "Counter hit frame": "+7",
+    "Counter hit frame": "+4",
     "Damage": "18",
     "Gif": "-",
-    "Hit frame": "+7",
+    "Hit frame": "+4",
     "Hit level": "m",
     "Notes": "",
     "Start up frame": "17~18"
@@ -531,7 +531,7 @@
     "Block frame": "-7",
     "Command": "f+1+2",
     "Counter hit frame": "WB!",
-    "Damage": "26",
+    "Damage": "21",
     "Gif": "https://gfycat.com/charmingchillyamericanbittern.gif",
     "Hit frame": "WB!",
     "Hit level": "m",
@@ -566,7 +566,7 @@
     "Counter hit frame": "KND",
     "Damage": "10,17",
     "Gif": "https://gfycat.com/bountifullastaquaticleech.gif",
-    "Hit frame": "+6",
+    "Hit frame": "+8",
     "Hit level": "m,h",
     "Notes": "",
     "Start up frame": "13~14"
@@ -594,7 +594,7 @@
     "Start up frame": "13~14"
   },
   {
-    "Block frame": "0s",
+    "Block frame": "-3s",
     "Command": "d/f+1,4~1",
     "Counter hit frame": "Launch",
     "Damage": "10,20",
@@ -619,7 +619,7 @@
     "Block frame": "-23",
     "Command": "d/f+1,4~3,2",
     "Counter hit frame": "Launch",
-    "Damage": "10,15,25",
+    "Damage": "10,15,23",
     "Gif": "https://gfycat.com/miserlynaivecormorant.gif",
     "Hit frame": "Launch",
     "Hit level": "m,l,m",
@@ -882,10 +882,10 @@
   {
     "Block frame": "-15",
     "Command": "b+2",
-    "Counter hit frame": "-4",
+    "Counter hit frame": "-6",
     "Damage": "15",
     "Gif": "-",
-    "Hit frame": "-4",
+    "Hit frame": "-6",
     "Hit level": "h",
     "Notes": "",
     "Start up frame": "14~15"
@@ -957,12 +957,12 @@
     "Start up frame": "14"
   },
   {
-    "Block frame": "-9",
+    "Block frame": "-10",
     "Command": "b+4,3",
-    "Counter hit frame": "+2",
+    "Counter hit frame": "+1",
     "Damage": "14,14",
     "Gif": "-",
-    "Hit frame": "+2",
+    "Hit frame": "+1",
     "Hit level": "m,m",
     "Notes": "",
     "Start up frame": "14"
@@ -1067,7 +1067,7 @@
     "Start up frame": "22~23"
   },
   {
-    "Block frame": "0s",
+    "Block frame": "-3s",
     "Command": "f,F+4~1",
     "Counter hit frame": "Launch",
     "Damage": "20",
@@ -1092,7 +1092,7 @@
     "Block frame": "-23",
     "Command": "f,F+4~3,2",
     "Counter hit frame": "Launch",
-    "Damage": "15,25",
+    "Damage": "15,23",
     "Gif": "https://gfycat.com/academichauntingharlequinbug.gif",
     "Hit frame": "Launch",
     "Hit level": "l,m",
@@ -1135,10 +1135,10 @@
   {
     "Block frame": "-4",
     "Command": "WS+1",
-    "Counter hit frame": "+7",
+    "Counter hit frame": "+4",
     "Damage": "12",
     "Gif": "-",
-    "Hit frame": "+7",
+    "Hit frame": "+4",
     "Hit level": "m",
     "Notes": "",
     "Start up frame": "13~14"
@@ -1246,7 +1246,7 @@
     "Block frame": "-23",
     "Command": "FC d/f+3,2",
     "Counter hit frame": "Launch",
-    "Damage": "15,25",
+    "Damage": "15,23",
     "Gif": "-",
     "Hit frame": "Launch",
     "Hit level": "l,m",

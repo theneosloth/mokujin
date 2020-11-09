@@ -15,7 +15,7 @@
         "Start up frame": "13~43? pc8~"
     },
     {
-        "Block frame": "0~+1",
+        "Block frame": "+1",
         "Command": "in rage f+2+3",
         "Counter hit frame": "SPD",
         "Damage": "12,25",
@@ -392,7 +392,7 @@
         "Hit level": "m, (DES)",
         "Notes": "Power Crush, Tail Spin",
         "Recovery": "-34",
-        "Start up frame": "19 pc6~"
+        "Start up frame": "19 pc8~"
     },
     {
         "Block frame": "-13~-10",
@@ -1473,7 +1473,7 @@
         "Start up frame": "16,,"
     },
     {
-        "Block frame": "+2",
+        "Block frame": "+3",
         "Command": "DES f+1",
         "Counter hit frame": "+11",
         "Damage": "3*7",
@@ -1497,7 +1497,7 @@
         "Start up frame": "10,,,"
     },
     {
-        "Block frame": "+7",
+        "Block frame": "+8",
         "Command": "DES f+1+2",
         "Counter hit frame": "CS",
         "Damage": "3*7,13",
@@ -1535,7 +1535,7 @@
         "Block frame": "-14~-13",
         "Command": "DES d+2",
         "Counter hit frame": "2~+3",
-        "Damage": "5*4",
+        "Damage": "3*3,20",
         "Gif": "https://gfycat.com/JauntyDimAfricanwilddog.gif",
         "Hit frame": "+2~+3",
         "Hit level": "llll",
@@ -1547,7 +1547,7 @@
         "Block frame": "-12~-11",
         "Command": "DES d+2, *",
         "Counter hit frame": "+4~+5",
-        "Damage": "5*5or6",
+        "Damage": "3*5,20",
         "Gif": "",
         "Hit frame": "+4~+5",
         "Hit level": "l x 5 or 6",
@@ -1634,7 +1634,7 @@
         "Hit frame": "+8k",
         "Hit level": "m, (DES)",
         "Notes": "Power Crush, Tail Spin",
-        "Start up frame": "19 pc6~"
+        "Start up frame": "19 pc8~"
     },
     {
         "Alias": [

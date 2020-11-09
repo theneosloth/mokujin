@@ -157,7 +157,7 @@
         "Block frame": "-15",
         "Command": "f+3, 4",
         "Counter hit frame": "KND",
-        "Damage": "13,12",
+        "Damage": "13,17",
         "Gif": "https://gfycat.com/EasyFirmBushbaby.gif",
         "Hit frame": "KND",
         "Hit level": "m, m",
@@ -429,7 +429,7 @@
         "Start up frame": "31~32s cs9?~"
     },
     {
-        "Block frame": "-13~-12",
+        "Block frame": "-12~-11",
         "Command": "d/b+3, f",
         "Counter hit frame": "+3~+4",
         "Damage": "12",
@@ -506,10 +506,10 @@
         "Start up frame": "21~22"
     },
     {
-        "Block frame": "+3~+4",
+        "Block frame": "+4",
         "Command": "u/f+1, F",
         "Counter hit frame": "KND",
-        "Damage": "21",
+        "Damage": "23",
         "Gif": "https://gfycat.com/RectangularHideousFowl.gif",
         "Hit frame": "KND",
         "Hit level": "m (TJ), (SAV)",
@@ -748,7 +748,7 @@
         "Start up frame": "20"
     },
     {
-        "Block frame": "-2~-1",
+        "Block frame": "0",
         "Command": "SAV 1",
         "Counter hit frame": "+6~+7",
         "Damage": "12",
@@ -759,7 +759,7 @@
         "Start up frame": "12~13 (22~)"
     },
     {
-        "Block frame": "-2~-1",
+        "Block frame": "0",
         "Command": "SAV 1, F",
         "Counter hit frame": "+6~+7",
         "Damage": "9",
@@ -838,10 +838,10 @@
     {
         "Block frame": "-5",
         "Command": "SAV 3",
-        "Counter hit frame": "+1",
+        "Counter hit frame": "+6",
         "Damage": "12",
         "Gif": "https://gfycat.com/ImpeccableDenseDiamondbackrattlesnake.gif",
-        "Hit frame": "+1",
+        "Hit frame": "+6",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "15(25~)"
@@ -849,10 +849,10 @@
     {
         "Block frame": "-5",
         "Command": "SAV 3, F",
-        "Counter hit frame": "+1",
+        "Counter hit frame": "+6",
         "Damage": "12",
         "Gif": "https://gfycat.com/HoarseFlakyEarthworm.gif",
-        "Hit frame": "+1",
+        "Hit frame": "+6",
         "Hit level": "m, (SAV)",
         "Notes": "",
         "Start up frame": "15(25~)"
@@ -863,7 +863,7 @@
         "Counter hit frame": "CS",
         "Damage": "12,17",
         "Gif": "https://gfycat.com/DownrightAgileElephantseal.gif",
-        "Hit frame": "-2~-1",
+        "Hit frame": "+3",
         "Hit level": "m, h",
         "Notes": "",
         "Start up frame": "15(25~)"
@@ -874,13 +874,13 @@
         "Counter hit frame": "CS",
         "Damage": "12,17",
         "Gif": "https://gfycat.com/DecimalNecessaryBengaltiger.gif",
-        "Hit frame": "-2~-1",
+        "Hit frame": "+3",
         "Hit level": "m, h, (SAV)",
         "Notes": "",
         "Start up frame": "15(25~)"
     },
     {
-        "Block frame": "-5~-3",
+        "Block frame": "0",
         "Command": "SAV 4",
         "Counter hit frame": "KND, Tail spin",
         "Damage": "27",
@@ -993,7 +993,7 @@
         "Block frame": "-15",
         "Command": "SAV d+4, 3",
         "Counter hit frame": "-2",
-        "Damage": "8,15",
+        "Damage": "8,17",
         "Gif": "https://gfycat.com/AptDeterminedCockroach.gif",
         "Hit frame": "-2",
         "Hit level": "l, m",
@@ -1004,7 +1004,7 @@
         "Block frame": "-15",
         "Command": "SAV d+4, 3, F",
         "Counter hit frame": "-2",
-        "Damage": "8,12",
+        "Damage": "8,17",
         "Gif": "https://gfycat.com/MelodicPresentAmethystgemclam.gif",
         "Hit frame": "-2",
         "Hit level": "l, m, (SAV)",
@@ -1052,7 +1052,7 @@
         "Gif": "https://gfycat.com/EvenPitifulBorzoi.gif",
         "Hit frame": "+1~+2",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "Homing",
         "Start up frame": "14~15 (24~)"
     },
     {
@@ -1584,7 +1584,7 @@
         "Start up frame": "20~21"
     },
     {
-        "Block frame": "-13~-12",
+        "Block frame": "-12~-11",
         "Command": "d/b+3",
         "Counter hit frame": "+3~+4",
         "Damage": "12",
@@ -1624,7 +1624,7 @@
         "Gif": null,
         "Hit frame": "+2",
         "Hit level": "h",
-        "Notes": "",
+        "Notes": "Homing",
         "Start up frame": "16"
     },
     {
@@ -1661,10 +1661,10 @@
         "Start up frame": "21~22"
     },
     {
-        "Block frame": "+3",
+        "Block frame": "+4",
         "Command": "u/f+1",
         "Counter hit frame": "KND",
-        "Damage": "21",
+        "Damage": "23",
         "Gif": "https://gfycat.com/DefensiveWelloffDogwoodclubgall.gif",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",

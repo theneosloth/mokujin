@@ -107,12 +107,12 @@
         "Start up frame": "25 pc8~24"
     },
     {
-        "Block frame": "-13",
+        "Block frame": "-12",
         "Command": "d/f+1, 2",
         "Counter hit frame": "KND",
         "Damage": "12,17",
         "Gif": "https://gfycat.com/SaltyUncommonEquestrian.gif",
-        "Hit frame": "-2",
+        "Hit frame": "+2",
         "Hit level": "m, m",
         "Notes": "",
         "Recovery": "-31",
@@ -181,7 +181,7 @@
         "Block frame": "-13~-12s",
         "Command": "b+1, 2, 4",
         "Counter hit frame": "KND",
-        "Damage": "13,13,23",
+        "Damage": "13,13,17",
         "Gif": "https://gfycat.com/GrimySlipperyInsect.gif",
         "Hit frame": "KND",
         "Hit level": "m, m, m (TJ)",
@@ -851,7 +851,7 @@
         "Damage": "5,5,9,9,9",
         "Gif": "https://gfycat.com/ForsakenSnarlingIcefish.gif",
         "Hit frame": "Launch",
-        "Hit level": "Sm x 5",
+        "Hit level": "Sm, (from front: throw)",
         "Notes": "",
         "Recovery": "-54",
         "Start up frame": "11,,,a (11~)"

@@ -14,7 +14,7 @@
         "Block frame": "+5~+6",
         "Command": "in rage f,n,d,d/f+1+4",
         "Counter hit frame": "Launch",
-        "Damage": "45",
+        "Damage": "41",
         "Gif": "",
         "Hit frame": "Launch",
         "Hit level": "m",
@@ -150,7 +150,7 @@
         "Block frame": "-1",
         "Command": "3,1",
         "Counter hit frame": "+7",
-        "Damage": "14,7",
+        "Damage": "14,10",
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "h,h",
@@ -180,7 +180,7 @@
         "Start up frame": "31~33,35~37d (31~) js10~"
     },
     {
-        "Block frame": "-14",
+        "Block frame": "-13",
         "Command": "1+2",
         "Counter hit frame": "KND",
         "Damage": "5,20",
@@ -213,12 +213,12 @@
         "Start up frame": "15~16s"
     },
     {
-        "Block frame": "-4~-3",
+        "Block frame": "-3~-2",
         "Command": "d/f+1,4",
-        "Counter hit frame": "+17~+18kg",
+        "Counter hit frame": "+18~+19kg",
         "Damage": "11,20",
         "Gif": "https://gfycat.com/WeirdTenseAzurevasesponge.gif",
-        "Hit frame": "+17~+18kg",
+        "Hit frame": "+18~+19kg",
         "Hit level": "m,h",
         "Notes": "Tail spin",
         "Start up frame": "15~16"
@@ -288,7 +288,7 @@
         "Counter hit frame": "KND",
         "Damage": "20",
         "Gif": "https://gfycat.com/MinorPleasedBluefintuna.gif",
-        "Hit frame": "+1s",
+        "Hit frame": "+3s",
         "Hit level": "l (TC)",
         "Notes": "",
         "Start up frame": "25s cs6~"
@@ -566,8 +566,8 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "-6~-5",
-        "Command": "SS+1+2",
+        "Block frame": "-3~-2",
+        "Command": "SS 1+2",
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/BitterLimpingLice.gif",

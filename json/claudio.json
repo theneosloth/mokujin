@@ -70,10 +70,10 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "-5~-4",
+        "Block frame": "0",
         "Command": "4, 3",
         "Counter hit frame": "Tail spin",
-        "Damage": "15,13",
+        "Damage": "17,13",
         "Gif": "https://gfycat.com/LimitedDefenselessIbisbill.gif",
         "Hit frame": "+15kg",
         "Hit level": "h, h (TJ)",
@@ -427,7 +427,7 @@
             "u+2",
             "u/f+2"
         ],
-        "Block frame": "-9",
+        "Block frame": "-3",
         "Command": "u/b_u_u/f+2",
         "Counter hit frame": "KND",
         "Damage": "25",
@@ -436,7 +436,7 @@
         "Hit level": "m (TJ)",
         "Notes": "",
         "Recovery": "-39",
-        "Start up frame": "25 js9~24"
+        "Start up frame": "25 js9~25"
     },
     {
         "Block frame": "+2~+3s",
@@ -642,7 +642,7 @@
         "Block frame": "-12~-11",
         "Command": "STB d+2, 2",
         "Counter hit frame": "KND",
-        "Damage": "11,15",
+        "Damage": "11,17",
         "Gif": "https://gfycat.com/UnacceptableKnobbyAfricanwildcat.gif",
         "Hit frame": "KND",
         "Hit level": "l, l",
@@ -688,7 +688,7 @@
         "Block frame": "-1~0",
         "Command": "STB b+4, 3, 2",
         "Counter hit frame": "JG",
-        "Damage": "10,14,35",
+        "Damage": "10,14,38",
         "Gif": null,
         "Hit frame": "JG",
         "Hit level": "m, h, m (TJ)",
@@ -1118,7 +1118,7 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "-5",
+        "Block frame": "0",
         "Command": "f+3",
         "Counter hit frame": "Tail spin",
         "Damage": "27",

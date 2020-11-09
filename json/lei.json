@@ -1107,7 +1107,7 @@
         "Hit frame": "-1S",
         "Hit level": "l",
         "Notes": "",
-        "Start up frame": "23"
+        "Start up frame": "20"
     },
     {
         "Block frame": "-6",
@@ -1592,7 +1592,7 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "3b",
+        "Block frame": "5b",
         "Command": "f, N, 3",
         "Counter hit frame": "KND",
         "Damage": "30",
@@ -1900,7 +1900,7 @@
         "Block frame": "-9",
         "Command": "WS+2, 1",
         "Counter hit frame": "4",
-        "Damage": "12,15",
+        "Damage": "15,15",
         "Gif": "https://gfycat.com/IllLightIndiancow.gif",
         "Hit frame": "4",
         "Hit level": "m, m",
@@ -1933,7 +1933,7 @@
         "Block frame": "-15",
         "Command": "WS+3+4",
         "Counter hit frame": "JG",
-        "Damage": "14",
+        "Damage": "20",
         "Gif": "https://gfycat.com/NaturalNeighboringArmyworm.gif",
         "Hit frame": "JG",
         "Hit level": "m",
@@ -2076,7 +2076,7 @@
         "Block frame": "-8",
         "Command": "SS+4",
         "Counter hit frame": "JG",
-        "Damage": "14",
+        "Damage": "16",
         "Gif": "https://gfycat.com/AncientUncomfortableLeafhopper.gif",
         "Hit frame": "JG",
         "Hit level": "m",
@@ -2995,7 +2995,7 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "-8",
+        "Block frame": "-6",
         "Command": "BT 4, 1",
         "Counter hit frame": "KND",
         "Damage": "15,21",
@@ -3006,7 +3006,7 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "-15",
+        "Block frame": "-12",
         "Command": "BT 4, 3",
         "Counter hit frame": "JG",
         "Damage": "15,17",
@@ -3819,7 +3819,7 @@
         "Start up frame": "15"
     },
     {
-        "Block frame": "-10",
+        "Block frame": "-9",
         "Command": "SNA 1+2",
         "Counter hit frame": "KND",
         "Damage": "25",

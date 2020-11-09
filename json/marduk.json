@@ -88,12 +88,12 @@
         "Start up frame": "10"
     },
     {
-        "Block frame": "0s",
+        "Block frame": "+4s",
         "Command": "1,2,3,1+2",
-        "Counter hit frame": "+4s",
+        "Counter hit frame": "+8s",
         "Damage": "7,12,12,28",
         "Gif": "https://gfycat.com/OldWelloffGoose.gif",
-        "Hit frame": "+4s",
+        "Hit frame": "+8s",
         "Hit level": "h,h,m,h",
         "Notes": "",
         "Start up frame": "-"
@@ -407,12 +407,12 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "0",
+        "Block frame": "+4s",
         "Command": "d/f+3,1,2,3,1+2",
-        "Counter hit frame": "+4s",
+        "Counter hit frame": "+8s",
         "Damage": "13,7,10,12,28",
         "Gif": "https://gfycat.com/IllfatedRigidIrishredandwhitesetter.gif",
-        "Hit frame": "+4s",
+        "Hit frame": "+8s",
         "Hit level": "m,h,h,m,h",
         "Notes": "",
         "Start up frame": "-"
@@ -440,12 +440,12 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "0s",
+        "Block frame": "+4s",
         "Command": "d/f+3,1+2",
-        "Counter hit frame": "+4s",
+        "Counter hit frame": "+8s",
         "Damage": "13,28",
         "Gif": "https://gfycat.com/IllWealthyBear.gif",
-        "Hit frame": "+4s",
+        "Hit frame": "+8s",
         "Hit level": "m,h",
         "Notes": "",
         "Start up frame": "-"
@@ -473,7 +473,7 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "-9",
+        "Block frame": "-4",
         "Command": "d/f+4",
         "Counter hit frame": "+2",
         "Damage": "13",
@@ -720,7 +720,7 @@
         "Counter hit frame": "KND",
         "Damage": "24",
         "Gif": "https://gfycat.com/OpulentAthleticDunnart.gif",
-        "Hit frame": "+1",
+        "Hit frame": "+4",
         "Hit level": "m",
         "Notes": "Homing",
         "Start up frame": "22"
@@ -982,7 +982,7 @@
     },
     {
         "Block frame": "-12",
-        "Command": "b,f+1+2",
+        "Command": "qcf+1+2",
         "Counter hit frame": "+4",
         "Damage": "14,16",
         "Gif": "",
@@ -993,7 +993,7 @@
     },
     {
         "Block frame": "-15",
-        "Command": "b,f+1+2,2",
+        "Command": "qcf+1+2,2",
         "Counter hit frame": "KND",
         "Damage": "14,16,25",
         "Gif": "https://gfycat.com/ExemplaryImperturbableCod.gif",
@@ -1102,7 +1102,7 @@
         "Start up frame": "12"
     },
     {   "Alias": ["FC d/f+1+2"],
-        "Block frame": "-4",
+        "Block frame": "-7",
         "Command": "FC 1+2",
         "Counter hit frame": "throw",
         "Damage": "25(,15)",
@@ -1435,7 +1435,7 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "-10",
+        "Block frame": "-9",
         "Command": "VTS f+1,4",
         "Counter hit frame": "KND",
         "Damage": "16,26",

@@ -132,7 +132,7 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "-11s",
+        "Block frame": "-13s",
         "Command": "2,1,2",
         "Counter hit frame": "Launch",
         "Damage": "44",
@@ -509,7 +509,7 @@
         "Block frame": "-15",
         "Command": "d/f+2+3",
         "Counter hit frame": "KND",
-        "Damage": "20",
+        "Damage": "23",
         "Gif": "https://gfycat.com/shrillbitesizedankolewatusi.gif",
         "Hit frame": "KND",
         "Hit level": "l",
@@ -801,6 +801,17 @@
         "Start up frame": "29~30"
     },
     {
+        "Block frame": "-22",
+        "Command": "d/b+2, 3+4",
+        "Counter hit frame": "Launch",
+        "Damage": "16",
+        "Gif": "",
+        "Hit frame": "Launch",
+        "Hit level": "l(TCH)",
+        "Notes": "",
+        "Start up frame": "29~30"
+    },
+    {
         "Block frame": "-6",
         "Command": "b+1",
         "Counter hit frame": "+5",
@@ -856,7 +867,7 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "-18",
+        "Block frame": "-14",
         "Command": "b+2",
         "Counter hit frame": "-7",
         "Damage": "12",
@@ -962,7 +973,18 @@
         "Gif": "",
         "Hit frame": "+5",
         "Hit level": "m",
-        "Notes": "homing",
+        "Notes": "Homing",
+        "Start up frame": "21~22"
+    },
+    {
+        "Block frame": "-8",
+        "Command": "u/f+2,3+4",
+        "Counter hit frame": "+5",
+        "Damage": "17",
+        "Gif": "",
+        "Hit frame": "+5",
+        "Hit level": "m(TCH)",
+        "Notes": "Homing",
         "Start up frame": "21~22"
     },
     {
@@ -1077,7 +1099,7 @@
     },
     {
         "Block frame": "+5",
-        "Command": "b,f+2",
+        "Command": "b,f+2+3",
         "Counter hit frame": "Launch",
         "Damage": "22",
         "Gif": "https://gfycat.com/improbablecluelessasianelephant.gif",
@@ -1101,7 +1123,7 @@
         "Block frame": "-6s",
         "Command": "b,d/b,d,d/f+2",
         "Counter hit frame": "KND",
-        "Damage": "45",
+        "Damage": "35",
         "Gif": "https://gfycat.com/leanmindlesschimpanzee.gif",
         "Hit frame": "KND",
         "Hit level": "m",
@@ -1476,7 +1498,7 @@
         "Hit frame": "Throw mixup",
         "Hit level": "m",
         "Notes": "Power Crush",
-        "Start up frame": "26"
+        "Start up frame": "23"
     },
     {
         "Block frame": "-24",

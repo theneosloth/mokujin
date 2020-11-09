@@ -414,7 +414,7 @@
         "Block frame": "-13~-11",
         "Command": "d+3~4",
         "Counter hit frame": "+3~+5s",
-        "Damage": "15",
+        "Damage": "17",
         "Gif": "https://gfycat.com/ExemplaryFarDuiker.gif",
         "Hit frame": "+3~+5s",
         "Hit level": "l (TC)",
@@ -869,7 +869,7 @@
         "Block frame": "-3~-1s",
         "Command": "u/f+1+2",
         "Counter hit frame": "KND",
-        "Damage": "20",
+        "Damage": "25",
         "Gif": "https://gfycat.com/SelfishFavorableGiantschnauzer.gif",
         "Hit frame": "KND",
         "Hit level": "h (TJ)",
@@ -1704,7 +1704,7 @@
         "Start up frame": "20~21a"
     },
     {
-        "Block frame": "-15~-14",
+        "Block frame": "-14~-13",
         "Command": "RLX 3",
         "Counter hit frame": "+1~+2",
         "Damage": "12",
@@ -2184,7 +2184,7 @@
         "Block frame": "-9",
         "Command": "4",
         "Counter hit frame": "0",
-        "Damage": "12",
+        "Damage": "14",
         "Gif": null,
         "Hit frame": "0",
         "Hit level": "m",
@@ -2346,7 +2346,7 @@
         "Start up frame": "20~23"
     },
     {
-        "Block frame": "+-2~+2s",
+        "Block frame": "+1",
         "Command": "u/b+3",
         "Counter hit frame": "+6~+10s",
         "Damage": "31",

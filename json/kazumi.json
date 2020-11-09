@@ -239,12 +239,12 @@
         "Block frame": "-13",
         "Command": "b+1+2",
         "Counter hit frame": "TKF(+17)",
-        "Damage": "0,30",
+        "Damage": "5,30",
         "Gif": "",
         "Hit frame": "TKF(+17)",
-        "Hit level": "Attack returned(, m, Sm)",
+        "Hit level": "Attack returned(m, Sm)",
         "Notes": "Power crush",
-        "Start up frame": "50~51, 76 pc6~"
+        "Start up frame": "45~51, 71 pc6~"
     },
     {
         "Block frame": "-",
@@ -259,7 +259,7 @@
         "Start up frame": "a"
     },
     {
-        "Block frame": "-7~-6",
+        "Block frame": "0",
         "Command": "u/f+3, 4",
         "Counter hit frame": "KND",
         "Damage": "20,12",
@@ -367,7 +367,7 @@
         "Block frame": "-4~-3",
         "Command": "f, f, f+2",
         "Counter hit frame": "KND",
-        "Damage": "24",
+        "Damage": "25",
         "Gif": "https://gfycat.com/NeighboringAnxiousAstarte.gif",
         "Hit frame": "KND",
         "Hit level": "m",
@@ -408,7 +408,7 @@
         "Hit level": "m",
         "Notes": "",
         "Recovery": "-28",
-        "Start up frame": "15~16"
+        "Start up frame": "14"
     },
     {
         "Block frame": "-11~-10",
@@ -562,7 +562,7 @@
         "Block frame": "-15",
         "Command": "RSS 3+4",
         "Counter hit frame": "Launch",
-        "Damage": "8, 14",
+        "Damage": "7,20",
         "Gif": "https://gfycat.com/SimpleMiserlyBettong.gif",
         "Hit frame": "Launch",
         "Hit level": "m, m",
@@ -923,7 +923,7 @@
         "Block frame": "-9~-8",
         "Command": "4",
         "Counter hit frame": "Launch (JG?)",
-        "Damage": "18",
+        "Damage": "15",
         "Gif": null,
         "Hit frame": "+5~+6",
         "Hit level": "h",
@@ -1065,7 +1065,7 @@
         "Block frame": "-14",
         "Command": "d/b+3",
         "Counter hit frame": "+2s",
-        "Damage": "14",
+        "Damage": "12",
         "Gif": "https://gfycat.com/SparseThoroughCat.gif",
         "Hit frame": "+2s",
         "Hit level": "l",

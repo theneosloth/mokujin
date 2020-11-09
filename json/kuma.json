@@ -154,10 +154,10 @@
         "Start up frame": "13"
     },
     {
-        "Block frame": "-12~-11",
+        "Block frame": "-15",
         "Command": "f+1+2",
         "Counter hit frame": "CS",
-        "Damage": "25",
+        "Damage": "20",
         "Gif": "https://gfycat.com/ShorttermBlissfulCoelacanth.gif",
         "Hit frame": "CS",
         "Hit level": "m",
@@ -419,7 +419,7 @@
         "Hit frame": "JG",
         "Hit level": "m (HBS)",
         "Notes": "",
-        "Start up frame": "42 js9"
+        "Start up frame": "37~38 js9"
     },
     {
         "Block frame": "CS",
@@ -730,10 +730,10 @@
         "Start up frame": "13"
     },
     {
-        "Block frame": "+5~+6",
+        "Block frame": "-9",
         "Command": "WS+1, 2",
         "Counter hit frame": "KND",
-        "Damage": "14,34",
+        "Damage": "14,23",
         "Gif": "https://gfycat.com/timelyunlinedgelding.gif",
         "Hit frame": "KND",
         "Hit level": "m, m",

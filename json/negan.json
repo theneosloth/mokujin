@@ -76,13 +76,13 @@
         "Notes": "",
         "Start up frame": "10"
     },
-    {
-        "Block frame": "-8",
+    {   "Alias": ["1,2*"],
+        "Block frame": "-5",
         "Command": "1, 2",
-        "Counter hit frame": "+3",
+        "Counter hit frame": "+6",
         "Damage": "7,9",
         "Gif": "https://gfycat.com/HonoredGlassIberianlynx.gif",
-        "Hit frame": "+3",
+        "Hit frame": "+6",
         "Hit level": "h, h",
         "Notes": "",
         "Start up frame": "10"
@@ -132,12 +132,12 @@
         "Start up frame": "10"
     },
     {
-        "Block frame": "-5",
+        "Block frame": "-4",
         "Command": "1, 4, 2",
         "Counter hit frame": "KND",
         "Damage": "7,17,20",
         "Gif": "https://gfycat.com/AmbitiousSoupyDrake.gif",
-        "Hit frame": "+6s",
+        "Hit frame": "+7s",
         "Hit level": "h, h, m",
         "Notes": "",
         "Start up frame": "10"
@@ -564,7 +564,7 @@
         "Block frame": "-13",
         "Command": "d/b+4",
         "Counter hit frame": "+7",
-        "Damage": "15",
+        "Damage": "16",
         "Gif": "https://gfycat.com/EuphoricTemptingAlligator.gif",
         "Hit frame": "+3",
         "Hit level": "l",
@@ -964,12 +964,12 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "-6",
+        "Block frame": "-5",
         "Command": "WS+4",
-        "Counter hit frame": "+5",
+        "Counter hit frame": "+6",
         "Damage": "18",
         "Gif": "",
-        "Hit frame": "+5",
+        "Hit frame": "+6",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "11"
@@ -1096,15 +1096,15 @@
         "Start up frame": "20"
     },
     {
-        "Block frame": "-7",
+        "Block frame": "-2",
         "Command": "INT 3",
-        "Counter hit frame": "+27g",
-        "Damage": "15",
+        "Counter hit frame": "+13g",
+        "Damage": "19",
         "Gif": "https://gfycat.com/DisastrousQuestionableAfricanporcupine.gif",
-        "Hit frame": "+27g",
+        "Hit frame": "+7g",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "18"
+        "Start up frame": "17"
     },
     {
         "Block frame": "-7",
@@ -1115,7 +1115,7 @@
         "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "25"
+        "Start up frame": "20"
     },
     {
         "Block frame": "-9",
@@ -1165,7 +1165,7 @@
         "Block frame": "-13",
         "Command": "INT d+2",
         "Counter hit frame": "+13g",
-        "Damage": "20",
+        "Damage": "26",
         "Gif": "https://gfycat.com/CreativeFancyCivet.gif",
         "Hit frame": "+3",
         "Hit level": "l",

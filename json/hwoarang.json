@@ -319,7 +319,7 @@
         "Block frame": "-6",
         "Command": "4,3",
         "Counter hit frame": "+5",
-        "Damage": "14,14",
+        "Damage": "14,16",
         "Gif": "https://gfycat.com/RashTintedGrayling.gif",
         "Hit frame": "+5",
         "Hit level": "h,m,(LFF)",
@@ -675,7 +675,7 @@
         "Block frame": "-12",
         "Command": "d/b+4",
         "Counter hit frame": "-1",
-        "Damage": "12",
+        "Damage": "14",
         "Gif": "",
         "Hit frame": "-8",
         "Hit level": "l,(LFF)",
@@ -1030,7 +1030,7 @@
         "Hit frame": "Launch(JG?)",
         "Hit level": "m,(LFF)",
         "Notes": "",
-        "Start up frame": "16 (19~)"
+        "Start up frame": "16~17 (18~19)"
     },
     {
         "Alias": [
@@ -1045,7 +1045,7 @@
         "Hit frame": "Launch(JG?)",
         "Hit level": "m,(LFF)",
         "Notes": "",
-        "Start up frame": "16 (18~)"
+        "Start up frame": "16~17 (18~19)"
     },
     {
         "Block frame": "+6~+8",
@@ -1742,7 +1742,7 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "+2",
+        "Block frame": "+4",
         "Command": "LFS 4",
         "Counter hit frame": "KND",
         "Damage": "24",
@@ -2147,7 +2147,7 @@
         "Start up frame": "13"
     },
     {
-        "Block frame": "+2",
+        "Block frame": "+4",
         "Command": "RFS 3",
         "Counter hit frame": "KND",
         "Damage": "24",

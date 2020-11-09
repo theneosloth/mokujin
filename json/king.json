@@ -255,10 +255,10 @@
     {
         "Block frame": "-10~-9",
         "Command": "d/f+1,2",
-        "Counter hit frame": "+3~+4",
+        "Counter hit frame": "+5~+6",
         "Damage": "15,15",
         "Gif": "https://gfycat.com/InfamousSlimyAcornbarnacle.gif",
-        "Hit frame": "+3~+4",
+        "Hit frame": "+5~+6",
         "Hit level": "m,m",
         "Notes": "",
         "Start up frame": "14~16"
@@ -1867,10 +1867,10 @@
     {
         "Block frame": "-9",
         "Command": "d/f+3",
-        "Counter hit frame": "+2",
+        "Counter hit frame": "+6",
         "Damage": "22",
         "Gif": null,
-        "Hit frame": "+2",
+        "Hit frame": "+6",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "14"

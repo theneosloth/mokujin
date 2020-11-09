@@ -36,7 +36,7 @@
         "Block frame": "-13",
         "Command": "1, 2, 3",
         "Counter hit frame": "KND",
-        "Damage": "7,12,10",
+        "Damage": "7,12,13",
         "Gif": "https://gfycat.com/PerfumedNearGenet.gif",
         "Hit frame": "-2",
         "Hit level": "h, h, l (TC)",
@@ -366,7 +366,7 @@
         "Block frame": "-13",
         "Command": "d+1+2",
         "Counter hit frame": "KND",
-        "Damage": "20",
+        "Damage": "25",
         "Gif": "https://gfycat.com/ImpossibleLivelyIndigowingedparrot.gif",
         "Hit frame": "KND",
         "Hit level": "m",
@@ -507,7 +507,7 @@
         "Start up frame": "23~29 (48~)"
     },
     {
-        "Block frame": "-14~-13",
+        "Block frame": "-12~-11",
         "Command": "b+1+2",
         "Counter hit frame": "KND",
         "Damage": "24",
@@ -831,7 +831,7 @@
         "Start up frame": "js27~43"
     },
     {
-        "Block frame": "-9~-8",
+        "Block frame": "-6~-4",
         "Command": "FC+d/f+1",
         "Counter hit frame": "KND",
         "Damage": "25",
@@ -901,12 +901,12 @@
         "Start up frame": "15~16 (17~)"
     },
     {
-        "Block frame": "-19~-18",
+        "Block frame": "-17~-16",
         "Command": "qcf+1, 2, B (Cancel)",
-        "Counter hit frame": "-8~-7",
+        "Counter hit frame": "-6~-5",
         "Damage": "16",
         "Gif": "",
-        "Hit frame": "-8~-7",
+        "Hit frame": "-6~-5",
         "Hit level": "m(BT)",
         "Notes": "",
         "Start up frame": "15~16 (17~)b"
@@ -1002,10 +1002,10 @@
     {
         "Block frame": "-3",
         "Command": "BT 1, 2",
-        "Counter hit frame": "+5",
+        "Counter hit frame": "+8",
         "Damage": "8,13",
         "Gif": "",
-        "Hit frame": "+5",
+        "Hit frame": "+8",
         "Hit level": "h, h",
         "Notes": "",
         "Start up frame": "8"
@@ -1014,7 +1014,7 @@
         "Block frame": "-10~-8",
         "Command": "BT 4, 3+4",
         "Counter hit frame": "KND",
-        "Damage": "10,20,10,20",
+        "Damage": "10,20,10,15",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "mm (TC), mm (TJ)",
@@ -1207,7 +1207,7 @@
             "u+2",
             "u/f+2"
         ],
-        "Block frame": "-12~-11",
+        "Block frame": "-10~-9",
         "Command": "u/b_u_u/f+2",
         "Counter hit frame": "KND",
         "Damage": "21",
@@ -1551,7 +1551,7 @@
     {
         "Block frame": "-12~-11",
         "Command": "d+3",
-        "Counter hit frame": "+1~+2",
+        "Counter hit frame": "+5~+6",
         "Damage": "14",
         "Gif": "https://gfycat.com/LargeShorttermFinwhale.gif",
         "Hit frame": "+1~+2",

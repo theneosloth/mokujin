@@ -146,7 +146,7 @@
         "Block frame": "-14s",
         "Command": "b+1,2",
         "Counter hit frame": "KND",
-        "Damage": "17,20",
+        "Damage": "17,17",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m, m",
@@ -157,7 +157,7 @@
         "Block frame": "+6~+7",
         "Command": "f+1, 2, 2",
         "Counter hit frame": "KND",
-        "Damage": "13,13,20",
+        "Damage": "13,13,24",
         "Gif": "https://gfycat.com/FocusedOldFirecrest.gif",
         "Hit frame": "KND",
         "Hit level": "m, h, m",
@@ -2116,8 +2116,8 @@
         "Start up frame": "19~21s cs1~"
     },
     {
-        "Block frame": "+5~+7s",
-        "Command": "SS+1",
+        "Block frame": "+6~+8s",
+        "Command": "SS 1",
         "Counter hit frame": "KND",
         "Damage": "23",
         "Gif": "https://gfycat.com/granularnauticalindochinahogdeer.gif",

@@ -447,10 +447,10 @@
     {
         "Block frame": "-4",
         "Command": "d/f+2,1",
-        "Counter hit frame": "+4",
+        "Counter hit frame": "+8",
         "Damage": "12,11",
         "Gif": "https://gfycat.com/DisloyalRecentGerbil.gif",
-        "Hit frame": "+4",
+        "Hit frame": "+8",
         "Hit level": "m,h",
         "Notes": "Punish",
         "Start up frame": "13"
@@ -560,7 +560,7 @@
         "Start up frame": "17 cs6~16"
     },
     {
-        "Block frame": "+2",
+        "Block frame": "+7",
         "Command": "d+1+2~2",
         "Counter hit frame": "Launch",
         "Damage": "24",
@@ -982,9 +982,9 @@
         "Start up frame": "34~35 (35~)"
     },
     {
-        "Block frame": "-10~-7s",
+        "Block frame": "-9~-6s",
         "Command": "f,F+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch (S!)",
         "Damage": "32",
         "Gif": "https://gfycat.com/InbornShockingBronco.gif",
         "Hit frame": "KND",
@@ -1297,7 +1297,7 @@
         "Start up frame": "15~16 (17~)"
     },
     {
-        "Block frame": "-10~-7s",
+        "Block frame": "-9~-6s",
         "Command": "qcb+2,4",
         "Counter hit frame": "KND",
         "Damage": "16,25",
@@ -1787,7 +1787,7 @@
         "Counter hit frame": "CS",
         "Damage": "18",
         "Gif": "https://gfycat.com/IdleSpiritedGypsymoth.gif",
-        "Hit frame": "+1~+3",
+        "Hit frame": "+4~+6",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "16~18"

@@ -308,7 +308,7 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "-10",
+        "Block frame": "-9",
         "Command": "f+1+2",
         "Counter hit frame": "KND",
         "Damage": "24",
@@ -322,7 +322,7 @@
         "Block frame": "-5",
         "Command": "d/f+1",
         "Counter hit frame": "+7",
-        "Damage": "11",
+        "Damage": "10",
         "Gif": null,
         "Hit frame": "+7",
         "Hit level": "m",
@@ -528,7 +528,7 @@
         "Start up frame": "19"
     },
     {
-        "Block frame": "-14",
+        "Block frame": "-13",
         "Command": "d+2, 4, 3",
         "Counter hit frame": "KND",
         "Damage": "17,13,15",
@@ -608,7 +608,7 @@
         "Block frame": "-8",
         "Command": "d/b+3",
         "Counter hit frame": "+3",
-        "Damage": "15",
+        "Damage": "13",
         "Gif": "https://gfycat.com/AdmirableUnsteadyIcterinewarbler.gif",
         "Hit frame": "+3",
         "Hit level": "l (SCR)",
@@ -696,7 +696,7 @@
         "Block frame": "-",
         "Command": "b+1:1+2",
         "Counter hit frame": "Throw",
-        "Damage": "14,42",
+        "Damage": "14,36",
         "Gif": "",
         "Hit frame": "Throw",
         "Hit level": "m",
@@ -799,7 +799,7 @@
         "Block frame": "+4",
         "Command": "u/f+1",
         "Counter hit frame": "+9",
-        "Damage": "20",
+        "Damage": "19",
         "Gif": "https://gfycat.com/BrightFlippantJoey.gif",
         "Hit frame": "+9",
         "Hit level": "h",
@@ -980,7 +980,7 @@
         "Block frame": "-8",
         "Command": "f, F+4",
         "Counter hit frame": "KND",
-        "Damage": "22",
+        "Damage": "20",
         "Gif": "https://gfycat.com/RegularThoughtfulCrossbill.gif",
         "Hit frame": "KND",
         "Hit level": "m (TJ)",
@@ -1244,7 +1244,7 @@
         "Block frame": "-11",
         "Command": "TRT 1",
         "Counter hit frame": "KND",
-        "Damage": "11",
+        "Damage": "13",
         "Gif": "https://gfycat.com/ConcernedOrangeAfricanpiedkingfisher.gif",
         "Hit frame": "5",
         "Hit level": "l (TRT)",
@@ -1318,7 +1318,7 @@
         "Start up frame": "26"
     },
     {
-        "Block frame": "-14",
+        "Block frame": "-13",
         "Command": "TRT 4, 3",
         "Counter hit frame": "KND",
         "Damage": "18,15",
@@ -1849,7 +1849,7 @@
         "Block frame": "-9",
         "Command": "MNT d/f+2",
         "Counter hit frame": "Launch",
-        "Damage": "13",
+        "Damage": "10",
         "Gif": "https://gfycat.com/LargeDearGlassfrog.gif",
         "Hit frame": "Launch",
         "Hit level": "m",
@@ -1956,7 +1956,7 @@
         "Start up frame": "20~27"
     },
     {
-        "Block frame": "-10s",
+        "Block frame": "-9s",
         "Command": "MNT u/f+3",
         "Counter hit frame": "KND",
         "Damage": "25",
@@ -1967,7 +1967,7 @@
         "Start up frame": "26s js7"
     },
     {
-        "Block frame": "-10s",
+        "Block frame": "-9s",
         "Command": "MNT u/f+3, D",
         "Counter hit frame": "KND",
         "Damage": "25",

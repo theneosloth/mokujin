@@ -807,7 +807,7 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "+1",
+        "Block frame": "-2",
         "Command": "b+4",
         "Counter hit frame": "KND",
         "Damage": "20",
@@ -818,7 +818,7 @@
         "Start up frame": "18"
     },
     {
-        "Block frame": "-13",
+        "Block frame": "-14",
         "Command": "b+1+2",
         "Counter hit frame": "KND",
         "Damage": "23",
@@ -1025,10 +1025,10 @@
         "Start up frame": "12"
     },
     {
-        "Block frame": "-7",
+        "Block frame": "-9",
         "Command": "f, F+1+2",
         "Counter hit frame": "KND",
-        "Damage": "27",
+        "Damage": "23",
         "Gif": "https://gfycat.com/OrneryOnlyHamadryas.gif",
         "Hit frame": "KND",
         "Hit level": "m",
@@ -1297,10 +1297,10 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "-15",
+        "Block frame": "-12",
         "Command": "WS+4",
         "Counter hit frame": "KND",
-        "Damage": "21",
+        "Damage": "17",
         "Gif": "https://gfycat.com/HoarseCreativeFlatcoatretriever.gif",
         "Hit frame": "KND",
         "Hit level": "m ",
@@ -1333,7 +1333,7 @@
         "Block frame": "-17",
         "Command": "FC+d/f+4, 3",
         "Counter hit frame": "KND",
-        "Damage": "9,23",
+        "Damage": "9,20",
         "Gif": "https://gfycat.com/SizzlingAnnualBronco.gif",
         "Hit frame": "KND",
         "Hit level": "l, m (TJ)",
@@ -1368,7 +1368,7 @@
         "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": "https://gfycat.com/UnimportantTangibleLarva.gif",
-        "Hit frame": "+3",
+        "Hit frame": "0",
         "Hit level": "l",
         "Notes": "",
         "Start up frame": "20~21s (29~)"
