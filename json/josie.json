@@ -345,6 +345,17 @@
         "Start up frame": "16~17"
     },
     {
+        "Block frame": "-",
+        "Command": "b+3+4",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": "",
+        "Hit frame": "-",
+        "Hit level": "-",
+        "Notes": "Total 41 frames",
+        "Start up frame": "15 cs3~"
+    },
+    {
         "Block frame": "-7",
         "Command": "d/f+1,4~4",
         "Counter hit frame": "CS",

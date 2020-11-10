@@ -286,7 +286,7 @@
     },
     {
         "Block frame": "-9~-8",
-        "Command": "4,3,4* (max hold)",
+        "Command": "4,3,4*",
         "Counter hit frame": "KND",
         "Damage": "15,12,25",
         "Gif": "",
