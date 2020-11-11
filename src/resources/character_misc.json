@@ -196,6 +196,13 @@
     "proper_name": "Kuma"
   },
   {
+    "local_json": "kunimitsu.json",
+    "name": "kunimitsu",
+    "online_webpage": "http://geppopotamus.info/game/tekken7fr/kunimitsu/data_en.htm",
+    "portrait": "https://i.imgur.com/MV4NYYJ.jpg",
+    "proper_name": "Kunimitsu"
+  },
+  {
     "local_json": "lars.json",
     "name": "lars",
     "online_webpage": "http://geppopotamus.info/game/tekken7fr/lars/data_en.htm",
