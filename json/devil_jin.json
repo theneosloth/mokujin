@@ -544,7 +544,7 @@
         "Gif": "https://gfycat.com/WearyDiscreteCicada.gif",
         "Hit frame": "+7~+9",
         "Hit level": "m",
-        "Notes": "Next stage: d/b+1+2* (long)\nRelease 1+2 to attack.\nRelease d/b to cancel.",
+        "Notes": "Next stage: d/b+1+2* (long)\nRelease 1+2 to attack.\nRelease d/b to cancel",
         "Start up frame": "15~17 (25~)"
     },
     {
@@ -555,7 +555,7 @@
         "Gif": "https://gfycat.com/WearyDiscreteCicada.gif",
         "Hit frame": "+7~+9",
         "Hit level": "m",
-        "Notes": "Next stage: d/b+1+2* (very long)\nRelease 1+2 to attack.\nRelease d/b to cancel.",
+        "Notes": "Next stage: d/b+1+2* (very long)\nRelease 1+2 to attack.\nRelease d/b to cancel",
         "Start up frame": "13~15 (39~)"
     },
     {
@@ -566,7 +566,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Release 1+2 to attack.\nRelease d/b to cancel.",
+        "Notes": "Release 1+2 to attack.\nRelease d/b to cancel",
         "Start up frame": "11~13 (61)"
     },
     {

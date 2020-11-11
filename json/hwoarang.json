@@ -561,7 +561,7 @@
         "Gif": "https://gfycat.com/HelplessTimelyIberianmole.gif",
         "Hit frame": "KND",
         "Hit level": "m,m,(LFF)",
-        "Notes": "Power Crush.\nDelay: 7f. Hit-confirm: 7f.",
+        "Notes": "Power Crush.\nDelay: 7f. Hit-confirm: 7f",
         "Start up frame": "22 pc8~?"
     },
     {
@@ -1066,7 +1066,7 @@
         "Gif": "",
         "Hit frame": "+8~+9b",
         "Hit level": "h,(LFF)",
-        "Notes": "May switch sides on hit.",
+        "Notes": "May switch sides on hit",
         "Start up frame": "18 (21~) js15~"
     },
     {
@@ -1763,7 +1763,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m!(TJ),(LFF)",
-        "Notes": "Check LFS 1+4~b,b for cancel.",
+        "Notes": "Check LFS 1+4~b,b for cancel",
         "Start up frame": "67"
     },
     {
@@ -1832,7 +1832,7 @@
         "Gif": "https://gfycat.com/QueasyQuickAlligatorgar.gif",
         "Hit frame": "KND",
         "Hit level": "m,m,(LFF)",
-        "Notes": "Power Crush.\nDelay: 7f. Hit-confirm: 7f.",
+        "Notes": "Power Crush.\nDelay: 7f. Hit-confirm: 7f",
         "Start up frame": "22 pc8~?"
     },
     {

@@ -10,7 +10,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Rage art.\nAlt. input: in rage WS 1+2.",
+        "Notes": "Rage art.\nAlt. input: in rage WS 1+2",
         "Start up frame": "13 pc8~"
     },
     {
@@ -21,7 +21,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(Special)(TC)",
-        "Notes": "Rage drive.",
+        "Notes": "Rage drive",
         "Start up frame": "?"
     },
     {
@@ -32,7 +32,7 @@
         "Gif": "",
         "Hit frame": "JG",
         "Hit level": "m,m",
-        "Notes": "Rage drive.",
+        "Notes": "Rage drive",
         "Start up frame": "14"
     },
     {
@@ -51,7 +51,7 @@
         "Gif": "",
         "Hit frame": "JG",
         "Hit level": "m,m,(DCK)",
-        "Notes": "Rage drive.",
+        "Notes": "Rage drive",
         "Start up frame": "14"
     },
     {
@@ -62,7 +62,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,m,m,m,m",
-        "Notes": "Rage drive.",
+        "Notes": "Rage drive",
         "Start up frame": "15 (35~) cs1~"
     },
     {
@@ -669,7 +669,7 @@
         "Gif": "https://gfycat.com/UnsungUnhealthyFlickertailsquirrel.gif",
         "Hit frame": "-1",
         "Hit level": "m,h",
-        "Notes": "Delay: 17f. Hit-confirm: 7f.",
+        "Notes": "Delay: 17f. Hit-confirm: 7f",
         "Start up frame": "21~22"
     },
     {
@@ -1022,7 +1022,7 @@
         "Gif": "https://gfycat.com/MadeupMajorAmericanwarmblood.gif",
         "Hit frame": "+6~+7",
         "Hit level": "m",
-        "Notes": "Homing.",
+        "Notes": "Homing",
         "Start up frame": "16~17"
     },
     {
@@ -1037,7 +1037,7 @@
         "Gif": "",
         "Hit frame": "+10~+11g",
         "Hit level": "m,(LWV)",
-        "Notes": "Homing.",
+        "Notes": "Homing",
         "Start up frame": "16~17"
     },
     {
@@ -1052,7 +1052,7 @@
         "Gif": "",
         "Hit frame": "+10~+11g",
         "Hit level": "m,(RWV)",
-        "Notes": "Homing.",
+        "Notes": "Homing",
         "Start up frame": "16~17"
     },
     {
@@ -1071,7 +1071,7 @@
         "Gif": "",
         "Hit frame": "+15~+16g",
         "Hit level": "m,(DCK)",
-        "Notes": "Homing.\nCheck d/f+2~DCKc for the cancel.",
+        "Notes": "Homing.\nCheck d/f+2~DCKc for the cancel",
         "Start up frame": "16~17"
     },
     {
@@ -1098,7 +1098,7 @@
         "Gif": "",
         "Hit frame": "+12g~+13g",
         "Hit level": "m,(DCKc)",
-        "Notes": "Homing.",
+        "Notes": "Homing",
         "Start up frame": "16~17s"
     },
     {
@@ -1117,7 +1117,7 @@
         "Gif": "",
         "Hit frame": "+10~+11g",
         "Hit level": "m,(SWY)",
-        "Notes": "Homing.",
+        "Notes": "Homing",
         "Start up frame": "16~17"
     },
     {
@@ -1370,7 +1370,7 @@
         "Gif": "",
         "Hit frame": "+1~+2s",
         "Hit level": "l(TC)",
-        "Notes": "Hold (d_d/b) to recover crouching.",
+        "Notes": "Hold (d_d/b) to recover crouching",
         "Start up frame": "26~27(s) cs6~"
     },
     {
@@ -1403,7 +1403,7 @@
         "Gif": "https://gfycat.com/CommonSpiritedAmericangoldfinch.gif",
         "Hit frame": "+24~+25",
         "Hit level": "m",
-        "Notes": "Power crush.",
+        "Notes": "Power crush",
         "Start up frame": "36~37 pc8~35"
     },
     {
@@ -1430,7 +1430,7 @@
         "Gif": "https://gfycat.com/InfiniteRepulsiveBlowfish.gif",
         "Hit frame": "+9~+10",
         "Hit level": "h,(FLK)",
-        "Notes": "Check b+1~FLKc for the cancel.",
+        "Notes": "Check b+1~FLKc for the cancel",
         "Start up frame": "13~14"
     },
     {
@@ -1462,7 +1462,7 @@
         "Gif": "",
         "Hit frame": "+19kg",
         "Hit level": "h,h",
-        "Notes": "Delay: 9f. Hit-confirm: 9f.",
+        "Notes": "Delay: 9f. Hit-confirm: 9f",
         "Start up frame": "13"
     },
     {
@@ -1478,7 +1478,7 @@
         "Gif": "",
         "Hit frame": "+19kg",
         "Hit level": "h,h,(PAB)",
-        "Notes": "Delay: 9f. Hit-confirm: 9f.",
+        "Notes": "Delay: 9f. Hit-confirm: 9f",
         "Start up frame": "13~14"
     },
     {
@@ -1489,7 +1489,7 @@
         "Gif": "",
         "Hit frame": "+1~+1",
         "Hit level": "h,l(TC)",
-        "Notes": "Delay: 9f.",
+        "Notes": "Delay: 9f",
         "Start up frame": "cs12~"
     },
     {
@@ -1505,7 +1505,7 @@
         "Gif": "https://gfycat.com/DaringHoarseCapybara.gif",
         "Hit frame": "+1~+3",
         "Hit level": "h,l(TC),(PAB)",
-        "Notes": "Delay: 9f.",
+        "Notes": "Delay: 9f",
         "Start up frame": "12~"
     },
     {
@@ -1542,7 +1542,7 @@
         "Gif": "",
         "Hit frame": "+5",
         "Hit level": "Parry h/m punch",
-        "Notes": "Check Parry 1.",
+        "Notes": "Check Parry 1",
         "Start up frame": "35 (parry 2~10)"
     },
     {
@@ -1556,7 +1556,7 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "m",
-        "Notes": "Bryan can evade with b.",
+        "Notes": "Bryan can evade with b",
         "Start up frame": "14~16"
     },
     {
@@ -1955,7 +1955,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(LWV)",
-        "Notes": "Alt. inputs: (3_d+3_WS 3_FC 3_FC d/b+3_ss 3).\nCan transition to RWV,DCK and SWY.",
+        "Notes": "Alt. inputs: (3_d+3_WS 3_FC 3_FC d/b+3_ss 3).\nCan transition to RWV,DCK and SWY",
         "Start up frame": "8"
     },
     {
@@ -2089,7 +2089,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(LWV)",
-        "Notes": "Alt. inputs: (4_d+4_WS 4_FC 4_FC d/b+4_ss 4).\nCan transition to LWV,DCK and SWY.",
+        "Notes": "Alt. inputs: (4_d+4_WS 4_FC 4_FC d/b+4_ss 4).\nCan transition to LWV,DCK and SWY",
         "Start up frame": "8"
     },
     {
@@ -2138,7 +2138,7 @@
         "Gif": "https://gfycat.com/AnyExcitableAnkolewatusi.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Wall bounce.",
+        "Notes": "Wall bounce",
         "Start up frame": "15~16 (23~)"
     },
     {
@@ -2282,7 +2282,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(DCK)(TC)",
-        "Notes": "Alt. inputs: d/f+(3_4).\nCan transition to LWV,RWV,EXT DCK and SWY.",
+        "Notes": "Alt. inputs: d/f+(3_4).\nCan transition to LWV,RWV,EXT DCK and SWY",
         "Start up frame": "6~35"
     },
     {
@@ -2442,7 +2442,7 @@
         "Gif": "https://gfycat.com/SickShowyBighorn.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Screw.\n~DCK f+2 (transition) comes out 2 frames faster.",
+        "Notes": "Screw.\n~DCK f+2 (transition) comes out 2 frames faster",
         "Start up frame": "15~16 (21~)"
     },
     {
@@ -2457,7 +2457,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h,(LWV)",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "15~16 (21~)"
     },
     {
@@ -2472,7 +2472,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h,(RWV)",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "15~16 (21~)"
     },
     {
@@ -2491,7 +2491,7 @@
         "Gif": "https://gfycat.com/SickShowyBighorn.gif",
         "Hit frame": "KND",
         "Hit level": "h,(DCK)",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "15~16 (21~)"
     },
     {
@@ -2518,7 +2518,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h,(DCKc)",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "15~16s (21~)"
     },
     {
@@ -2537,7 +2537,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h,(SWY)",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "15~16 (21~)"
     },
     {
@@ -2555,7 +2555,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(EXT DCK)(TC)",
-        "Notes": "Alt. inputs: D/F+(3_4)*.\nCan transition to LWV,RWV and SWY.",
+        "Notes": "Alt. inputs: D/F+(3_4)*.\nCan transition to LWV,RWV and SWY",
         "Start up frame": "31~60"
     },
     {
@@ -2588,7 +2588,7 @@
         "Gif": "https://gfycat.com/ElasticQuerulousFalcon.gif",
         "Hit frame": "CS",
         "Hit level": "h",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "15~16 (46~)"
     },
     {
@@ -2603,7 +2603,7 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "h,(LWV)",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "15~16 (46~)"
     },
     {
@@ -2618,7 +2618,7 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "h,(RWV)",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "15~16 (46~)"
     },
     {
@@ -2637,7 +2637,7 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "h,(DCK)",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "15~16 (46~)"
     },
     {
@@ -2664,7 +2664,7 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "h,(DCKc)",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "15~16s (46~)"
     },
     {
@@ -2683,7 +2683,7 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "h,(SWY)",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "15~16 (46~)"
     },
     {
@@ -2694,7 +2694,7 @@
         "Gif": "",
         "Hit frame": "0",
         "Hit level": "m",
-        "Notes": "For extensions,check DCK 1+2.",
+        "Notes": "For extensions,check DCK 1+2",
         "Start up frame": "16 (47~)"
     },
     {
@@ -2770,7 +2770,7 @@
         "Gif": "",
         "Hit frame": "+2 (KND)",
         "Hit level": "h(parry h/m punch),(PAB)",
-        "Notes": "Homing.",
+        "Notes": "Homing",
         "Start up frame": "14 (parry 7~13) (15~)"
     },
     {
@@ -2869,7 +2869,7 @@
         "Gif": "https://gfycat.com/GrouchyFlickeringAtlasmoth.gif",
         "Hit frame": "KND",
         "Hit level": "m,h",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "15~16 (16~)"
     },
     {
@@ -2973,7 +2973,7 @@
         "Gif": "https://gfycat.com/BetterWindyAmethystgemclam.gif",
         "Hit frame": "KND",
         "Hit level": "m(SWY)",
-        "Notes": "Wall bounce.",
+        "Notes": "Wall bounce",
         "Start up frame": "28~29 (29~)"
     },
     {
@@ -3006,7 +3006,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(SWY)(TC)",
-        "Notes": "Alt. input: d/b+4.\nCan transition to: LWV,RWV and DCK.",
+        "Notes": "Alt. input: d/b+4.\nCan transition to: LWV,RWV and DCK",
         "Start up frame": "10~35"
     },
     {
@@ -3039,7 +3039,7 @@
         "Gif": "https://gfycat.com/VacantFloweryCob.gif",
         "Hit frame": "throw (+1)",
         "Hit level": "h",
-        "Notes": "Throw.\nCan change direction with (f_d_b_u).",
+        "Notes": "Throw.\nCan change direction with (f_d_b_u)",
         "Start up frame": "10 (20~)"
     },
     {
@@ -3053,7 +3053,7 @@
         "Gif": "https://gfycat.com/BriefQuarterlyKentrosaurus.gif",
         "Hit frame": "-",
         "Hit level": "(FLK)",
-        "Notes": "Can transition to: LWV,RWV,PAB,DCK and SWY.\nTo PAB only after ~b transition.",
+        "Notes": "Can transition to: LWV,RWV,PAB,DCK and SWY.\nTo PAB only after ~b transition",
         "Start up frame": "5~"
     },
     {
@@ -3286,7 +3286,7 @@
         "Gif": "https://gfycat.com/RegularOrderlyGoldenretriever.gif",
         "Hit frame": "+18g",
         "Hit level": "h,h",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "12"
     },
     {
@@ -3319,7 +3319,7 @@
         "Gif": "https://gfycat.com/ScholarlyJubilantBrownbutterfly.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Power crush.",
+        "Notes": "Power crush",
         "Start up frame": "14~15 (19~) pc8~13"
     },
     {

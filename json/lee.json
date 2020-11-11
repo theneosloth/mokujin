@@ -1456,9 +1456,9 @@
     },
     {
         "Block frame": "-1",
-        "Command": "HMS 1,1,...",
+        "Command": "HMS 1,1,..",
         "Counter hit frame": "+7",
-        "Damage": "10,10,...",
+        "Damage": "10,10,..",
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "h,h HMS)",
@@ -2263,7 +2263,7 @@
         "Gif": "-",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Rage Art.",
+        "Notes": "Rage Art",
         "Start up frame": "20 pc8~17"
     },
     {

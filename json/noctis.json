@@ -455,7 +455,7 @@
         "Gif": null,
         "Hit frame": "-9 (KND)",
         "Hit level": "l",
-        "Notes": "Has Clean Hit property.\nKND when extension is input.",
+        "Notes": "Has Clean Hit property.\nKND when extension is input",
         "Start up frame": "19"
     },
     {
@@ -466,7 +466,7 @@
         "Gif": "",
         "Hit frame": "+4",
         "Hit level": "l,h",
-        "Notes": "1st: Has Clean Hit property.",
+        "Notes": "1st: Has Clean Hit property",
         "Start up frame": "19"
     },
     {
@@ -483,7 +483,7 @@
         "Gif": "https://gfycat.com/QuaintAggressiveBangeltiger.gif",
         "Hit frame": "KND",
         "Hit level": "l,h,m",
-        "Notes": "1st: Has Clean Hit property.\n3rd: Has Just Frame input.",
+        "Notes": "1st: Has Clean Hit property.\n3rd: Has Just Frame input",
         "Start up frame": "19"
     },
     {

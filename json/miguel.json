@@ -1778,7 +1778,7 @@
         "Gif": "https://gfycat.com/exhaustedreliablekid.gif",
         "Hit frame": "+10~+11kg",
         "Hit level": "h,h",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "12"
     },
     {
@@ -1789,7 +1789,7 @@
         "Gif": "-",
         "Hit frame": "+10~+11kg",
         "Hit level": "h,h,(SAV)",
-        "Notes": "Screw.",
+        "Notes": "Screw",
         "Start up frame": "12"
     },
     {
@@ -1800,7 +1800,7 @@
         "Gif": "-",
         "Hit frame": "+6~+7",
         "Hit level": "m",
-        "Notes": "Homing.",
+        "Notes": "Homing",
         "Start up frame": "17~18"
     }
 ]

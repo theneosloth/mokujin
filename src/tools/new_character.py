@@ -24,7 +24,7 @@ with open(input_file, encoding='utf-8') as csv_file:
 
             new_move['Alias'] = aliases'''
 
-        new_move['Hit level'] = row[2]
+        new_move['Hit level'] = row[2].lower()
         new_move['Damage'] = row[3]
         new_move['Start up frame'] = row[4]
         new_move['Block frame'] = row[5]

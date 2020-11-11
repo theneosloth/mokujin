@@ -58,7 +58,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "m,m,m,h",
-        "Notes": "Rage Drive.\nOnly on hit.\nHas Just Frame property.",
+        "Notes": "Rage Drive.\nOnly on hit.\nHas Just Frame property",
         "Start up frame": "17,46,78~80"
     },
     {
@@ -561,7 +561,7 @@
         "Gif": "",
         "Hit frame": "+8",
         "Hit level": "h",
-        "Notes": "To jab (1) extensions.",
+        "Notes": "To jab (1) extensions",
         "Start up frame": "8"
     },
     {
@@ -719,7 +719,7 @@
         "Gif": "https://gfycat.com/PortlyNextHummingbird.gif",
         "Hit frame": "KND",
         "Hit level": "m,m,m",
-        "Notes": "Gap after blocking 2nd hit: 13f.",
+        "Notes": "Gap after blocking 2nd hit: 13f",
         "Start up frame": "24"
     },
     {
