@@ -1747,7 +1747,7 @@
             "Back 2+4"
         ],
         "Block frame": "-",
-        "Command": "back 1+3 (or f+1+3)",
+        "Command": "back 1+3",
         "Counter hit frame": "-",
         "Damage": "55",
         "Gif": "https://gfycat.com/HugeCanineFulmar.gif",
