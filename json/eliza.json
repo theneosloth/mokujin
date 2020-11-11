@@ -237,7 +237,10 @@
         "Recovery": "-35",
         "Start up frame": "27~28,37~38"
     },
-    {   "Alias": ["MG 2"],
+    {
+        "Alias": [
+            "MG 2"
+        ],
         "Block frame": "-9",
         "Command": "f,F+2",
         "Counter hit frame": "KND",
@@ -1331,5 +1334,16 @@
         "Notes": "",
         "Recovery": "-22",
         "Start up frame": "11~12"
+    },
+    {
+        "Block frame": "-11",
+        "Command": "MG 1,4",
+        "Counter hit frame": "Launch (S!)",
+        "Damage": "11,20",
+        "Gif": "https://gfycat.com/tepidscentedkiwi.gif",
+        "Hit frame": "KNB",
+        "Hit level": "h,m",
+        "Notes": "-",
+        "Start up frame": "10 (25~)"
     }
 ]

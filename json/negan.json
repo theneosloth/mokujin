@@ -76,7 +76,10 @@
         "Notes": "",
         "Start up frame": "10"
     },
-    {   "Alias": ["1,2*"],
+    {
+        "Alias": [
+            "1,2*"
+        ],
         "Block frame": "-5",
         "Command": "1,2",
         "Counter hit frame": "+6",
@@ -1040,7 +1043,10 @@
         "Notes": "",
         "Start up frame": "14"
     },
-    {   "Alias" : ["INT"],
+    {
+        "Alias": [
+            "INT"
+        ],
         "Block frame": "-",
         "Command": "3+4",
         "Counter hit frame": "(LP) Launch",
@@ -1357,5 +1363,38 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
+    },
+    {
+        "Block frame": "-11",
+        "Command": "d/f+3,1,2*",
+        "Counter hit frame": "KND",
+        "Damage": "13,12,20",
+        "Gif": "-",
+        "Hit frame": "+4s",
+        "Hit level": "m,h,m,(INT)",
+        "Notes": "-",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-11",
+        "Command": "u/f+2",
+        "Counter hit frame": "CS (JG)",
+        "Damage": "20",
+        "Gif": "https://gfycat.com/lightimpracticaldiplodocus.gif",
+        "Hit frame": "+7",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "16~17"
+    },
+    {
+        "Block frame": "-11",
+        "Command": "u/f+2*",
+        "Counter hit frame": "CS (JG)",
+        "Damage": "20",
+        "Gif": "-",
+        "Hit frame": "+7",
+        "Hit level": "m,(INT)",
+        "Notes": "-",
+        "Start up frame": "16~17"
     }
 ]

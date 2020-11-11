@@ -2467,5 +2467,16 @@
         "Hit level": "h",
         "Notes": "",
         "Start up frame": "11"
+    },
+    {
+        "Block frame": "-13",
+        "Command": "d/b+3+4",
+        "Counter hit frame": "KND",
+        "Damage": "23",
+        "Gif": "https://gfycat.com/rapidniceeidolonhelvum.gif",
+        "Hit frame": "KND",
+        "Hit level": "m,(TC)",
+        "Notes": "-",
+        "Start up frame": "21s cs7~"
     }
 ]

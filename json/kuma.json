@@ -2114,5 +2114,27 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "11~12"
+    },
+    {
+        "Block frame": "-13",
+        "Command": "f+1+2,1+2",
+        "Counter hit frame": "+9",
+        "Damage": "20,20",
+        "Gif": "https://gfycat.com/astonishingedibleconey.gif",
+        "Hit frame": "+9",
+        "Hit level": "m,m",
+        "Notes": "Screw.",
+        "Start up frame": "17~18"
+    },
+    {
+        "Block frame": "?",
+        "Command": "HBS 1,2~f",
+        "Counter hit frame": "?",
+        "Damage": "8,10",
+        "Gif": "-",
+        "Hit frame": "?",
+        "Hit level": "l(TC),l(TC),(ROL)",
+        "Notes": "-",
+        "Start up frame": "12~16 (27~) cs1~"
     }
 ]

@@ -1758,5 +1758,49 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "11~12"
+    },
+    {
+        "Block frame": "-8",
+        "Command": "f+2",
+        "Counter hit frame": "+3",
+        "Damage": "10",
+        "Gif": "-",
+        "Hit frame": "+3",
+        "Hit level": "h",
+        "Notes": "-",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-12",
+        "Command": "f+2,1",
+        "Counter hit frame": "+10~+11kg",
+        "Damage": "10,20",
+        "Gif": "https://gfycat.com/exhaustedreliablekid.gif",
+        "Hit frame": "+10~+11kg",
+        "Hit level": "h,h",
+        "Notes": "Screw.",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-12?",
+        "Command": "f+2,1~f",
+        "Counter hit frame": "+10~+11kg",
+        "Damage": "10,20",
+        "Gif": "-",
+        "Hit frame": "+10~+11kg",
+        "Hit level": "h,h,(SAV)",
+        "Notes": "Screw.",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-7~-6",
+        "Command": "f+4~f",
+        "Counter hit frame": "+6",
+        "Damage": "15",
+        "Gif": "-",
+        "Hit frame": "+6~+7",
+        "Hit level": "m",
+        "Notes": "Homing.",
+        "Start up frame": "17~18"
     }
 ]

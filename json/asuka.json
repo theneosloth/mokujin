@@ -657,7 +657,10 @@
         "Recovery": "-33",
         "Start up frame": "15~16 (16~)"
     },
-    {   "Alias": ["b+2+4"],
+    {
+        "Alias": [
+            "b+2+4"
+        ],
         "Block frame": "-6",
         "Command": "b+1+3",
         "Counter hit frame": "f+1+3 for left limb. f+2+4 for right limb",
@@ -1682,5 +1685,27 @@
         "Notes": "",
         "Recovery": "-20",
         "Start up frame": "11~12"
+    },
+    {
+        "Block frame": "-",
+        "Command": "b+1~d",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": "-",
+        "Hit frame": "-",
+        "Hit level": "(TC)",
+        "Notes": "-",
+        "Start up frame": "?s"
+    },
+    {
+        "Block frame": "-9~-8",
+        "Command": "b+2+3",
+        "Counter hit frame": "+6~+7 (CS (JG))",
+        "Damage": "23",
+        "Gif": "https://gfycat.com/exaltedneighboringgrackle.gif",
+        "Hit frame": "+6~+7 (CS (JG))",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "24~25 parry4~15"
     }
 ]

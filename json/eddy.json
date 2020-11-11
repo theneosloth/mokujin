@@ -2487,5 +2487,27 @@
         "Hit level": "l (TC)",
         "Notes": "",
         "Start up frame": "30~36 (31~) cs1~"
+    },
+    {
+        "Block frame": "-7",
+        "Command": "b+2,3",
+        "Counter hit frame": "+5?",
+        "Damage": "14,17",
+        "Gif": "-",
+        "Hit frame": "+5",
+        "Hit level": "m,m",
+        "Notes": "-",
+        "Start up frame": "14"
+    },
+    {
+        "Block frame": "-14",
+        "Command": "b+2,3,3",
+        "Counter hit frame": "KNB (FDFA)",
+        "Damage": "14,17,24",
+        "Gif": "https://gfycat.com/timelypalatableafricanwilddog.gif",
+        "Hit frame": "KNB (FDFA)",
+        "Hit level": "m,m,m",
+        "Notes": "-",
+        "Start up frame": "14"
     }
 ]

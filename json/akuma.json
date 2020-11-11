@@ -1264,5 +1264,16 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "15"
+    },
+    {
+        "Block frame": "?",
+        "Command": "DFLIP QCF+1+2",
+        "Counter hit frame": "?",
+        "Damage": "?",
+        "Gif": "https://gfycat.com/spitefulgloomyamericanbadger.gif",
+        "Hit frame": "?",
+        "Hit level": "sm",
+        "Notes": "-",
+        "Start up frame": "?"
     }
 ]

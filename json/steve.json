@@ -3597,5 +3597,16 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
+    },
+    {
+        "Block frame": "-5",
+        "Command": "PAB f+1+2",
+        "Counter hit frame": "KNB",
+        "Damage": "12,23",
+        "Gif": "https://gfycat.com/acidicskinnybunting.gif",
+        "Hit frame": "KNB",
+        "Hit level": "h,h",
+        "Notes": "-",
+        "Start up frame": "12"
     }
 ]

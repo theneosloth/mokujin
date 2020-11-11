@@ -1545,5 +1545,16 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "?"
+    },
+    {
+        "Block frame": "-9",
+        "Command": "b,f+2,3",
+        "Counter hit frame": "KNB",
+        "Damage": "12,21",
+        "Gif": "https://gfycat.com/sprymajordegus.gif",
+        "Hit frame": "KNB",
+        "Hit level": "m,h",
+        "Notes": "-",
+        "Start up frame": "15~17 (15~)"
     }
 ]

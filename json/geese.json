@@ -909,7 +909,10 @@
         "Notes": "",
         "Start up frame": "17~(~) 1~"
     },
-    {   "Alias": ["Super"],
+    {
+        "Alias": [
+            "Super"
+        ],
         "Block frame": "+1~",
         "Command": "qcf,qcf+1+2",
         "Counter hit frame": "KND",
@@ -921,7 +924,10 @@
         "Recovery": "-53",
         "Start up frame": "10~"
     },
-    {   "Alias": ["RS"],
+    {
+        "Alias": [
+            "RS"
+        ],
         "Block frame": "-18",
         "Command": "d/b,hcb,d/f+1+2",
         "Counter hit frame": "Launch",
@@ -1368,5 +1374,16 @@
         "Notes": "",
         "Recovery": "-23",
         "Start up frame": "11"
+    },
+    {
+        "Block frame": "+1",
+        "Command": "b+1,3",
+        "Counter hit frame": "+20kg",
+        "Damage": "8,15",
+        "Gif": "https://gfycat.com/leanalarminggreatwhiteshark.gif",
+        "Hit frame": "+20kg",
+        "Hit level": "h,h",
+        "Notes": "-",
+        "Start up frame": "12"
     }
 ]

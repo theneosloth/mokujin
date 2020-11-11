@@ -1576,5 +1576,38 @@
         "Hit level": "l",
         "Notes": "",
         "Start up frame": "25~59"
+    },
+    {
+        "Block frame": "-15",
+        "Command": "TCH f+2",
+        "Counter hit frame": "CS (JG)",
+        "Damage": "20",
+        "Gif": "https://gfycat.com/anguishedpettyacornweevil.gif",
+        "Hit frame": "CS (JG)",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "18"
+    },
+    {
+        "Block frame": "-14",
+        "Command": "WS+1,2",
+        "Counter hit frame": "+6s",
+        "Damage": "12,23",
+        "Gif": "https://gfycat.com/unsteadyeageribadanmalimbe.gif",
+        "Hit frame": "+6s",
+        "Hit level": "m,m?",
+        "Notes": "-",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-14",
+        "Command": "WS+1,2,3+4",
+        "Counter hit frame": "+6s",
+        "Damage": "12,23",
+        "Gif": "-",
+        "Hit frame": "+6s",
+        "Hit level": "m,m,(TCH)?",
+        "Notes": "-",
+        "Start up frame": "12"
     }
 ]

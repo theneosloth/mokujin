@@ -831,7 +831,11 @@
         "Notes": "",
         "Start up frame": "3~20 (total 45)"
     },
-    {   "Alias": ["b+2,1","b+2,2"],
+    {
+        "Alias": [
+            "b+2,1",
+            "b+2,2"
+        ],
         "Block frame": "-9",
         "Command": "b+2,2",
         "Counter hit frame": "+7",
@@ -1258,5 +1262,27 @@
         "Hit level": "l",
         "Notes": "Homing",
         "Start up frame": "20~21"
+    },
+    {
+        "Block frame": "-10",
+        "Command": "u/b+2",
+        "Counter hit frame": "+3 (KND)",
+        "Damage": "20",
+        "Gif": "https://gfycat.com/offensiverawarkshell.gif",
+        "Hit frame": "+3 (KND)",
+        "Hit level": "m",
+        "Notes": "Punch Parry i4~15",
+        "Start up frame": "20 "
+    },
+    {
+        "Block frame": "-6",
+        "Command": "QCF+2",
+        "Counter hit frame": "Launch (FDFT)",
+        "Damage": "20",
+        "Gif": "https://gfycat.com/concretekeyhamadryad.gif",
+        "Hit frame": "Launch (FDFT)",
+        "Hit level": "h",
+        "Notes": "-",
+        "Start up frame": "16"
     }
 ]

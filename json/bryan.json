@@ -2033,5 +2033,16 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "20~21 (29~)"
+    },
+    {
+        "Block frame": "-1",
+        "Command": "1+2,1",
+        "Counter hit frame": "+6",
+        "Damage": "16,16",
+        "Gif": "https://gfycat.com/sphericalreflectinggalapagosdove.gif",
+        "Hit frame": "+6",
+        "Hit level": "m,h",
+        "Notes": "1st hit Homing.",
+        "Start up frame": "17~18"
     }
 ]

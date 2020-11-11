@@ -1462,5 +1462,49 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "11"
+    },
+    {
+        "Block frame": "-11",
+        "Command": "d/f+1,3",
+        "Counter hit frame": "+8",
+        "Damage": "13,14",
+        "Gif": "https://gfycat.com/hilariousjoyousibis.gif",
+        "Hit frame": "+8",
+        "Hit level": "m,l",
+        "Notes": "-",
+        "Start up frame": "13~14"
+    },
+    {
+        "Block frame": "-",
+        "Command": "d/f+4~b",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": "-",
+        "Hit frame": "-",
+        "Hit level": "(special)",
+        "Notes": "-",
+        "Start up frame": "-"
+    },
+    {
+        "Block frame": "-13",
+        "Command": "TWISTL d/b+4,3",
+        "Counter hit frame": "\u00b10s",
+        "Damage": "23,12",
+        "Gif": "https://gfycat.com/charmingdeadcommongonolek.gif",
+        "Hit frame": "\u00b10s",
+        "Hit level": "l,l",
+        "Notes": "-",
+        "Start up frame": "28"
+    },
+    {
+        "Block frame": "-8~-7",
+        "Command": "TWISTR d/b+4",
+        "Counter hit frame": "CS (JG)?",
+        "Damage": "24",
+        "Gif": "https://gfycat.com/ornatethirdbluebird.gif",
+        "Hit frame": "CS (JG)",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "20~21b"
     }
 ]

@@ -200,7 +200,11 @@
         "Notes": "Throw",
         "Start up frame": "10"
     },
-    {   "Alias": ["mid air WR2+4","mid air WR2+4"],
+    {
+        "Alias": [
+            "mid air WR2+4",
+            "mid air WR2+4"
+        ],
         "Block frame": "",
         "Command": "Mid air f,f,f+2+4",
         "Counter hit frame": "",
@@ -1323,7 +1327,10 @@
         "Notes": "",
         "Start up frame": "-"
     },
-    {   "Alias" : ["Stomp"],
+    {
+        "Alias": [
+            "Stomp"
+        ],
         "Block frame": "-16",
         "Command": "opponent grounded d+4,4,4",
         "Counter hit frame": "-5",
@@ -1652,5 +1659,16 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
+    },
+    {
+        "Block frame": "+1",
+        "Command": "SHS 1?",
+        "Counter hit frame": "Launch",
+        "Damage": "13",
+        "Gif": "https://gfycat.com/chubbygrotesqueapatosaur.gif",
+        "Hit frame": "+8",
+        "Hit level": "h",
+        "Notes": "-",
+        "Start up frame": "11"
     }
 ]

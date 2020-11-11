@@ -2066,5 +2066,16 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
+    },
+    {
+        "Block frame": "-9",
+        "Command": "u/f+4",
+        "Counter hit frame": "S!",
+        "Damage": "20",
+        "Gif": "https://gfycat.com/infatuatedchiefbelugawhale.gif",
+        "Hit frame": "S!",
+        "Hit level": "h(TJ)",
+        "Notes": "Screw.",
+        "Start up frame": "15 js?~"
     }
 ]

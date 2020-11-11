@@ -1408,5 +1408,49 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "15~16"
+    },
+    {
+        "Block frame": "+3",
+        "Command": "d/f+4,1+2,3+4",
+        "Counter hit frame": "+7",
+        "Damage": "12,30",
+        "Gif": "-",
+        "Hit frame": "+7",
+        "Hit level": "m,m,(SG)",
+        "Notes": "-",
+        "Start up frame": "14 cs?~"
+    },
+    {
+        "Block frame": "+6~+7",
+        "Command": "b+1+2,3+4",
+        "Counter hit frame": "Launch",
+        "Damage": "30",
+        "Gif": "-",
+        "Hit frame": "+7~+8",
+        "Hit level": "m,(SG)",
+        "Notes": "-",
+        "Start up frame": "25~26"
+    },
+    {
+        "Block frame": "-16",
+        "Command": "SG 4",
+        "Counter hit frame": "\u00b10",
+        "Damage": "14",
+        "Gif": "-",
+        "Hit frame": "\u00b10",
+        "Hit level": "l(TC)",
+        "Notes": "-",
+        "Start up frame": "? cs?~"
+    },
+    {
+        "Block frame": "-1",
+        "Command": "SG 4,1",
+        "Counter hit frame": "Launch",
+        "Damage": "14,20",
+        "Gif": "https://gfycat.com/grandwastefulafricanelephant.gif",
+        "Hit frame": "KNB",
+        "Hit level": "l(TC),h",
+        "Notes": "-",
+        "Start up frame": "? cs?~"
     }
 ]

@@ -1259,5 +1259,16 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
+    },
+    {
+        "Block frame": "-12",
+        "Command": "d/f+1,2",
+        "Counter hit frame": "throw",
+        "Damage": "10,5(,20)",
+        "Gif": "https://gfycat.com/perfumedcompetentdungenesscrab.gif",
+        "Hit frame": "throw",
+        "Hit level": "m,Sm",
+        "Notes": "-",
+        "Start up frame": "13"
     }
 ]

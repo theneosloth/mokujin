@@ -2076,5 +2076,38 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "SCR 1,4",
+        "Counter hit frame": "KND",
+        "Damage": "12,18",
+        "Gif": "https://gfycat.com/betterdeliriousasiantrumpetfish.gif",
+        "Hit frame": "+7",
+        "Hit level": "h,m,(TRT)",
+        "Notes": "-",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-19",
+        "Command": "MNT 4~d",
+        "Counter hit frame": "+7",
+        "Damage": "13",
+        "Gif": "-",
+        "Hit frame": "-3",
+        "Hit level": "l(TC),(SCR)",
+        "Notes": "-",
+        "Start up frame": "17"
+    },
+    {
+        "Block frame": "-5",
+        "Command": "MNT d/f+4",
+        "Counter hit frame": "+13k",
+        "Damage": "18",
+        "Gif": "https://gfycat.com/coarseacidicaustraliansilkyterrier.gif",
+        "Hit frame": "+13k",
+        "Hit level": "m,(TRT)",
+        "Notes": "Homing.",
+        "Start up frame": "17"
     }
 ]

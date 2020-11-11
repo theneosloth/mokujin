@@ -1830,5 +1830,16 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "38"
+    },
+    {
+        "Block frame": "-7~-5",
+        "Command": "d/f+3+4",
+        "Counter hit frame": "+12~14kg",
+        "Damage": "23",
+        "Gif": "https://gfycat.com/giddytastychevrotain.gif",
+        "Hit frame": "+12~14kg",
+        "Hit level": "m",
+        "Notes": "Homing, Screw.",
+        "Start up frame": "22~24"
     }
 ]

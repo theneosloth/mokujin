@@ -2526,5 +2526,27 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
+    },
+    {
+        "Block frame": "-14~-13",
+        "Command": "LFS u/f+4~f",
+        "Counter hit frame": "Launch",
+        "Damage": "20",
+        "Gif": "-",
+        "Hit frame": "Launch",
+        "Hit level": "m(TJ),(RFF)",
+        "Notes": "-",
+        "Start up frame": "19~20 js6~18"
+    },
+    {
+        "Block frame": "-13~-12",
+        "Command": "RFS u/f+4",
+        "Counter hit frame": "Launch",
+        "Damage": "20",
+        "Gif": "https://gfycat.com/formalillegaldesertpupfish.gif",
+        "Hit frame": "Launch",
+        "Hit level": "m(TJ),(RFF)",
+        "Notes": "-",
+        "Start up frame": "17~18 js?~"
     }
 ]

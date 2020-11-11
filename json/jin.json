@@ -1887,5 +1887,16 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
+    },
+    {
+        "Block frame": "-14",
+        "Command": "b,f+2,1,d/f+2",
+        "Counter hit frame": "Launch",
+        "Damage": "15,14,28",
+        "Gif": "https://gfycat.com/healthydamagedbarracuda.gif",
+        "Hit frame": "Launch",
+        "Hit level": "m,m,m",
+        "Notes": "-",
+        "Start up frame": "15~16 (15~)"
     }
 ]
