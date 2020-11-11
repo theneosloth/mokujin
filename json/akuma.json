@@ -1266,14 +1266,14 @@
         "Start up frame": "15"
     },
     {
-        "Block frame": "?",
+        "Block frame": "+10g~16g",
         "Command": "DFLIP QCF+1+2",
-        "Counter hit frame": "?",
-        "Damage": "?",
+        "Counter hit frame": "+16~+32",
+        "Damage": "11,11",
         "Gif": "https://gfycat.com/spitefulgloomyamericanbadger.gif",
-        "Hit frame": "?",
-        "Hit level": "sm",
+        "Hit frame": "+16~+32",
+        "Hit level": "sm,sm",
         "Notes": "-",
-        "Start up frame": "?"
+        "Start up frame": "8~"
     }
 ]
