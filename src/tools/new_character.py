@@ -31,8 +31,11 @@ with open(input_file, encoding='utf-8') as csv_file:
         new_move['Hit frame'] = row[6]
         new_move['Counter hit frame'] = row[7]
         new_move['Notes'] = row[8]
-        new_move['Gif'] = row[0]
+        gif_data = ""
+        if row[0]:
+            gif_data = row[0] + ".gif"
 
+        new_move['Gif'] = gif_data
         for entry in new_move:
             if type(new_move[entry]) != list and (new_move[entry] is None or not new_move[entry].strip()):
                 new_move[entry] = "-"
