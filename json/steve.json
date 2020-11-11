@@ -1,7 +1,7 @@
 [
     {
         "Alias": [
-            "in rage WS+1+2"
+            "in rage WS 1+2"
         ],
         "Block frame": "-3",
         "Command": "in rage 1+2",
@@ -10,7 +10,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Rage art.\nAlt. input: in rage WS+1+2.",
+        "Notes": "Rage art.\nAlt. input: in rage WS 1+2.",
         "Start up frame": "13 pc8~"
     },
     {
@@ -55,7 +55,7 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "+1 (W! +7~?g, 5 dmg)",
+        "Block frame": "+1 (W! +7~?g,5 dmg)",
         "Command": "in rage d/f+3+4,1+2",
         "Counter hit frame": "KND",
         "Damage": "10,10,10,10,19",
@@ -1153,7 +1153,7 @@
         "Block frame": "-13",
         "Command": "d+1",
         "Counter hit frame": "0",
-        "Damage": "14",
+        "Damage": "12",
         "Gif": "https://gfycat.com/AltruisticFrighteningBelugawhale.gif",
         "Hit frame": "0",
         "Hit level": "l(TC)",
@@ -1164,7 +1164,7 @@
         "Block frame": "-18",
         "Command": "d+2",
         "Counter hit frame": "-5",
-        "Damage": "13",
+        "Damage": "11",
         "Gif": "",
         "Hit frame": "-5",
         "Hit level": "l(TC)",
@@ -1523,7 +1523,7 @@
         "Block frame": "-14~-13",
         "Command": "b+2",
         "Counter hit frame": "CS",
-        "Damage": "20",
+        "Damage": "15",
         "Gif": "https://gfycat.com/FluffyFlashyBabirusa.gif",
         "Hit frame": "CS",
         "Hit level": "m",
@@ -1701,7 +1701,7 @@
             "running 1"
         ],
         "Block frame": "-12",
-        "Command": "WR+1",
+        "Command": "WR1",
         "Counter hit frame": "KND",
         "Damage": "23",
         "Gif": "https://gfycat.com/HandyPettyDromedary.gif",
@@ -1712,7 +1712,7 @@
     },
     {
         "Block frame": "-3~-2",
-        "Command": "WS+1",
+        "Command": "WS 1",
         "Counter hit frame": "+8~+9",
         "Damage": "12",
         "Gif": "",
@@ -1723,7 +1723,7 @@
     },
     {
         "Block frame": "-3",
-        "Command": "WS+1,1",
+        "Command": "WS 1,1",
         "Counter hit frame": "+3",
         "Damage": "12,7",
         "Gif": "https://gfycat.com/WhimsicalReliableHornedviper.gif",
@@ -1734,11 +1734,11 @@
     },
     {
         "Alias": [
-            "ws+1,1,LWV",
-            "ws+1,1~LWV"
+            "WS 1,1,LWV",
+            "WS 1,1~LWV"
         ],
         "Block frame": "-6",
-        "Command": "WS+1,1,3",
+        "Command": "WS 1,1,3",
         "Counter hit frame": "0",
         "Damage": "12,7",
         "Gif": "",
@@ -1749,11 +1749,11 @@
     },
     {
         "Alias": [
-            "ws+1,1,RWV",
-            "ws+1,1~RWV"
+            "WS 1,1,RWV",
+            "WS 1,1~RWV"
         ],
         "Block frame": "-6",
-        "Command": "WS+1,1,4",
+        "Command": "WS 1,1,4",
         "Counter hit frame": "0",
         "Damage": "12,7",
         "Gif": "",
@@ -1764,15 +1764,15 @@
     },
     {
         "Alias": [
-            "ws+1,1,f+3",
-            "ws+1,1~f+3",
-            "ws+1,1,f +4",
-            "ws+1,1~f+4",
-            "ws+1,1,DCK",
-            "ws+1,1~DCK"
+            "WS 1,1,f+3",
+            "WS 1,1~f+3",
+            "WS 1,1,f +4",
+            "WS 1,1~f+4",
+            "WS 1,1,DCK",
+            "WS 1,1~DCK"
         ],
         "Block frame": "-4",
-        "Command": "WS+1,1,f+(3_4)",
+        "Command": "WS 1,1,f+(3_4)",
         "Counter hit frame": "+2",
         "Damage": "12,7",
         "Gif": "",
@@ -1783,15 +1783,15 @@
     },
     {
         "Alias": [
-            "ws+1,1,b+3",
-            "ws+1,1~b+3",
-            "ws+1,1,b +4",
-            "ws+1,1~b+4",
-            "ws+1,1,SWY",
-            "ws+1,1~SWY"
+            "WS 1,1,b+3",
+            "WS 1,1~b+3",
+            "WS 1,1,b +4",
+            "WS 1,1~b+4",
+            "WS 1,1,SWY",
+            "WS 1,1~SWY"
         ],
         "Block frame": "-6",
-        "Command": "WS+1,1,b+(3_4)",
+        "Command": "WS 1,1,b+(3_4)",
         "Counter hit frame": "0",
         "Damage": "12,7",
         "Gif": "",
@@ -1802,7 +1802,7 @@
     },
     {
         "Block frame": "-13~-12",
-        "Command": "WS+1,2",
+        "Command": "WS 1,2",
         "Counter hit frame": "KND",
         "Damage": "12,20",
         "Gif": "https://gfycat.com/PlushMilkyBoar.gif",
@@ -1813,7 +1813,7 @@
     },
     {
         "Block frame": "-7~-5",
-        "Command": "WS+2",
+        "Command": "WS 2",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "17",
         "Gif": "https://gfycat.com/ImperturbableDefensiveChicken.gif",
@@ -1824,11 +1824,11 @@
     },
     {
         "Alias": [
-            "ws+2,LWV",
-            "ws+2~LWV"
+            "WS 2,LWV",
+            "WS 2~LWV"
         ],
         "Block frame": "-7~-5",
-        "Command": "WS+2,3",
+        "Command": "WS 2,3",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "17",
         "Gif": "",
@@ -1839,11 +1839,11 @@
     },
     {
         "Alias": [
-            "ws+2,RWV",
-            "ws+2~RWV"
+            "WS 2,RWV",
+            "WS 2~RWV"
         ],
         "Block frame": "-7~-5",
-        "Command": "WS+2,4",
+        "Command": "WS 2,4",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "17",
         "Gif": "",
@@ -1854,15 +1854,15 @@
     },
     {
         "Alias": [
-            "ws+2,f+3",
-            "ws+2~f+3",
-            "ws+2,f +4",
-            "ws+2~f+4",
-            "ws+2,DCK",
-            "ws+2~DCK"
+            "WS 2,f+3",
+            "WS 2~f+3",
+            "WS 2,f +4",
+            "WS 2~f+4",
+            "WS 2,DCK",
+            "WS 2~DCK"
         ],
         "Block frame": "-5~-3",
-        "Command": "WS+2~f+(3_4)",
+        "Command": "WS 2~f+(3_4)",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "17",
         "Gif": "",
@@ -1873,15 +1873,15 @@
     },
     {
         "Alias": [
-            "ws+2,b+3",
-            "ws+2~b+3",
-            "ws+2,b +4",
-            "ws+2~b+4",
-            "ws+2,SWY",
-            "ws+2~SWY"
+            "WS 2,b+3",
+            "WS 2~b+3",
+            "WS 2,b +4",
+            "WS 2~b+4",
+            "WS 2,SWY",
+            "WS 2~SWY"
         ],
         "Block frame": "-7~-5",
-        "Command": "WS+2~b+(3_4)",
+        "Command": "WS 2~b+(3_4)",
         "Counter hit frame": "Launch (JG?)",
         "Damage": "17",
         "Gif": "",
@@ -1915,18 +1915,17 @@
     {
         "Alias": [
             "d+1+2 grounded opponent",
-            "opponent down d+1+2",
             "grounded opponent d+1+2"
         ],
         "Block frame": "-11",
-        "Command": "d+1+2 opponent down",
+        "Command": "opponent down d+1+2",
         "Counter hit frame": "+2",
         "Damage": "12",
         "Gif": "",
         "Hit frame": "+2",
         "Hit level": "l",
         "Notes": "",
-        "Start up frame": "17"
+        "Start up frame": "16"
     },
     {
         "Block frame": "-",
@@ -1943,11 +1942,11 @@
         "Alias": [
             "LWV",
             "d+3",
-            "ws+3",
+            "WS 3",
             "fc 3",
             "fc d+3",
             "fc d/b+3",
-            "ss+3"
+            "ss 3"
         ],
         "Block frame": "-",
         "Command": "3",
@@ -1956,7 +1955,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(LWV)",
-        "Notes": "Alt. inputs: (3_d+3_WS+3_FC 3_FC d/b+3_SS+3).\nCan transition to RWV, DCK and SWY.",
+        "Notes": "Alt. inputs: (3_d+3_WS 3_FC 3_FC d/b+3_ss 3).\nCan transition to RWV,DCK and SWY.",
         "Start up frame": "8"
     },
     {
@@ -2077,11 +2076,11 @@
         "Alias": [
             "RWV",
             "d+4",
-            "ws+4",
+            "WS 4",
             "fc 4",
             "fc d+4",
             "fc d/b+4",
-            "ss+4"
+            "ss 4"
         ],
         "Block frame": "-",
         "Command": "4",
@@ -2090,7 +2089,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(LWV)",
-        "Notes": "Alt. inputs: (4_d+4_WS+4_FC 4_FC d/b+4_SS+4).\nCan transition to LWV, DCK and SWY.",
+        "Notes": "Alt. inputs: (4_d+4_WS 4_FC 4_FC d/b+4_ss 4).\nCan transition to LWV,DCK and SWY.",
         "Start up frame": "8"
     },
     {
@@ -2283,7 +2282,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(DCK)(TC)",
-        "Notes": "Alt. inputs: d/f+(3_4).\nCan transition to LWV, RWV, EXT DCK and SWY.",
+        "Notes": "Alt. inputs: d/f+(3_4).\nCan transition to LWV,RWV,EXT DCK and SWY.",
         "Start up frame": "6~35"
     },
     {
@@ -2326,7 +2325,7 @@
         "Block frame": "-6",
         "Command": "DCK 1+2",
         "Counter hit frame": "0",
-        "Damage": "3",
+        "Damage": "5",
         "Gif": "https://gfycat.com/DifferentSolidGnu.gif",
         "Hit frame": "0",
         "Hit level": "m",
@@ -2443,7 +2442,7 @@
         "Gif": "https://gfycat.com/SickShowyBighorn.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "Tail spin.\n~DCK f+2 (transition) comes out 2 frames faster.",
+        "Notes": "Screw.\n~DCK f+2 (transition) comes out 2 frames faster.",
         "Start up frame": "15~16 (21~)"
     },
     {
@@ -2458,7 +2457,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h,(LWV)",
-        "Notes": "Tail spin.",
+        "Notes": "Screw.",
         "Start up frame": "15~16 (21~)"
     },
     {
@@ -2473,7 +2472,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h,(RWV)",
-        "Notes": "Tail spin.",
+        "Notes": "Screw.",
         "Start up frame": "15~16 (21~)"
     },
     {
@@ -2492,7 +2491,7 @@
         "Gif": "https://gfycat.com/SickShowyBighorn.gif",
         "Hit frame": "KND",
         "Hit level": "h,(DCK)",
-        "Notes": "Tail spin.",
+        "Notes": "Screw.",
         "Start up frame": "15~16 (21~)"
     },
     {
@@ -2519,7 +2518,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h,(DCKc)",
-        "Notes": "Tail spin.",
+        "Notes": "Screw.",
         "Start up frame": "15~16s (21~)"
     },
     {
@@ -2538,7 +2537,7 @@
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "h,(SWY)",
-        "Notes": "Tail spin.",
+        "Notes": "Screw.",
         "Start up frame": "15~16 (21~)"
     },
     {
@@ -2556,7 +2555,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(EXT DCK)(TC)",
-        "Notes": "Alt. inputs: D/F+(3_4)*.\nCan transition to LWV, RWV and SWY.",
+        "Notes": "Alt. inputs: D/F+(3_4)*.\nCan transition to LWV,RWV and SWY.",
         "Start up frame": "31~60"
     },
     {
@@ -2589,7 +2588,7 @@
         "Gif": "https://gfycat.com/ElasticQuerulousFalcon.gif",
         "Hit frame": "CS",
         "Hit level": "h",
-        "Notes": "Tail spin.",
+        "Notes": "Screw.",
         "Start up frame": "15~16 (46~)"
     },
     {
@@ -2604,7 +2603,7 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "h,(LWV)",
-        "Notes": "Tail spin.",
+        "Notes": "Screw.",
         "Start up frame": "15~16 (46~)"
     },
     {
@@ -2619,7 +2618,7 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "h,(RWV)",
-        "Notes": "Tail spin.",
+        "Notes": "Screw.",
         "Start up frame": "15~16 (46~)"
     },
     {
@@ -2638,7 +2637,7 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "h,(DCK)",
-        "Notes": "Tail spin.",
+        "Notes": "Screw.",
         "Start up frame": "15~16 (46~)"
     },
     {
@@ -2665,7 +2664,7 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "h,(DCKc)",
-        "Notes": "Tail spin.",
+        "Notes": "Screw.",
         "Start up frame": "15~16s (46~)"
     },
     {
@@ -2684,7 +2683,7 @@
         "Gif": "",
         "Hit frame": "CS",
         "Hit level": "h,(SWY)",
-        "Notes": "Tail spin.",
+        "Notes": "Screw.",
         "Start up frame": "15~16 (46~)"
     },
     {
@@ -2695,7 +2694,7 @@
         "Gif": "",
         "Hit frame": "0",
         "Hit level": "m",
-        "Notes": "For extensions, check DCK 1+2.",
+        "Notes": "For extensions,check DCK 1+2.",
         "Start up frame": "16 (47~)"
     },
     {
@@ -2870,7 +2869,7 @@
         "Gif": "https://gfycat.com/GrouchyFlickeringAtlasmoth.gif",
         "Hit frame": "KND",
         "Hit level": "m,h",
-        "Notes": "Tail spin.",
+        "Notes": "Screw.",
         "Start up frame": "15~16 (16~)"
     },
     {
@@ -2888,7 +2887,7 @@
         "Block frame": "-12~-11",
         "Command": "PAB d+1",
         "Counter hit frame": "+2~+3",
-        "Damage": "12",
+        "Damage": "11",
         "Gif": "https://gfycat.com/SelfassuredJaggedAmericanblackvulture.gif",
         "Hit frame": "+2~+3",
         "Hit level": "l(TC),(PAB)",
@@ -2967,7 +2966,7 @@
         "Start up frame": "17~18 (18~)"
     },
     {
-        "Block frame": "-14~-13",
+        "Block frame": "-13",
         "Command": "PAB b+2",
         "Counter hit frame": "KND",
         "Damage": "25",
@@ -3007,7 +3006,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(SWY)(TC)",
-        "Notes": "Alt. input: d/b+4.\nCan transition to: LWV, RWV and DCK.",
+        "Notes": "Alt. input: d/b+4.\nCan transition to: LWV,RWV and DCK.",
         "Start up frame": "10~35"
     },
     {
@@ -3054,7 +3053,7 @@
         "Gif": "https://gfycat.com/BriefQuarterlyKentrosaurus.gif",
         "Hit frame": "-",
         "Hit level": "(FLK)",
-        "Notes": "Can transition to: LWV, RWV, PAB, DCK and SWY.\nTo PAB only after ~b transition.",
+        "Notes": "Can transition to: LWV,RWV,PAB,DCK and SWY.\nTo PAB only after ~b transition.",
         "Start up frame": "5~"
     },
     {
@@ -3282,12 +3281,12 @@
         ],
         "Block frame": "0~+2",
         "Command": "FLK 1,(d_u)+1",
-        "Counter hit frame": "Tail spin",
+        "Counter hit frame": "Screw",
         "Damage": "14,23",
         "Gif": "https://gfycat.com/RegularOrderlyGoldenretriever.gif",
-        "Hit frame": "+18",
+        "Hit frame": "+18g",
         "Hit level": "h,h",
-        "Notes": "Tail spin.",
+        "Notes": "Screw.",
         "Start up frame": "12"
     },
     {
@@ -3534,7 +3533,7 @@
     },
     {
         "Block frame": "0",
-        "Command": "f, F+1+2",
+        "Command": "f,F+1+2",
         "Counter hit frame": "-",
         "Damage": "40",
         "Gif": "https://gfycat.com/GranularSlipperyEkaltadeta.gif",
