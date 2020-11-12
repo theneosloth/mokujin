@@ -1394,12 +1394,12 @@
         "Start up frame": "22~23"
     },
     {
-        "Block frame": "-4~-2",
+        "Block frame": "-4~-3",
         "Command": "b+3",
-        "Counter hit frame": "+7~+9",
+        "Counter hit frame": "+7~+8",
         "Damage": "14",
         "Gif": "",
-        "Hit frame": "+7~+9",
+        "Hit frame": "+7~+8",
         "Hit level": "h",
         "Notes": "",
         "Start up frame": "14~15"

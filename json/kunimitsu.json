@@ -627,7 +627,7 @@
         "Start up frame": "13"
     },
     {
-        "Block frame": "-14",
+        "Block frame": "-14s",
         "Command": "d/f+1,2,2",
         "Counter hit frame": "KND",
         "Damage": "10,12,20",
@@ -1209,7 +1209,7 @@
         "Notes": "-",
         "Start up frame": "20"
     },
-    {
+    {   "Alias" : ["u+2"],
         "Block frame": "-7",
         "Command": "u/b+2",
         "Counter hit frame": "KND",

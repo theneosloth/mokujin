@@ -304,17 +304,6 @@
         "Start up frame": "13~14"
     },
     {
-        "Block frame": "\u2013",
-        "Command": "d/f+1,2 (Third hit miss)",
-        "Counter hit frame": "\u2013",
-        "Damage": "10,5",
-        "Gif": "",
-        "Hit frame": "\u2013",
-        "Hit level": "m,m",
-        "Notes": "",
-        "Start up frame": "13~14"
-    },
-    {
         "Block frame": "-7~-6",
         "Command": "d/f+2",
         "Counter hit frame": "+3~+4",
@@ -455,10 +444,11 @@
         "Command": "d+3",
         "Counter hit frame": "-4",
         "Damage": "7 (10)",
-        "Gif": "",
+        "Gif": "https://gfycat.com/serpentineconfusedflee.gif",
         "Hit frame": "-4",
         "Hit level": "l (TC)",
         "Notes": "",
+        "Recovery": "-28",
         "Start up frame": "15s cs6or1~"
     },
     {
@@ -990,10 +980,10 @@
         "Block frame": "-",
         "Command": "f,d,d/f+3+4",
         "Counter hit frame": "-",
-        "Damage": "-",
-        "Gif": "https://gfycat.com/TheseClearcutBudgie.gif",
+        "Damage": "",
+        "Gif": "https://gfycat.com/physicalinbornemperorpenguin.gif",
         "Hit frame": "-",
-        "Hit level": "(Special)",
+        "Hit level": "(TPORT)",
         "Notes": "",
         "Start up frame": "5inv"
     },
@@ -1045,7 +1035,7 @@
         "Start up frame": "11,,,"
     },
     {
-        "Block frame": "-18",
+        "Block frame": "-8 (4th hit whiff) -18",
         "Command": "qcb+3+4",
         "Counter hit frame": "KND",
         "Damage": "10*3,20",
@@ -1053,7 +1043,7 @@
         "Hit frame": "KND",
         "Hit level": "Sm x 4",
         "Notes": "Screw",
-        "Recovery": "-28",
+        "Recovery": "-24",
         "Start up frame": "10,24,39,44 js10~"
     },
     {
@@ -1080,7 +1070,7 @@
     },
     {
         "Block frame": "-5~-1",
-        "Command": "TPORT(f+3+4) qcf+1+2",
+        "Command": "f+3+4, qcf+1+2",
         "Counter hit frame": "+5~+9",
         "Damage": "20,10,10",
         "Gif": "",
@@ -1091,7 +1081,7 @@
     },
     {
         "Block frame": "-8",
-        "Command": "TPORT(f+3+4) qcb+3+4",
+        "Command": "f+3+4, qcb+3+4",
         "Counter hit frame": "KND",
         "Damage": "20,10,10,20",
         "Gif": "",
@@ -1101,19 +1091,8 @@
         "Start up frame": "js1~"
     },
     {
-        "Block frame": "-25",
-        "Command": "TPORT(f+3+4) qcb+3+4 (Third hit miss)",
-        "Counter hit frame": "KND",
-        "Damage": "20,6,6",
-        "Gif": "",
-        "Hit frame": "KND",
-        "Hit level": "m (TJ),Sm x 2(TPORT)",
-        "Notes": "",
-        "Start up frame": "js1~"
-    },
-    {
         "Block frame": "-35",
-        "Command": "TPORT(f+3+4) qcb+3+4 (second and third hit miss)",
+        "Command": "f+3+4,  qcb+3+4 (second and third hit miss)",
         "Counter hit frame": "KND",
         "Damage": "20,6",
         "Gif": "",
