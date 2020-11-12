@@ -576,7 +576,10 @@
         "Notes": "Screw",
         "Start up frame": "16~17 (25~)"
     },
-    {   "Alias" : ["Stomp"],
+    {
+        "Alias": [
+            "Stomp"
+        ],
         "Block frame": "-12",
         "Command": "Opponent Down d+3+4",
         "Counter hit frame": "-1",
@@ -598,7 +601,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(MS)",
-        "Notes": "Odd frame: left.\nEven frame: right.",
+        "Notes": "Odd frame: left.\nEven frame: right",
         "Start up frame": "-"
     },
     {
@@ -755,7 +758,7 @@
         "Gif": "",
         "Hit frame": "-",
         "Hit level": "(DVK off)",
-        "Notes": "Practice Mode only.",
+        "Notes": "Practice Mode only",
         "Start up frame": "-"
     },
     {
@@ -884,7 +887,9 @@
         "Start up frame": "22~24 (25~) js22~"
     },
     {
-        "Alias": ["DVK WGF"],
+        "Alias": [
+            "DVK WGF"
+        ],
         "Block frame": "-10~-9",
         "Command": "DVK f,n,d,d/f+2",
         "Counter hit frame": "Launch (JG?)",
@@ -896,7 +901,9 @@
         "Start up frame": "11~12 (15~)"
     },
     {
-        "Alias": ["DVK EWGF"],
+        "Alias": [
+            "DVK EWGF"
+        ],
         "Block frame": "-6~-5",
         "Command": "DVK f,n,d,d/f:2",
         "Counter hit frame": "Launch (JG?)",
@@ -1605,5 +1612,16 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "11~12"
+    },
+    {
+        "Block frame": "-9~-8",
+        "Command": "WS+1+2",
+        "Counter hit frame": "KND (FUFA)",
+        "Damage": "25",
+        "Gif": "https://gfycat.com/softtangiblefeline.gif",
+        "Hit frame": "+14~+15kg",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "13~14"
     }
 ]

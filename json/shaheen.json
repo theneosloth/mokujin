@@ -1155,5 +1155,16 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "14"
+    },
+    {
+        "Block frame": "-9",
+        "Command": "b+2",
+        "Counter hit frame": "throw",
+        "Damage": "17 (CH: 52)",
+        "Gif": "https://gfycat.com/fataloccasionaldamselfly.gif",
+        "Hit frame": "+4",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "15"
     }
 ]

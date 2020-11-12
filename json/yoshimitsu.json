@@ -1637,7 +1637,10 @@
         "Notes": "Homing,Screw",
         "Start up frame": "16 RBT(25~)"
     },
-    {   "Alias": ["f,n,d,d/f+2"],
+    {
+        "Alias": [
+            "f,n,d,d/f+2"
+        ],
         "Block frame": "-14",
         "Command": "qcf+2",
         "Counter hit frame": "SCD",
@@ -1648,7 +1651,10 @@
         "Notes": "Screw",
         "Start up frame": "14"
     },
-    {   "Alias": ["NSS FC d/f+1"],
+    {
+        "Alias": [
+            "NSS FC d/f+1"
+        ],
         "Block frame": "-14",
         "Command": "NSS FC d/b,b+1",
         "Counter hit frame": "KND",
@@ -1659,7 +1665,10 @@
         "Notes": "",
         "Start up frame": "25~26"
     },
-    {   "Alias": ["NSS FC d/f+1,2"],
+    {
+        "Alias": [
+            "NSS FC d/f+1,2"
+        ],
         "Block frame": "-20",
         "Command": "NSS FC d/b,b+1,2",
         "Counter hit frame": "+14",
@@ -4276,5 +4285,49 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "17~18s"
+    },
+    {
+        "Block frame": "-13~-12",
+        "Command": "KIN f+1",
+        "Counter hit frame": "KND (FDFA)",
+        "Damage": "20",
+        "Gif": "https://gfycat.com/cautiousslimylcont.gif",
+        "Hit frame": "+3~+4s",
+        "Hit level": "l,(TC)",
+        "Notes": "-",
+        "Start up frame": "23~24s"
+    },
+    {
+        "Block frame": "-",
+        "Command": "KIN f+1~d",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": "-",
+        "Hit frame": "-",
+        "Hit level": "(TC)",
+        "Notes": "-",
+        "Start up frame": "?s"
+    },
+    {
+        "Block frame": "-15",
+        "Command": "KIN 1+4",
+        "Counter hit frame": "KND (JG)",
+        "Damage": "21",
+        "Gif": "-",
+        "Hit frame": "KND (JG)",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "10~13"
+    },
+    {
+        "Block frame": "-15",
+        "Command": "NSS KIN 1+4",
+        "Counter hit frame": "KND (JG)",
+        "Damage": "21",
+        "Gif": "-",
+        "Hit frame": "KND (JG)",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "12~15"
     }
 ]

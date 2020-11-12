@@ -1365,7 +1365,10 @@
         "Notes": "Throw",
         "Start up frame": "12"
     },
-    {   "Alias": ["GS"],
+    {
+        "Alias": [
+            "GS"
+        ],
         "Block frame": "-13",
         "Command": "f,hcf+1",
         "Counter hit frame": "-",
@@ -1930,7 +1933,10 @@
         "Notes": "",
         "Start up frame": "48~52 RG"
     },
-    {   "Alias": ["u/f+3"],
+    {
+        "Alias": [
+            "u/f+3"
+        ],
         "Block frame": "-10",
         "Command": "u/f+3 (First part)",
         "Counter hit frame": "KND",
@@ -2028,5 +2034,16 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
+    },
+    {
+        "Block frame": "-10~-9",
+        "Command": "b+3:1+2",
+        "Counter hit frame": "throw",
+        "Damage": "23(,20)",
+        "Gif": "https://gfycat.com/somberdimeidolonhelvum.gif",
+        "Hit frame": "throw",
+        "Hit level": "m(,throw)",
+        "Notes": "-",
+        "Start up frame": "16~17"
     }
 ]

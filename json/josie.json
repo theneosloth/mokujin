@@ -1481,5 +1481,16 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "11~12"
+    },
+    {
+        "Block frame": "l: \u00b10",
+        "Command": "1+4",
+        "Counter hit frame": "h: +11, l: +15",
+        "Damage": "l: 5, h: 7",
+        "Gif": "https://gfycat.com/grimylightheartedbluebottlejellyfish.gif",
+        "Hit frame": "h: +11, l: +15",
+        "Hit level": "lh,(SWS)",
+        "Notes": "-",
+        "Start up frame": "15"
     }
 ]

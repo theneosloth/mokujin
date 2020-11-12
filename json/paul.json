@@ -396,7 +396,10 @@
         "Recovery": "-30",
         "Start up frame": "js1~"
     },
-    {   "Alias": ["FC d/f+2"],
+    {
+        "Alias": [
+            "FC d/f+2"
+        ],
         "Block frame": "-17~-15",
         "Command": "f,F+2",
         "Counter hit frame": "-7~-5",
@@ -637,7 +640,10 @@
         "Recovery": "-30",
         "Start up frame": "19(27~)"
     },
-    {   "Alias" : ["Stomp"],
+    {
+        "Alias": [
+            "Stomp"
+        ],
         "Block frame": "-12",
         "Command": "Opponent Down,d+2",
         "Counter hit frame": "+4",
@@ -1531,5 +1537,16 @@
         "Notes": "",
         "Recovery": "-23",
         "Start up frame": "11~12"
+    },
+    {
+        "Block frame": "-14~-13",
+        "Command": "f+2+3",
+        "Counter hit frame": "ATG?",
+        "Damage": "21",
+        "Gif": "https://gfycat.com/euphoricgoodcub.gif",
+        "Hit frame": "ATG",
+        "Hit level": "m",
+        "Notes": "Power Crush",
+        "Start up frame": "20~21 pc?~"
     }
 ]

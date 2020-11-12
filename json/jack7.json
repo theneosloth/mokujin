@@ -888,7 +888,11 @@
         "Notes": "",
         "Start up frame": "30~33 (41~)"
     },
-    {   "Alias": ["one","EMGF"],
+    {
+        "Alias": [
+            "one",
+            "EMGF"
+        ],
         "Block frame": "-17~-14",
         "Command": "hcf,d/f+1",
         "Counter hit frame": "Launch(JG?)",
@@ -1555,7 +1559,7 @@
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "Sm(TC)",
-        "Notes": "Generic.",
+        "Notes": "Generic",
         "Start up frame": "11s cs1~"
     },
     {
@@ -2147,5 +2151,16 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "23"
+    },
+    {
+        "Block frame": "-7",
+        "Command": "f+1,1",
+        "Counter hit frame": "KNB",
+        "Damage": "15,25",
+        "Gif": "https://gfycat.com/brilliantwarpedibizanhound.gif",
+        "Hit frame": "KNB",
+        "Hit level": "m,h",
+        "Notes": "-",
+        "Start up frame": "14~15"
     }
 ]

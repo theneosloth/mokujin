@@ -456,7 +456,6 @@
         "Hit level": "m(TJ),m(TJ)",
         "Notes": "Screw",
         "Start up frame": "28~29 js9~"
-
     },
     {
         "Block frame": "-16~-15",
@@ -1470,5 +1469,16 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "19(28~)"
+    },
+    {
+        "Block frame": "-1",
+        "Command": "b+3,2",
+        "Counter hit frame": "Launch",
+        "Damage": "14,20",
+        "Gif": "https://gfycat.com/dismallinearachillestang.gif",
+        "Hit frame": "+8",
+        "Hit level": "h,h",
+        "Notes": "-",
+        "Start up frame": "14"
     }
 ]

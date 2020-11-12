@@ -968,7 +968,10 @@
         "Notes": "",
         "Start up frame": "18,31~32 cs1~"
     },
-    {   "Alias" : ["Stomp"],
+    {
+        "Alias": [
+            "Stomp"
+        ],
         "Block frame": "-14~-13",
         "Command": "Opponent Down d+3+4",
         "Counter hit frame": "-3~-2",
@@ -1609,5 +1612,27 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "11"
+    },
+    {
+        "Block frame": "-13",
+        "Command": "in rage DEN 3+4",
+        "Counter hit frame": "KND (2nd hit: Launch)",
+        "Damage": "16,16",
+        "Gif": "https://gfycat.com/flowerycontentangelwingmussel.gif",
+        "Hit frame": "KND (2nd hit: Launch)",
+        "Hit level": "l,m",
+        "Notes": "Rage Drive, Homing",
+        "Start up frame": "21"
+    },
+    {
+        "Block frame": "-6",
+        "Command": "SEN 3+4",
+        "Counter hit frame": "+11kg",
+        "Damage": "6,22",
+        "Gif": "https://gfycat.com/mistyskinnyairedale.gif",
+        "Hit frame": "+11kg",
+        "Hit level": "m,m",
+        "Notes": "Screw",
+        "Start up frame": "13~14"
     }
 ]

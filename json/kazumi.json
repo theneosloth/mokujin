@@ -448,7 +448,10 @@
         "Notes": "",
         "Start up frame": "16~17s cs1~"
     },
-    {   "Alias" : ["Stomp"],
+    {
+        "Alias": [
+            "Stomp"
+        ],
         "Block frame": "-13~-12",
         "Command": "Opponent Down d+2",
         "Counter hit frame": "-2~-1",
@@ -1202,5 +1205,16 @@
         "Notes": "",
         "Recovery": "-33",
         "Start up frame": "12 cs1~"
+    },
+    {
+        "Block frame": "+7",
+        "Command": "f,f,f+1",
+        "Counter hit frame": "ATG?",
+        "Damage": "30",
+        "Gif": "https://gfycat.com/spicyblindbactrian.gif",
+        "Hit frame": "ATG",
+        "Hit level": "h",
+        "Notes": "-",
+        "Start up frame": "15~17"
     }
 ]

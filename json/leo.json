@@ -1758,5 +1758,16 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "11~12"
+    },
+    {
+        "Block frame": "-26",
+        "Command": "KNK 3+4",
+        "Counter hit frame": "KND (FDFT)",
+        "Damage": "24",
+        "Gif": "https://gfycat.com/celebratedparallelamericanlobster.gif",
+        "Hit frame": "KND (FDFT)",
+        "Hit level": "l",
+        "Notes": "-",
+        "Start up frame": "24~25"
     }
 ]

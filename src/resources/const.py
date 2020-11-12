@@ -47,6 +47,7 @@ CHARACTER_ALIAS = {
     "fahkumram": ['fah', 'fahkum', 'fahk', 'fak'],
     "leroy": ['ler'],
     "ganryu": ['gan', 'ganny'],
+    "kunimitsu": ['kun', 'kuni'],
     "generic": []
 }
 

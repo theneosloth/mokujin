@@ -288,7 +288,10 @@
         "Notes": "",
         "Start up frame": "30"
     },
-    {   "Alias": ["3~3:4"],
+    {
+        "Alias": [
+            "3~3:4"
+        ],
         "Block frame": "Throw(KND)",
         "Command": "3~3 hit",
         "Counter hit frame": "Throw(KND)",
@@ -1453,9 +1456,9 @@
     },
     {
         "Block frame": "-1",
-        "Command": "HMS 1,1,...",
+        "Command": "HMS 1,1,..",
         "Counter hit frame": "+7",
-        "Damage": "10,10,...",
+        "Damage": "10,10,..",
         "Gif": "",
         "Hit frame": "+7",
         "Hit level": "h,h HMS)",
@@ -2251,5 +2254,38 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "11~12"
+    },
+    {
+        "Block frame": "-22",
+        "Command": "in rage HMS d+1+2",
+        "Counter hit frame": "KND",
+        "Damage": "55-82",
+        "Gif": "-",
+        "Hit frame": "KND",
+        "Hit level": "m",
+        "Notes": "Rage Art",
+        "Start up frame": "20 pc8~17"
+    },
+    {
+        "Block frame": "-5",
+        "Command": "WS+1,4",
+        "Counter hit frame": "+4?",
+        "Damage": "13,17",
+        "Gif": "https://gfycat.com/weakvalidgonolek.gif",
+        "Hit frame": "+4",
+        "Hit level": "m,h",
+        "Notes": "-",
+        "Start up frame": "13~14"
+    },
+    {
+        "Block frame": "-8",
+        "Command": "WS+1,4,3",
+        "Counter hit frame": "+1?",
+        "Damage": "13,17",
+        "Gif": "-",
+        "Hit frame": "+1",
+        "Hit level": "m,h,(HMS)",
+        "Notes": "-",
+        "Start up frame": "13~14"
     }
 ]

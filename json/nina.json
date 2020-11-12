@@ -1981,7 +1981,7 @@
         "Gif": "https://gfycat.com/UnderstatedSlowBlacklab.gif",
         "Hit frame": "CS",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "Input command changed in s4",
         "Start up frame": "20~21"
     },
     {
@@ -2159,5 +2159,27 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "11"
+    },
+    {
+        "Block frame": "-7",
+        "Command": "b+1",
+        "Counter hit frame": "+4",
+        "Damage": "10",
+        "Gif": "-",
+        "Hit frame": "+4",
+        "Hit level": "h",
+        "Notes": "-",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-14",
+        "Command": "b+1,4",
+        "Counter hit frame": "+9",
+        "Damage": "10,20",
+        "Gif": "https://gfycat.com/flusteredwhichfairyfly.gif",
+        "Hit frame": "+9",
+        "Hit level": "h,m",
+        "Notes": "-",
+        "Start up frame": "12"
     }
 ]

@@ -1291,5 +1291,16 @@
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "11~12"
+    },
+    {
+        "Block frame": "-12~-11",
+        "Command": "HAR d/f+3",
+        "Counter hit frame": "KND (FDFA)",
+        "Damage": "20",
+        "Gif": "https://gfycat.com/frayedimpressionablejohndory.gif",
+        "Hit frame": "+5~+4s",
+        "Hit level": "l",
+        "Notes": "-",
+        "Start up frame": "23~24"
     }
 ]

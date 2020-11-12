@@ -2511,5 +2511,16 @@
         "Hit level": "l(!)(RDS)",
         "Notes": "",
         "Start up frame": "15"
+    },
+    {
+        "Block frame": "-8",
+        "Command": "d/b+2",
+        "Counter hit frame": "+18g",
+        "Damage": "13",
+        "Gif": "https://gfycat.com/politicalenergeticgoat.gif",
+        "Hit frame": "+5",
+        "Hit level": "l",
+        "Notes": "-",
+        "Start up frame": "18"
     }
 ]

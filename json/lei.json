@@ -1725,7 +1725,6 @@
     },
     {
         "Block frame": "-12",
-
         "Command": "f,F+2",
         "Counter hit frame": "+7k",
         "Damage": "24",
@@ -4560,5 +4559,38 @@
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"
+    },
+    {
+        "Block frame": "-7",
+        "Command": "f+2,4",
+        "Counter hit frame": "+4?",
+        "Damage": "11,18",
+        "Gif": "https://gfycat.com/jollywaterybarebirdbat.gif",
+        "Hit frame": "+4",
+        "Hit level": "m,h",
+        "Notes": "Screw",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-20",
+        "Command": "SNA 4,1",
+        "Counter hit frame": "+1",
+        "Damage": "11,13",
+        "Gif": "https://gfycat.com/alertelementaryairedaleterrier.gif",
+        "Hit frame": "+1",
+        "Hit level": "l,h",
+        "Notes": "-",
+        "Start up frame": "15"
+    },
+    {
+        "Block frame": "-20",
+        "Command": "SNA 4,1~f",
+        "Counter hit frame": "+1",
+        "Damage": "11,13",
+        "Gif": "-",
+        "Hit frame": "+1",
+        "Hit level": "l,h",
+        "Notes": "-",
+        "Start up frame": "15"
     }
 ]

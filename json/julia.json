@@ -1747,7 +1747,7 @@
             "Back 2+4"
         ],
         "Block frame": "-",
-        "Command": "back 1+3 (or f+1+3)",
+        "Command": "back 1+3",
         "Counter hit frame": "-",
         "Damage": "55",
         "Gif": "https://gfycat.com/HugeCanineFulmar.gif",
@@ -1792,5 +1792,27 @@
         "Hit level": "m",
         "Notes": "Throw",
         "Start up frame": "13"
+    },
+    {
+        "Block frame": "?",
+        "Command": "f+4,1~d",
+        "Counter hit frame": "?",
+        "Damage": "13",
+        "Gif": "-",
+        "Hit frame": "?",
+        "Hit level": "m",
+        "Notes": "-",
+        "Start up frame": "15s"
+    },
+    {
+        "Block frame": "+2",
+        "Command": "f,f+4",
+        "Counter hit frame": "KND",
+        "Damage": "25",
+        "Gif": "https://gfycat.com/scornfulsillydormouse.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "-",
+        "Start up frame": "20 (21~)"
     }
 ]
