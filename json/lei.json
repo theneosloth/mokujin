@@ -521,17 +521,17 @@
     {
         "Block frame": "0",
         "Command": "f+2",
-        "Counter hit frame": "6",
+        "Counter hit frame": "+6",
         "Damage": "11",
         "Gif": "",
-        "Hit frame": "6",
-        "Hit level": "h",
-        "Notes": "More range than 2",
+        "Hit frame": "+6",
+        "Hit level": "m",
+        "Notes": "",
         "Start up frame": "12"
     },
     {
         "Block frame": "-8",
-        "Command": "f+2,1",
+        "Command": "2,1",
         "Counter hit frame": "3",
         "Damage": "11,13",
         "Gif": null,
@@ -542,7 +542,7 @@
     },
     {
         "Block frame": "-11",
-        "Command": "f+2,1,f",
+        "Command": "2,1,f",
         "Counter hit frame": "0",
         "Damage": "11,13",
         "Gif": null,
@@ -553,7 +553,7 @@
     },
     {
         "Block frame": "-11",
-        "Command": "f+2,1,3+4",
+        "Command": "2,1,3+4",
         "Counter hit frame": "KND",
         "Damage": "11,13,12,14",
         "Gif": "https://gfycat.com/BasicPopularDoctorfish.gif",
@@ -4585,10 +4585,10 @@
     {
         "Block frame": "-20",
         "Command": "SNA 4,1~f",
-        "Counter hit frame": "+1",
+        "Counter hit frame": "+4",
         "Damage": "11,13",
         "Gif": "-",
-        "Hit frame": "+1",
+        "Hit frame": "+4",
         "Hit level": "l,h",
         "Notes": "-",
         "Start up frame": "15"

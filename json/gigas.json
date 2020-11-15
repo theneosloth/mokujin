@@ -187,7 +187,7 @@
         "Start up frame": "43~44"
     },
     {
-        "Block frame": "-9",
+        "Block frame": "-5",
         "Command": "f+1+2",
         "Counter hit frame": "Throw",
         "Damage": "20",
