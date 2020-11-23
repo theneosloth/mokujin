@@ -624,7 +624,7 @@
     {
         "Block frame": "-15~-14",
         "Command": "WS 4,4",
-        "Counter hit frame": "TUD",
+        "Counter hit frame": "KND",
         "Damage": "10,20",
         "Gif": "https://gfycat.com/UnsteadyAdorableGnu.gif",
         "Hit frame": "-5~-4s",

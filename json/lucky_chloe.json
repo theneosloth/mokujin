@@ -118,12 +118,23 @@
     },
     {
         "Block frame": "-11",
-        "Command": "2:c",
+        "Command": "2:3",
         "Counter hit frame": "+7s",
-        "Damage": "12,14",
+        "Damage": "10,14",
         "Gif": "https://gfycat.com/FavorableAdeptDuckbillcat.gif",
         "Hit frame": "+7s",
         "Hit level": "h,l,(TWISTL)",
+        "Notes": "",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-9",
+        "Command": "2:2",
+        "Counter hit frame": "KND",
+        "Damage": "10,23",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "h,h",
         "Notes": "",
         "Start up frame": "12"
     },

@@ -949,7 +949,7 @@
         "Notes": "",
         "Start up frame": "(10)"
     },
-    {
+    {   "Alias": ["d/b+2", "FC 2"],
         "Block frame": "-14",
         "Command": "d+2",
         "Counter hit frame": "-3",

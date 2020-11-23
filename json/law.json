@@ -331,10 +331,10 @@
         "Start up frame": "js23~"
     },
     {
-        "Block frame": "-12",
+        "Block frame": "-14",
         "Command": "3+4",
         "Counter hit frame": "KND",
-        "Damage": "5,12",
+        "Damage": "5,10",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "mm (TJ)",
@@ -342,7 +342,7 @@
         "Start up frame": "14~15,26a js14~"
     },
     {
-        "Block frame": "-12",
+        "Block frame": "-13",
         "Command": "3+4,4",
         "Counter hit frame": "+5~+7k",
         "Damage": "5,10,15",
