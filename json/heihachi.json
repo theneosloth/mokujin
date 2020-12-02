@@ -1175,7 +1175,7 @@
     {
         "Block frame": "0",
         "Command": "d/f+2+3",
-        "Counter hit frame": "-",
+        "Counter hit frame": "2",
         "Damage": "25",
         "Gif": "https://gfycat.com/HollowMeaslyAmericanlobster.gif",
         "Hit frame": "+7",
