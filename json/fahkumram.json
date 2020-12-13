@@ -1375,12 +1375,12 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "-6",
+        "Block frame": "0",
         "Command": "3,1,2",
         "Counter hit frame": "Launch",
         "Damage": "11,12,20",
         "Gif": "https://gfycat.com/abandonedpoisedhamadryad.gif",
-        "Hit frame": "Launch",
+        "Hit frame": "+8",
         "Hit level": "m,h,h",
         "Notes": "-",
         "Start up frame": "16"
