@@ -961,6 +961,39 @@
         "Start up frame": "14s"
     },
     {
+        "Block frame": "-",
+        "Command": "HCB+2+4",
+        "Counter hit frame": "-",
+        "Damage": "45",
+        "Gif": "",
+        "Hit frame": "+16",
+        "Hit level": "m",
+        "Notes": "Parries mid. Total frames 50",
+        "Start up frame": "3~18"
+    },
+    {
+        "Block frame": "-",
+        "Command": "HCB+1+3",
+        "Counter hit frame": "-",
+        "Damage": "-",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Parries high. Total frames 50",
+        "Start up frame": "3~18"
+    },
+    {   "Alias": ["HCB+2+3"],
+        "Block frame": "-",
+        "Command": "HCB+1+4",
+        "Counter hit frame": "-",
+        "Damage": "30",
+        "Gif": "",
+        "Hit frame": "S!",
+        "Hit level": "l",
+        "Notes": "Parries low. Total frames 50",
+        "Start up frame": "3~18"
+    },
+    {
         "Block frame": "-15",
         "Command": "d+3",
         "Counter hit frame": "-5",

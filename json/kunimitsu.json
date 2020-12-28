@@ -602,7 +602,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Homing, Screw",
-        "Start up frame": "18"
+        "Start up frame": "18 js10~"
     },
     {
         "Block frame": "-2",

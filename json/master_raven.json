@@ -1292,7 +1292,7 @@
         "Start up frame": "16(b)"
     },
     {
-        "Block frame": "-5~-4",
+        "Block frame": "-2",
         "Command": "BT f+2",
         "Counter hit frame": "+6~+7",
         "Damage": "13",
@@ -1300,7 +1300,7 @@
         "Hit frame": "+6~+7",
         "Hit level": "m",
         "Notes": "",
-        "Start up frame": "17~18"
+        "Start up frame": "16~17"
     },
     {
         "Block frame": "-12~-11",
@@ -1311,7 +1311,7 @@
         "Hit frame": "KND",
         "Hit level": "m,m",
         "Notes": "",
-        "Start up frame": "17~18"
+        "Start up frame": "16~17"
     },
     {
         "Block frame": "-7~-6",

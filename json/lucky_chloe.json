@@ -979,7 +979,7 @@
         "Start up frame": "15 js9~"
     },
     {
-        "Block frame": "-15",
+        "Block frame": "-15~-14",
         "Command": "u+3",
         "Counter hit frame": "Launch",
         "Damage": "10",
@@ -987,7 +987,7 @@
         "Hit frame": "Launch",
         "Hit level": "m(TJ)",
         "Notes": "",
-        "Start up frame": "15 js9~"
+        "Start up frame": "15~16 js9~"
     },
     {
         "Block frame": "-15",
