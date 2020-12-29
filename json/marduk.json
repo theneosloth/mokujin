@@ -253,7 +253,7 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "8s",
+        "Block frame": "+8s",
         "Command": "f+4",
         "Counter hit frame": "KND",
         "Damage": "20",
@@ -271,7 +271,7 @@
         "Gif": "https://gfycat.com/HopefulFocusedAustralianfurseal.gif",
         "Hit frame": "KND",
         "Hit level": "h",
-        "Notes": "",
+        "Notes": "Power crush",
         "Start up frame": "15 pc8"
     },
     {
@@ -1357,7 +1357,7 @@
         "Command": "d/f+3+4",
         "Counter hit frame": "-",
         "Damage": "-",
-        "Gif": "https://gfycat.com/IllinformedTidyEasternnewt.gif",
+        "Gif": "https://gfycat.com/heftydelightfulduck.gif",
         "Hit frame": "-",
         "Hit level": "(VTS)",
         "Notes": "",
@@ -1462,7 +1462,7 @@
         "Gif": "https://gfycat.com/FlashyFearlessKusimanse.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "Wall boune,Power crush",
+        "Notes": "Wall bounce,Power crush",
         "Start up frame": "17 pc8"
     },
     {

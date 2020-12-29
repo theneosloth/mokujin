@@ -804,6 +804,17 @@
         "Start up frame": "15"
     },
     {
+        "Block frame": "-29",
+        "Command": "1+4",
+        "Counter hit frame": "+3",
+        "Damage": "27",
+        "Gif": "https://gfycat.com/athleticidleachillestang.gif",
+        "Hit frame": "+3",
+        "Hit level": "sm",
+        "Notes": "",
+        "Start up frame": "36"
+    },
+    {
         "Block frame": "-6",
         "Command": "f+2+4",
         "Counter hit frame": "-",

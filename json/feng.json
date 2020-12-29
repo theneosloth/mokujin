@@ -1639,7 +1639,7 @@
     {
         "Block frame": "-15~-14",
         "Command": "d/b+3",
-        "Counter hit frame": "+4~+5s",
+        "Counter hit frame": "Throw",
         "Damage": "12",
         "Gif": "https://gfycat.com/TimelyVigorousGuanaco.gif",
         "Hit frame": "+4~+5s",

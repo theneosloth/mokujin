@@ -1597,7 +1597,7 @@
         "Command": "RFF f,f+4,3",
         "Counter hit frame": "KND",
         "Damage": "15,20",
-        "Gif": "https://gfycat.com/OrderlyHeavyGoose.gif",
+        "Gif": "https://gfycat.com/belatedtameballpython.gif",
         "Hit frame": "KND",
         "Hit level": "m,h(TJ),(RFF)",
         "Notes": "",
@@ -2213,12 +2213,12 @@
         "Start up frame": "8,18"
     },
     {
-        "Block frame": "+1",
+        "Block frame": "+1~+3",
         "Command": "RFS d/f+4",
         "Counter hit frame": "KND",
         "Damage": "17",
         "Gif": "https://gfycat.com/FreshBetterHamster.gif",
-        "Hit frame": "+8s",
+        "Hit frame": "+8sg~10sg",
         "Hit level": "m,(LFF)",
         "Notes": "",
         "Start up frame": "17"
@@ -2365,7 +2365,7 @@
         "Counter hit frame": "2",
         "Damage": "40",
         "Gif": "https://gfycat.com/IllfatedDeliciousBlacklab.gif",
-        "Hit frame": "KND",
+        "Hit frame": "KND (FDFA +0)",
         "Hit level": "h",
         "Notes": "Throw",
         "Start up frame": "12"

@@ -869,6 +869,17 @@
         "Start up frame": "30~31"
     },
     {
+        "Block frame": "-",
+        "Command": "b+3+4",
+        "Counter hit frame": "KND",
+        "Damage": "40",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "-",
+        "Notes": "Parry kicks (h/m) 3~10",
+        "Start up frame": "-"
+    },
+    {
         "Block frame": "-15",
         "Command": "b+1",
         "Counter hit frame": "ATD",
@@ -1364,12 +1375,12 @@
         "Start up frame": "-"
     },
     {
-        "Block frame": "-6",
+        "Block frame": "0",
         "Command": "3,1,2",
         "Counter hit frame": "Launch",
         "Damage": "11,12,20",
         "Gif": "https://gfycat.com/abandonedpoisedhamadryad.gif",
-        "Hit frame": "Launch",
+        "Hit frame": "+8",
         "Hit level": "m,h,h",
         "Notes": "-",
         "Start up frame": "16"

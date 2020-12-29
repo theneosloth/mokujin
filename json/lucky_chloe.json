@@ -118,12 +118,23 @@
     },
     {
         "Block frame": "-11",
-        "Command": "2:c",
+        "Command": "2:3",
         "Counter hit frame": "+7s",
-        "Damage": "12,14",
+        "Damage": "10,14",
         "Gif": "https://gfycat.com/FavorableAdeptDuckbillcat.gif",
         "Hit frame": "+7s",
         "Hit level": "h,l,(TWISTL)",
+        "Notes": "",
+        "Start up frame": "12"
+    },
+    {
+        "Block frame": "-9",
+        "Command": "2:2",
+        "Counter hit frame": "KND",
+        "Damage": "10,23",
+        "Gif": "",
+        "Hit frame": "KND",
+        "Hit level": "h,h",
         "Notes": "",
         "Start up frame": "12"
     },
@@ -968,7 +979,7 @@
         "Start up frame": "15 js9~"
     },
     {
-        "Block frame": "-15",
+        "Block frame": "-15~-14",
         "Command": "u+3",
         "Counter hit frame": "Launch",
         "Damage": "10",
@@ -976,7 +987,7 @@
         "Hit frame": "Launch",
         "Hit level": "m(TJ)",
         "Notes": "",
-        "Start up frame": "15 js9~"
+        "Start up frame": "15~16 js9~"
     },
     {
         "Block frame": "-15",

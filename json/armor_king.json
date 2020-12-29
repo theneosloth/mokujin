@@ -1446,7 +1446,7 @@
         "Gif": "https://gfycat.com/officialabsoluteinexpectatumpleco.gif",
         "Hit frame": "+5s",
         "Hit level": "l",
-        "Notes": "",
+        "Notes": "Screw",
         "Start up frame": "19(~39)"
     },
     {
@@ -1547,7 +1547,7 @@
         "Hit frame": "KND",
         "Hit level": "h",
         "Notes": "Throw",
-        "Start up frame": "15"
+        "Start up frame": "11"
     },
     {
         "Block frame": "-6",
@@ -1649,7 +1649,7 @@
         "Notes": "Throw",
         "Start up frame": "10"
     },
-    {
+    {   "Alias": ["f,n,d,D/F+1+4","f,n,d,D/F+2+3"],
         "Block frame": "-2",
         "Command": "f,n,d,D/F+1+4 (or 2+3)",
         "Counter hit frame": "-",
@@ -1661,8 +1661,19 @@
         "Start up frame": "12"
     },
     {
+        "Block frame": "-6",
+        "Command": "FC d/b,d,d/b+1+2",
+        "Counter hit frame": "1+2",
+        "Damage": "45",
+        "Gif": "https://gfycat.com/blandpotableagama.gif",
+        "Hit frame": "KND",
+        "Hit level": "h",
+        "Notes": "Throw",
+        "Start up frame": "12"
+    },
+    {
         "Block frame": "+1",
-        "Command": "SHS 1?",
+        "Command": "SHS 1",
         "Counter hit frame": "Launch",
         "Damage": "13",
         "Gif": "https://gfycat.com/chubbygrotesqueapatosaur.gif",

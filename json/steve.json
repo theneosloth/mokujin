@@ -2807,17 +2807,6 @@
         "Start up frame": "18~19 (19~)"
     },
     {
-        "Block frame": "+6~+7",
-        "Command": "PAB f+1+2",
-        "Counter hit frame": "+4~+5",
-        "Damage": "5",
-        "Gif": "https://gfycat.com/DistantReasonableAfricanporcupine.gif",
-        "Hit frame": "+4~+5",
-        "Hit level": "h,(PAB)",
-        "Notes": "",
-        "Start up frame": "15~16 (16~)"
-    },
-    {
         "Block frame": "-9~-8",
         "Command": "PAB d/f+1",
         "Counter hit frame": "+2~+3",

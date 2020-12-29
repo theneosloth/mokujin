@@ -1093,7 +1093,7 @@
         "Block frame": "-16~-8",
         "Command": "Opponent Down d+1+2",
         "Counter hit frame": "KND",
-        "Damage": "20",
+        "Damage": "25",
         "Gif": "",
         "Hit frame": "KND",
         "Hit level": "l(On grounded opponent)",

@@ -1128,17 +1128,6 @@
         "Start up frame": "21~23"
     },
     {
-        "Block frame": "-2~-1",
-        "Command": "WS 1+2",
-        "Counter hit frame": "+9~+10",
-        "Damage": "12",
-        "Gif": "",
-        "Hit frame": "+9~+10",
-        "Hit level": "m",
-        "Notes": "",
-        "Start up frame": "12~13"
-    },
-    {
         "Block frame": "-5",
         "Command": "FC 1",
         "Counter hit frame": "+6",

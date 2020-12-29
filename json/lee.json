@@ -1482,7 +1482,7 @@
         "Counter hit frame": "KND",
         "Damage": "10,17",
         "Gif": "https://gfycat.com/InsistentDetailedJaguarundi.gif",
-        "Hit frame": "+",
+        "Hit frame": "+2",
         "Hit level": "h,m",
         "Notes": "",
         "Start up frame": "12"
@@ -2104,7 +2104,7 @@
     {
         "Block frame": "-6~-5",
         "Command": "d+2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "Launch",
         "Damage": "17",
         "Gif": "https://gfycat.com/CreativeCraftyEider.gif",
         "Hit frame": "+8~+9",

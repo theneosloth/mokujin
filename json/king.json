@@ -1415,7 +1415,7 @@
     {
         "Block frame": "-6",
         "Command": "d/b+2+3",
-        "Counter hit frame": "-",
+        "Counter hit frame": "1+2",
         "Damage": "40",
         "Gif": "https://gfycat.com/BoilingMiserlyBelugawhale.gif",
         "Hit frame": "KND",
